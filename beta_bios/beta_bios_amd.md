@@ -32,7 +32,7 @@ Revision|Date Published|Source|Mirror 1
 2.81|January 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1NKxwUZfaFmGwfN_a1RL53fFuO5-x9c-C/view?usp=sharing)
 1.68|July 23th, 2019|ASRock|[Download](https://drive.google.com/file/d/1y01llaHpGBGfmIsxY9_zoNHQfbyxpI6C/view?usp=sharing)
 
-<p>*</p> = There is a Final BIOS on the specific Support page. This is a pre-release!
+<p>* = There is a Final BIOS on the specific Support page. This is a pre-release!</p>
 
 **X570 Taichi Razer Edition**
 
@@ -77,7 +77,7 @@ Revision|Date Published|Source|Mirror 1
 2.86|July 21st, 2020|ASRock|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
 2.30*|February 3rd, 2020|JZ|[Download](https://drive.google.com/file/d/11p0Do2g0wG8wf3PUFVi2CPk8kW_7wM5Z/view?usp=sharing)
 
-<p>*</p> = There is a Final BIOS on the specific Support page. This is a pre-release!
+<p>* = There is a Final BIOS on the specific Support page. This is a pre-release!</p>
 
 **X570 Steel Legend WiFi/ax**
 
@@ -96,7 +96,7 @@ Revision|Date Published|Source|Mirror 1
 3.62|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1jnDEf32ALDUKwacJAe261Kjz3tOTjt_3/view?usp=sharing)
 2.80*|January 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
 
-<p>*</p> = There is a Final BIOS on the specific Support page. This is a pre-release!
+<p>* = There is a Final BIOS on the specific Support page. This is a pre-release!</p>
 
 **X570 Phantom Gaming-ITX/TB3**
 
