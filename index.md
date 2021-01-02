@@ -5,7 +5,7 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 ### r/ASRock Resources:
 
 * [Beta BIOS database](/r/ASRock/wiki/beta_bios)
-* [FAQs](/ASRockWiki/faq/faq.md)
+* [FAQs](ASRockWiki/faq/faq.md)
 * [Guides](/r/ASRock/wiki/guides)
 * [Tools](/r/ASRock/wiki/tools)
 * [Rules](/r/ASRock/wiki/rules)
