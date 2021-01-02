@@ -28,3 +28,4 @@ If you have an idea for a wiki page, send a message via [modmail!](https://www.r
 <footer>
     <p>Made with <div id="heart-anim">🤍</div> by <a href="https://reddit.com/u/CornFlakes1991">u/CornFlakes1991</a> &copy; <script>document.write(new Date().getFullYear());</script></p>
 </footer>
+<div id="heart-anim">🤍</div>
