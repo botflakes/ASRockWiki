@@ -97,6 +97,7 @@ header {
 #heart-anim{
 	color:#dd0000;
 	animation:heart-blink 2s infinite;
+	display: inline;
 }
 @keyframes heart-blink{
 	0%{opacity:1;}
