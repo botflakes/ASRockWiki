@@ -1,5 +1,5 @@
-#**Welcome...**
-... to the r/ASRock Wiki!  
+# **Welcome...**  
+...to the r/ASRock Wiki!  
 Its still a bit empty here but we working hard on it to fill it with content so please bear with us!  
 
 ###\/r/ASRock Resources:
