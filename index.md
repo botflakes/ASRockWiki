@@ -26,5 +26,5 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 If you have an idea for a wiki page, send a message via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
 <footer>
-    <p>Made with ❤ by <a href="https://reddit.com/u/CornFlakes1991">u/CornFlakes1991</a></p>
+    <p>Made with ❤ by <a href="https://reddit.com/u/CornFlakes1991">u/CornFlakes1991</a><script>&copy; 2021 - <script>document.write(new Date().getFullYear());</script></p>
 </footer>

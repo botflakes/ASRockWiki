@@ -93,3 +93,13 @@ header {
 	border-bottom: 1px dashed #79bd28;
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
+
+heart-blink-anim{
+	background-color:#dd0000;
+	animation:heart-blink 2s infinite;
+}
+@-webkit-keyframes heart-blink{
+	0%{opacity:1;}
+	50%{opacity:0;}
+	100%{opacity:1;}
+}
