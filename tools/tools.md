@@ -1,10 +1,10 @@
-#[Wiki-Index](/r/ASRock/wiki/index)
+# [Wiki-Index](ASRockWiki)
 
-#**Welcome...**
+# **Welcome...**
 ... to the r/ASRock tools repository. We gathered some tools which maybe helpful for you.  
 Something is missing? Feel free to contact us moderators via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
-#**Setup and Overclocking**
+# **Setup and Overclocking**
 
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - Shows CPU, Motherboard and Memory informations
 * [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - Shows detailed informations about your Graphics Card(s)
@@ -13,7 +13,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [AMD Ryzen™ Master](https://www.amd.com/en/technologies/ryzen-master) - Tool to overclock your AMD CPU
 * [Intel® Extreme Tuning Utility](https://downloadcenter.intel.com/en/product/66427) - Tool to overclock your Intel CPU
 
-#**Benchmarking**
+# **Benchmarking**
 
 * [3DMark](https://store.steampowered.com/app/223850/3DMark/) - CPU+GPU Benchmark. Demo is available. Full suite costs
 * [BenchMate](https://benchmate.org/) - Combines pretty much every major benchmark program
@@ -23,14 +23,14 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [Blender Benchmark](https://opendata.blender.org/) - CPU Benchmark
 * [Unigine Superposition](https://benchmark.unigine.com/superposition) - GPU Benchmark
 
-#**Stress Testing**
+# **Stress Testing**
 
 * [OCCT](https://www.ocbase.com/) - Stresses CPU, GPU and PSU
 * [Prime95](https://www.mersenne.org/download/) - CPU stress testing. WARNING! Prime95 can cause high temps. Keep an eye on it!
 * [MemTest](https://www.hcidesign.com/) - RAM testing tool. Runs under OS
 * [MemTest86](https://www.memtest86.com/) - RAM testing tool. Runs without OS via USB
 
-#**Helpful Tools**
+# **Helpful Tools**
 
 * [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Uninstaller if you want to remove your GPU driver completely
 * [nVidia Inspector](https://www.guru3d.com/files-details/nvidia-inspector-download.html) - Shows GPU info, supports OC and has an build in Multi Display Power Saver
@@ -40,7 +40,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [ASRock Polychrome IBP](http://content.ibuypower.com/download/others/PolychromeRGB.zip) - Polychrome Version for IBuyPower prebuilt Systems
 * [DRAM Calculator for Ryzen](https://www.techpowerup.com/download/ryzen-dram-calculator/) - Helps you with overclocking your system memory
 
-#**Helpful Links**
+# **Helpful Links**
 
 * [Techbench by WZT](https://tb.rg-adguard.net/public.php) - Hasslefree download of Windows OS directly from Microsoft servers
 * [ASRock BIOS Updates](https://www.asrock.com/support/index.asp?cat=BIOS) - Latest BIOS & Beta BIOS. Sorted by time.
@@ -48,7 +48,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [ASRock Utilities Updates](https://www.asrock.com/support/index.asp?cat=Utilities) - Latest Utilities updates. Sorted by time.
 * [ASRock B550AM (CyberPower)](http://www.cyberpowerinc.com/drivers/?dir=Motherboards/MB-478-101%20B550AM%20GAMING/) - Link to the Support-Page
 
-#**Drivers**
+# **Drivers**
 
 * [AMD Drivers](https://www.amd.com/en/support) - Drivers for Chipset, GPU & more
 * [Intel Drivers](https://downloadcenter.intel.com/) - Drivers for Chipset, NIC & more
