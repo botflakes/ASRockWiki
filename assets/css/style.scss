@@ -94,37 +94,20 @@ header {
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
 
-#heart-anim{
-	color:#dd0000;
-	animation:heart-blink 2s infinite;
-	display: inline;
+#heart-anim {
+    color: #dd0000;
+    animation: heart-blink 1s infinite;
+    display: inline-block;
+}
 }
 @keyframes heart-blink{
-	0%
-	{
-	  transform: scale( .75 );
-	}
-	20%
-	{
-	  transform: scale( 1 );
-	}
-	40%
-	{
-	  transform: scale( .75 );
-	}
-	60%
-	{
-	  transform: scale( 1 );
-	}
-	80%
-	{
-	  transform: scale( .75 );
-	}
-	100%
-	{
-	  transform: scale( .75 );
-	}
-  }
+	0%{transform: scale( .75 );}
+	20%{transform: scale( 1 );}
+	40%{transform: scale( .75 );}
+	60%{transform: scale( 1 );}
+	80%{transform: scale( .75 );}
+	100%{transform: scale( .75 );}
+}
   
 .footer {
     position: absolute;
