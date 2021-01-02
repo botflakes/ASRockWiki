@@ -31,7 +31,7 @@ Speaking of Discord, did you already joined us? If not, consider to Join the [r/
 
 ***
 
-#**r/ASRock and Userbenchmark**
+# **r/ASRock and Userbenchmark**
 
 **Q: Why is Userbenchmark restricted on this Subreddit?**
 - A: With the release of the AMD Ryzen 3000 Series CPUs, they adjusted their ranking system to a different one that isn't longer representative of the real performance of these CPUs.  
