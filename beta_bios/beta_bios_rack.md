@@ -4,6 +4,6 @@ You have a BIOS/BMC which isn't listed here? Let us know in a [modmail!](https:/
 
 Dead link? Report it [here](https://forms.gle/ApqAN72vS6sxzFnm7)
 
-### [ASRockRack Beta BIOS](/r/ASRock/wiki/beta_bios/beta_bios_rack/beta_bios_rack_bios)
+### [ASRockRack Beta BIOS](beta_bios_rack/beta_bios_rack_bios)
 
-### [ASRockRack Beta BMCs](/r/ASRock/wiki/beta_bios/beta_bios_rack/beta_bios_rack_bmc)
+### [ASRockRack Beta BMCs](beta_bios_rack/beta_bios_rack_bmc)
