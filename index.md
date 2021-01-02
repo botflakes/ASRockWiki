@@ -7,7 +7,7 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 * [FAQs](faq/faq.md)
 * [Tools](tools/tools.md)
 * [Rules](rules/rules.md)
-* [Guides](guides/guides.md)
+* [Guides](guides/index.md)
 * [Beta BIOS database](beta_bios/beta_bios.md)
 
 
