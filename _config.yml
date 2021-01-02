@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+title: r/ASRock > Wiki
+description: The r/ASRock Wiki
+github:
+  is_project_page: false
