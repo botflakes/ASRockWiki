@@ -10,7 +10,8 @@ Flashing a new BIOS always comes with risk, including the potential of bricking 
 Please only proceed at your own caution. As a note, we have not personally tested all of these beta BIOS.**
 
 # Quick Facts  
-**Depository Size: 5.31GB (5.702.635.520 Bytes) or 859 Beta Bios Files**
+**Depository Size: 5.31GB (5.702.635.520 Bytes) or 859 Beta BIOS Files**
+<hr>
 
 **ASRock Consumer Motherboards**  
 ### [Beta BIOSes - AMD](beta_bios/beta_bios_amd)  
