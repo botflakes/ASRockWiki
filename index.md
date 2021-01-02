@@ -13,7 +13,7 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 
 ### r/ASRock Community Information:
 
-* [r/ASRock Rules](/r/ASRock/wiki/rules) - Our rules
+* [r/ASRock Rules](rules/rules.md) - Our rules
 * [r/ASRock & Userbenchmark](faq/faq.md#rasrock-and-userbenchmark) - Why is Userbenchmark risticted on r/ASRock? Read this!
 * [r/ASRock Community Discord](https://discord.gg/rFrMpxV) - Our Discord-Server
 
