@@ -29,6 +29,8 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 |Combo-AM4v2Pi 1.0.0.0 | - Initial BIOS for B550 Motherboards<br>- CPU support only Matisse and younger | None |
 |Combo-AM4v2Pi 1.0.0.1 | - No Changelog available | None |
 |Combo-AM4v2Pi 1.0.0.2 | - Fix for SMM Callout Privilege Escalation (CVE-2020–12890)<br>- Support for Ryzen 3000XT | None |
+|Combo-AM4v2Pi 1.0.8.0a | - Early support for Ryzen 5000 | None |
+|Combo-AM4v2Pi 1.0.8.1 | - Better memory overclocking ability<br>- Mitigating the problem of waking up from S3 hibernation<br>- Fixed a RAID problem on the B550 platform<br>- Now supports the UMA setting for Ryzen ™ 4000 G-Series (Renoir) processors | None |
 |Combo-AM4v2Pi 1.1.0.0 | - Support for Ryzen 5000 with Zen 3 (“Vermeer”) | None |
 
 
