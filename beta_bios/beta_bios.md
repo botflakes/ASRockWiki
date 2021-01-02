@@ -14,14 +14,14 @@ Please only proceed at your own caution. As a note, we have not personally teste
 <hr>
 
 **ASRock Consumer Motherboards**  
-### [Beta BIOSes - AMD](beta_bios/beta_bios_amd)  
-### [Beta BIOSes - Intel](beta_bios/beta_bios_intel)
+### [Beta BIOSes - AMD](beta_bios_amd)  
+### [Beta BIOSes - Intel](beta_bios_intel)
 
 **ASRock Barebone Mini-PCs**  
-### [Beta BIOSes - DeskMini](beta_bios/beta_bios_deskmini)
+### [Beta BIOSes - DeskMini](beta_bios_deskmini)
 
 **ASRock Rack Server BIOSes & BMC's**  
-### [Beta BIOSes & BMCs - ASRock Rack](beta_bios/beta_bios_rack)
+### [Beta BIOSes & BMCs - ASRock Rack](beta_bios_rack)
 
 # BIOS Informations
-### [AMD AGESA Changelog](beta_bios/about_agesa)
+### [AMD AGESA Changelog](about_agesa)
