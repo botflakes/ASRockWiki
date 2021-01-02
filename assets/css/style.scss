@@ -99,7 +99,7 @@ header {
     animation: heart-blink 1s infinite;
     display: inline-block;
 }
-}
+
 @keyframes heart-blink{
 	0%{transform: scale( .75 );}
 	20%{transform: scale( 1 );}
