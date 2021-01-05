@@ -96,3 +96,18 @@ If, for example, you boot with a Matisse CPU then the region for Zen2 and newer 
 But if you boot with a Pinnacle Ridge CPU then only the region for Zen+ can be updated via Instant Flash.
 
 In order to update the region for Zen2 and newer while the region for Zen+ is the active one, the tool that runs in the EFI shell must be used.
+
+## PC turn off during BIOS update! What now?
+
+If your PC turns off turing BIOS update, that means that your board is bricked. There are few things you could try to revive it.
+
+- If your Motherboard has BIOS Flashback, try to flash the BIOS again with it. How to perform a BIOS update via BIOS Flashback see the manual of your Motherboard.
+
+There is also a "trick" which does work on some Motherboards which have AMI BIOS. 
+
+- Download the BIOS you tried to flash unto a USB Drive (dont drag it into a folder! It needs to be just on the USB Drive)
+- Rename it to AMIBOOT.ROM
+- Hold "CTRL" + "HOME" while turing the power on.
+- Continue to hold the both keys down until you notice that the PC is reading from the USB device. (Make sure no other USB Drives are connected)
+- Release both keys. A beep code speaker can be useful as the AMIBIOS issues a series of beeps that indicates that the system BIOS ROM file is being updated. There will most likely a progress dialog displayed on the screen after the file has been loaded.
+- When the flash ROM has successfully been programmed, the computer will reboot. Please do not interrupt the BIOS flash process until it has fully completed. 
