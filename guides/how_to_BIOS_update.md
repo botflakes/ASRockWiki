@@ -97,7 +97,7 @@ But if you boot with a Pinnacle Ridge CPU then only the region for Zen+ can be u
 
 In order to update the region for Zen2 and newer while the region for Zen+ is the active one, the tool that runs in the EFI shell must be used.
 
-## PC turn off during BIOS update! What now?
+## PC turned off during BIOS update or doesnt reboot at all anymore
 
 If your PC turns off turing BIOS update, that means that your board is bricked. There are few things you could try to revive it.
 
