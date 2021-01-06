@@ -1,4 +1,4 @@
-# [Wiki-Index](/index.md) - Back to home
+# [Wiki-Index](/ASRockWiki) - Back to home
 
 # **Welcome...**
 ... to the r/ASRock tools repository. We gathered some tools which maybe helpful for you.  

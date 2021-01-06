@@ -1,4 +1,5 @@
-# [Wiki-Index](/index.md) - Back to home
+# [Wiki-Index](/ASRockWiki) - Back to home
+
 These are our full comprehensive rules. If you're unsure why you might have been banned, read these. 
 
 * **Everything must relate to ASRock**  
