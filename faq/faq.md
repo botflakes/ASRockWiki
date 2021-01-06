@@ -1,12 +1,12 @@
 # [Wiki-Index](/ASRockWiki) - Back to home
 
-#**Welcome...**  
+# **Welcome...**  
 ... to the r/ASRock Frequently Ask Questions.  
 The following questions where ask a lot. No matter if in the Subreddit or on our Discord.
 
 Speaking of Discord, did you already joined us? If not, consider to Join the [r/ASRock Discord](https://discord.gg/gDbQawr)
 
-#**Here is a collection of frequently ask questions:**
+# **Here is a collection of frequently ask questions:**
 
 **Q: How do I find out GPU Informations?**
 - A: Download [GPU-Z](https://www.techpowerup.com/gpuz/) and start it (you don't need to install it) - The rest is pretty self explanatory!
