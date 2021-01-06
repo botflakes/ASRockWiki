@@ -1,10 +1,10 @@
-# AGESA Changelog
+# > AGESA Changelog
 
-# What is AGESA?
+## What is AGESA?
 
 AGESA stands for "AMD Generic Encapsulated System Architecture" which is the basic framework for initializing AMD processors in the Power-On-Self-Test (POST) phase after the system is switched on. The mainboard manufacturers develop their firmware based on this (alias BIOS alias UEFI), but always based on an AGESA version published by AMD.
 
-# PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
+## PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
 
 | AGESA Version | Changes | Additional Informations |                    
 |:--------------|:--------|:------------------------|
@@ -24,7 +24,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 |Combo-AM4 1.0.0.5 | - Fixes a bug in the PCI lane configuration of the AMD Ryzen 3 PRO 2100GE<br>- Fixes a sporadic virtual memory error in combination with Realtek onboard LAN <br>- Improved POST with memory modules based on Micron DDR4-3200 chips<br>- Optimized PCIe firmware for improved stability and compatibility | None  |
 |Combo-AM4 1.0.0.6 | - CCX Overclocking<br>- Fix for SMM Callout Privilege Escalation (CVE-2020–12890)<br>- Support for Ryzen 3000XT | None |
 
-# Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.1.9.0
+## Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.1.9.0
 
 | AGESA Version | Changes | Additional Informations |                    
 |:--------------|:--------|:------------------------|
@@ -39,9 +39,9 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 |Combo-AM4v2Pi 1.1.9.0 | - Adds Win10 s0i3 support<br>- Stability tuning for 1800-2000MHz FCLK (OC)<br>- Support for passive X570 motherboards<br>- General stability improvements | None |
 
 
-# Notice
+## Notice
 Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
 
-# Source
+## Source
 
 [Planet3DNow!](https://planet3dnow.de)
