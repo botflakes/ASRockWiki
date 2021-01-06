@@ -1,4 +1,4 @@
-# [BIOS Index](/ASRockWiki/beta_bios/beta_bios.md) - Back to the index
+# [BIOS Index](beta_bios/beta_bios.md) - Back to the index
 
 # What is AGESA?
 
