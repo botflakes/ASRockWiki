@@ -1,3 +1,5 @@
+# [Index](/guides/index.md) - Back to the index
+
 # Introduction
 
 Before we start on how to update the BIOS, there is some information about BIOS/UEFI. You can skip it if you want but it's worth reading.

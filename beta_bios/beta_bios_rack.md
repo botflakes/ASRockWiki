@@ -1,4 +1,4 @@
-# [Beta BIOS Overview](/r/ASRock/wiki/beta_bios)
+# [BIOS Index](/beta_bios/beta_bios.md) - Back to the index
 
 You have a BIOS/BMC which isn't listed here? Let us know in a [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
