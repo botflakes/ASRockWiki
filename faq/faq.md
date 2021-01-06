@@ -11,17 +11,11 @@ Speaking of Discord, did you already joined us? If not, consider to Join the [r/
 **Q: How do I find out GPU Informations?**
 - A: Download [GPU-Z](https://www.techpowerup.com/gpuz/) and start it (you don't need to install it) - The rest is pretty self explanatory!
 
-&#x200B;
-
 **Q: How do I find out CPU Informations?**
 - A: Download [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) and start it. It will show nearly everything you need to know about your CPU and more
 
-&#x200B;
-
 **Q: How do I find out general System inforamtions?** 
 - A: Download [HWiNFO64](https://www.hwinfo.com/download/) and install it. It will show nearly if not everything about your System and also the temperatures.
-
-&#x200B;
 
 **Q: How do I find the BIOS version of my motherboard?**
 - A: There are 3 ways of it:  
