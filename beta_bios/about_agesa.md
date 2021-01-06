@@ -24,7 +24,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 |Combo-AM4 1.0.0.5 | - Fixes a bug in the PCI lane configuration of the AMD Ryzen 3 PRO 2100GE<br>- Fixes a sporadic virtual memory error in combination with Realtek onboard LAN <br>- Improved POST with memory modules based on Micron DDR4-3200 chips<br>- Optimized PCIe firmware for improved stability and compatibility | None  |
 |Combo-AM4 1.0.0.6 | - CCX Overclocking<br>- Fix for SMM Callout Privilege Escalation (CVE-2020–12890)<br>- Support for Ryzen 3000XT | None |
 
-# Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.0.0.2
+# Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.1.9.0
 
 | AGESA Version | Changes | Additional Informations |                    
 |:--------------|:--------|:------------------------|
