@@ -19,9 +19,9 @@ Speaking of Discord, did you already joined us? If not, consider to Join the [r/
 
 **Q: How do I find the BIOS version of my motherboard?**
 - A: There are 3 ways of it:  
- - 1. One way would be to take a look on the motherboard. Sometimes there is a sticker on the BIOS-Chip.  
- - 2. One other way would be to enter the BIOS  
- - 3. The last way would be with tools like CPU-Z or HWiNFO64
+1. One way would be to take a look on the motherboard. Sometimes there is a sticker on the BIOS-Chip.  
+2. One other way would be to enter the BIOS  
+3. The last way would be with tools like CPU-Z or HWiNFO64
 
 ***
 
