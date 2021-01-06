@@ -1,4 +1,4 @@
-# [Index](ASRockWiki/guides/index) - Back to the index
+# [Index](/ASRockWiki/guides/index) - Back to the index
 
 # Introduction
 
