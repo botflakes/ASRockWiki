@@ -1,4 +1,4 @@
-# [BIOS Index](/beta_bios/beta_bios_rack.md) - Back to the Index
+# [BIOS Index](/ASRockWiki/beta_bios/beta_bios_rack) - Back to the Index
 
 You have a BMC which isn't listed here? Let us know in a [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
