@@ -10,4 +10,4 @@ We have collected some guides from a variety of sources and have organized them 
 
 # **How-To Guides**
 
-* [How-To: Update the BIOS on ASRock Motherboards](/guides/how_to_BIOS_update.md)
+* [How-To: Update the BIOS on ASRock Motherboards](/guides/how_to_BIOS_update)

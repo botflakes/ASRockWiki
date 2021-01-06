@@ -1,4 +1,4 @@
-# [Index](/guides/index.md) - Back to the index
+# [Index](/guides/index) - Back to the index
 
 # Introduction
 
