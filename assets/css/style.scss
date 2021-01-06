@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header h1:before {
-	content: none;
-}
-
 body {
     background-attachment: fixed;
 	background-image: none;
@@ -90,10 +86,16 @@ header h1 {
 }
 
 header {
-	border-bottom: 1px dashed #79bd28;
+	border-bottom: 1px solid #79bd28;
 	font-family: IBMPlexSans, Arial, sans-serif;
+	background-image: url(https://b.thumbs.redditmedia.com/H4SHs2vvQXgnXsHBs0XEkxtqtuWNZ23lZ0bOCn2c5vo.png);
 }
 
+header h1:before {
+	content: none;
+}
+
+//footer - DO NOT TOUCH!!!
 #heart-anim {
     color: #dd0000;
     animation: heart-blink 1s infinite;
