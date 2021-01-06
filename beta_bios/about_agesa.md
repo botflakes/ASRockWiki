@@ -34,7 +34,8 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 |Combo-AM4v2Pi 1.0.8.0 Patch A | - Early support for Ryzen 5000 | None |
 |Combo-AM4v2Pi 1.0.8.1 | - Better memory overclocking ability<br>- Mitigating the problem of waking up from S3 hibernation<br>- Fixed a RAID problem on the B550 platform<br>- Now supports the UMA setting for Ryzen™ 4000 G-Series (Renoir) processors | None |
 |Combo-AM4v2Pi 1.1.0.0 | - Support for Ryzen 5000 with Zen 3 (“Vermeer”) | None |
-|Combo-AM4v2Pi 1.1.8.0 | - Introduces Precision Boost Overdrive 2 (PBO 2)<br>- Adds core undervolting for Ryzen 5000<br>- Adds Curve Optimizer for Undervolting and Overclocking | None |Combo-AM4v2Pi 1.1.8.1 | - Support for Vermeer A0/B0 stepping and Cezanne A0 stepping | None |
+|Combo-AM4v2Pi 1.1.8.0 | - Introduces Precision Boost Overdrive 2 (PBO 2)<br>- Adds core undervolting for Ryzen 5000<br>- Adds Curve Optimizer for Undervolting and Overclocking | None |
+|Combo-AM4v2Pi 1.1.8.1 | - Support for Vermeer A0/B0 stepping and Cezanne A0 stepping | None |
 |Combo-AM4v2Pi 1.1.9.0 | - Adds Win10 s0i3 support<br>- Stability tuning for 1800-2000MHz FCLK (OC)<br>- Support for passive X570 motherboards<br>- General stability improvements | None |
 
 
