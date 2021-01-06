@@ -1,4 +1,4 @@
-# [Wiki-Index](/index.md) - Back to home
+# [Wiki-Index](ASRockWiki/index.md) - Back to home
 
 # **Welcome...**
 ... to the r/ASRock Wiki Guides Section.  
