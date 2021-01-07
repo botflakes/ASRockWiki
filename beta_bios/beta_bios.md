@@ -1,4 +1,4 @@
-# [Wiki-Index](/ASRockWiki) - Back to home
+# > Beta BIOS Overview
 
 # **Welcome...**  
 ...to the r/ASRock Beta BIOS depository

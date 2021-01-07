@@ -1,4 +1,4 @@
-# > AGESA Changelog
+# Beta BIOS Overview > AGESA Changelog
 
 ## What is AGESA?
 
