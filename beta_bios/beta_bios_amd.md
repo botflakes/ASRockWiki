@@ -5,6 +5,8 @@ You have a BIOS which isn't listed here? Let us know in a [modmail!](https://www
 Dead link? Report it [here.](https://forms.gle/ApqAN72vS6sxzFnm7)  
 <p class="markRed">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
 
+***
+
 # **AMD Motherboards**
 
 ## **Socket AM4 : AMD X570**
