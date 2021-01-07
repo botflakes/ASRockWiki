@@ -1,4 +1,4 @@
-# Beta BIOS Overview > AGESA Changelog
+# [Beta BIOS Overview](/beta_bios/beta_bios) > AGESA Changelog
 
 ## What is AGESA?
 

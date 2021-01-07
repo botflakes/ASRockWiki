@@ -1,10 +1,5 @@
 # > Beta BIOS Overview
 
-# **Welcome...**  
-...to the r/ASRock Beta BIOS depository
-We have collected beta BIOSes from a variety of sources and have organized them for your usage.  
-***
-
 # Notice
 **We (r/ASRock Moderators) are not responsible for any damage on your board!  
 Flashing a new BIOS always comes with risk, including the potential of bricking your motherboard.  
