@@ -7,8 +7,6 @@ Dead link? Report it [here.](https://forms.gle/ApqAN72vS6sxzFnm7)
 
 ***
 
-# **AMD Motherboards**
-
 ## **Socket AM4 : AMD X570**
 
 ### **X570 AQUA**
