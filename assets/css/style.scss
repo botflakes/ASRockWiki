@@ -76,7 +76,6 @@ header h1:before {
     background-color: #0e0e0e;
     text-align: center;
 }
-@import "compass/css3";
 
 @mixin flags($width: 30px) {
   $flags: (
