@@ -1,5 +1,5 @@
-# **Welcome...**  
-...to the r/ASRock Wiki!  
+  
+Welcome to the r/ASRock Wiki!  
 Its still a bit empty here but we working hard on it to fill it with content so please bear with us!  
 
 ### r/ASRock Resources:
@@ -17,12 +17,7 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 * [r/ASRock & Userbenchmark](faq/index.md#rasrock-and-userbenchmark) - Why is Userbenchmark risticted on r/ASRock? Read this!
 * [r/ASRock Community Discord](https://discord.gg/rFrMpxV) - Our Discord-Server
 
-&#x200B;
-
-&#x200B;
-
-&#x200B;
-
+### Note
 If you have an idea for a wiki page, send a message via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
 <div class="footer">
