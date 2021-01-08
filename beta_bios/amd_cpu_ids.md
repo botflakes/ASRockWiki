@@ -4,7 +4,7 @@ Here are all AMD Zen (Zen1, Zen+, Zen2, Zen3) Models, Codenames and the correspo
 
 ## CPUIDs and their coresponding AMD CPU Codenames
 
-|CPUID   |CPU Codename    |
+| CPUID  | CPU Codename   |
 |:-------|:---------------|
 | 800F82 | Pinnacle Ridge |
 | 800F12 | Naples         |
