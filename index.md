@@ -23,6 +23,7 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 ### Note
 If you have an idea for a wiki page, send a message via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
-<body>
-<?php include 'assets/php/footer.php' ?>
-</body>
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>
