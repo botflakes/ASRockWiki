@@ -2,7 +2,7 @@
 
 Here are all AMD Zen (Zen1, Zen+, Zen2, Zen3) Models, Codenames and the corresponding CPUIDs
 
-## CPUIDs and their coresponding AMD CPU Codenames
+### CPUIDs and their coresponding AMD CPU Codenames
 
 | CPUID  | CPU Codename   |
 |:-------|:---------------|
@@ -17,7 +17,7 @@ Here are all AMD Zen (Zen1, Zen+, Zen2, Zen3) Models, Codenames and the correspo
 | A30F00 | Trento         |
 | A40F00 | Rembrandt      |
 
-## Desktop Athlon
+### Desktop Athlon
 
 | CPU Model              | CPU Codename           | CPUID                  | Microarchitecture      |
 |:-----------------------|:-----------------------|:-----------------------|:-----------------------|
@@ -30,15 +30,15 @@ Here are all AMD Zen (Zen1, Zen+, Zen2, Zen3) Models, Codenames and the correspo
 | Athlon Gold 3150GE     | Picasso                | 810F81(not confirmed)  | Zen+                   |
 | Athlon Gold 3150G      | Picasso                | 810F81(not confirmed)  | Zen+                   |
 
-## Desktop Ryzen 3
+### Desktop Ryzen 3
 
-## Desktop Ryzen 5
+### Desktop Ryzen 5
 
-## Desktop Ryzen 7
+### Desktop Ryzen 7
 
-## Desktop Ryzen 9
+### Desktop Ryzen 9
 
-## Sources
+### Sources
 
 CPU list gathered from [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_AMD-Ryzen-Prozessoren#Desktop_Athlon)  
 CPU Codenames and IDs gathered from [CPU-World](https://www.cpu-world.com/)
