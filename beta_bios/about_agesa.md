@@ -1,4 +1,4 @@
-# [Beta BIOS Overview](/ASRockWiki/beta_bios/beta_bios) > AGESA Changelog
+# > AGESA Changelog
 
 ## What is AGESA?
 

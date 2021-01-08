@@ -1,4 +1,4 @@
-# > Beta BIOS Overview > Beta BIOS AMD
+# > Beta BIOS AMD
 
 ## Notice
 You have a BIOS which isn't listed here? Let us know in a [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)  

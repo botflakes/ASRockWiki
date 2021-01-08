@@ -1,4 +1,4 @@
-# > Beta BIOS > ASRock Rack Overview
+# > ASRock Rack Overview
 
 ## Notice
 You have a BIOS which isn't listed here? Let us know in a [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)  
