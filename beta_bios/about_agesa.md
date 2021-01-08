@@ -44,8 +44,4 @@ Every changelog is more or less unofficial as AMD does not publish informations 
 
 ## Source
 
-<div class="flags">
-    <div class="flags--item -de">
-        <a href="https://planet3dnow.de" target="_blank">Planet3dNow</a>
-    </div>
-</div>
+<img src="https://www.countryflags.io/de/shiny/16.png"> <a href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
