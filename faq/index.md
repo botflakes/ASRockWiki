@@ -43,8 +43,3 @@ Here is a collection of frequently ask questions
 - [**TomsHardware**](https://www.tomshardware.com/news/userbenchmark-benchmark-change-criticism-amd-intel,40032.html) - *Userbenchmark Responds to Criticism Over Score Weighing Revisions*
 
 - [**Official FAQ**](https://cpu.userbenchmark.com/Faq/What-is-the-effective-CPU-speed-index/55)
-
-<!-- Footer - DO NOT TOUCH! -->
-<div class="footer">
-    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
-</div>
