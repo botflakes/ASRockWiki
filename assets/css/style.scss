@@ -12,53 +12,6 @@ body {
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
 
-/* Table */
-table {
-	table-layout: auto;
-	width: 100%;
-	color:#fff;
-	margin-left: auto;
-	margin-right: auto;
-    text-align: center;
-}
-
-table th {
-    text-align: left;
-    border-bottom: 1px dashed #79bd28;
-	padding: 5px 10px;
-	width: 85px;
-}
-table td {
-	padding: 2px 10px;
-	border-bottom: 1px dashed #79bd28;
-}
-
-tdLeft {
-	text-align:left;
-}
-
-table tp {
-	width: 10%;
-	padding: 8px;
-}
-
-.markYellow {
-	color:#c0c000;
-}
-
-.markRed {
-	color:#840000;
-}
-
-.markRed2 {
-	color:#ff0000;
-}
-
-.markGreen {
-	color:#79bd28;
-}
-
-
 p, ul, ol, table, pre, dl {
     font-size: 12px;
     color: #fff;
