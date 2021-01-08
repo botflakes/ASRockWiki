@@ -44,4 +44,8 @@ Every changelog is more or less unofficial as AMD does not publish informations 
 
 ## Source
 
-[Planet3DNow!](https://planet3dnow.de)
+mixin flag(country)
+    i.flag(class="flag-" + country)
+
+.flag-container
+    +flag('DE')[Planet3DNow!](https://planet3dnow.de)
