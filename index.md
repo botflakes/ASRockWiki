@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="color:#fff;font-size:x-large">Welcome to the r/ASRock Wiki!  
+<p style="color:#fff;font-size:x-large">Welcome to the r/ASRock Wiki!<br>
 Its still a bit empty here but we working hard on it to fill it with content so please bear with us!</p> 
 
 ### r/ASRock Resources:
