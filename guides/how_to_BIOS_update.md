@@ -1,4 +1,4 @@
-# [Index](/ASRockWiki/guides/index) - Back to the index
+# > How to: Update the BIOS
 
 # Introduction
 

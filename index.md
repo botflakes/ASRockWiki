@@ -4,17 +4,17 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 
 ### r/ASRock Resources:
 
-* [FAQs](faq/faq.md)
-* [Tools](tools/tools.md)
-* [Rules](rules/rules.md)
+* [FAQs](faq/index.md)
+* [Tools](tools/index.md)
+* [Rules](rules/index.md)
 * [Guides](guides/index.md)
-* [Beta BIOS database](beta_bios/beta_bios.md)
+* [Beta BIOS database](beta_bios/index.md)
 
 
 ### r/ASRock Community Information:
 
-* [r/ASRock Rules](rules/rules.md) - Our rules
-* [r/ASRock & Userbenchmark](faq/faq.md#rasrock-and-userbenchmark) - Why is Userbenchmark risticted on r/ASRock? Read this!
+* [r/ASRock Rules](rules/index.md) - Our rules
+* [r/ASRock & Userbenchmark](faq/index.md#rasrock-and-userbenchmark) - Why is Userbenchmark risticted on r/ASRock? Read this!
 * [r/ASRock Community Discord](https://discord.gg/rFrMpxV) - Our Discord-Server
 
 &#x200B;

@@ -1,4 +1,8 @@
-# **Here is a collection of frequently ask questions:**
+# > FAQ
+
+Here is a collection of frequently ask questions
+
+***
 
 **Q: How do I find out GPU Informations?**
 - A: Download [GPU-Z](https://www.techpowerup.com/gpuz/) and start it (you don't need to install it) - The rest is pretty self explanatory!

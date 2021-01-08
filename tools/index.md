@@ -1,7 +1,6 @@
-# [Wiki-Index](/ASRockWiki) - Back to home
+# > Tools
 
-# **Welcome...**
-... to the r/ASRock tools repository. We gathered some tools which maybe helpful for you.  
+Welcome to the r/ASRock tools repository. We gathered some tools which maybe helpful for you.  
 Something is missing? Feel free to contact us moderators via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
 # **Setup and Overclocking**

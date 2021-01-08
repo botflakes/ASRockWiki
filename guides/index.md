@@ -1,8 +1,6 @@
-# [Wiki-Index](/ASRockWiki) - Back to home
+# > Guides  
 
-# **Welcome...**
-... to the r/ASRock Wiki Guides Section.  
-We have collected some guides from a variety of sources and have organized them for your usage
+An overview to all guides we have so far. There will be more over time.
 
 # **General Guides**
 
