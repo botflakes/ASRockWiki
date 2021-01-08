@@ -1,6 +1,6 @@
   
-Welcome to the r/ASRock Wiki!  
-Its still a bit empty here but we working hard on it to fill it with content so please bear with us!  
+<p style="color:#fff;font-size:x-large">Welcome to the r/ASRock Wiki!  
+Its still a bit empty here but we working hard on it to fill it with content so please bear with us!</p> 
 
 ### r/ASRock Resources:
 
