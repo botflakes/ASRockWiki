@@ -9,3 +9,8 @@ An overview to all guides we have so far. There will be more over time.
 # **How-To Guides**
 
 * [How-To: Update the BIOS on ASRock Motherboards](/how_to_BIOS_update.md)
+
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>

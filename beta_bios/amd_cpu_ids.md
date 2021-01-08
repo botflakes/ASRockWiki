@@ -42,3 +42,8 @@ Here are all AMD Zen (Zen1, Zen+, Zen2, Zen3) Models, Codenames and the correspo
 
 CPU list gathered from [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_AMD-Ryzen-Prozessoren#Desktop_Athlon)  
 CPU Codenames and IDs gathered from [CPU-World](https://www.cpu-world.com/)
+
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>

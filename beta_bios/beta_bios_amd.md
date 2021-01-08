@@ -1013,3 +1013,8 @@ Revision|Date Published|Source|Mirror 1
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.00A|February 14th, 2014|ASRock|[Download](https://drive.google.com/file/d/1y5rU0Q4oTs4t9IHuAypK3T6IN9GMU14q/view?usp=sharing)
+
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>

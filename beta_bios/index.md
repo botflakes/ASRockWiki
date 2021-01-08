@@ -35,3 +35,8 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 - [AMD CPUIDs](amd_cpu_ids)  
 - [AMD AGESA Changelog](about_agesa)
+
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>

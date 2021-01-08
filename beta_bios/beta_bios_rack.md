@@ -7,6 +7,11 @@ Dead link? Report it [here.](https://forms.gle/ApqAN72vS6sxzFnm7)
 
 ***
 
-### [ASRockRack Beta BIOS](beta_bios_rack/beta_bios_rack_bios)
+- [ASRockRack Beta BIOS](beta_bios_rack/beta_bios_rack_bios)
 
-### [ASRockRack Beta BMCs](beta_bios_rack/beta_bios_rack_bmc)
+- [ASRockRack Beta BMCs](beta_bios_rack/beta_bios_rack_bmc)
+
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>

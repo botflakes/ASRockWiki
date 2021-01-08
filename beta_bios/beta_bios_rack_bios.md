@@ -89,3 +89,8 @@ Revision|Date Published|Source|Mirror 1
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.11|Aug. 20th, 2013|ASRock|[Download](https://drive.google.com/file/d/1eSV3odl3EkeMeTNw9bb1s-jP5Ryj7HKX/view?usp=sharing)
+
+<!-- Footer - DO NOT TOUCH! -->
+<div class="footer">
+    Made with <div id="heart-anim">❤</div> by <a href="https://reddit.com/u/CornFlakes1991" target="_blank">u/CornFlakes1991</a> &copy;<script>document.write(new Date().getFullYear());</script>
+</div>
