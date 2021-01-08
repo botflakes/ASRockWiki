@@ -433,3 +433,130 @@ header h1:before {
         background-position: -37px -1032px;
     }
 }
+
+mixin flag(country)
+    i.flag(class="flag-" + country)
+
+.flag-container
+    +flag('AD')
+    +flag('AE')
+    +flag('AG')
+    +flag('AM')
+    +flag('AR')
+    +flag('AT')
+    +flag('AU')
+    
+    +flag('BE')
+    +flag('BF')
+    +flag('BG')
+    +flag('BO')
+    +flag('BR')
+    
+    +flag('CA')
+    +flag('CD')
+    +flag('CG')
+    +flag('CH')
+    +flag('CL')
+    +flag('CM')
+    +flag('CN')
+    +flag('CO')
+    +flag('CZ')
+    
+    +flag('DE')
+    +flag('DJ')
+    +flag('DK')
+    +flag('DZ')
+    
+    +flag('EE')
+    +flag('EG')
+    +flag('ES')
+    
+    +flag('FL')
+    +flag('FR')
+    
+    +flag('GA')
+    +flag('GB')
+    +flag('GM')
+    +flag('GT')
+    
+    +flag('HN')
+    +flag('HT')
+    +flag('HU')
+    
+    +flag('ID')
+    +flag('IE')
+    +flag('IL')
+    +flag('IN')
+    +flag('IQ')
+    +flag('IR')
+    +flag('IT')
+    
+    +flag('JM')
+    +flag('JO')
+    +flag('JP')
+    
+    +flag('KG')
+    +flag('KN')
+    +flag('KP')
+    +flag('KR')
+    +flag('KW')
+    +flag('KZ')
+    
+    +flag('LA')
+    +flag('LB')
+    +flag('LC')
+    +flag('LS')
+    +flag('LU')
+    +flag('LV')
+    
+    +flag('MG')
+    +flag('MK')
+    +flag('ML')
+    +flag('MM')
+    +flag('MT')
+    +flag('MX')
+    
+    +flag('NA')
+    +flag('NE')
+    +flag('NG')
+    +flag('NI')
+    +flag('NL')
+    +flag('NO')
+    
+    +flag('OM')
+    
+    +flag('PA')
+    +flag('PE')
+    +flag('PG')
+    +flag('PK')
+    +flag('PL')
+    +flag('PT')
+    +flag('PY')
+    
+    +flag('QA')
+    
+    +flag('RO')
+    +flag('RU')
+    +flag('RW')
+    
+    +flag('SA')
+    +flag('SE')
+    +flag('SG')
+    +flag('SL')
+    +flag('SN')
+    +flag('SO')
+    +flag('SV')
+    
+    +flag('TD')
+    +flag('TJ')
+    +flag('TL')
+    +flag('TR')
+    +flag('TZ')
+    
+    +flag('UA')
+    +flag('US')
+    
+    +flag('VE')
+    +flag('VN')
+    
+    +flag('YE')
