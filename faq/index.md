@@ -24,8 +24,7 @@ Here is a collection of frequently ask questions
 # **r/ASRock and Userbenchmark**
 
 **Q: Why is Userbenchmark restricted on this Subreddit?**
-- A: With the release of the AMD Ryzen 3000 Series CPUs, they adjusted their ranking system to a different one that isn't longer representative of the real performance of these CPUs.  
-When called out for that, they accused the critics of being **"anonymous call center shills"**. Rigged or falsified benchmarks aren't good for the PC ecosystem. Builders and sometimes even companies fall for these fake benchmarks, build bad PCs and starve out the creators of good hardware. If you want to know how your PC is performing, use Software like [3DMark.com](https://www.3dmark.com/)
+- A: With the release of the AMD Ryzen 3000 Series CPUs, they adjusted their ranking system to a different one that isn't longer representative of the real performance of these CPUs. When called out for that, they accused the critics of being **"anonymous call center shills"**. Rigged or falsified benchmarks aren't good for the PC ecosystem. Builders and sometimes even companies fall for these fake benchmarks, build bad PCs and starve out the creators of good hardware. If you want to know how your PC is performing, use Software like [3DMark.com](https://www.3dmark.com/)
 
 **Q: Are there sources to read about it?**
 
