@@ -16,30 +16,3 @@ Dead link? Report it [here.](https://forms.gle/ApqAN72vS6sxzFnm7)
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.11.00|Nov. 2nd, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ns_eyMt8PZqS9VRQrsbnmYzcS9lBbh-y/view?usp=sharing)
-
-### **Socket SP3**
-
-**ROMED8-2T**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-1.11.00|Nov. 2nd, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ns_eyMt8PZqS9VRQrsbnmYzcS9lBbh-y/view?usp=sharing)
-
-
-### **Socket SP3**
-
-**ROMED8-2T**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-1.11.00|Nov. 2nd, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ns_eyMt8PZqS9VRQrsbnmYzcS9lBbh-y/view?usp=sharing)
-
-
-### **Socket SP3**
-
-**ROMED8-2T**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-1.11.00|Nov. 2nd, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ns_eyMt8PZqS9VRQrsbnmYzcS9lBbh-y/view?usp=sharing)
-
