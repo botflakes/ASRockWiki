@@ -4,8 +4,7 @@
 
 AGESA stands for "AMD Generic Encapsulated System Architecture" which is the basic framework for initializing AMD processors in the Power-On-Self-Test (POST) phase after the system is switched on. The mainboard manufacturers develop their firmware based on this (alias BIOS alias UEFI), but always based on an AGESA version published by AMD.
 
-#
-<table class="customTable">
+<table>
     <colgroup>
         <col width="300">
         <col width="800">
@@ -25,7 +24,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 </table>  
 
 ## Notice
-Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.ä  
+Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
 
 ## Source  
 
