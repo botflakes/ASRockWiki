@@ -1,10 +1,10 @@
-# > AGESA Changelog
+<h1> > AGESA Changelog </h1>
 
-## What is AGESA?
+<h2> What is AGESA? </h2>
 
 AGESA stands for "AMD Generic Encapsulated System Architecture" which is the basic framework for initializing AMD processors in the Power-On-Self-Test (POST) phase after the system is switched on. The mainboard manufacturers develop their firmware based on this (alias BIOS alias UEFI), but always based on an AGESA version published by AMD.
 
-## PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
+<h2> PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6 </h2>
 
 <table class="customTable">
     <colgroup>
@@ -96,7 +96,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
     </tbody>
 </table>
 
-## Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.1.9.0
+<h2> Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.1.9.0 </h2>
 
 <table class="customTable">
     <colgroup>
@@ -158,9 +158,9 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
     </tbody>
 </table>
 
-## Notice
+<h2> Notice </h2>
 Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
 
-## Source  
+<h2> Source </h2>
 
 <img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
