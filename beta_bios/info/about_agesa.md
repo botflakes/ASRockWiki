@@ -21,11 +21,11 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
             <td>- Sprectre V2 Protection</td>
             <td>None</td>
         </tr>
-</table>
+</table>  
 
 ## Notice
 Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
 
-## Source
+## Source  
 
 <img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
