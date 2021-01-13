@@ -38,14 +38,6 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 |Combo-AM4v2Pi 1.1.8.1 | - Support for Vermeer A0/B0 stepping and Cezanne A0 stepping | None |
 |Combo-AM4v2Pi 1.1.9.0 | - Adds Win10 s0i3 support<br>- Stability tuning for 1800-2000MHz FCLK (OC)<br>- Support for passive X570 motherboards<br>- General stability improvements | None |
 
-
-## Notice
-Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
-
-## Source
-
-<img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
-
 <table class="customTable">
     <colgroup>
         <col width="150">
@@ -58,4 +50,14 @@ Every changelog is more or less unofficial as AMD does not publish informations 
             <th>Changes</th>
             <th>Additional Information</th>
         </tr>
+        <tr>
+            <td></td>
+        </tr>
 </table>
+
+## Notice
+Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
+
+## Source
+
+<img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
