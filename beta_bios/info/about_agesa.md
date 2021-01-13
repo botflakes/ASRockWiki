@@ -25,7 +25,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 </table>  
 
 ## Notice
-Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
+Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.ä  
 
 ## Source  
 
