@@ -45,3 +45,17 @@ Every changelog is more or less unofficial as AMD does not publish informations 
 ## Source
 
 <img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
+
+<table class="customTable">
+    <colgroup>
+        <col width="150">
+        <col width="800">
+        <col width="300">
+    </colgroup>
+    <tbody>
+        <tr>
+            <th>AGESA Version</th>
+            <th>Changes</th>
+            <th>Additional Information</th>
+        </tr>
+</table>
