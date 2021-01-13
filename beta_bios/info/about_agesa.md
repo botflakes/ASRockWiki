@@ -6,7 +6,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 
 <table class="customTable">
     <colgroup>
-        <col width="150">
+        <col width="300">
         <col width="800">
         <col width="300">
     </colgroup>
@@ -21,7 +21,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
             <td>- Sprectre V2 Protection</td>
             <td>None</td>
         </tr>
-</table>
+
 
 ## Notice
 Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.
