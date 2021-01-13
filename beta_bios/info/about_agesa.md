@@ -51,7 +51,9 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
             <th>Additional Information</th>
         </tr>
         <tr>
-            <td></td>
+            <td>PinnaclePi-AM4 1.0.0.2</td>
+            <td>- Sprectre V2 Protection</td>
+            <td>None</td>
         </tr>
 </table>
 
