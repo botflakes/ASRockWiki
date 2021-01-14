@@ -11,13 +11,13 @@ Dead link? Report it [here.](https://forms.gle/ApqAN72vS6sxzFnm7)
 
 ## **Socket TR4 : AMD X399**
 
-### **X399 Taichi
+### **X399 Taichi**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 3.92|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/173vkK6qjYLqeFO0Pbc_zyHLBKGS13pZY/view?usp=sharing)
 
-### **X399M Taichi
+### **X399M Taichi**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
