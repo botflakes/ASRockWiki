@@ -9,6 +9,46 @@ Dead link? Report it [here.](https://forms.gle/ApqAN72vS6sxzFnm7)
 
 ***
 
+## **Socket TR4 : AMD X399**
+
+### **X399 Taichi
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+3.92|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/173vkK6qjYLqeFO0Pbc_zyHLBKGS13pZY/view?usp=sharing)
+
+### **X399M Taichi
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+3.81|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gpJgYltYsZ_I2VSgLXWaArB4_XBJKucc/view?usp=sharing)
+
+### **Fatal1ty X399 Professional Gaming**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mFvBEMF5i3Im5KhTAfraXOMWvazNIEp5/view?usp=sharing)
+
+### **X399 Phantom Gaming 6**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oTK3Mz7UblqoAM5_b1O7l6tFksSKgtil/view?usp=sharing)
+
+## **Socket sTRX4 : AMD TRX40**
+
+### **TRX40 Creator**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1r_wbLneyymZFxe_QGM3Xysmt0PaR_FfS/view?usp=sharing)
+
+### **TRX40 Taichi**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MEvqS7AOAi0fITnpHlIFv72VaZutBE3n/view?usp=sharing)
+
 ## **Socket AM4 : AMD X570**
 
 ### **X570 AQUA**
