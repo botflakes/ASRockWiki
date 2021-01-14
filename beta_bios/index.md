@@ -1,7 +1,7 @@
 # > Beta BIOS Overview
 
 ## Warning
-<p style="color:#840000;font-size:larger">We (<a style="font-size:larger" href="https://www.reddit.com/r/ASRock/about/moderators/" target="_blank">r/ASRock Moderators</a>) are not responsible for any damage on your board!  
+<p style="color:#840000;font-size:larger;text-align:center">We (<a style="font-size:19px;color:#79bd28" href="https://www.reddit.com/r/ASRock/about/moderators/" target="_blank">r/ASRock Moderators</a>) are not responsible for any damage on your board!  
 Flashing a new BIOS always comes with risk, including the potential of bricking your motherboard.  
 Please only proceed at your own caution. As a note, we have not personally tested all of these beta BIOS.</p>
 
@@ -35,3 +35,4 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 - [AMD CPUIDs](info/amd_cpu_ids)  
 - [AMD AGESA Changelog](info/about_agesa)
+

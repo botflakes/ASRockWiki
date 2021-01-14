@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<p style="color:#fff;font-size:x-large">Welcome to the r/ASRock Wiki!<br>
-Its still a bit empty here but we working hard on it to fill it with content so please bear with us!</p> 
+<p style="color:#fff;font-size:x-large">Welcome to the r/ASRock Wiki!</p><br>
+<p>Its still a bit empty here but we working hard on it to fill it with content so please bear with us!</p> 
 
 ### r/ASRock Resources:
 
@@ -21,4 +21,4 @@ Its still a bit empty here but we working hard on it to fill it with content so 
 * [r/ASRock Community Discord](https://discord.gg/rFrMpxV) - Our Discord-Server
 
 ### Contact the Mods
-If you have an idea for a wiki page, send a message via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
+If you have an idea for a wiki page, send a message via <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>
