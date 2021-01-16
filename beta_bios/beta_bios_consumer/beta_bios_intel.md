@@ -356,6 +356,7 @@ Revision|Date Published|Source|Mirror 1
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.71|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/1at7yvDjiXpG6OjhmhW9trN_eYRlBSpiw/view?usp=sharing)
+1.70F|January 15th, 2020|ASRock|[Download](https://drive.google.com/file/d/1EUTRVZhpAvG0LXv1JPLcwij0itDQ6xwr/view?usp=sharing)
 
 **B460 Pro4**
 
