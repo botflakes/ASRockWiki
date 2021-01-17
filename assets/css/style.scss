@@ -12,14 +12,6 @@ body {
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
 
-::-webkit-scrollbar {
-	display: none;
-}
-
-::-webkit-scrollbar:hover {
-	overflow-y: scroll;
-}
-
 .container {
   max-width: 1200px;
 }
