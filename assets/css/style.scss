@@ -10,30 +10,58 @@ body {
 	color: white;
 	margin: 0px;
 	font-family: IBMPlexSans, Arial, sans-serif;
-	scroll-behavior: smooth;
 }
 
 //scrollbar - DO NOT TOUCH
 
+body::-webkit-scrollbar {
+    width: 10px;
+    opacity: 0;
+    background-color: #101010;
+}
 body::-webkit-scrollbar-thumb {
     background-color: #79bd28;
     border-radius: 5px;
 }
-body::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 6px #101010;
-}
-body::-webkit-scrollbar {
-	width: 10px;
-	opacity: 1;
-}
-body::-webkit-scrollbar:hover {
-	opacity: 0;
-	-webkit-transition: all .5s;
-	transition: all .5s;
-}
 
 .container {
   max-width: 1200px;
+}
+
+html, body {
+    height: 100%;
+    margin:0;
+    overflow: hidden;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+/* trick to only apply in webkit */
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+  .container {
+      background-color: rgba(0,0,0,0);
+      -webkit-background-clip: text;
+      /* uncomment following line to see the trick in actions */
+      /* -webkit-text-fill-color: transparent; */
+      transition: background-color .8s;
+  }
+  .container:hover {
+     background-color: rgba(0,0,0,0.18);  
+  }
+  .container::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+  }
+  .container::-webkit-scrollbar-track {
+      display: none;
+  }
+  .container::-webkit-scrollbar-thumb {
+      border-radius: 10px;
+      background-color: inherit;
+  }
 }
 
 /* Table */
