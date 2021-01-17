@@ -26,8 +26,8 @@ body::-webkit-scrollbar {
     width: 10px;
 }
 body::-webkit-scrollbar:hover {
-	-webkit-transition: 15px 2s ease-out;
-	transition: 15px 2s ease-out;
+	-webkit-transition: width 15px 2s ease-out;
+	transition: width 15px 2s ease-out;
 }
 
 .container {
