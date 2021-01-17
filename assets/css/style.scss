@@ -24,45 +24,10 @@ body {
 //    border-radius: 5px;
 //}
 
-//.container {
-//  max-width: 1200px;
-//}
-
-html, body {
-    height: 100%;
-    margin:0;
-    overflow: hidden;
-}
 .container {
-    height: 100%;
-    width: 100%;
-    overflow-y: scroll;
-    overflow-x: hidden;
+  max-width: 1200px;
 }
-/* trick to only apply in webkit */
-@media screen and (-webkit-min-device-pixel-ratio:0) { 
-  .container {
-      background-color: rgba(0,0,0,0);
-      -webkit-background-clip: text;
-      /* uncomment following line to see the trick in actions */
-      /* -webkit-text-fill-color: transparent; */
-      transition: background-color .8s;
-  }
-  .container:hover {
-     background-color: rgba(0,0,0,0.18);  
-  }
-  .container::-webkit-scrollbar {
-      width: 8px;
-      height: 8px;
-  }
-  .container::-webkit-scrollbar-track {
-      display: none;
-  }
-  .container::-webkit-scrollbar-thumb {
-      border-radius: 10px;
-      background-color: inherit;
-  }
-}
+
 
 /* Table */
 table {
