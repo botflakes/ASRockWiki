@@ -16,6 +16,10 @@ body {
 	display: none;
 }
 
+::-webkit-scrollbar:hover {
+	overflow-y: scroll;
+}
+
 .container {
   max-width: 1200px;
 }
