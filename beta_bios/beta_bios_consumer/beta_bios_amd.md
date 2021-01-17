@@ -9,6 +9,12 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ***
 
+<form action="/search.html" method="get">
+  <label for="search-box">Search</label>
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form>
+
 ## **Socket TR4 : AMD X399**
 
 ### **X399 Taichi**
