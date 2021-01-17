@@ -12,6 +12,11 @@ body {
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
 
+html {
+  width:100vw;
+  overflow-x:hidden;
+}
+
 //scrollbar - DO NOT TOUCH
 
 body::-webkit-scrollbar {
