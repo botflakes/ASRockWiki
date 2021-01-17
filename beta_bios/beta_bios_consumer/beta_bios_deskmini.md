@@ -11,7 +11,13 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ## **DeskMini AMD Based**
 
-**DeskMini A300 Series**
+**DeskMini X300**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.46|October 27th, 2020|JZ|[Download](https://drive.google.com/file/d/1wPcvbiF2YEvAbaFBT01umvVjSy19H_Bg/view?usp=sharing)
+
+**DeskMini A300**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
