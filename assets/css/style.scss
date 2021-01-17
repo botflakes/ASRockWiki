@@ -14,12 +14,12 @@ body {
 
 //scrollbar - DO NOT TOUCH
 
-body::-webkit-scrollbar {
+.container::-webkit-scrollbar {
     width: 10px;
     background-color: #101010;
 }
 
-body::-webkit-scrollbar-thumb {
+.container::-webkit-scrollbar-thumb {
     background-color: #79bd28;
     border-radius: 5px;
 }
