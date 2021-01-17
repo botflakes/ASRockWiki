@@ -9,6 +9,13 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ***
 
+<div class="container">
+	<div class="well" id="searchbox">
+		<input id="search-field" placeholder="Search the Site"/>
+		<ul id="results"></ul>
+	</div>
+</div>
+
 ## **Socket TR4 : AMD X399**
 
 ### **X399 Taichi**
