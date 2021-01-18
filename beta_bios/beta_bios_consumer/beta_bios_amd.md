@@ -5,7 +5,7 @@ You have a BIOS which isn't listed here? Let us know in a <a style="color:#79bd2
 Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6sxzFnm7" target="_blank">here</a>  
 
 ## Warning
-<p style="color:#840000;text-align:center;font-size:x-large">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
+<p style="color:#840000;text-align:center;font-size:x-large">We're not responsible for any damage that may happen to your board!<br> Flashing a new BIOS does always have its risks!</p>
 
 ***
 # Search
