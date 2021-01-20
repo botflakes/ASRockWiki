@@ -1,1 +1,1 @@
-Head over to https://botflakes.github.io/ASRockWiki
+# [Click here to view the Site](https://botflakes.github.io/ASRockWiki)
