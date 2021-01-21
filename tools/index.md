@@ -5,9 +5,9 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 
 # **Setup and Overclocking**
 
-* [****CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Shows CPU, Motherboard and Memory informations
+* [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Shows CPU, Motherboard and Memory informations
 * [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/) - Shows detailed informations about your Graphics Card(s)
-* [**HWiNFO](https://www.hwinfo.com/) - Shows informations of your system and is able to read out nearly every sensor
+* [**HWiNFO**](https://www.hwinfo.com/) - Shows informations of your system and is able to read out nearly every sensor
 * [**MSI Afterburner**](https://msi.com/page/afterburner) - Tool to overclock your GPU, checking Temps and Fan speed and many more
 * [**AMD Ryzen™ Master**](https://www.amd.com/en/technologies/ryzen-master) - Tool to overclock your AMD CPU
 * [**Intel® Extreme Tuning Utility**](https://downloadcenter.intel.com/en/product/66427) - Tool to overclock your Intel CPU
@@ -28,7 +28,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**OCCT**](https://www.ocbase.com/) - Stresses CPU, GPU and PSU
 * [**Prime95**](https://www.mersenne.org/download/) - CPU stress testing. WARNING! Prime95 can cause high temps. Keep an eye on it!
 * [**MemTest**](https://www.hcidesign.com/) - RAM testing tool. Runs under OS
-* [**MemTest86]**(https://www.memtest86.com/) - RAM testing tool. Runs without OS via USB
+* [**MemTest86**]**(https://www.memtest86.com/) - RAM testing tool. Runs without OS via USB
 
 # **Helpful Tools**
 
