@@ -95,7 +95,7 @@
     </tbody>
 </table>
 
-<h2> Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.1.9.0 </h2>
+<h2> Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.0 </h2>
 
 <table class="customTable">
     <colgroup>
@@ -152,6 +152,11 @@
         <tr>
             <td>Combo-AM4v2Pi 1.1.9.0</td>
             <td>- Adds Win10 s0i3 support<br>- Stability tuning for 1800-2000MHz FCLK (OC)<br>- Support for passive X570 motherboards<br>- General stability improvements</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.0</td>
+            <td>- RAID Driver Update<br>- Support for PCIe ReBAR (GPU/driver support req'd)<br>- Stability updates<br>- Fix for 5600X/5800X telemetry in Ryzen Master (req's RM 2.6.1.X)</td>
             <td>None</td>
         </tr>
     </tbody>
