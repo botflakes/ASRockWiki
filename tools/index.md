@@ -28,7 +28,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**OCCT**](https://www.ocbase.com/) - Stresses CPU, GPU and PSU
 * [**Prime95**](https://www.mersenne.org/download/) - CPU stress testing. WARNING! Prime95 can cause high temps. Keep an eye on it!
 * [**MemTest**](https://www.hcidesign.com/) - RAM testing tool. Runs under OS
-* [**MemTest86**]**(https://www.memtest86.com/) - RAM testing tool. Runs without OS via USB
+* [**MemTest86**](https://www.memtest86.com/) - RAM testing tool. Runs without OS via USB
 
 # **Helpful Tools**
 
