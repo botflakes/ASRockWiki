@@ -6,3 +6,4 @@ github:
 plugins:
   - jekyll-seo-tag
   - jemoji
+  - jekyll-sitemap
