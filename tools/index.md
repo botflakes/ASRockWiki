@@ -12,7 +12,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**AMD Ryzen™ Master**](https://www.amd.com/en/technologies/ryzen-master) - Tool to overclock your AMD CPU
 * [**Intel® Extreme Tuning Utility**](https://downloadcenter.intel.com/en/product/66427) - Tool to overclock your Intel CPU
 
-TEST 
+TEST 1
 
 # **Benchmarking**
 
