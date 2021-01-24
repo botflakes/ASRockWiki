@@ -6,3 +6,4 @@ gemspec
 
 gem 'jekyll-seo-tag'
 gem 'jemoji'
+gem 'jekyll-sitemap'
