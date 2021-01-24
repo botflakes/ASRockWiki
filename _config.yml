@@ -8,3 +8,4 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-sitemap
+safe: false
