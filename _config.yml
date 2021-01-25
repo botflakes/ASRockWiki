@@ -8,12 +8,6 @@ author:
 twitter:
   username: redditASRock
   card: summary
-image: 
-    path: assets/images/social_card.png
-    width: 1280
-    height: 640
-logo: assets/images/logo.png
-type: website
 social:
   name: r/ASRock
   links:
