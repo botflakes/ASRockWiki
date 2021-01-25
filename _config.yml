@@ -13,6 +13,7 @@ twitter:
     width: 1280
     height: 640
 logo: assets/images/logo.png
+type: website
 social:
   name: r/ASRock
   links:
