@@ -10,3 +10,4 @@ An overview to all guides we have so far. There will be more over time.
 # **How-To Guides**
 
 * [How-To: Update the BIOS on ASRock Motherboards](/how_to_BIOS_update.md)
+* [How-To: Update the BIOS by using AFUWin](/afuwin.md)
