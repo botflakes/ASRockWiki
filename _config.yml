@@ -14,6 +14,10 @@ social:
   links:
     - https://twitter.com/redditASRock
     - https://discord.gg/rFrMpxV
+image:
+  path: /assets/images/social_card.png
+  height: 640
+  width: 1280
 github:
   is_project_page: false
 plugins:
