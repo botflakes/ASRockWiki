@@ -14,5 +14,5 @@ As already stated, the process is very easy.
 2. Download the BIOS you want to flash and extract it into the AFUWin folder
 3. Open a CMD with Administrator rights and navigate to the folder were you extracted AFUWin by using the ``cd`` command (example ``cd C:\Users\YOURUSERNAME\Desktop\AFUWin``)
 4. To flash the the BIOS do it like shown in this picture   
-![](/ASRockWiki/img/includes/wiki/bios_flash_afuwin.png)
+![](/ASRockWiki/assets/img/includes/wiki/bios_flash_afuwin.png)
 5. When the process is complete, restart your System.
