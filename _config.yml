@@ -5,6 +5,7 @@ description: The r/ASRock Wiki
 github:
   is_project_page: false
 plugins:
+  - jekyll-seo-tag
   - jemoji
   - jekyll-sitemap
 safe: false
