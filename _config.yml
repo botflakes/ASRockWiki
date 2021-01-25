@@ -1,7 +1,3 @@
-
-twitter:
-  username: redditASRock
-  card: summary_large_image
 plugins:
   - jekyll-seo-tag
   - jemoji
