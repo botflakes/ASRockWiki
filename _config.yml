@@ -1,3 +1,9 @@
+theme: jekyll-theme-hacker
+
+title: The r/ASRock Wiki
+tagline: A ASRock releated Wiki made by u/CornFlakes1991
+description: This is the r/ASRock Wiki - Here you will find a bunch of Guides and Tools. Including an FAQ, a Beta BIOS database and more!
+
 plugins:
   - jekyll-seo-tag
   - jemoji
