@@ -1,7 +1,7 @@
-url: "https://botflakes.github.io/ASRockWiki/" 
+url: "https://botflakes.github.io/" 
 theme: jekyll-theme-hacker
-title: r/ASRock > Wiki
-description: The r/ASRock Wiki
+title: The r/ASRock Wiki
+description: This is the r/ASRock Wiki - Here you will find a bunch of Guides and Tools. Including an FAQ, a Beta BIOS database and more!
 github:
   is_project_page: false
 plugins:
