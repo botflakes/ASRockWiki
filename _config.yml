@@ -8,16 +8,16 @@ author:
 twitter:
   username: redditASRock
   card: summary
-  logo: assets/images/logo.png
+  image: 
+    path: assets/images/social_card.png
+    width: 1280
+    height: 640
+logo: assets/images/logo.png
 social:
   name: r/ASRock
   links:
     - https://twitter.com/redditASRock
     - https://discord.gg/rFrMpxV
-image: 
-  path: assets/images/social_card.png
-  width: 1280
-  height: 640
 github:
   is_project_page: false
 plugins:
