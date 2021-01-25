@@ -8,3 +8,6 @@ plugins:
   - jemoji
   - jekyll-sitemap
 safe: false
+twitter:
+  username: redditASRock
+  card: summary_large_image
