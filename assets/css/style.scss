@@ -101,7 +101,7 @@ header h2 {
 header {
 	border-bottom: 1px solid #79bd28;
 	font-family: IBMPlexSans, Arial, sans-serif;
-	background-image: url(/ASRockWiki/assets/images/header.png);
+	background-image: url(/ASRockWiki/assets/img/site/header.png);
 	height: 130px;
 }
 
@@ -146,4 +146,8 @@ header h1:before {
 
  code.highlighter-rouge {
   color: #b5e853;
+}
+
+ul li {
+  list-style-image: url(ASRockWiki/img/site/bullet.png);
 }
