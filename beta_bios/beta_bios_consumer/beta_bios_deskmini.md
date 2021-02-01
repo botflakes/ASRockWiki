@@ -20,13 +20,14 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.46E|January, 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1nXuh4wK1JTVosSFiJG8xZq9H-st02RcA/view?usp=sharing)
 1.46|October 27th, 2020|JZ|[Download](https://drive.google.com/file/d/1wPcvbiF2YEvAbaFBT01umvVjSy19H_Bg/view?usp=sharing)
 
 **DeskMini A300**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-3.60S*|Sep. 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1JCPdLWH9ztrcAHMj47e2gVwzr0brrJIJ/view?usp=sharing)
+3.60S*|September 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1JCPdLWH9ztrcAHMj47e2gVwzr0brrJIJ/view?usp=sharing)
 3.60R*|August 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1kPVqnIFTBa4lBtw-735KYDLj52_-NR4S/view?usp=sharing)
 3.60N*|July 29th, 2020|JZ|[Download](https://drive.google.com/file/d/16O0_w0YZrkckw0IFxdcJ4uQm-gh3Wgsj/view?usp=sharing)
 3.60L*|July 24th, 2020|JZ|[Download](https://drive.google.com/file/d/1ORFJm5TEydCK0CEkCFBmczKYbk8LHexr/view?usp=sharing)
