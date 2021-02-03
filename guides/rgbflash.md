@@ -15,6 +15,7 @@ Please flash the RGB controller firmware by following the steps below.
 <br>
 2. Execute "UpdateFW.cmd” to update the RGB controller firmware.  
 ![](/ASRockWiki/assets/img/includes/wiki/rgbflash0.jpg)  
+<br>
 3. After step 2 please wait for 10 seconds or so and the firmware flash will finish.  
 ![](/ASRockWiki/assets/img/includes/wiki/rgbflash1.jpg)  
 <br>
