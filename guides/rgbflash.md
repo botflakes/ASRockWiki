@@ -1,6 +1,9 @@
 # > RGB Flash Guide
 
+# Introduction
+
 The following guide is for the X570 & B550 Taichi. The procedure is similar to other motherboards. 
+<p style="color:#840000;text-align:center;font-size:x-large">We're not responsible for any damage that may happen to your board!</p>
 
 **Question:**  
 I cannot control the RGB lighting via RAZER Synapse on my X570/B550 Taichi Razer Edition motherboard. How do I solve this problem?(1/1/2021)
