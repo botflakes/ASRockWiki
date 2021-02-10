@@ -21,7 +21,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**Unigine Heaven**](https://benchmark.unigine.com/heaven) - GPU Benchmark
 * [**CrystalDiskMark**](https://crystalmark.info/en/download/) - Benchmark for Hard Disk- and Solid State Drives
 * [**Blender Benchmark**](https://opendata.blender.org/) - CPU Benchmark
-* [**y-cruncher Benchmark**](http://www.numberworld.org/y-cruncher/)
+* [**y-cruncher Benchmark**](http://www.numberworld.org/y-cruncher/) - GPU Benchmark
 * [**Unigine Superposition**](https://benchmark.unigine.com/superposition) - GPU Benchmark
 
 # **Stress Testing**
