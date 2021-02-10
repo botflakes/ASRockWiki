@@ -38,7 +38,6 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**Thaiphoon Burner**](http://www.softnology.biz/files.html) - Helps identify your system memory
 * [**ClockTuner for Ryzen**](https://www.guru3d.com/files-details/clocktuner-for-ryzen-download.html) - CTR software allows you to customize the system
 * [**Driver Store Explorer**](https://github.com/lostindark/DriverStoreExplorer/releases) - Can help to delete old unused drivers on windows
-* [**ASRock Polychrome IBP**](http://content.ibuypower.com/download/others/PolychromeRGB.zip) - Polychrome Version for IBuyPower prebuilt Systems
 * [**DRAM Calculator for Ryzen**](https://www.techpowerup.com/download/ryzen-dram-calculator/) - Helps you with overclocking your system memory
 
 # **Helpful Links**
