@@ -425,6 +425,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30D|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1yESunrqqsQYuI8BmPeoXpXFftOw-r_Sq/view?usp=sharing)
 4.20M|November 22nd, 2019|ASRock|[Download](https://drive.google.com/file/d/1S6xRbyt-pk8oXuFKsIJA869kknMIdn4c/view?usp=sharing)
 4.20L|November 19th, 2019|ASRock|[Download](https://drive.google.com/file/d/1n07WJVd1U_hhd_JXehtUbl6GgZD9r-YM/view?usp=sharing)
 4.01A|May 10th, 2019|ASRock|[Download](https://drive.google.com/file/d/16frXI5DCqfO7q_JHI1GLz1cwdDcu-PXH/view?usp=sharing)
@@ -453,6 +454,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30C|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1hdCNYMTT6Fi4G2dQGgXFtavygyvh-agj/view?usp=sharing)
 4.20A|November 25th, 2019|ASRock|[Download](https://drive.google.com/file/d/1qk40cOZq1aLz_pd9CMXjBDliQGluiT8q/view?usp=sharing)
 
 **Z390M Pro4**
