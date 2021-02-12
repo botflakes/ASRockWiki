@@ -165,5 +165,5 @@
 <h2> Notice </h2>
 <p>Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.</p>
 
-<h2> Source </h2>
+<h2> Sources </h2>
 <img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
