@@ -419,13 +419,13 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.40H|January 18th, 2021|ASRock|[Download](https://drive.google.com/file/d/1BSJ0hOuPS6kwXj8hjm06WsDu0KpetgTc/view?usp=sharing)
+4.40H|January 18th, 2021|ASRock|[Download](https://drive.google.com/file/d/1agt2hNskQh0Fih48UrFcWoSPwS07MWTY/view?usp=sharing)
 
 **Z390 Phantom Gaming 6**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.30D|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1yESunrqqsQYuI8BmPeoXpXFftOw-r_Sq/view?usp=sharing)
+4.30D|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/15zHX5kv0wHVgYM32mMNAbKt-c0oeCTED/view?usp=sharing)
 4.20M|November 22nd, 2019|ASRock|[Download](https://drive.google.com/file/d/1S6xRbyt-pk8oXuFKsIJA869kknMIdn4c/view?usp=sharing)
 4.20L|November 19th, 2019|ASRock|[Download](https://drive.google.com/file/d/1n07WJVd1U_hhd_JXehtUbl6GgZD9r-YM/view?usp=sharing)
 4.01A|May 10th, 2019|ASRock|[Download](https://drive.google.com/file/d/16frXI5DCqfO7q_JHI1GLz1cwdDcu-PXH/view?usp=sharing)
@@ -443,6 +443,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.04A|August 20th, 2019|ASRock|[Download](https://drive.google.com/file/d/1yNyGUOUhJWSjmzEhiUc1EwOVBo0nEX62/view?usp=sharing)
 
+**Z390 Phantom Gaming-ITX/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.40G|February 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-NEK6gMyLC2S-SoMAKC8zXpQsukZMCu5/view?usp=sharing)
+
 **Z390 Taichi**
 
 Revision|Date Published|Source|Mirror 1
@@ -454,8 +460,14 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.30C|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1hdCNYMTT6Fi4G2dQGgXFtavygyvh-agj/view?usp=sharing)
+4.30C|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1svFMtlZ663uV_nA6uZhZk8noF4IklZZs/view?usp=sharing)
 4.20A|November 25th, 2019|ASRock|[Download](https://drive.google.com/file/d/1qk40cOZq1aLz_pd9CMXjBDliQGluiT8q/view?usp=sharing)
+
+**Z390 Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.70A|February 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gekx5asUheNi7y6BYTFoSa7OY5EAmAxY/view?usp=sharing)
 
 **Z390M Pro4**
 
