@@ -465,6 +465,12 @@ Revision|Date Published|Source|Mirror 1
 4.30C|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1svFMtlZ663uV_nA6uZhZk8noF4IklZZs/view?usp=sharing)
 4.20A|November 25th, 2019|ASRock|[Download](https://drive.google.com/file/d/1qk40cOZq1aLz_pd9CMXjBDliQGluiT8q/view?usp=sharing)
 
+**Z390 Steel Legend**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.30B|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1ptrWFkz5Z7fvIdJfp5tvr-FqIk7JZVeQ/view?usp=sharing)
+
 **Z390 Pro4**
 
 Revision|Date Published|Source|Mirror 1
