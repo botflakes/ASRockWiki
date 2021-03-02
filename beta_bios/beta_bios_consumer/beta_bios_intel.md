@@ -539,6 +539,14 @@ Revision|Date Published|Source|Mirror 1
 1.61|March 6th, 2018|ASRock|[Download](https://drive.google.com/file/d/1CUQ1iz6LTz8W79SXqy5yAisjUMi2-w2m/view?usp=sharing)
 1.17|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1U0-umcFAAfn-FGphvJNY_WjAi3BHJDEr/view?usp=sharing)
 
+## **Socket 1151 : Intel H370**
+
+**H370M-ITX/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.30D|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1PovoPUIbk9ZUHE72nX8FmS4p7NbkV-Xb/view?usp=sharing)
+
 ## **Socket 1151 : Intel B365**
 
 **B365 Phantom Gaming 4**
