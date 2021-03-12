@@ -151,7 +151,7 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 Patch D</td>
-            <td>New Curve Optimizer OC feature enabled<br>- Support for Ryzen 5000 Series on 400 Series mobos<br>- General stability improvements</td>
+            <td>- New Curve Optimizer OC feature enabled<br>- Support for Ryzen 5000 Series on 400 Series mobos<br>- General stability improvements</td>
             <td>None</td>
         </tr>        
         <tr>
@@ -181,7 +181,7 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.2</td>
-            <td>Fix: USB port dropout<br>- Fix: USB 2.0 audio crackling (e.g., DAC/AMP combos)<br>- USB/PCIe Gen 4 exclusion</td>
+            <td>- Fix: USB port dropout<br>- Fix: USB 2.0 audio crackling (e.g., DAC/AMP combos)<br>- USB/PCIe Gen 4 exclusion</td>
             <td>Source:<br><a href="https://community.amd.com/t5/knowledge-base/updated-agesa-coming-for-intermittent-usb-connectivity/ta-p/456762" target="_blank">AMD</a></td>
         </tr>
     </tbody>
@@ -191,4 +191,4 @@
 <p>Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.</p>
 
 <h2> Sources </h2>
-<img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
+<img src="https://www.countryflags.io/de/shiny/16.png"> / <img src="https://www.countryflags.io/gb/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
