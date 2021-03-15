@@ -292,7 +292,8 @@ Revision|Date Published|Source|Mirror 1
 ### **X470 Taichi Ultimate**
 
 Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--        
+:--|:--|:--:|:--  
+4.62|March 15th, 2021|ASRock|[Download](https://drive.google.com/file/d/1phhodh6ooHgwtWWmPA8CkUIDGlS9m3Do/view?usp=sharing)      
 4.12|July 23rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1skaaYCGQXSKHHXltsrE6WRMMUJRZcCh6/view?usp=sharing)
 4.11|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/13RE67fCQug1Gf6i1hNcZ0c2lDqIkHUdX/view?usp=sharing)
 4.10|July 15th, 2020|JZ|[Download](https://drive.google.com/file/d/1lQWn2KBgzCkfQ6R-fqHVJMeZRILwd-Pr/view?usp=sharing)
@@ -313,6 +314,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.62|March 15th, 2021|ASRock|[Download](https://drive.google.com/file/d/1SvpeFvzFl2luJ218fPAu-LMyPE3CwCpr/view?usp=sharing)
 4.11|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/1T5-SkNhtU7y5uBndE3qPcPyBakWapxbl/view?usp=sharing)
 4.10|July 15th, 2020|JZ|[Download](https://drive.google.com/file/d/1odlkt294zdVdEjP_IOTyN55Bob7Glchf/view?usp=sharing)
 3.94|April 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1CC3w6QdVf2EMOMvzO4y5ySLOvBqrcUVX/view?usp=sharing)
