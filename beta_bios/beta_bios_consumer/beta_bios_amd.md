@@ -287,7 +287,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ADeFx26oPwH_pbYwGzoXb4alPT5GlzSr/view?usp=sharing)
 
-## **Socket AM4 : AMD X470**
+## **Socket AM4 AMD X470**
 
 ### **X470 Taichi Ultimate**
 
