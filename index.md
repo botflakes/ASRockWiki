@@ -7,7 +7,7 @@ layout: default
 In the meantime, you could join our Discord<br>
 <br>
     <a href="https://discord.gg/rFrMpxV">
-        <img src="https://discordapp.com/api/guilds/734825971848577038/widget.png?style=shield">
+        <img src="https://discordapp.com/api/guilds/734825971848577038/widget.png?style=banner2">
     </a>
 </p> 
 
