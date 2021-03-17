@@ -14,7 +14,7 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 ***
 
-## **Socket 2066 : Intel X299**
+## **Socket 2066 Intel X299**
 
 **Fatal1ty X299 Professional Gaming**
 
@@ -58,7 +58,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.03|November 2nd, 2017|ASRock|[Download](https://drive.google.com/file/d/1XwAmYa6U__lkAh9hlPHAM6WxhYlV5546/view?usp=sharing)
 
-## **Socket 2011-3 : Intel X99**
+## **Socket 2011-3 Intel X99**
 
 **Fatal1ty X99 Professional Gaming i7**
 
@@ -170,7 +170,7 @@ Revision|Date Published|Source|Mirror 1
 3.20|August 3rd, 2016|ASRock|[Download](https://drive.google.com/file/d/1MRWu6fWLFHMd8b0Q1j91AtPzbw0PWTi-/view?usp=sharing)
 3.10|July 1st, 2016|ASRock|[Download](https://drive.google.com/file/d/1GkA0x8xJlq-iRHc-WyGmVYfB0jEnNWjV/view?usp=sharing)
 
-## **Socket 2011 : Intel X79**
+## **Socket 2011 Intel X79**
 
 **Fatal1ty X79 Champion**
 
@@ -235,7 +235,7 @@ Revision|Date Published|Source|Mirror 1
 3.30M|April 10th, 2015|ASRock|[Download](https://drive.google.com/file/d/1BwYuIEmycSzi9EK5ZqFQ8IDIibkpFnNr/view?usp=sharing)
 3.01|August 10th, 2013|ASRock|[Download](https://drive.google.com/file/d/1poC8wZOkI7WuxMcDDG9kZcmAG-8TAw2o/view?usp=sharing)
 
-## **Socket 1366 : Intel X58**
+## **Socket 1366 Intel X58**
 
 **X58 Extreme**
 
@@ -255,7 +255,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.60C|January 24th, 2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
 
-## **Socket 1200 : Intel Z490**
+## **Socket 1200 Intel Z490**
 
 **Z490 Aqua**
 
@@ -326,7 +326,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.32|December 4th, 2020|ASRock|[Download](https://drive.google.com/file/d/1qy8jJzn7N0lg4UdgHC-B3-7H6IS0XncY/view?usp=sharing)
 
-## **Socket 1200 : Intel H470**
+## **Socket 1200 Intel H470**
 
 **H470 Phantom Gaming 4**
 
@@ -354,7 +354,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.22|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/132XCr9ydVkC9hOIPTtH73cuSEo-BzHwr/view?usp=sharing)
 
-## **Socket 1200 : Intel B460**
+## **Socket 1200 Intel B460**
 
 **B460 Phantom Gaming 4**
 
@@ -406,7 +406,7 @@ Revision|Date Published|Source|Mirror 1
 1.51|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/1gkRU2tD4wz7Ov-hbGiEDZgDs2Omo6Q_l/view?usp=sharing)
 1.40A|July 29th, 2020|ASRock|[Download](https://drive.google.com/file/d/1o9zsvC7JZGfz5OTCL0oyrCLdp0S86MBl/view?usp=sharing)
 
-## **Socket 1151 : Intel Z390**
+## **Socket 1151 Intel Z390**
 
 **Z390 Extreme4**
 
@@ -455,6 +455,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30H|March 17th, 2021|ASRock|[Download](https://drive.google.com/file/d/1zhmY56YSSmJHP6ju8yHuHgQ9gd3etJc8/view?usp=sharing)
 4.21|August 21st, 2019|ASRock|[Download](https://drive.google.com/file/d/1Pf1jMcfTnM9IZWCzF7ie0EeQdBEMTUlx/view?usp=sharing)
 1.90|January 22nd, 2019|ASRock|[Download](https://drive.google.com/file/d/1pjdCE9z_nnJzAeQ5v5g6kigu8m_Ibd5R/view?usp=sharing)
 
@@ -490,7 +491,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.30E|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1wo7MysKzQat2S76e8rY2t4P4-my88G3b/view?usp=sharing)
 
-## **Socket 1151 : Intel Z370**
+## **Socket 1151 Intel Z370**
 
 **Z370 Extreme4**
 
@@ -540,7 +541,7 @@ Revision|Date Published|Source|Mirror 1
 1.61|March 6th, 2018|ASRock|[Download](https://drive.google.com/file/d/1CUQ1iz6LTz8W79SXqy5yAisjUMi2-w2m/view?usp=sharing)
 1.17|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1U0-umcFAAfn-FGphvJNY_WjAi3BHJDEr/view?usp=sharing)
 
-## **Socket 1151 : Intel H370**
+## **Socket 1151 Intel H370**
 
 **H370M-ITX/ac**
 
@@ -548,7 +549,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.30D|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1PovoPUIbk9ZUHE72nX8FmS4p7NbkV-Xb/view?usp=sharing)
 
-## **Socket 1151 : Intel B365**
+## **Socket 1151 Intel B365**
 
 **B365 Phantom Gaming 4**
 
@@ -568,7 +569,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.24|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1PyqqQD7gzlNkzIUFKELP0K6UmjOG_2Yq/view?usp=sharing)
 
-## **Socket 1151 : Intel Z270**
+## **Socket 1151 Intel Z270**
 
 **Z270 Extreme4**
 
@@ -667,7 +668,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.11|June 27th, 2017|ASRock|[Download](https://drive.google.com/file/d/1lGOJNsnAKAsq4dZy-QbVw-G9toryGdTT/view?usp=sharing)
 
-## **Socket 1151 : Intel H270**
+## **Socket 1151 Intel H270**
 
 **H270 Performance**
 
@@ -706,7 +707,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.02|June 27th, 2017|ASRock|[Download](https://drive.google.com/file/d/1iYlVffCuNlXGC2ucwlg8ulSIT0kie7Pr/view?usp=sharing)
 
-## **Socket 1151 : Intel B250**
+## **Socket 1151 Intel B250**
 
 **B250 Gaming K4**
 
@@ -741,7 +742,7 @@ Revision|Date Published|Source|Mirror 1
 2.41|March 16th, 2018|ASRock|[Download](https://drive.google.com/file/d/1w7Z_867TQqmI8YEf_WTuzQ9xOKOYs2UX/view?usp=sharing)
 2.11|June 27th, 2017|ASRock|[Download](https://drive.google.com/file/d/1xatbT-JpnMNktBUul7OK9FYHsXcr7OLq/view?usp=sharing)
 
-## **Socket 1151 : Intel C232**
+## **Socket 1151 Intel C232**
 
 **E3V5 Performance Gaming OC**
 
@@ -753,7 +754,7 @@ Revision|Date Published|Source|Mirror 1
 1.40|April 8th, 2016|ASRock|[Download](https://drive.google.com/file/d/1Fgjx9QiRDba2vqXXoVOAHez-YmU58DAN/view?usp=sharing)
 1.30|March 31st, 2016|ASRock|[Download](https://drive.google.com/file/d/1dZ2t2HTQik8mSqsxMx2fQq1o0eU6kbdj/view?usp=sharing)
 
-## **Socket 1151 : Intel Z170**
+## **Socket 1151 Intel Z170**
 
 **Z170 Extreme3**
 
@@ -937,7 +938,7 @@ Revision|Date Published|Source|Mirror 1
 2.22|November 25th, 2015|ASRock|[Download](https://drive.google.com/file/d/13MX0w0HG0wBAaXJgGiRg5f6HPUqxLf2P/view?usp=sharing)
 1.81|September 18th, 2015|ASRock|[Download](https://drive.google.com/file/d/1A4LhIvPs3igaTT4NWIyfdOVMEyyE7o-0/view?usp=sharing)
 
-## **Socket 1151 : Intel H170**
+## **Socket 1151 Intel H170**
 
 **H170 Combo**
 
@@ -1016,7 +1017,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.61|November 24th, 2015|ASRock|[Download](https://drive.google.com/file/d/184ldPDxkTSeogRIqnupUO_11NsN_hmpo/view?usp=sharing)
 
-## **Socket 1151 : Intel Q170**
+## **Socket 1151 Intel Q170**
 
 **Q170M vPro**
 
@@ -1024,7 +1025,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.71|November 24th, 2015|ASRock|[Download](https://drive.google.com/file/d/1lw456WI-DcnOrm9coNpIWWwptTAVu3f7/view?usp=sharing)
 
-## **Socket 1151 : Intel B150**
+## **Socket 1151 Intel B150**
 
 **B150 Combo**
 
@@ -1110,7 +1111,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.61|November 24th, 2015|ASRock|[Download](https://drive.google.com/file/d/1iACnonxywJZ5iwaz4SqblfpJMvH4Vbk3/view?usp=sharing)
 
-## **Socket 1151 : Intel H110**
+## **Socket 1151 Intel H110**
 
 **H110 Pro BTC+**
 
@@ -1209,7 +1210,7 @@ Revision|Date Published|Source|Mirror 1
 7.60K|June 13th, 2018|ASRock|[Download](https://drive.google.com/file/d/1thzAITIc_zz6Qao7WMeQavcOh3DiH7qh/view?usp=sharing)
 1.41|September 14th, 2016|ASRock|[Download](https://drive.google.com/file/d/1-rjS5wyYdRPp5Qk8zSuxVTHBxHbalscC/view?usp=sharing)
 
-## **Socket 1150 : Intel Z97**
+## **Socket 1150 Intel Z97**
 
 **Z97 Anniversary**
 
@@ -1342,7 +1343,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.50B|December 15th, 2017|ASRock|[Download](https://drive.google.com/file/d/1FVV7afA1636IaOl_jwFrv_DP0_eUhrXP/view?usp=sharing)
 
-## **Socket 1151 : Intel H97**
+## **Socket 1151 Intel H97**
 
 **H97 Killer**
 
@@ -1363,7 +1364,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.12|July 29th, 2014|ASRock|[Download](https://drive.google.com/file/d/1hf7fPSN3gaHwBzFh7vxbMnE5EmYszZLs/view?usp=sharing)
 
-## **Socket 1150 : Intel Z87**
+## **Socket 1150 Intel Z87**
 
 **Fatal1ty Z87 Killer**
 
@@ -1529,7 +1530,7 @@ Revision|Date Published|Source|Mirror 1
 2.22|July 1st, 2014|ASRock|[Download](https://drive.google.com/file/d/1RiYlaRbTp1GzAUp45xsBoszgldVjBXtc/view?usp=sharing)
 2.20A|November 13th, 2013|ASRock|[Download](https://drive.google.com/file/d/1CP1okSzZQlifFu61rc1YyV3KYlhDvpxI/view?usp=sharing)
 
-## **Socket 1150 : Intel H87**
+## **Socket 1150 Intel H87**
 
 **Fatal1ty H87 Performance**
 
@@ -1578,7 +1579,7 @@ Revision|Date Published|Source|Mirror 1
 2.70|March 10th, 2018|ASRock|[Download](https://drive.google.com/file/d/1GyxAierdNBPD5RE2QMkTabs9hRvJ4qEE/view?usp=sharing)
 1.80A|November 13th, 2013|ASRock|[Download](https://drive.google.com/file/d/1YbXZP4K9-zYwwMVpxxYPNXn8CKaGy22H/view?usp=sharing)
 
-## **Socket 1150 : Intel Q87**
+## **Socket 1150 Intel Q87**
 
 **Q87M vPro**
 
@@ -1588,7 +1589,7 @@ Revision|Date Published|Source|Mirror 1
 1.72|July 7th, 2014|ASRock|[Download](https://drive.google.com/file/d/1CMI0KUqIj6-hk546fghRYxJDPbXlVI9F/view?usp=sharing)
 1.40C|November 12th, 2013|ASRock|[Download](https://drive.google.com/file/d/1DVIZjgQcTadjZ5RhnjH3DAQ-Ad_gyK2Q/view?usp=sharing)
 
-## **Socket 1150 : Intel B85**
+## **Socket 1150 Intel B85**
 
 **B85 Anniversary**
 
@@ -1683,7 +1684,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.10A|December 5th, 2013|ASRock|[Download](https://drive.google.com/file/d/1sr-vRulXFaeKOeR8zq9mFYy6YDvLp7iS/view?usp=sharing)
 
-## **Socket 1150 : Intel Z97**
+## **Socket 1150 Intel Z97**
 
 **P85 Pro3**
 
@@ -1691,7 +1692,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.70A|Nov. 13th, 2013|ASRock|[Download](https://drive.google.com/file/d/1hUXofzaDXsUq2J1AQ-51pF3vAzvKHP_u/view?usp=sharing)
 
-## **Socket 1150 : Intel H81**
+## **Socket 1150 Intel H81**
 
 **H81 Pro BTC**
 
@@ -1817,7 +1818,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.40|March 12th, 2018|ASRock|[Download](https://drive.google.com/file/d/1nE3DHg0w7ZfQbuQuat_tFIvUObOZXxSG/view?usp=sharing)
 
-## **Socket 1150 : Intel P81**
+## **Socket 1150 Intel P81**
 
 **P81 Pro3**
 
@@ -1826,7 +1827,7 @@ Revision|Date Published|Source|Mirror 1
 1.60A|Dec. 19th, 2013|ASRock|[Download](https://drive.google.com/file/d/19HfkXmGzuNDhyLC6ZHUZd06W0aqAlPT7/view?usp=sharing)
 1.40A|Nov. 13th, 2013|ASRock|[Download](https://drive.google.com/file/d/1zQyxYyKDCVS2_5owXbprCChpwe3mmGmS/view?usp=sharing)
 
-## **Socket 1155 : Intel Z77**
+## **Socket 1155 Intel Z77**
 
 **Fatal1ty Z77 Professional**
 
@@ -1944,7 +1945,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.80|Mar. 13th, 2018|ASRock|[Download](https://drive.google.com/file/d/1M-nQUJNFEBHPbM0S8g8ekrBfHFApudc1/view?usp=sharing)
 
-## **Socket 1155 : Intel H77**
+## **Socket 1155 Intel H77**
 
 **H77 Pro4-M**
 
@@ -1972,7 +1973,7 @@ Revision|Date Published|Source|Mirror 1
 2.00|Mar. 14th, 2018|ASRock|[Download](https://drive.google.com/file/d/1c2vrx0kXdo8i2GrLFqaClubrtjzLU7Lq/view?usp=sharing)
 1.40A|Jan. 11th, 2013|ASRock|[Download](https://drive.google.com/file/d/1WmH-Hb2iyC1u1mtNqVRZCKvmokgA36hV/view?usp=sharing)
 
-## **Socket 1155 : Intel Z75**
+## **Socket 1155 Intel Z75**
 
 **Z75 Pro3**
 
@@ -1980,7 +1981,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.10|Mar. 13th, 2018|ASRock|[Download](https://drive.google.com/file/d/1ffcr9jsq-WAfCjsa_-pCKcfoFZFW5gRB/view?usp=sharing)
 
-## **Socket 1155 : Intel B75**
+## **Socket 1155 Intel B75**
 
 **B75 Pro3**
 
@@ -2042,7 +2043,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.00|Mar. 13th, 2018|ASRock|[Download](https://drive.google.com/file/d/1EE0MZ75XX7RAwwBjodkdenor4P97-tob/view?usp=sharing)
 
-## **Socket 1155 : Intel H71**
+## **Socket 1155 Intel H71**
 
 **H71M-DG3**
 
@@ -2050,7 +2051,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.30A|Oct. 16th, 2012|ASRock|[Download](https://drive.google.com/file/d/1Xd3Hi8zLbkRuCZuiy3xlglXAe33FVKq4/view?usp=sharing)
 
-## **Socket 1155 : Intel Z68**
+## **Socket 1155 Intel Z68**
 
 **Fatal1ty Z68 Professional Gen3**
 
@@ -2122,7 +2123,7 @@ Revision|Date Published|Source|Mirror 1
 2.30|Mar. 15th, 2018|ASRock|[Download](https://drive.google.com/file/d/1AKjk8HLW-6oIf-mTPGTBwLXSaTmIi70H/view?usp=sharing)
 2.21A|Feb. 22nd, 2013|ASRock|[Download](https://drive.google.com/file/d/1ME0zrlbbXp72IjZ-SJmF-VQRUZ6pLz0e/view?usp=sharing)
 
-## **Socket 1155 : Intel P67**
+## **Socket 1155 Intel P67**
 
 **Fatal1ty P67 Performance**
 
@@ -2151,7 +2152,7 @@ Revision|Date Published|Source|Mirror 1
 3.40|Mar. 17th, 2018|ASRock|[Download](https://drive.google.com/file/d/1RHXilN7mhcE5eRn0gTqDWhb795124Tv6/view?usp=sharing)
 3.25C|Nov. 26th, 2014|ASRock|[Download](https://drive.google.com/file/d/1WcmdB5E7dZUV0QRXOuWTY2BX5hdWbtpE/view?usp=sharing)
 
-## **Socket 1155 : Intel H67**
+## **Socket 1155 Intel H67**
 
 **H67DE3**
 
@@ -2165,7 +2166,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.17A|Jan. 29th, 2013|ASRock|[Download](https://drive.google.com/file/d/19w945pQiMxjnJiLWL4VqRtq37q5bGuBM/view?usp=sharing)
 
-## **Socket 1155 : Intel P65**
+## **Socket 1155 Intel P65**
 
 **P65iCafe**
 
@@ -2173,7 +2174,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.71D|Sep. 4th, 2012|ASRock|[Download](https://drive.google.com/file/d/1c4_V7gUo4wo5gUSM_geeYEsVIxJHWnfm/view?usp=sharing)
 
-## **Socket 1155 : Intel H61**
+## **Socket 1155 Intel H61**
 
 **H61 Pro**
 
@@ -2267,7 +2268,7 @@ Revision|Date Published|Source|Mirror 1
 2.21F|Nov. 7th, 2012|ASRock|[Download](https://drive.google.com/file/d/1fIONjoNXPqfNeiMJd27_o7iEJiAa0sdH/view?usp=sharing)
 1.70C|Apr. 16th, 2012|ASRock|[Download](https://drive.google.com/file/d/1GDSYOORFuYTOoVyr7Pl7zeG2BdF7ctZS/view?usp=sharing)
 
-## **Socket 775 : Intel G41**
+## **Socket 775 Intel G41**
 
 **G41C-GS**
 
@@ -2281,7 +2282,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.00B|Dec. 29th, 2014|ASRock|[Download](https://drive.google.com/file/d/1TvKVs8KdILB-P6ICubGnYW6Fj5TAX4Y7/view?usp=sharing)
 
-## **Intel CPU : Intel Apollo Lake**
+## **Intel CPU Intel Apollo Lake**
 
 **J4205-ITX**
 
@@ -2298,7 +2299,7 @@ Revision|Date Published|Source|Mirror 1
 1.40H|Nov. 2nd, 2017|ASRock|[Download](https://drive.google.com/file/d/1R2SC1aEOFHh2xJiPQ-pYwpeHdRc0Yi8Y/view?usp=sharing)
 1.30A|May 8th, 2017|ASRock|[Download](https://drive.google.com/file/d/1iKMcogikxHUZNUXbNiUr4vZMuvxLH9LT/view?usp=sharing)
 
-## **Intel CPU : Intel Bay Trail-D**
+## **Intel CPU Intel Bay Trail-D**
 
 **D1800M**
 
@@ -2337,7 +2338,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.21|Nov. 12th, 2015|ASRock|[Download](https://drive.google.com/file/d/1Lss92Wgn9V3RYOwfCZowDC7Eaz3YSNpg/view?usp=sharing)
 
-## **Intel CPU : Intel NM10 Express**
+## **Intel CPU Intel NM10 Express**
 
 **AD2700-ITX**
 
