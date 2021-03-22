@@ -553,6 +553,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.30B|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1BieTyP9DfIvca_eX1trQqrelE-FLUQZS/view?usp=sharing)
 
+**Z370 Killer SLI/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.30B|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1vEuIjBcsyOveuK7dvOjbPSelijwQ6543/view?usp=sharing)
+
 **Z370 Pro4**
 
 Revision|Date Published|Source|Mirror 1
