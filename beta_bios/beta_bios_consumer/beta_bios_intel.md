@@ -547,6 +547,12 @@ L4.21A|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1ZNLTt
 1.61|March 5th, 2018|ASRock|[Download](https://drive.google.com/file/d/1SAM7mDYPBnowCDUMjjzCViG5wtJHTJ35/view?usp=sharing)
 1.11|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1cyBCzg24SQovHffUO5o_C4wv6nNAR22S/view?usp=sharing)
 
+**Z370 Killer SLI**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.30B|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1BieTyP9DfIvca_eX1trQqrelE-FLUQZS/view?usp=sharing)
+
 **Z370 Pro4**
 
 Revision|Date Published|Source|Mirror 1
