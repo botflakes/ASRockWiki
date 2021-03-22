@@ -500,17 +500,6 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket 1151 Intel Z370**
 
-**Z370 Extreme4**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-4.21|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1AWHW6aS8kbZowbzlkBEn1i5A5mk6Gf4T/view?usp=sharing)
-4.20|March 11th, 2021|ASRock|[Download](https://drive.google.com/file/d/1dLJqRc2BuaTuq0I0hjtDb9Nn_V3yVgqM/view?usp=sharing)
-3.12|August 21st, 2018|ASRock|[Download](https://drive.google.com/file/d/1u3CY_iPNqERCV2vRnh4sxoSNy4clmLqM/view?usp=sharing)
-1.71|May 24th, 2018|ASRock|[Download](https://drive.google.com/file/d/1ShiSI4whBefRGc21eicFd3OJ9d3uAAKu/view?usp=sharing)
-1.61|March 5th, 2018|ASRock|[Download](https://drive.google.com/file/d/1SAM7mDYPBnowCDUMjjzCViG5wtJHTJ35/view?usp=sharing)
-1.11|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1cyBCzg24SQovHffUO5o_C4wv6nNAR22S/view?usp=sharing)
-
 **Fatal1ty Z370 Gaming ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
@@ -526,16 +515,11 @@ Revision|Date Published|Source|Mirror 1
 1.61|March 5th, 2018|ASRock|[Download](https://drive.google.com/file/d/1o8zeccKZXNnLnnXUNEo6IO_V7c8WXBpb/view?usp=sharing)
 1.11|October 17th, 2017|ASRock|[Download](https://drive.google.com/file/d/1rAKGjOarI4A4wuCYAGT78Dg5YE7c-wUM/view?usp=sharing)
 
-**Z370 Pro4**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-4.32|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1tyDjNvA18mv1cSFo-U421tcXiM9S_Dlo/view?usp=sharing)
-
 **Fatal1ty Z370 Professional Gaming i7**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.20A|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1ZMKkI8Dby_LVVxlU0VJ3wl3IVxSBcFLl/view?usp=sharing)
 1.61A|May 28th, 2018|ASRock|[Download](https://drive.google.com/file/d/1AdMm2cyfN_tA9XO_T7Y26J6iWWyo6KRy/view?usp=sharing)
 1.16|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1IDwGmPuapCGttcIYfyru17IFlBx8v_XQ/view?usp=sharing)
 
@@ -547,6 +531,23 @@ Revision|Date Published|Source|Mirror 1
 1.71E|May 28th, 2018|ASRock|[Download](https://drive.google.com/file/d/1c-SklKWZSKXVVYZ6HSuYpohkaDhp7gMm/view?usp=sharing)
 1.61|March 6th, 2018|ASRock|[Download](https://drive.google.com/file/d/1CUQ1iz6LTz8W79SXqy5yAisjUMi2-w2m/view?usp=sharing)
 1.17|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1U0-umcFAAfn-FGphvJNY_WjAi3BHJDEr/view?usp=sharing)
+
+**Z370 Extreme4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.21|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1AWHW6aS8kbZowbzlkBEn1i5A5mk6Gf4T/view?usp=sharing)
+4.20|March 11th, 2021|ASRock|[Download](https://drive.google.com/file/d/1dLJqRc2BuaTuq0I0hjtDb9Nn_V3yVgqM/view?usp=sharing)
+3.12|August 21st, 2018|ASRock|[Download](https://drive.google.com/file/d/1u3CY_iPNqERCV2vRnh4sxoSNy4clmLqM/view?usp=sharing)
+1.71|May 24th, 2018|ASRock|[Download](https://drive.google.com/file/d/1ShiSI4whBefRGc21eicFd3OJ9d3uAAKu/view?usp=sharing)
+1.61|March 5th, 2018|ASRock|[Download](https://drive.google.com/file/d/1SAM7mDYPBnowCDUMjjzCViG5wtJHTJ35/view?usp=sharing)
+1.11|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1cyBCzg24SQovHffUO5o_C4wv6nNAR22S/view?usp=sharing)
+
+**Z370 Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.32|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1tyDjNvA18mv1cSFo-U421tcXiM9S_Dlo/view?usp=sharing)
 
 ## **Socket 1151 Intel H370**
 
