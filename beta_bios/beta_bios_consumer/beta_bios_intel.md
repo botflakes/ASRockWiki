@@ -511,14 +511,14 @@ Revision|Date Published|Source|Mirror 1
 1.61|March 5th, 2018|ASRock|[Download](https://drive.google.com/file/d/1SAM7mDYPBnowCDUMjjzCViG5wtJHTJ35/view?usp=sharing)
 1.11|October 18th, 2017|ASRock|[Download](https://drive.google.com/file/d/1cyBCzg24SQovHffUO5o_C4wv6nNAR22S/view?usp=sharing)
 
-**Z370 Gaming ITX/ac**
+**Fatal1ty Z370 Gaming ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.91A|June 5th, 2018|ASRock|[Download](https://drive.google.com/file/d/1l5oynlXUfFSSplGhcDULfamqTIDnop8E/view?usp=sharing)
 1.11|October 19th, 2017|ASRock|[Download](https://drive.google.com/file/d/1pejNhiX0EQYyP_ZCqjlTmR9KYp741bF8/view?usp=sharing)
 
-**Z370 Gaming K6**
+**Fatal1ty Z370 Gaming K6**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
@@ -532,7 +532,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.32|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1tyDjNvA18mv1cSFo-U421tcXiM9S_Dlo/view?usp=sharing)
 
-**Z370 Professional Gaming i7**
+**Fatal1ty Z370 Professional Gaming i7**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
