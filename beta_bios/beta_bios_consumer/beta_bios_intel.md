@@ -452,6 +452,12 @@ Revision|Date Published|Source|Mirror 1
 1.20M|February 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1qXDzMG-SBHe9eS97UnO32uI3tTI7MhCo/view?usp=sharing)
 1.04A|August 20th, 2019|ASRock|[Download](https://drive.google.com/file/d/1yNyGUOUhJWSjmzEhiUc1EwOVBo0nEX62/view?usp=sharing)
 
+**Z390 Phantom Gaming SLI**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L4.32A|March 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1S0DoqakJ8l49VAIzvNjtU-HHgXZsL-xs/view?usp=sharing)
+
 **Z390 Phantom Gaming-ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
