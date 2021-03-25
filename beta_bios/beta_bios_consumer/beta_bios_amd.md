@@ -268,6 +268,12 @@ Revision|Date Published|Source|Mirror 1
 L1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gFN08_SG-x4wAmW7g3xfZangcNaaxpjI/view?usp=sharing)
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1nxb-MemEha_uNCeigsGKlAInTAUSsni0/view?usp=sharing)
 
+### **B550 Phantom Gaming 4/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/13DFh9vNpOFqLcZjMBDcNXeO5AzVkYXHJ/view?usp=sharing)
+
 ### **B550 Phantom Gaming-ITX/ax**
 
 Revision|Date Published|Source|Mirror 1
