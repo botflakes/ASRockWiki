@@ -36,6 +36,7 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**DDU**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Uninstaller if you want to remove your GPU driver completely
 * [**nVidia Inspector**](https://www.guru3d.com/files-details/nvidia-inspector-download.html) - Shows GPU info, supports OC and has an build in Multi Display Power Saver
 * [**Thaiphoon Burner**](http://www.softnology.biz/files.html) - Helps identify your system memory
+* [**Ryzen SMU Checker**](https://www.dropbox.com/s/yo8w8satw8fr1td/Ryzen-SMU-Checker-1208.zip?dl=0) - Checks your BIOS files and gives you some helpful information
 * [**ClockTuner for Ryzen**](https://www.guru3d.com/files-details/clocktuner-for-ryzen-download.html) - CTR software allows you to customize the system
 * [**Driver Store Explorer**](https://github.com/lostindark/DriverStoreExplorer/releases) - Can help to delete old unused drivers on windows
 * [**DRAM Calculator for Ryzen**](https://www.techpowerup.com/download/ryzen-dram-calculator/) - Helps you with overclocking your system memory
