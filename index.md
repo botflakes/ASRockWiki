@@ -3,12 +3,14 @@ layout: default
 ---
 
 <p style="color:#fff;font-size:x-large">
-    Welcome to the unofficial ASRock Wiki made by the moderators of r/ASRock and it's users!
+    Welcome to the unofficial ASRock Wiki 
 </p>
-
 <p>
-It's still a bit empty here but we working hard to fill it with content!<br>
-In the meantime, you could join our Discord<br>
+    made by the moderators of r/ASRock and it's users!
+</p>
+<p>
+    It's still a bit empty here but we working hard to fill it with content!<br>
+    In the meantime, you could join our Discord<br>
 <br>
     <a href="https://discord.gg/rFrMpxV">
         <img src="https://discordapp.com/api/guilds/734825971848577038/widget.png?style=banner2">
