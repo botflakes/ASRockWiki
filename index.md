@@ -21,7 +21,6 @@ layout: default
 
 * [FAQs](faq/index.md)
 * [Tools](tools/index.md)
-* [Rules](rules/index.md)
 * [Guides](guides/index.md)
 * [Beta BIOS database](beta_bios/index.md)
 
