@@ -6,7 +6,7 @@ layout: default
     Welcome to the unofficial ASRock Wiki 
 </p>
 <p>
-    made by the moderators of r/ASRock and it's users!
+    This Wiki was made by the moderators of r/ASRock and it's users!
 </p>
 <p>
     It's still a bit empty here but we working hard to fill it with content!<br>
