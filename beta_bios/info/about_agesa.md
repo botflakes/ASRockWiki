@@ -95,7 +95,7 @@
     </tbody>
 </table>
 
-<h2>Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.0</h2>
+<h2>Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.2</h2>
 
 <table class="customTable">
     <colgroup>
