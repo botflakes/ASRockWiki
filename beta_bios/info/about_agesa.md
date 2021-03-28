@@ -180,6 +180,11 @@
             <td>Source:<br><a href="https://twitter.com/AMDRyzen/status/1364971430337740804?s=20" target="_blank">AMD</a></td>
         </tr>
         <tr>
+            <td>Combo-AM4v2Pi 1.2.0.1 Patch A</td>
+            <td>n/a</td>
+            <td>None</td>
+        </tr>
+        <tr>
             <td>Combo-AM4v2Pi 1.2.0.2</td>
             <td>- Fix: USB port dropout<br>- Fix: USB 2.0 audio crackling (e.g., DAC/AMP combos)<br>- USB/PCIe Gen 4 exclusion</td>
             <td>Source:<br><a href="https://community.amd.com/t5/knowledge-base/updated-agesa-coming-for-intermittent-usb-connectivity/ta-p/456762" target="_blank">AMD</a></td>
