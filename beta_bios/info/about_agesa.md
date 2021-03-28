@@ -181,8 +181,8 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.1 - Patch A</td>
-            <td>n/a</td>
-            <td>None</td>
+            <td>- Improve USB compatibility</td>
+            <td>Sources:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.2</td>
