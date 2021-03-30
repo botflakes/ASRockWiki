@@ -281,6 +281,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.32|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jwDT3s--jhMsOmxMrxuTZ4Bw7fh62WBi/view?usp=sharing)
 
+**B560M-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.41|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1G27gXhOlqe7DtG6B9tlx6-2jaL6nEJ7w/view?usp=sharing)
+
 **Z490 Aqua**
 
 Revision|Date Published|Source|Mirror 1
