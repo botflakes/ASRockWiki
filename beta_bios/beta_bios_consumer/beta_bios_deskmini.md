@@ -16,7 +16,7 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 ## **DeskMini AMD Based**
 
-**DeskMini X300**
+### **DeskMini X300**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
@@ -25,7 +25,7 @@ Revision|Date Published|Source|Mirror 1
 1.46E|January 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1nXuh4wK1JTVosSFiJG8xZq9H-st02RcA/view?usp=sharing)
 1.46|October 27th, 2020|JZ|[Download](https://drive.google.com/file/d/1wPcvbiF2YEvAbaFBT01umvVjSy19H_Bg/view?usp=sharing)
 
-**DeskMini A300**
+### **DeskMini A300**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--

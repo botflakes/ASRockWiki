@@ -19,9 +19,10 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 ***
 
-## ASRock Barebone Mini-PCs 
+## ASRock Barebones & Mini-PCs 
 
 - [Beta BIOSes - DeskMini](beta_bios_consumer/beta_bios_deskmini)
+- [Beta BIOSes - 4x4 BOX](beta_bios_consumer/beta_bios_4x4)
 
 ***
 
