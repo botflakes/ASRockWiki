@@ -275,6 +275,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.22|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1t_bqICKb5InxjFmj8eyyFprWIcq6mHFP/view?usp=sharing)
 
+**B560M-ITX/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.32|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jwDT3s--jhMsOmxMrxuTZ4Bw7fh62WBi/view?usp=sharing)
+
 **Z490 Aqua**
 
 Revision|Date Published|Source|Mirror 1
