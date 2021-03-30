@@ -261,7 +261,13 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-L1.61|March 3rd, 2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmjBpJBG9-vnmXCId-qAj1p1buA76/view?usp=sharing)
+L1.61|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmjBpJBG9-vnmXCId-qAj1p1buA76/view?usp=sharing)
+
+**B560 Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.61|March 3rd
 
 **Z490 Aqua**
 
