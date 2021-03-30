@@ -257,6 +257,12 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket 1200 Intel Z490**
 
+**B560 Steel Legend**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.61|March 3rd, 2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmjBpJBG9-vnmXCId-qAj1p1buA76/view?usp=sharing)
+
 **Z490 Aqua**
 
 Revision|Date Published|Source|Mirror 1
