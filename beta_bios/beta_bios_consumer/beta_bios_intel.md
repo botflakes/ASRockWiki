@@ -267,7 +267,13 @@ L1.61|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmj
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-L1.61|March 3rd
+L1.61|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/16Cnn7VsSo32mv8qtVJwVhrbxp8fvAL-e/view?usp=sharing)
+
+**B560M Steel Legend**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.22|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1t_bqICKb5InxjFmj8eyyFprWIcq6mHFP/view?usp=sharing)
 
 **Z490 Aqua**
 
