@@ -555,6 +555,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30D|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/17LTvqcgd3_O5wTPnWgOnVZyjwOB03XuD/view?usp=sharing)
 4.30C|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1svFMtlZ663uV_nA6uZhZk8noF4IklZZs/view?usp=sharing)
 4.20A|November 25th, 2019|ASRock|[Download](https://drive.google.com/file/d/1qk40cOZq1aLz_pd9CMXjBDliQGluiT8q/view?usp=sharing)
 
