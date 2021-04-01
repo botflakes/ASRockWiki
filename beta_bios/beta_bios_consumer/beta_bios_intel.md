@@ -586,6 +586,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30F|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1jsQBwa-uRUE-o_HUw-XG-tdTON_2KcWv/view?usp=sharing)
 4.30E|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1wo7MysKzQat2S76e8rY2t4P4-my88G3b/view?usp=sharing)
 
 ## **Socket 1151 Intel Z370**
