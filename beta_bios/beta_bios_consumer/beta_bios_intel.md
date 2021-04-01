@@ -503,6 +503,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.30B|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1t0JgKQlDCvh7gc4rPmyKgN1B3FaCh7e6/view?usp=sharing)
 1.30A|February 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1iUV3jn9l5yGavRbaDKrC3aM8Aub9aqHk/view?usp=sharing)
 1.20B|November 22nd, 2019|ASRock|[Download](https://drive.google.com/file/d/1LKqIlrrcfCfgzVKItU_JUG_ruD9YZ3it/view?usp=sharing)
 1.20A|November 21st, 2019|ASRock|[Download](https://drive.google.com/file/d/1nx3U0ZQ46v49q0GcsyQiNbCI71lXfh9D/view?usp=sharing)
