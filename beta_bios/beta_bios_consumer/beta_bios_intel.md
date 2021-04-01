@@ -255,7 +255,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.60C|January 24th, 2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
 
-## **Socket 1200 Intel Z490**
+## **Socket 1200 Intel B560**
 
 **B560 Steel Legend**
 
@@ -286,6 +286,8 @@ L1.32|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jwDT3s
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.41|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1G27gXhOlqe7DtG6B9tlx6-2jaL6nEJ7w/view?usp=sharing)
+
+## **Socket 1200 Intel Z490 **
 
 **Z490 Aqua**
 
