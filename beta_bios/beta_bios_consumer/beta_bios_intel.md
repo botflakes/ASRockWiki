@@ -255,6 +255,14 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.60C|January 24th, 2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
 
+## **Socket 1200 Intel H570**
+
+**H570 Steel Legend**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.45|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1nPapc6LVW6FX5U9Cx3msnSRqMtPpAH7W/view?usp=sharing)
+
 ## **Socket 1200 Intel B560**
 
 **B560 Steel Legend**
