@@ -646,6 +646,7 @@ L4.32|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1tyDj
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.20G|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/19nQaxkp9BGnzcdZSPiZSdlbZIHo1BNod/view?usp=sharing)
 4.20F|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1GMutdZh45AT9LXGwjcpDOXcjcKXgA-Yq/view?usp=sharing)
 
 **Z370M-ITX/ac**
