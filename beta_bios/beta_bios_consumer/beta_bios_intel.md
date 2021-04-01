@@ -540,6 +540,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.40H|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1KoniXmN72fRvQhtqQ7BTjWpfN-rdKBdH/view?usp=sharing)
 4.40G|February 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-NEK6gMyLC2S-SoMAKC8zXpQsukZMCu5/view?usp=sharing)
 
 **Z390 Taichi**
