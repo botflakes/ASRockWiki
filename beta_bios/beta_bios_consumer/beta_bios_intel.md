@@ -269,6 +269,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.54|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1AyAF5lEXL-HRcCUC5lVahJe7RXXX4WlM/view?usp=sharing)
 
+**H570M-ITXac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.13|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1c6qa4n56kLSup4EpUGo6mVeSFiqH9Bei/view?usp=sharing)
+
 ## **Socket 1200 Intel B560**
 
 **B560 Steel Legend**
