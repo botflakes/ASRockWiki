@@ -635,6 +635,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30C|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1Lu17Agvle-fyNXkqX0ZZah99nWGPiAJE/view?usp=sharing)
 4.30B|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1vEuIjBcsyOveuK7dvOjbPSelijwQ6543/view?usp=sharing)
 
 **Z370 Pro4**
