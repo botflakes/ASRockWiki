@@ -482,6 +482,13 @@ Revision|Date Published|Source|Mirror 1
 4.40I|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1sHSqb7z4v0ZRNFTJktaEsSVHtbDKl2NZ/view?usp=sharing)
 4.40H|January 18th, 2021|ASRock|[Download](https://drive.google.com/file/d/1agt2hNskQh0Fih48UrFcWoSPwS07MWTY/view?usp=sharing)
 
+**Z390 Phantom Gaming 4S**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.40C|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1xcJ5mEE996rfcWe2wrQwGk7mRl5rheMw/view?usp=sharing)
+1.40B|March 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/184k4jWvOOeaYOq8wqfPTZxfuZV3xBv7x/view?usp=sharing)
+
 **Z390 Phantom Gaming 6**
 
 Revision|Date Published|Source|Mirror 1
@@ -529,12 +536,6 @@ L4.32A|March 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1LziL3
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.40G|February 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-NEK6gMyLC2S-SoMAKC8zXpQsukZMCu5/view?usp=sharing)
-
-**Z390 Phantom Gaming 4S**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-1.40B|March 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/184k4jWvOOeaYOq8wqfPTZxfuZV3xBv7x/view?usp=sharing)
 
 **Z390 Taichi**
 
