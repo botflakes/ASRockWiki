@@ -362,6 +362,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.40|March 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Y5HiaSwE14WaEWuIna0339b7SLdCYZEw/view?usp=sharing)
 4.12|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/1-iLggPzTZJAwQ14ITaCNI9UIgnDNHZ9P/view?usp=sharing)
 4.10|July 16th, 2020|JZ|[Download](https://drive.google.com/file/d/11bzx9b0OhI9EQxr4yh5uvYflG9niguET/view?usp=sharing)
 3.68|December 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1JAcK9lW_6_Ey8FnnMLXF5oVXW3-AHMRA/view?usp=sharing)
@@ -376,6 +377,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+
 4.04|July 16h, 2020|JZ|[Download](https://drive.google.com/file/d/15BFwUbp6lwkB_k8uzAw614s7RZCCJMY8/view?usp=sharing)
 3.58|November 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1ABkeHjEmJkrhT5AphNp7yyEpU0iqC95p/view?usp=sharing)
 3.53|October 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1MwLJ-HlJiSTgaDgDqi1sM6XP-F9LTfRf/view?usp=sharing)
