@@ -629,6 +629,7 @@ L4.21A|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1ZNLTt
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30C|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1GM_v2LaOqqUHhyiI256W4juETtocrSQR/view?usp=sharing)
 4.30B|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1BieTyP9DfIvca_eX1trQqrelE-FLUQZS/view?usp=sharing)
 
 **Z370 Killer SLI/ac**
