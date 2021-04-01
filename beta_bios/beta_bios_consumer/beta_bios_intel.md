@@ -263,6 +263,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.45|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1nPapc6LVW6FX5U9Cx3msnSRqMtPpAH7W/view?usp=sharing)
 
+**H570 Phantom Gaming 4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.54|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1AyAF5lEXL-HRcCUC5lVahJe7RXXX4WlM/view?usp=sharing)
+
 ## **Socket 1200 Intel B560**
 
 **B560 Steel Legend**
