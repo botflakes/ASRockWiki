@@ -652,6 +652,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.20B|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1SGZaOZn4EjQgzY2KGeRLkql3r_xnpr9n/view?usp=sharing)
 4.20A|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1wYvpVAksLQjlWV-b3EMwinc7v-mIL72S/view?usp=sharing)
 
 ## **Socket 1151 Intel H370**
