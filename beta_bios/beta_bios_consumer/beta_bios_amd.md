@@ -110,6 +110,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L3.92|March 31st, 2021|ASRock|[Download](https://drive.google.com/file/d/1bKaTR--QsRrRI0YYd44iIokUD9cl8LxA/view?usp=sharing)
 3.85|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1v029-im6FDvkbTfw401KIzQr-NsaLmmJ/view?usp=sharing)
 3.45|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1lz0GMkfQXBVVUMnstuFtQPt4yo1qCjxC/view?usp=sharing)
 
