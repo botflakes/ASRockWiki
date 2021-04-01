@@ -562,6 +562,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.30C|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1Ck52J8mCwjJVnPZ0XibIubNo7ASWfKub/view?usp=sharing)
 1.30B|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1ptrWFkz5Z7fvIdJfp5tvr-FqIk7JZVeQ/view?usp=sharing)
 
 **Z390 Pro4**
