@@ -275,6 +275,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.13|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1c6qa4n56kLSup4EpUGo6mVeSFiqH9Bei/view?usp=sharing)
 
+**H570M Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.32|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1Emi79rNa8xvs3lIZJIfb1UV3jIqX5KP6/view?usp=sharing)
+
 ## **Socket 1200 Intel B560**
 
 **B560 Steel Legend**
