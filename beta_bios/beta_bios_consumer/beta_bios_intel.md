@@ -568,6 +568,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.70B|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1iWRv6DU8Qswy0CqkDgSKOzbzJh4tdbNr/view?usp=sharing)
 4.70A|February 24th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gekx5asUheNi7y6BYTFoSa7OY5EAmAxY/view?usp=sharing)
 
 **Z390M Pro4**
