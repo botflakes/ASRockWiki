@@ -479,6 +479,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.40I|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1sHSqb7z4v0ZRNFTJktaEsSVHtbDKl2NZ/view?usp=sharing)
 4.40H|January 18th, 2021|ASRock|[Download](https://drive.google.com/file/d/1agt2hNskQh0Fih48UrFcWoSPwS07MWTY/view?usp=sharing)
 
 **Z390 Phantom Gaming 6**
