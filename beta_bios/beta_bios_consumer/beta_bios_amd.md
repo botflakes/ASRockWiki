@@ -12,6 +12,14 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Search will be added soon as it's not that easy to implement. If you are good at such things and you have experiance in adding search functions on GitHub-Pages, hit us up!
 
+# Search (test)
+<div class="container">
+	<div class="well" id="searchbox">
+		<input id="search-field" placeholder="Search the Site"/>
+		<ul id="results"></ul>
+	</div>
+</div>
+
 ***
 
 ## **Socket TR4 AMD X399**
