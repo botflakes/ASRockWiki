@@ -22,3 +22,8 @@ plugins:
   - jemoji
   - jekyll-sitemap
 safe: false
+
+tipue_search:
+  include:
+    pages: true
+    collections: [apples, oranges]
