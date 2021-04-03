@@ -22,10 +22,3 @@ plugins:
   - jemoji
   - jekyll-sitemap
 safe: false
-
-# Search settings
-tipue_search:
-  include:
-    pages: true
-  exclude:
-    files: [search.html]
