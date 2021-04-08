@@ -29,7 +29,8 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-3.63 **|August 24th, 2020|ASRock|[Download](https://drive.google.com/file/d/1u-o0iPc1isO7L7Na-0qjAad7O0oxvNN_/view?usp=sharing)
+3.70B|March 29th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-KZaOi7p-HRQrJXmEC0r4oGGG0kRAtsz/view?usp=sharing)
+3.63**|August 24th, 2020|ASRock|[Download](https://drive.google.com/file/d/1u-o0iPc1isO7L7Na-0qjAad7O0oxvNN_/view?usp=sharing)
 3.60S*|September 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1JCPdLWH9ztrcAHMj47e2gVwzr0brrJIJ/view?usp=sharing)
 3.60R*|August 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1kPVqnIFTBa4lBtw-735KYDLj52_-NR4S/view?usp=sharing)
 3.60N*|July 29th, 2020|JZ|[Download](https://drive.google.com/file/d/16O0_w0YZrkckw0IFxdcJ4uQm-gh3Wgsj/view?usp=sharing)
@@ -38,6 +39,6 @@ Revision|Date Published|Source|Mirror 1
 3.60H|June 12th, 2020|ASRock|[Download](https://drive.google.com/file/d/1qZ7miy1JYVCyKgk3QlmEx2HApvoqMQ_n/view?usp=sharing)
 
 <p>
-    ⚠️ * = This BIOS does not support Bristol Ridge APUs. Please DO NOT update the BIOS when using Bristol Ridge APU<br>
-    ⚠️ * = Doesn't support Renoir. We strongly recommend 3.60S
+    ⚠️ *    = This BIOS does not support Bristol Ridge APUs. Please DO NOT update the BIOS when using Bristol Ridge APU<br>
+    ⚠️ **   = Doesn't support Renoir. We strongly recommend 3.60S
 </p>
