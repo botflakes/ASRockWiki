@@ -11,7 +11,7 @@
 
 But that’s not the reason I write this. It seems that many people, especially new pc builders, are overwhelmed when they see something like this on their brand new motherboard:
 
-<p style="text-align: center;"><img src="/ASRockWiki/assets/img/includes/wiki/12VEPS/"/></p>
+<p style="text-align: center;"><img src="/ASRockWiki/assets/img/includes/wiki/12VEPS/8+4Pin_EPS.png"/></p>
 <p style="text-align:center;font-size:10px">(8+4 Pin EPS 12V - credit u/CornFlakes1991)</p>
 
 A 8+4 Pin 12V EPS connector. 
