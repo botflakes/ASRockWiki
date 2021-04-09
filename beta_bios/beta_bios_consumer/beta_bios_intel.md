@@ -418,6 +418,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.12|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1baFsJ6IZqLttCkB_U4gc6joZ-2uzuXMC/view?usp=sharing)
 
+**H470M-HDV/M.2**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.12|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1K-OiZVmI_tDOr7MS4wdDyFTv04neCSIN/view?usp=sharing)
+
 ## **Socket 1200 Intel B460**
 
 **B460 Phantom Gaming 4**
