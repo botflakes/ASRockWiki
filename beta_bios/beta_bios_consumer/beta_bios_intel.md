@@ -502,6 +502,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.32|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Rv-19QFVAFp36StPTuJWrSXafH98U0J4/view?usp=sharing)
 
+**H410M-HVS**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1opIc9luOrYBx2BnWVAFdEohzEs_f0NCu/view?usp=sharing)
+
 ## **Socket 1151 Intel Z390**
 
 **Z390 Extreme4**
