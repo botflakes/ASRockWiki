@@ -412,6 +412,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.22|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/132XCr9ydVkC9hOIPTtH73cuSEo-BzHwr/view?usp=sharing)
 
+**H470M-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.12|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1baFsJ6IZqLttCkB_U4gc6joZ-2uzuXMC/view?usp=sharing)
+
 ## **Socket 1200 Intel B460**
 
 **B460 Phantom Gaming 4**
@@ -463,6 +469,8 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.51|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/1gkRU2tD4wz7Ov-hbGiEDZgDs2Omo6Q_l/view?usp=sharing)
 1.40A|July 29th, 2020|ASRock|[Download](https://drive.google.com/file/d/1o9zsvC7JZGfz5OTCL0oyrCLdp0S86MBl/view?usp=sharing)
+
+## **Socket 1200 Intel H410**
 
 ## **Socket 1151 Intel Z390**
 
