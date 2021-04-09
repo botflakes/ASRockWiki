@@ -484,6 +484,12 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket 1200 Intel H410**
 
+**H410M-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1wVTnDKs-E_xvaUMpRk2-EeGlCxMoa2G5/view?usp=sharing)
+
 ## **Socket 1151 Intel Z390**
 
 **Z390 Extreme4**
