@@ -105,7 +105,7 @@ To disable Dynamic Ticks do the follwing:
 
 ```
 1. Open a CMD with admin rights
-2. Type "bcdedit /set useplatformtick yes" and hit enter.
+2. Type "bcdedit /set disabledynamictick yes" and hit enter.
 3. Restart your System
 ```
 
