@@ -520,6 +520,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.32|April 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/16ny7Si4MH7xg8l-m3EEHYDy9aznjuRNt/view?usp=sharing)
 
+**H410M/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.32|April 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/11P3etnN5bYIlfcn-sJmuZAjeCRA3r0RJ/view?usp=sharing)
+
 ## **Socket 1151 Intel Z390**
 
 **Z390 Extreme4**
