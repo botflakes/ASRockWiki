@@ -1,4 +1,6 @@
-# NOT FINISHED YET
+# NOT FINISHED YET DO NOT USE!!!
+
+
 
 Windows 10 is a great OS and by default more the suitable for gaming.  
 However, you can still get some performance out of your Hardware by changing or creating some registry keys and values.  
