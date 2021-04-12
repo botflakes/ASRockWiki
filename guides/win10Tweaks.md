@@ -1,5 +1,7 @@
 # NOT FINISHED YET DO NOT USE!!!
 
+Please do not use yet as I did not test it myself yet
+
 
 
 Windows 10 is a great OS and by default more the suitable for gaming.  
