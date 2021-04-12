@@ -5,7 +5,7 @@ You have a BIOS which isn't listed here? Let us know in a <a style="color:#79bd2
 Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6sxzFnm7" target="_blank">here</a>  
 
 ## Warning
-<p style="color:#840000;text-align:center;font-size:x-large">We're not responsible for any damage that may happen to your board!<br> Flashing a new BIOS does always have its risks!</p>
+<p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
 
 ***
 # Search
@@ -14,7 +14,7 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 ***
 
-## **Socket TR4 : AMD X399**
+## **Socket TR4 AMD X399**
 
 ### **X399 Taichi**
 
@@ -40,7 +40,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oTK3Mz7UblqoAM5_b1O7l6tFksSKgtil/view?usp=sharing)
 
-## **Socket sTRX4 : AMD TRX40**
+## **Socket sTRX4 AMD TRX40**
 
 ### **TRX40 Creator**
 
@@ -54,7 +54,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MEvqS7AOAi0fITnpHlIFv72VaZutBE3n/view?usp=sharing)
 
-## **Socket AM4 : AMD X570**
+## **Socket AM4 AMD X570**
 
 ### **X570 AQUA**
 
@@ -71,6 +71,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L4.15|March 31st, 2021|ASRock|[Download](https://drive.google.com/file/d/1ClH_fudoNXGsndNNxBGKuQBivHUdOrIm/view?usp=sharing)
 3.94|January 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/19We6xB9s8bG-5YLTSHYs9iOnxN1hdC9y/view?usp=sharing)
 3.91|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1lnWfDxvMUVq46cVHPKzLolqur5FpD3-J/view?usp=sharing)
 3.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1jlioeEJXZ5qhXsoVOs_nBDUWjNSHb1aG/view?usp=sharing)
@@ -91,6 +92,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L1.42|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1T3i1AqyvdtV5I9eCSmYr7nNYZ1q5TLyn/view?usp=sharing)
 1.33|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1Twt2Ubg2yY5PvbsSWSPOz25JTb-4gYnM/view?usp=sharing)
 1.30|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1lCrEaSS5SiEqsypec0SQdXoQOboKQPdM/view?usp=sharing)
 1.14|November 19th, 2020|ASRock|[Download](https://drive.google.com/file/d/17SJuhFzc_t7FBvRU64s9Tu5H-wYz0JIR/view?usp=sharing)
@@ -100,6 +102,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.32|April 7th, 2021|ASRock|[Download](https://drive.google.com/file/d/1A2wFElMmSS7CFCgVYsgkLxSanwR6rhA-/view?usp=sharing)
 3.32|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1EfekquaizhiUkTlclk5FcBqGyf8LlcU5/view?usp=sharing)
 3.30|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1qP0EWHAfAX9eO1bjB-jGEFB3Z4pCl4pH/view?usp=sharing)
 3.15|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1LctqdtaFp09FOOZtDfyK1wunDP8LxlhR/view?usp=sharing)
@@ -109,6 +112,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L3.92|March 31st, 2021|ASRock|[Download](https://drive.google.com/file/d/1bKaTR--QsRrRI0YYd44iIokUD9cl8LxA/view?usp=sharing)
 3.85|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1v029-im6FDvkbTfw401KIzQr-NsaLmmJ/view?usp=sharing)
 3.45|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1lz0GMkfQXBVVUMnstuFtQPt4yo1qCjxC/view?usp=sharing)
 
@@ -125,6 +129,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L3.63|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1EnP5TCmnlAhn1voPG3ZG3hm0GMDmQo05/view?usp=sharing)
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1cxzEacufSDIcHTlQ8L7syTm9d9PIN198/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1NvwL_ZEGEH_E7vWD9WXICkJxvIdoFF3b/view?usp=sharing)
 2.86|July 21st, 2020|ASRock|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
@@ -136,6 +141,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.63|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1aPMiEp3xm2c_5pATDzLrbEh31fVLEp3g/view?usp=sharing)
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1Q_6vZzr5N31v2JjtVnbRmARDvF5LnMyy/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1lbVOok8xkBRA0h2cxwuAdKV_XSokGaKA/view?usp=sharing)
 
@@ -143,6 +149,8 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.15|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1c4OGA0jvU2wGOrL27PSJ1e5f9cbrmaCv/view?usp=sharing)
+4.15|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1iGukJMkiikL1KBUZAiLv4Tb0qpiYnhbi/view?usp=sharing)
 3.91|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/17UpTism8uA0eyS1RIEepCFxEiw6mnDPA/view?usp=sharing)
 3.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1Sagrow1IYPzZMoH3w3HGq-Q2fV_orRlM/view?usp=sharing)
 3.66|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1RCb1kCdQyqzMoBQlAOadKgHiVk5RAFyL/view?usp=sharing)
@@ -176,6 +184,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.92|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/19Mtt-74HcNpjNe97hSbuNaXyWDDkgwtR/view?usp=sharing)
 3.85|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1zsDVmc7av2430Bqt7Ob-86lQaBlj8-1F/view?usp=sharing)
 3.45|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1jP5TUNUdX9XqjpzpUKIW4K3hZJD73a3H/view?usp=sharing)
 
@@ -183,6 +192,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.92|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/17jhoD37Yd3Zf1pZ5mtuwl3fFMCChMv6S/view?usp=sharing)
 3.85|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1a-QymUlJJHei_-oaitunEHqymJG9jXBV/view?usp=sharing)
 3.45|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1zOwxAU0Y2vEFQt-VQNKpVdreZG__1LCc/view?usp=sharing)
 
@@ -190,6 +200,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L1.64|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/12NbxKj1PpPx3a_YI40viUJ_QKBbIDmvp/view?usp=sharing)
 1.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1vykpWtxfFxkUczx-0xWKivn15NXk_erd/view?usp=sharing)
 1.22|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/11-v0U46mr35UtCGX9oe_7rnfrjTrX5Ag/view?usp=sharing)
 
@@ -197,6 +208,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.63|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-cQhXZ4A-IB3Sq6nSO9NpNaEzKfC0CvQ/view?usp=sharing)
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1aP73W4aoJ6BkkEYe8DxksdjPNa1sgULX/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/126-xStjWTbxfzW6FFCjjMRYrnpO3AmFd/view?usp=sharing)
 
@@ -204,15 +216,17 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.63|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Cl2ODPqrsCmhUzq43HGGTzbjGT_Yv0G9/view?usp=sharing)
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1OrO6ChwpTCHgwBerd7pQ_Fadn30ku_Zn/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1uzrZ6q7FzDDTcYqOEghPB9hSHilAaJfX/view?usp=sharing)
 
-## **Socket AM4 : AMD B550**
+## **Socket AM4 AMD B550**
 
 ### **B550 Taichi**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1kf2qFqS3n_kVTms0avFojEvAyixYvz3g/view?usp=sharing)
 1.70|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1hmb05BCNWsEikfEDlHhvkusfm-0rp-bA/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1ZArJtmc1XlCFX6s12TM8bg4SQvYJGzGs/view?usp=sharing)
 1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1Xsf2hdOWhgn57GddrPJ9LC4MJa34_xma/view?usp=sharing)
@@ -222,6 +236,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L1.42|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Nt_W4lfW8Y_b3PWy87IofiVcEgCdicYF/view?usp=sharing)
 1.30|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1nTOSUaIROnjfujmQQejDTjt69z5KXqcN/view?usp=sharing)
 1.13|November 19th, 2020|ASRock|[Download](https://drive.google.com/file/d/1uEQQFVRz5GPox5FfM4nyf-xf7rhW33T_/view?usp=sharing)
 
@@ -229,6 +244,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.93|April 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Sj3htW5qAZNxtAr0UPhMxBoHD3yOsq4S/view?usp=sharing)
 1.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1A3RkF8JHE6NjB47e_cKfKZEyxQvmytTx/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1RV2M0ygk87qrIIgTGyLw7gFxajLtcp19/view?usp=sharing)
 1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1Q99klPfFTWYKDYfNDFKgc0Y0T2PtSc9b/view?usp=sharing)
@@ -238,6 +254,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.93|April 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mD_hr0Mi_YL9rS4i_Fq0CVSPpDJc1Xhh/view?usp=sharing)
 1.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1uls94NNfNESVbnQlGi6csHI5tWF6_w1z/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1i2Zn5GwzZRemvHof0ICypp3bmuqiB4xl/view?usp=sharing)
 1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1jw9x4aOGfgMPxiGd23udtb-qJCpUE9Wx/view?usp=sharing)
@@ -253,6 +270,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L1.92|March 29th, 2021|ASRock|[Download](https://drive.google.com/file/d/1JXzSzBztwH95OcOrGR06eexUzsjMfhZ0/view?usp=sharing)
 1.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1iietjfY1tRt0EQuZLlzo8_hoxuGEFqJc/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1fZOCsM6L80j2DKjtslLvg9IPjCMts6gB/view?usp=sharing)
 1.16|July 23rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1AcVt9ZIwfxQLb71X96_ZLWKHAQEo2tOh/view?usp=sharing)
@@ -263,12 +281,21 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+L1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gFN08_SG-x4wAmW7g3xfZangcNaaxpjI/view?usp=sharing)
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1nxb-MemEha_uNCeigsGKlAInTAUSsni0/view?usp=sharing)
+
+### **B550 Phantom Gaming 4/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+L1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/13DFh9vNpOFqLcZjMBDcNXeO5AzVkYXHJ/view?usp=sharing)
 
 ### **B550 Phantom Gaming-ITX/ax**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.02|April 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1vr2VJBMwygwsOrPMaiRND_hHQbHZY-am/view?usp=sharing)
+2.01|March 10th, 2021|ASRock|[Download](https://drive.google.com/file/d/1uYdSJeBb3_j0gGIYWbZ-eF-RUbq2nutu/view?usp=sharing)
 1.91|January 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/11ABcmV_Igl2_xMRkSjdeWPcwv2QtxQ1z/view?usp=sharing)
 1.71|November 18th, 2020|ASRock|[Download](https://drive.google.com/file/d/17sOqmXCyDNnW3Vvl2Ngwriy5rzy8jcd_/view?usp=sharing)
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1yhh9oMD8SQyeS4jxG4SL6q2krnf2AjwX/view?usp=sharing)
@@ -284,14 +311,17 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.82|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1V8N_uyk4cWh1FSZnpe_vSQKw2fWVBELm/view?usp=sharing)
+1.15A|August 3rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1v1Q3vEQeG0EyW_cVBwICeE-FoBEDIYGs/view?usp=sharing)
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ADeFx26oPwH_pbYwGzoXb4alPT5GlzSr/view?usp=sharing)
 
-## **Socket AM4 : AMD X470**
+## **Socket AM4 AMD X470**
 
 ### **X470 Taichi Ultimate**
 
 Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--        
+:--|:--|:--:|:--  
+4.62|March 15th, 2021|ASRock|[Download](https://drive.google.com/file/d/1phhodh6ooHgwtWWmPA8CkUIDGlS9m3Do/view?usp=sharing)      
 4.12|July 23rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1skaaYCGQXSKHHXltsrE6WRMMUJRZcCh6/view?usp=sharing)
 4.11|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/13RE67fCQug1Gf6i1hNcZ0c2lDqIkHUdX/view?usp=sharing)
 4.10|July 15th, 2020|JZ|[Download](https://drive.google.com/file/d/1lQWn2KBgzCkfQ6R-fqHVJMeZRILwd-Pr/view?usp=sharing)
@@ -312,6 +342,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.62|March 15th, 2021|ASRock|[Download](https://drive.google.com/file/d/1SvpeFvzFl2luJ218fPAu-LMyPE3CwCpr/view?usp=sharing)
 4.11|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/1T5-SkNhtU7y5uBndE3qPcPyBakWapxbl/view?usp=sharing)
 4.10|July 15th, 2020|JZ|[Download](https://drive.google.com/file/d/1odlkt294zdVdEjP_IOTyN55Bob7Glchf/view?usp=sharing)
 3.94|April 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1CC3w6QdVf2EMOMvzO4y5ySLOvBqrcUVX/view?usp=sharing)
@@ -344,6 +375,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.40|March 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Y5HiaSwE14WaEWuIna0339b7SLdCYZEw/view?usp=sharing)
 4.12|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/1-iLggPzTZJAwQ14ITaCNI9UIgnDNHZ9P/view?usp=sharing)
 4.10|July 16th, 2020|JZ|[Download](https://drive.google.com/file/d/11bzx9b0OhI9EQxr4yh5uvYflG9niguET/view?usp=sharing)
 3.68|December 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1JAcK9lW_6_Ey8FnnMLXF5oVXW3-AHMRA/view?usp=sharing)
@@ -358,11 +390,12 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+
 4.04|July 16h, 2020|JZ|[Download](https://drive.google.com/file/d/15BFwUbp6lwkB_k8uzAw614s7RZCCJMY8/view?usp=sharing)
 3.58|November 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1ABkeHjEmJkrhT5AphNp7yyEpU0iqC95p/view?usp=sharing)
 3.53|October 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1MwLJ-HlJiSTgaDgDqi1sM6XP-F9LTfRf/view?usp=sharing)
 
-## **Socket AM4 : AMD B450**
+## **Socket AM4 AMD B450**
 
 ### **B450 Steel Legend**
 
@@ -448,7 +481,7 @@ Revision|Date Published|Source|Mirror 1
 4.04|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1qTKuEqLcE7_kQYtmLOHKyXbdvIht9AeT/view?usp=sharing)
 1.96|November 13th, 2019|JZ|[Download](https://drive.google.com/file/d/1jv_mJSPm2-pUWCXyL8aNsbpT7RR3knHb/view?usp=sharing)
 
-## **Socket AM4 : AMD X370**
+## **Socket AM4 AMD X370**
 
 ### **X370 Taichi**
 
@@ -502,7 +535,7 @@ Revision|Date Published|Source|Mirror 1
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 
-## **Socket AM4 : AMD B350**
+## **Socket AM4 AMD B350**
 
 ### **Fatal1ty AB350 Gaming-ITX/ac**
 
@@ -522,7 +555,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.35|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1oaD0nRe0tu-Egkr9UTocokfa9gAyOA-q/view?usp=sharing)
 
-## **Socket AM4 : AMD A320**
+## **Socket AM4 AMD A320**
 
 ### **A320M Pro4 R2.0**
 
@@ -543,7 +576,8 @@ Revision|Date Published|Source|Mirror 1
 *4.11|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
 
 *^(This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.)
-## **Socket AM3+ : AMD 990FX**
+
+## **Socket AM3+ AMD 990FX**
 
 ### **990FX Extreme3**
 
@@ -582,7 +616,7 @@ Revision|Date Published|Source|Mirror 1
 1.91A|October 25th, 2012|ASRock|[Download](https://drive.google.com/file/d/1ZP0DKsBKM1nXkL1U8z4Hzzp72WQz5skm/view?usp=sharing)
 1.80C|July 25th, 2012|ASRock|[Download](https://drive.google.com/file/d/1eEkgwspznSG02lN_UNDQor_x711-tbaU/view?usp=sharing)
 
-## **Socket AM3+ : AMD 970**
+## **Socket AM3+ AMD 970**
 
 ### **970 Extreme3**
 
@@ -618,7 +652,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.50B|January 19th, 2016|ASRock|[Download](https://drive.google.com/file/d/1-gRzvdWh5IJ5OX96m7z5Qx8WpYu-EMJ_/view?usp=sharing)
 
-## **Socket AM3+ : AMD 890FX**
+## **Socket AM3+ AMD 890FX**
 
 ### **890FX Deluxe4**
 
@@ -633,7 +667,7 @@ Revision|Date Published|Source|Mirror 1
 2.01F|Oct 25th, 2012|ASRock|[Download](https://drive.google.com/file/d/1CgGnhJ0EkNuRtXpbxYB5bhSpZPgwGZCv/view?usp=sharing)
 2.01E|October 15th, 2012|ASRock|[Download](https://drive.google.com/file/d/1YFs8u98Ga44LTq2vwsxzRx_14b9jkU2f/view?usp=sharing)
 
-## **Socket AM3+ : AMD 880G**
+## **Socket AM3+ AMD 880G**
 
 ### **800GM-LE FX**
 
@@ -659,7 +693,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.83|August 1st, 2013|ASRock|[Download](https://drive.google.com/file/d/15EIN_0yirqqw0I81mUFS_lnwKYxNTTLd/view?usp=sharing)
 
-## **Socket AM3+ : AMD 870**
+## **Socket AM3+ AMD 870**
 
 ### **870 Extreme3 R2.0**
 
@@ -673,7 +707,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.74|October 9th, 2013|ASRock|[Download](https://drive.google.com/file/d/1QQVSOR5JypNdTk5t_5LNgLDE0vze4PlP/view?usp=sharing)
 
-## **Socket AM3+ : AMD 770**
+## **Socket AM3+ AMD 770**
 
 ### **770DE3L**
 
@@ -699,7 +733,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.00C|February 10th, 2015|ASRock|[Download](https://drive.google.com/file/d/19XNej2DScyz25rqrv-Xc5wn6XVXrvamZ/view?usp=sharing)
 
-## **Socket AM3+ : AMD RX881/760G**
+## **Socket AM3+ AMD RX881/760G**
 
 ### **980DE3/U3S3**
 
@@ -709,7 +743,7 @@ Revision|Date Published|Source|Mirror 1
 1.60G|April 7th, 2015|ASRock|[Download](https://drive.google.com/file/d/15eNXK5UsWtS9FC8tY_WR1VfUBj-PGum5/view?usp=sharing)
 1.60D|August 6th, 2014|ASRock|[Download](https://drive.google.com/file/d/1XuvpvWVjBX2F3snPK3L3jyvt2TtlHvlC/view?usp=sharing)
 
-## **Socket AM3+ : AMD 760G**
+## **Socket AM3+ AMD 760G**
 
 ### **960GC-GS FX**
 
@@ -723,7 +757,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.41|June 20th, 2016|ASRock|[Download](https://drive.google.com/file/d/1gLZFVeyvzwUZ9feAfr8lLg5UCofJoeib/view?usp=sharing)
 
-## **Socket AM3+ : NVIDIA GeForce 7025**
+## **Socket AM3+ NVIDIA GeForce 7025**
 
 ### **N68-S3 FX**
 
@@ -743,7 +777,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.01|May 3rd, 2012|ASRock|[Download](https://drive.google.com/file/d/1RwJGfN9Mn0snQ3ULW21OZ6lDR4JSZOUK/view?usp=sharing)
 
-## **Socket AM3 : AMD 890FX**
+## **Socket AM3 AMD 890FX**
 
 ### **890FX Deluxe3**
 
@@ -751,7 +785,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 3.03|December 2011|ASRock|[Download](https://drive.google.com/file/d/1UFEaZJd7FnRDAt2bQ1dbWUhZUPw7ZESr/view?usp=sharing)
 
-## **Socket AM3 : AMD 880G**
+## **Socket AM3 AMD 880G**
 
 ### **880GM-LE**
 
@@ -759,7 +793,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.41A|August 9th, 2011|ASRock|[Download](https://drive.google.com/file/d/1RaEb1Eb49FDgEi3XeO8W1MYn-nB3VHAj/view?usp=sharing)
 
-## **Socket AM3 : AMD 770**
+## **Socket AM3 AMD 770**
 
 ### **770 Extreme3**
 
@@ -768,7 +802,7 @@ Revision|Date Published|Source|Mirror 1
 1.91A|December 18th, 2012|ASRock|[Download](https://drive.google.com/file/d/1gtk139vNGAvTird4Enqq6J_SPhtrC9N1/view?usp=sharing)
 1.91|January 13th, 2012|ASRock|[Download](https://drive.google.com/file/d/1QctISH0C-sVOxmifBNxN1FuW4Eyaz-e7/view?usp=sharing)
 
-## **Socket AM2+ : AMD 785G**
+## **Socket AM2+ AMD 785G**
 
 ### **A785GXH/128M**
 
@@ -776,7 +810,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.31|August 11th, 2010|ASRock|[Download](https://drive.google.com/file/d/1w5DHhHqPsDXB_a4WWmhQuM1AJj6KpGhO/view?usp=sharing)
 
-## **Socket AM2 : NVIDIA GeForce 7025**
+## **Socket AM2 NVIDIA GeForce 7025**
 
 ### **N86C-S**
 
@@ -784,7 +818,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.30B|December 14th, 2011|ASRock|[Download](https://drive.google.com/file/d/1jyy8MCBoy6awDzfI2j2VXJCvb16DeBuj/view?usp=sharing)
 
-## **Socket AM2 : NVIDIA GeForce 6100**
+## **Socket AM2 NVIDIA GeForce 6100**
 
 ### **ALiveNF6G-VSTA**
 
@@ -792,7 +826,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.26|April 14th, 2011|ASRock|[Download](https://drive.google.com/file/d/1NWWeR1OY15v_PNdGu5ZxdqbhThlPqG3I/view?usp=sharing)
 
-## **Socket AM1 : AMD AM1**
+## **Socket AM1 AMD AM1**
 
 ### **AM1H-ITX**
 
@@ -800,7 +834,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.20A|October 22nd, 2014|ASRock|[Download](https://drive.google.com/file/d/13NkCN1BDvPb3YljwNZgjGxbw_d54-sy9/view?usp=sharing)
 
-## **Socket FM2+ : AMD A88X**
+## **Socket FM2+ AMD A88X**
 
 ### **A88M-G/3.1**
 
@@ -849,7 +883,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.21|April 21, 2014|ASRock|[Download](https://drive.google.com/file/d/1u-HFa6_OfKtgbpl7DT51B6ebt-0GX1yt/view?usp=sharing)
 
-## **Socket FM2+ : AMD A78**
+## **Socket FM2+ AMD A78**
 
 ### **FM2A78M-HD+**
 
@@ -863,7 +897,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.71|April 21, 2014|ASRock|[Download](https://drive.google.com/file/d/1ZEoqHjCWdigUTMJeA32jYtLrDt1guWAD/view?usp=sharing)
 
-## **Socket FM2+ : AMD A75**
+## **Socket FM2+ AMD A75**
 
 ### **FM2A75M-HD+**
 
@@ -877,7 +911,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.11|April 21, 2014|ASRock|[Download](https://drive.google.com/file/d/126Nr17TktMrcav6HjeWbrQCGL5BHRlP9/view?usp=sharing)
 
-## **Socket FM2+ : AMD A68H**
+## **Socket FM2+ AMD A68H**
 
 ### **FM2A68M-DG3+**
 
@@ -891,7 +925,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 5.20A|February 14th, 2019|ASRock|[Download](https://drive.google.com/file/d/11mw_ah3flfdP8zZhswAxYIzzNrf9IowQ/view?usp=sharing)
 
-## **Scoket FM2+ : AMD A55**
+## **Scoket FM2+ AMD A55**
 
 ### **FM2A55 Pro+**
 
@@ -911,7 +945,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.81|April 21, 2014|ASRock|[Download](https://drive.google.com/file/d/1ojpveWZeC9UYAEdTRI2-7bMSbUOQ5n9A/view?usp=sharing)
 
-## **Socket FM2 : AMD A85X**
+## **Socket FM2 AMD A85X**
 
 ### **FM2A85X Extreme4**
 
@@ -943,7 +977,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.41|February 21st, 2013|ASRock|[Download](https://drive.google.com/file/d/12M1caGj91Ms7f0oMHwu3yNyTbLNicRjS/view?usp=sharing)
 
-## **Socket FM2 : AMD A75**
+## **Socket FM2 AMD A75**
 
 ### **FM2A75 Pro4-M**
 
@@ -978,7 +1012,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.01|February 22nd, 2013|ASRock|[Download](https://drive.google.com/file/d/13d597u3hO_94kMbnqAob5JByvLSN0-7b/view?usp=sharing)
 
-## **Socket FM2 : AMD A55**
+## **Socket FM2 AMD A55**
 
 ### **FM2A55 Pro**
 
@@ -1006,7 +1040,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.21|February 22nd, 2013|ASRock|[Download](https://drive.google.com/file/d/1K29grhA4R-5JPyzEFn8V8a7d3W4kH99W/view?usp=sharing)
 
-## **Socket FM1 : AMD A75**
+## **Socket FM1 AMD A75**
 
 ### **A75 Extreme6**
 
@@ -1053,7 +1087,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.50A|April 19th, 2012|ASRock|[Download](https://drive.google.com/file/d/1OLZ0nquYOr8jbd96-n9y3lzkT2a3Lajk/view?usp=sharing)
 
-## **Socket AMD CPU : AMD A50M**
+## **Socket AMD CPU AMD A50M**
 
 ### **E350M1**
 

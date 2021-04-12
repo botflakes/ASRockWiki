@@ -1,9 +1,9 @@
 <h1> > AGESA Changelog </h1>
 
-<h2> What is AGESA? </h2>
+<h2>What is AGESA?</h2>
 <p>AGESA stands for "AMD Generic Encapsulated System Architecture" which is the basic framework for initializing AMD processors in the Power-On-Self-Test (POST) phase after the system is switched on. The mainboard manufacturers develop their firmware based on this (alias BIOS alias UEFI), but always based on an AGESA version published by AMD.</p>
 
-<h2> PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6 </h2>
+<h2>PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6</h2>
 
 <table class="customTable">
     <colgroup>
@@ -15,7 +15,7 @@
         <tr>
             <th>AGESA Version</th>
             <th>Changes</th>
-            <th>Additional Information</th>
+            <th>Additional Notes</th>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
@@ -23,7 +23,7 @@
             <td>None</td>
         </tr>
         <tr>
-            <td>PinnaclePi-AM4 1.0.0.2 Patch A</td>
+            <td>PinnaclePi-AM4 1.0.0.2 - Patch A</td>
             <td>- Fix Powermanagement “Raven Ridge”-APU </td>
             <td>None</td>
         </tr>
@@ -53,32 +53,32 @@
             <td>Problems with Core-Boost</td>
         </tr>
         <tr>
-            <td>Combo-AM4 1.0.0.3a</td>
+            <td>Combo-AM4 1.0.0.3 - Patch A</td>
             <td>- Improvement of the core boost(?)</td>
             <td>All functions only with 32 MB BIOS</td>
         </tr>
         <tr>
-            <td>Combo-AM4 1.0.0.3ab</td>
+            <td>Combo-AM4 1.0.0.3 - Patch AB</td>
             <td>- Improvement of the core boost(?)<br>- Fix for M2.SSD</td>
             <td>None</td>
         </tr>
         <tr>
-            <td>Combo-AM4 1.0.0.3aba</td>
+            <td>Combo-AM4 1.0.0.3 - Patch ABA</td>
             <td>- Fix the random numbers for systemd and Destiny 2</td>
             <td>None</td>
         </tr>
         <tr>
-            <td>Combo-AM4 1.0.0.3abb</td>
+            <td>Combo-AM4 1.0.0.3 - Patch ABB</td>
             <td>- Fix the random numbers for systemd<br>- "Event 17, WHEA-Logger" warnings in the Windows Event Log removed</td>
             <td>None</td>
         </tr>
         <tr>
-            <td>Combo-AM4 1.0.0.3abba</td>
+            <td>Combo-AM4 1.0.0.3 - Patch ABBA</td>
             <td>- Boost 25-50 MHz higher<br>- Activity filter for light workloads</td>
             <td>None</td>
         </tr>
         <tr>
-            <td>Combo-AM4 1.0.0.4b</td>
+            <td>Combo-AM4 1.0.0.4 - Patch B</td>
             <td>- Eco Mode - Setting a lower TDP class via Ryzen Master<br>- X570 mainboards: Improved stability and compatibility with add-in devices<br>- Improvements to the interoperability of PCIe, USB, SATA and device reset functions<br>- Additional improvements to PCIe device support and stability<br>- Improved system stability when changing the ACPI states<br>- Shorter boot times (depending on the motherboard)<br>- Improvements when using the best CPU cores<br>- Further boost improvements for the Ryzen 9 3900X</td>
             <td>None</td>
         </tr>
@@ -95,7 +95,7 @@
     </tbody>
 </table>
 
-<h2> Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.0 </h2>
+<h2>Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.2</h2>
 
 <table class="customTable">
     <colgroup>
@@ -107,7 +107,7 @@
         <tr>
             <th>AGESA Version</th>
             <th>Changes</th>
-            <th>Additional Information</th>
+            <th>Additional Notes</th>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.0</td>
@@ -125,7 +125,7 @@
             <td>None</td>
         </tr>
         <tr>
-            <td>Combo-AM4v2Pi 1.0.8.0a</td>
+            <td>Combo-AM4v2Pi 1.0.8.0 - Patch A</td>
             <td>- Early Support for Ryzen 5000</td>
             <td>None</td>
         </tr>
@@ -136,9 +136,24 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0</td>
-            <td>- Support for Ryzen 5000 with Zen 3 (“Vermeer”)</td>
+            <td>- Support for Ryzen 5000 with Zen 3 (“Vermeer”)<br>- Smart Access Memory<br>- General performance improvements for many types of workloads<br>- Improved support for loading and applying overclocked memory profile<br>- Improved BIOS overclocking robustness<br>- Improved USB hotplug detection<br>- Improved SATA device detection on select SATA ports<br>- Adds support for Eco Mode for automatic TDP reduction (AMD Ryzen Master)</td>
+            <td>Source:<br><a href="https://community.amd.com/t5/blogs/prepping-your-motherboard-for-the-amd-ryzen-5000-series/ba-p/414274" target="_blank">AMD (AMD Community Blog)</a></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.1.0.0 - Patch B</td>
+            <td>?</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.1.0.0 - Patch C</td>
+            <td>?</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.1.0.0 - Patch D</td>
+            <td>- New Curve Optimizer OC feature enabled<br>- Support for Ryzen 5000 Series on 400 Series mobos<br>- General stability improvements</td>
+            <td>None</td>
+        </tr>        
         <tr>
             <td>Combo-AM4v2Pi 1.1.8.0</td>
             <td>- Introduces Precision Boost Overdrive 2 (PBO 2)<br>- Adds core undervolting for Ryzen 5000<br>- Adds Curve Optimizer for Undervolting and Overclocking</td>
@@ -156,8 +171,23 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.0</td>
-            <td>- RAID Driver Update<br>- Support for PCIe ReBAR (GPU/driver support req'd)<br>- Stability updates<br>- Fix for 5600X/5800X telemetry in Ryzen Master (req's RM 2.6.1.X)</td>
-            <td>None</td>
+            <td>- RAID Driver Update<br>- Support for PCIe ReBAR (GPU/driver support req'd)<br>- Stability updates<br>- Fix for 5600X/5800X telemetry in Ryzen Master (req's RM 2.6.1.X)<br>- SMU 56.44.00<br>- Improved Curve Optimizer<br>- Improved dLDO (digitally controlled low drop out)<br>- WHEA fix when FCLK is 1900<br>- Minor Bugfixes<br>- Code Cleanup<br>- Optimized and support AMD Ryzen 5000 series processors<br>- Optimized Resizable BAR (Re-Size BAR) function with NVidia Graphics cards<br>- Improved AM4 processor compatibility</td>
+            <td>Sources:<br><a href="https://twitter.com/1usmus/status/1350410738775556098?s=20" target="_blank">Yuri Bubliy</a><br><a href="https://twitter.com/patrickschur_/status/1348681478952132609?s=20" target="_blank">Patrick Schur</a><br><a href="https://www.msi.com/news/detail/95203cab9dcecc7d956a2c57ccc06bd8" target="_blank">MSI</a><br><a href="https://twitter.com/AMD_AUNZ/status/1353221012490485762?s=20" target="_blank">AMD</a></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.1</td>
+            <td>- Fix: False SMART errors on Hynix NVMe<br>- Fix: Intermittent SSD detection for M.2 SATA devices<br>- Improve L3$ bandwidth in AIDA64<br>- Improve stability if user disables cores on 5600X/5800X with AMD Ryzen Master</td>
+            <td>Source:<br><a href="https://twitter.com/AMDRyzen/status/1364971430337740804?s=20" target="_blank">AMD</a></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.1 - Patch A</td>
+            <td>- Improve USB compatibility</td>
+            <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.2</td>
+            <td>- Fix: USB port dropout<br>- Fix: USB 2.0 audio crackling (e.g., DAC/AMP combos)<br>- USB/PCIe Gen 4 exclusion</td>
+            <td>Source:<br><a href="https://community.amd.com/t5/knowledge-base/updated-agesa-coming-for-intermittent-usb-connectivity/ta-p/456762" target="_blank">AMD</a></td>
         </tr>
     </tbody>
 </table>
@@ -166,4 +196,4 @@
 <p>Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.</p>
 
 <h2> Sources </h2>
-<img src="https://www.countryflags.io/de/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
+<img src="https://www.countryflags.io/de/shiny/16.png"> / <img src="https://www.countryflags.io/gb/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>

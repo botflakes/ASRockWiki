@@ -2,14 +2,25 @@
 layout: default
 ---
 
-<p style="color:#fff;font-size:x-large">Welcome to the r/ASRock Wiki!</p>
-<p>Its still a bit empty here but we working hard to fill it with content!</p> 
+<p style="color:#fff;font-size:x-large">
+    Welcome to the unofficial ASRock Wiki 
+</p>
+<p>
+    This Wiki was made by the moderators of r/ASRock and it's users!
+</p>
+<p>
+    It's still a bit empty here but we working hard to fill it with content!<br>
+    In the meantime, you could join our Discord<br>
+<br>
+    <a href="https://discord.gg/rFrMpxV">
+        <img src="https://discordapp.com/api/guilds/734825971848577038/widget.png?style=banner2">
+    </a>
+</p> 
 
 ### r/ASRock Resources:
 
 * [FAQs](faq/index.md)
 * [Tools](tools/index.md)
-* [Rules](rules/index.md)
 * [Guides](guides/index.md)
 * [Beta BIOS database](beta_bios/index.md)
 
