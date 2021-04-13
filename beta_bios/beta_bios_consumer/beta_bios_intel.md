@@ -748,6 +748,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.30E|April 13th, 2021|ASRock|[Download](https://drive.google.com/file/d/1rkbOkavYKFXmeKbAOzrQP-QMWolzzn9y/view?usp=sharing)
 4.30D|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1PovoPUIbk9ZUHE72nX8FmS4p7NbkV-Xb/view?usp=sharing)
 
 ## **Socket 1151 Intel B365**
