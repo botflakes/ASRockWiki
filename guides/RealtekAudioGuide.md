@@ -1,3 +1,5 @@
+# Realtek Audio Guide
+
 Hey r/ASRock Community,
 
 because the Realtek Audio Drivers are heavily outdated on most support pages of our boards and some experienced issues with it, I thought that, this would be a good opportunity to tell you which driver I’m using on my X470 Taichi based system.
@@ -34,3 +36,26 @@ No problem, start the setup again, press a key to continue, press "n" and "enter
 &#x200B;
 
 ***Are you already a member of our Discord server? If not consider to join us*** [https://discord.gg/rFrMpxV](https://discord.gg/rFrMpxV)
+
+# Windows asking permission to run Realtek service every boot
+
+If you are having that issue, do the following
+
+![image](https://user-images.githubusercontent.com/65948403/114341805-32776b80-9b78-11eb-8040-527790664c71.png)
+
+Trying to **Unblock** it causes errors like:
+
+* Too many requests from a semaphore, or
+* Assertion failed, and finally
+* Access is denied
+
+**Solution -**
+
+1. Change owner of **RtkAudUService64.exe** to **Everyone** (its set to **SYSTEM** before), press **OK**.
+2. Give all permissions to **Everyone** (by default only **Read & Execute** and **Read** permission is there).
+3. That **Unblock** thing should have disappeared, but if it is still there check **Unblock** and press **OK**.
+4. Remove all extra permissions given to **Everyone** (step 2).
+5. Change back the owner to **SYSTEM**.
+6. Restart your device, you shouldn't get that prompt
+
+I think, most probably it is due to the original **RtkAudUService64.exe** in your driver package not being unblocked, or something in the script isn't working properly
