@@ -1,4 +1,10 @@
 # This is just a test area. You can ignore this page
+
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
 <script>
 function myFunction() {
   var txt;
