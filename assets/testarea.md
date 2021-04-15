@@ -8,7 +8,11 @@
 <script>
 function myFunction() {
   var txt;
-  if (confirm("Press a button!"))
+  if (confirm("Press a button!")) {
+    txt = "";
+  } else {
+    txt = "";
+  }
   document.getElementById("demo").innerHTML = txt;
 }
 </script>
