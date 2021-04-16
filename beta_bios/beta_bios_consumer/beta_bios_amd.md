@@ -518,6 +518,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+6.11|December 16th|Chiphell|[Download](https://drive.google.com/file/d/19uZMhJuuAtVyVpHqenTIC95eWrjiUbwm/view?usp=sharing)
 5.75|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1c-ksRLg0S9KOH8H3RvIulpCA0n_1JnAi/view?usp=sharing)
 5.42|June 27th, 2019|JZ|[Download](https://drive.google.com/file/d/1EcIsbnwddnWepz8QUT7uiPLm7T_r9llA/view?usp=sharing)
 4.86|July 4th, 2018|JZ|[Download](https://drive.google.com/file/d/1NCu2fGaTQj9kxIsV_gin29XAAo0CPsNN/view?usp=sharing)
