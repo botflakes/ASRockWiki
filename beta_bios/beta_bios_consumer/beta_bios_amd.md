@@ -488,6 +488,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+6.61|December 16th|ASRock|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
 6.32|April 28rd, 2020|JZ|[Download](https://drive.google.com/file/d/1fObryv88J9qfqw3Dn4B7UfK_Rz-zJXuf/view?usp=sharing)
 6.22|April 1st, 20220|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
 6.20B|March 23rd, 2020|JZ|[Download](https://drive.google.com/file/d/1II9SF_HQZXhenZ_ke6fTfKTdGp0RFCjr/view?usp=sharing)
@@ -505,7 +506,7 @@ Revision|Date Published|Source|Mirror 1
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1yvYIcxaeQF8J7xNnRTTt92UzxLK5Sxxt/view?usp=sharing)
 4.73|July 3rd, 2018|JZ|[Download](https://drive.google.com/file/d/1wQsuhOOEUcky4tSafdD5Cm_WdeIjILXV/view?usp=sharing)
 
-### Fatal1ty X370 Gaming K4**
+### **Fatal1ty X370 Gaming K4**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
