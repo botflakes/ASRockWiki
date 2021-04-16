@@ -595,6 +595,36 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket AM4 AMD A320**
 
+### **A320M Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.71*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1MogH1d05VXdKL53z0j2YtrrQNrnPk77k/view?usp=sharing)
+
+### **A320M-HDV R4.0**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.22*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1DfKbUz9FxeP-fF_8V-gM_EYxK7sg8fJz/view?usp=sharing)
+
+### **A320M-HDV R3.0**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+3.62*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/12nSDWscVJA2Wwku-dJfsrn0flzbXnJe0/view?usp=sharing)
+
+### **A320M-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.21*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1pkBJIbwgHKtu6RG0xWcJHdKjZOpWaMkG/view?usp=sharing)
+
+### **6.61**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
+
 ### **A320M Pro4 R2.0**
 
 Revision|Date Published|Source|Mirror 1
@@ -611,7 +641,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-*4.11|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
+4.11*|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
