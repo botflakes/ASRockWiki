@@ -546,6 +546,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.71|December 16th|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
+### **X370M-HDV	**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.20|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
+
 ## **Socket AM4 AMD B350**
 
 ### **Fatal1ty AB350 Gaming-ITX/ac**
