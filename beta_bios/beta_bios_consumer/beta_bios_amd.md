@@ -488,7 +488,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.61|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
+6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
 6.32|April 28rd, 2020|JZ|[Download](https://drive.google.com/file/d/1fObryv88J9qfqw3Dn4B7UfK_Rz-zJXuf/view?usp=sharing)
 6.22|April 1st, 20220|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
 6.20B|March 23rd, 2020|JZ|[Download](https://drive.google.com/file/d/1II9SF_HQZXhenZ_ke6fTfKTdGp0RFCjr/view?usp=sharing)
@@ -503,7 +503,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.61|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1BKnjEDgGy0id-zjBThr9Fion2yPAEFFW/view?usp=sharing)
+6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1BKnjEDgGy0id-zjBThr9Fion2yPAEFFW/view?usp=sharing)
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1yvYIcxaeQF8J7xNnRTTt92UzxLK5Sxxt/view?usp=sharing)
 4.73|July 3rd, 2018|JZ|[Download](https://drive.google.com/file/d/1wQsuhOOEUcky4tSafdD5Cm_WdeIjILXV/view?usp=sharing)
 
@@ -518,7 +518,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.11|December 16th|Chiphell|[Download](https://drive.google.com/file/d/19uZMhJuuAtVyVpHqenTIC95eWrjiUbwm/view?usp=sharing)
+6.11*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/19uZMhJuuAtVyVpHqenTIC95eWrjiUbwm/view?usp=sharing)
 5.75|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1c-ksRLg0S9KOH8H3RvIulpCA0n_1JnAi/view?usp=sharing)
 5.42|June 27th, 2019|JZ|[Download](https://drive.google.com/file/d/1EcIsbnwddnWepz8QUT7uiPLm7T_r9llA/view?usp=sharing)
 4.86|July 4th, 2018|JZ|[Download](https://drive.google.com/file/d/1NCu2fGaTQj9kxIsV_gin29XAAo0CPsNN/view?usp=sharing)
@@ -536,7 +536,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.11|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
+6.11*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 
@@ -544,13 +544,17 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.71|December 16th|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
+6.71*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
-### **X370M-HDV	**
+### **X370M-HDV**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.20|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
+4.20*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
+
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
+
+***
 
 ## **Socket AM4 AMD B350**
 
