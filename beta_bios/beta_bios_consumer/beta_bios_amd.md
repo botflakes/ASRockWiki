@@ -554,8 +554,6 @@ Revision|Date Published|Source|Mirror 1
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
-***
-
 ## **Socket AM4 AMD B350**
 
 ### **Fatal1ty AB350 Gaming-ITX/ac**
@@ -590,8 +588,6 @@ Revision|Date Published|Source|Mirror 1
 6.21|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
-
-***
 
 ## **Socket AM4 AMD A320**
 
@@ -644,8 +640,6 @@ Revision|Date Published|Source|Mirror 1
 4.11*|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
-
-***
 
 ## **Socket AM3+ AMD 990FX**
 
