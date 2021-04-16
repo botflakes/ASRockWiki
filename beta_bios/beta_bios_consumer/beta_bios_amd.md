@@ -583,7 +583,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.35|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1oaD0nRe0tu-Egkr9UTocokfa9gAyOA-q/view?usp=sharing)
+6.21|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
 ## **Socket AM4 AMD A320**
 
