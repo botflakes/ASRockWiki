@@ -579,7 +579,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.35|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1oaD0nRe0tu-Egkr9UTocokfa9gAyOA-q/view?usp=sharing)#
 
-### **AB350M Pro4 R2.0**
+### **AB350M-HDV**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
