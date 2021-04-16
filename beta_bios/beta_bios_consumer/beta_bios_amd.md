@@ -615,6 +615,8 @@ Revision|Date Published|Source|Mirror 1
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
+***
+
 ## **Socket AM3+ AMD 990FX**
 
 ### **990FX Extreme3**
