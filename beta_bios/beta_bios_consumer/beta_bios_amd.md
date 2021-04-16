@@ -561,11 +561,23 @@ Revision|Date Published|Source|Mirror 1
 6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZkEiNsIjdghW3lwer0qM-lcDgrK-Wl81/view?usp=sharing)
 6.31|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1aOPo2bDwRV7eve00eLY4PWhrtk3NmLZs/view?usp=sharing)
 
+### **Fatal1ty AB350 Gaming K4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.41*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1QFlZzVs5zld0ozaqywdykprcgL5cIWc9/view?usp=sharing)
+
 ### **AB350 Pro4**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.25|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1u2isIL5NeP8iJQU65V9PjdExtqbl9TMk/view?usp=sharing)
+
+### **AB350M Pro4 R2.0**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.35|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1oaD0nRe0tu-Egkr9UTocokfa9gAyOA-q/view?usp=sharing)#
 
 ### **AB350M Pro4 R2.0**
 
