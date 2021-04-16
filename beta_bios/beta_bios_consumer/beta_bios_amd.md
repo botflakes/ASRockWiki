@@ -540,6 +540,12 @@ Revision|Date Published|Source|Mirror 1
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 
+### **X370M Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.71|December 16th|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
+
 ## **Socket AM4 AMD B350**
 
 ### **Fatal1ty AB350 Gaming-ITX/ac**
