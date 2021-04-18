@@ -28,7 +28,7 @@ layout: default
 ### r/ASRock Community Information:
 
 * [r/ASRock Rules](rules/index.md) - Our rules
-* [r/ASRock & Userbenchmark](faq/index.md#rasrock-and-userbenchmark) - Why is Userbenchmark risticted on r/ASRock? Read this!
+* [r/ASRock & Userbenchmark](faq/index.md#rasrock-and-userbenchmark) - Why is Userbenchmark restricted on r/ASRock? Read this!
 * [r/ASRock Community Discord](https://discord.gg/rFrMpxV) - Our Discord-Server
 
 ### Contact the Mods
