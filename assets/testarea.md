@@ -280,4 +280,4 @@ Found a bug or an Issue and want to report it or just want to leave feedback? **
 [r/ASRock](https://www.reddit.com/r/ASRock/) **>** [Twitter](https://twitter.com/redditASRock) **|** [r/ASRock](https://www.reddit.com/r/ASRock/) **>** [Discord](https://discord.gg/rFrMpxV)
 
 ***INFORMATION!**  
-**Should a Beta BIOS not be available anymore, there is a high chance that you can find it on our*** [***Wiki***](https://botflakes.github.io/ASRockWiki/beta_bios/)***!*** 
+***Should a Beta BIOS not be available anymore, there is a high chance that you can find it on our*** [***Wiki***](https://botflakes.github.io/ASRockWiki/beta_bios/)***!*** 
