@@ -267,16 +267,16 @@ All BIOS updates for April 2021
         Optimizes Graphics Card Performance
 
 **Source**  
-[ASRock Support Page](https://www.asrock.com/support/index.asp?cat=BIOS)
+[**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
 
 **Feedback**  
-Found a bug or an Issue and want to report it or just want to leave feedback? **Do it** [**here**](https://event.asrock.com/tsd.asp)
+**Found a bug or an Issue and want to report it or just want to leave feedback? Do [here](https://event.asrock.com/tsd.asp)**
 
 **DISCLAIMER**  
 ***I'm not responsible for any damage on your board! Flashing a new BIOS does always have its risks!***
 
 **Previous Posts**  
-[All previous BIOS Release posts](https://www.reddit.com/r/ASRock/?f=flair_name%3A%22BIOS%20Release%22)
+[**All previous BIOS Release posts**](https://www.reddit.com/r/ASRock/?f=flair_name%3A%22BIOS%20Release%22)
 
 **Social**  
 [r/ASRock](https://www.reddit.com/r/ASRock/) **>** [Twitter](https://twitter.com/redditASRock) **|** [r/ASRock](https://www.reddit.com/r/ASRock/) **>** [Discord](https://discord.gg/rFrMpxV)
