@@ -6,7 +6,7 @@ All BIOS updates for April 2021
 
 # AMD
 
-**X570**
+## **X570**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -22,7 +22,7 @@ All BIOS updates for April 2021
 |X570 Phantom Gaming X|4.15|03/26/2021|04/08/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%20X/index.asp#BIOS)|
 |X570 Steel Legend WiFi ax|3.63|03/31/2021|04/08/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend%20WiFi%20ax/index.asp#BIOS)|
 
-**B550**
+## **B550**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -31,7 +31,7 @@ All BIOS updates for April 2021
 |B550 Extreme4|1.93|04/01/2021|04/06/2021|[Download](https://drive.google.com/file/d/1Sj3htW5qAZNxtAr0UPhMxBoHD3yOsq4S/view?usp=sharing)|
 |B550 Steel Legend|1.93|04/01/2021|04/06/2021|[Download](https://drive.google.com/file/d/1mD_hr0Mi_YL9rS4i_Fq0CVSPpDJc1Xhh/view?usp=sharing)|
 
-**X470**
+## **X470**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -42,13 +42,13 @@ All BIOS updates for April 2021
 |X470 Taichi|4.70|03/30/2021|04/06/2021|[Download](https://www.asrock.com/MB/AMD/X470%20Taichi/index.asp#BIOS)|
 |X470 Taichi Ultimate|4.70|03/30/2021|04/06/2021|[Download](https://www.asrock.com/MB/AMD/X470%20Taichi%20Ultimate/index.asp#BIOS)|
 
-**DeskMini:**
+## **DeskMini**
 
 |Model|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
 |A300|3.70B|03/26/2021|03/29/2021|[Download](https://www.asrock.com/nettop/AMD/DeskMini%20A300%20Series/index.de.asp#BIOS)|
 
-**Changelog**
+## **Changelog**
 
     X570:
         1. Update to AMD AGESA ComboAM4v2 1.2.0.1 Patch A
@@ -67,7 +67,7 @@ All BIOS updates for April 2021
 
 # INTEL
 
-**Z390**
+## **Z390**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -88,7 +88,7 @@ All BIOS updates for April 2021
 |Z390 Phantom Gaming 4S|1.40C|03/31/2021|04/01/2021|[Download](https://www.asrock.com/mb/Intel/Z390%20Phantom%20Gaming%204S/index.asp#BIOS)|
 |Z390M Pro4|4.30D|03/31/2021|04/01/2021|[Download](https://www.asrock.com/mb/Intel/Z390M%20Pro4/index.asp#BIOS)|
 
-**Z370**
+## **Z370**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -103,13 +103,13 @@ All BIOS updates for April 2021
 |Z370M Pro4|4.20G|03/31/2021|04/01/2021|[Download](https://www.asrock.com/mb/Intel/Z370M%20Pro4/index.asp#BIOS)|
 |Fatal1ty Z370 Gaming K6|4.20C|03/31/2021|04/01/2021|[Download](https://www.asrock.com/mb/Intel/Fatal1ty%20Z370%20Gaming%20K6/index.asp#BIOS)|
 
-**H370**
+## **H370**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
 |H370M-ITX/ac|4.30E|04/13/2021|04/13/2021|[Download](https://www.asrock.com/MB/Intel/H370M-ITXac/index.asp#BIOS)|
 
-**Z490**
+## **Z490**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -119,7 +119,7 @@ All BIOS updates for April 2021
 |Z490 Taichi\*|1.90|03/17/2021|04/08/2021|[Download](https://www.asrock.com/MB/Intel/Z490%20Taichi/index.asp#BIOS)|
 |Z490 AQUA|2.10|03/19/2021|04/12/2021|[Download](https://www.asrock.com/MB/Intel/Z490%20AQUA/index.asp#BIOS)|
 
-**H470**
+## **H470**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -127,13 +127,13 @@ All BIOS updates for April 2021
 |H470M-HDV/M.2|1.12|04/08/2021|04/09/2021|[Download](https://www.asrock.com/MB/Intel/H470M-HDVM.2/index.asp#BIOS)|
 |H470M-HDV|1.12|04/08/2021|04/09/2021|[Download](https://www.asrock.com/MB/Intel/H470M-HDV/index.asp#BIOS)|
 
-**B460**
+## **B460**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
 |B460M-ITX/ac|1.60|02/22/2021|04/07/2021|[Download](https://www.asrock.com/MB/Intel/B460M-ITXac/index.asp#BIOS)|
 
-**H410**
+## **H410**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -145,7 +145,7 @@ All BIOS updates for April 2021
 |H410M-ITX/ac|1.32|04/02/2021|04/09/2021|[Download](https://www.asrock.com/MB/Intel/H410M-ITXac/index.asp#BIOS)|
 |H410M/ac|1.32|04/01/2021|04/12/2021|[Download](https://www.asrock.com/MB/Intel/H410Mac/index.asp#BIOS)|
 
-**Z590**
+## **Z590**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -164,7 +164,7 @@ All BIOS updates for April 2021
 |Z590 OC Formula|1.20|04/14/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20OC%20Formula/Specification.asp#BIOS)|
 |Z590M-ITX/ax|1.20|04/12/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/Z590M-ITXax/index.asp#BIOS)|
 
-**H570**
+## **H570**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -173,7 +173,7 @@ All BIOS updates for April 2021
 |H570M Pro4|1.50|04/13/2021|01/14/2021|[Download](https://www.asrock.com/MB/Intel/H570M%20Pro4/index.asp#BIOS)|
 |H570M-ITX/ac|1.30|01/04/2021|01/04/2021|[Download](https://www.asrock.com/MB/Intel/H570M-ITXac/index.asp#BIOS)|
 
-**B560**
+## **B560**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -186,7 +186,7 @@ All BIOS updates for April 2021
 |B560M-HDV-A|1.40|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
 |B560M-ITX/ac|1.60|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M-ITXac/index.asp#BIOS)|
 
-**H510**
+## **H510**
 
 |Motherboards|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
@@ -196,7 +196,7 @@ All BIOS updates for April 2021
 |H510M-HVS|1.20|04/13/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HVS/index.asp#BIOS)|
 |H510M-ITX/ac|1.60|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/H510M-ITXac/index.asp#BIOS)|
 
-**Changelog**
+## **Changelog**
 
     Z590:
         1. Added "Intel Adaptive Boost Technology"
@@ -261,7 +261,7 @@ All BIOS updates for April 2021
 |:-|:-|:-|:-|:-|
 |Radeon RX 6700 XT Challenger D 12GB|L04|04/01/2021|01/04/2021|[Download](https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206700%20XT%20Challenger%20D%2012GB/index.asp#BIOS)|
 
-**Changelog**
+## **Changelog**
 
     RX 6700 XT:
         Optimizes Graphics Card Performance
