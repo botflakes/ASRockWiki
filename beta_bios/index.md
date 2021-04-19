@@ -8,7 +8,7 @@ Please only proceed at your own caution. As a note, we have not personally teste
 ***
 
 ## Quick Facts  
-- **Depository Size: 7.50 (8.54.331.072 Bytes) or 1015 Beta BIOS Files**
+- **Depository Size: 8.64 (9.284.775.263 Bytes) or 1125 Beta BIOS Files**
 
 ***
 
