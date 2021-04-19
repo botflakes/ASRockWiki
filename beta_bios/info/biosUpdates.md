@@ -281,5 +281,5 @@ All BIOS updates for April 2021
 **Social**  
 **[r/ASRock](https://www.reddit.com/r/ASRock/) > [Twitter](https://twitter.com/redditASRock) | [r/ASRock](https://www.reddit.com/r/ASRock/) > [Discord](https://discord.gg/rFrMpxV)**
 
-***INFORMATION!**  
+**INFORMATION!**  
 ***Should a Beta BIOS not be available anymore, there is a high chance that you can find it on our [Wiki](https://botflakes.github.io/ASRockWiki/beta_bios/)!*** 
