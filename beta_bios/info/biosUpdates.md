@@ -259,7 +259,7 @@ All BIOS updates for April 2021
 
 |Model|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
-|Radeon RX 6700 XT Challenger D 12GB|L04|04/01/2021|01/04/2021|[Download](https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206700%20XT%20Challenger%20D%2012GB/index.asp#BIOS)|
+|Radeon RX 6700 XT Challenger D 12GB|L04|04/01/2021|04/01/2021|[Download](https://www.asrock.com/Graphics-Card/AMD/Radeon%20RX%206700%20XT%20Challenger%20D%2012GB/index.asp#BIOS)|
 
 ## **Changelog**
 
