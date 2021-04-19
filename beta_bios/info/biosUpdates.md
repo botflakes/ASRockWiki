@@ -4,7 +4,7 @@ All BIOS updates for April 2021
 
 &#x200B;
 
-## AMD
+# **AMD**
 
 ## **X570**
 
@@ -65,7 +65,7 @@ All BIOS updates for April 2021
         A300:
         Optimized Deep Sleep options
 
-## INTEL
+# **INTEL**
 
 ## **Z390**
 
