@@ -270,7 +270,7 @@ All BIOS updates for April 2021
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
 
 **Feedback**  
-**Found a bug or an Issue and want to report it or just want to leave feedback? Do [here](https://event.asrock.com/tsd.asp)**
+**Found a bug or an Issue and want to report it or just want to leave feedback? Do [here](https://event.asrock.com/tsd.asp)!**
 
 **DISCLAIMER**  
 ***I'm not responsible for any damage on your board! Flashing a new BIOS does always have its risks!***
