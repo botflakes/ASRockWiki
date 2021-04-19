@@ -183,7 +183,7 @@ All BIOS updates for April 2021
 |B560M Pro4/ac|1.90|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M%20Pro4ac/index.asp#BIOS)|
 |B560M Steel Legend|1.30|04/13/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M%20Steel%20Legend/index.asp#BIOS)|
 |B560M-HDV|1.60|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV/index.asp#BIOS)|
-|B560M-HDV-A|1.40|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
+|B560M-HDV-A|1.50|04/15/2021|04/19/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
 |B560M-ITX/ac|1.60|04/15/2021|04/16/2021|[Download](https://www.asrock.com/MB/Intel/B560M-ITXac/index.asp#BIOS)|
 
 ## **H510**
