@@ -12,6 +12,10 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 ***
 
+## BIOS Updates
+
+[Recent BIOS - April 2021](info/biosUpdates)
+
 ## ASRock Consumer Motherboards
 
 - [Beta BIOSes - AMD](beta_bios_consumer/beta_bios_amd)  
@@ -36,4 +40,3 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 - [AMD CPUIDs](info/amd_cpu_ids)  
 - [AMD AGESA Changelog](info/about_agesa)
-
