@@ -255,7 +255,7 @@ All BIOS updates for April 2021
     H370:
         Added C.A.M. (Clever Access Memory)
 
-## GPU's
+# **GPUs**
 
 |Model|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
