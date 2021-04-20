@@ -4,7 +4,7 @@
 
 <p style="text-align:center;color:#79bd28">All BIOS updates week 16 - 2021</p>
 
-# **AMD**
+# AMD
 
 ## **X570**
 
@@ -18,12 +18,17 @@
 |X570 Steel Legend|3.70|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend/index.asp#BIOS)|
 |X570 Taichi|4.30|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Taichi/index.asp#BIOS)|
 
-
 ## **B550**
 
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
+
+## **X370**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|X370 Taichi|6.62|04/18/2021|04/20/2021|[Download](https://drive.google.com/file/d/1p8b0wORXKVWNDDXejLy9VArhkcU_BdOw/view?usp=sharing)|
 
 **Changelog**
 
@@ -32,9 +37,11 @@
     
     B550:
         Update to AMD AGESA ComboAM4v2 1.2.0.2
+    
+    X370:
+        Fixed PCIe X16 bug 
 
-
-# **Intel**
+# Intel
 
 ## **B560**
 
@@ -42,13 +49,27 @@
 |Motherboard|Version|Build Date|Release Date|Download|
 |B560M-HDV-A|1.50|04/15/2021|04/19/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
 
-**Changelog**  
+**Changelog**
 
     B560:
         1. Added "Intel Adaptive Boost Technology"
         2. Update Intel Microcode and ME
         3. Update GOP
         4. Improve memory compatibility
+
+# ASRock Rack
+
+## **X570**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|X570D4U|1.50|04/08/2021|04/09/2021|[Download](https://www.asrockrack.com/general/productdetail.asp?Model=X570D4U#Download)|
+
+**Changelog**
+
+    X570D4U:
+        1. Update AGESA ComboV2 to 1.2.0.1
+        2. Fix issue of low network speed in Ubuntu
 
 **Source**  
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
