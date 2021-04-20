@@ -4,11 +4,9 @@
 
 <p style="text-align:center">All BIOS updates week 16 - 2021</p>
 
-&#x200B;
+# **AMD**
 
-# AMD
-
-# **X570**
+## **X570**
 
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
@@ -20,9 +18,8 @@
 |X570 Steel Legend|3.70|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend/index.asp#BIOS)|
 |X570 Taichi|4.30|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Taichi/index.asp#BIOS)|
 
-&#x200B;
 
-# **B550**
+## **B550**
 
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
@@ -32,11 +29,9 @@
 
     Update to AMD AGESA ComboAM4v2 1.2.0.2
 
-# Intel
+# **Intel**
 
-&#x200B;
-
-# **B560**
+## **B560**
 
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
