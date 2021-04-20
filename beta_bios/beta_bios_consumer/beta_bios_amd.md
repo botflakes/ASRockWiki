@@ -490,6 +490,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+6.62|April 20th, 2021|JZ|[Download](https://drive.google.com/file/d/1p8b0wORXKVWNDDXejLy9VArhkcU_BdOw/view?usp=sharing)
 6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
 6.32|April 28rd, 2020|JZ|[Download](https://drive.google.com/file/d/1fObryv88J9qfqw3Dn4B7UfK_Rz-zJXuf/view?usp=sharing)
 6.22|April 1st, 20220|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
