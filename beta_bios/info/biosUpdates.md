@@ -8,7 +8,8 @@
 
 # AMD
 
-|**X570**|||||
+# **X570**
+
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |X570 Phantom Gaming 4|4.00|04/15/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%204/index.asp#BIOS)|
@@ -21,7 +22,8 @@
 
 &#x200B;
 
-|**B550**|||||
+# **B550**
+
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
