@@ -2,7 +2,7 @@
 
 <img style="margin-left:auto;margin-right:auto;display: block;" src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">
 
-<p style="text-align:center">All BIOS updates week 16 - 2021</p>
+<p style="text-align:center;color:#79bd28">All BIOS updates week 16 - 2021</p>
 
 # **AMD**
 
