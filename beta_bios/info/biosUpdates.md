@@ -27,11 +27,13 @@
 
 **Changelog**  
 
-X570:
-    Update to AMD AGESA ComboAM4v2 1.2.0.2
+**Changelog**
+
+    X570:
+        Update to AMD AGESA ComboAM4v2 1.2.0.2
     
-B550:
-    Update to AMD AGESA ComboAM4v2 1.2.0.2
+    B550:
+        Update to AMD AGESA ComboAM4v2 1.2.0.2
 
 
 # **Intel**
@@ -44,11 +46,11 @@ B550:
 
 **Changelog**  
 
-B560:
-    1. Added "Intel Adaptive Boost Technology"
-    2. Update Intel Microcode and ME
-    3. Update GOP
-    4. Improve memory compatibility
+    B560:
+        1. Added "Intel Adaptive Boost Technology"
+        2. Update Intel Microcode and ME
+        3. Update GOP
+        4. Improve memory compatibility
 
 **Source**  
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
