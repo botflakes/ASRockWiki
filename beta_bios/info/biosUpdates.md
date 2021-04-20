@@ -1,6 +1,6 @@
 # BIOS Updates - Week 16. - 2021
 
-<img src="/ASRockWIki/assets/img/includes/wiki/bios_updates.png">
+<img src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">
 
 All BIOS updates week 16 - 2021
 
