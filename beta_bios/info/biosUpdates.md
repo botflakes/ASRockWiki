@@ -26,8 +26,12 @@
 |B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
 
 **Changelog**
-
+X570:
     Update to AMD AGESA ComboAM4v2 1.2.0.2
+
+B550:
+    Update to AMD AGESA ComboAM4v2 1.2.0.2
+
 
 # **Intel**
 
@@ -39,6 +43,7 @@
 
 **Changelog**
 
+B560:
     1. Added "Intel Adaptive Boost Technology"
     2. Update Intel Microcode and ME
     3. Update GOP
