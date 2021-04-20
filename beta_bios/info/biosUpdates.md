@@ -25,10 +25,11 @@
 |Motherboard|Version|Build Date|Release Date|Download|
 |B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
 
-**Changelog**
+**Changelog**  
+
 X570:
     Update to AMD AGESA ComboAM4v2 1.2.0.2
-
+    
 B550:
     Update to AMD AGESA ComboAM4v2 1.2.0.2
 
@@ -41,7 +42,7 @@ B550:
 |Motherboard|Version|Build Date|Release Date|Download|
 |B560M-HDV-A|1.50|04/15/2021|04/19/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
 
-**Changelog**
+**Changelog**  
 
 B560:
     1. Added "Intel Adaptive Boost Technology"
