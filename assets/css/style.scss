@@ -25,7 +25,7 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-    background-color: #79bd28;
+    background-color: #85c226;
     border-radius: 5px;
 }
 .container {
@@ -45,12 +45,12 @@ table {
 
 table th {
     text-align: left;
-    border-bottom: 1px dashed #79bd28;
+    border-bottom: 1px dashed #85c226;
 	  padding: 5px 10px;
 }
 table td {
 	padding: 2px 10px;
-	border-bottom: 1px dashed #79bd28;
+	border-bottom: 1px dashed #85c226;
 }
 
 table tp {
@@ -68,13 +68,13 @@ table tp {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: #79bd28;
+	color: #85c226;
 	text-shadow: none;
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
 
 a {
-  color: #79bd28;
+  color: #85c226;
   text-shadow: none;
   text-decoration: none;
   font-size: 14px;
@@ -86,7 +86,7 @@ p, ul, ol, pre, dl {
 }
 
 header h1 {
-	color: #79bd28;
+	color: #85c226;
 	text-shadow: none;
 	font-family: IBMPlexSans, Arial, sans-serif;
   margin-top: 11px;
@@ -99,7 +99,7 @@ header h2 {
 }
 
 header {
-	border-bottom: 1px solid #79bd28;
+	border-bottom: 1px solid #85c226;
 	font-family: IBMPlexSans, Arial, sans-serif;
 	background-image: url(/ASRockWiki/assets/img/site/header.png);
 	height: 130px;
@@ -161,8 +161,8 @@ section {
 }
 
 hr {
-  color: #79bd28;
-  border-bottom: 1px dashed #79bd28;
+  color: #85c226;
+  border-bottom: 1px dashed #85c226;
 }
 
 .social {
@@ -171,6 +171,6 @@ hr {
 }
 
 .social i {
-  color: #79bd28;
+  color: #85c226;
   background-color: black;
 }
