@@ -25,8 +25,6 @@
 |Motherboard|Version|Build Date|Release Date|Download|
 |B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
 
-**Changelog**  
-
 **Changelog**
 
     X570:
