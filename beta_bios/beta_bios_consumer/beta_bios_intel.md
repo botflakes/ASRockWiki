@@ -255,6 +255,14 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.60C|January 24th, 2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
 
+## **Socket 1200 Intel Z590**
+
+**Z590 Extreme**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.51|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1rDCtqwKzBlIkBUPpQ61pAoOxziA8fN3Z/view?usp=sharing)
+
 ## **Socket 1200 Intel H570**
 
 **H570 Steel Legend**
