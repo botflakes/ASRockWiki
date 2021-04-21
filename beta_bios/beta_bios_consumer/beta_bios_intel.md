@@ -275,6 +275,14 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.31|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1IMqnqy6-OykftGonGm7h36iwA5yiH-Br/view?usp=sharing)
 
+**Z590 Phantom Gaming 4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.51|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/12DQmcKb2GyO8cNC9twY29rMqxlOkmb2Q/view?usp=sharing)
+
+****
+
 ## **Socket 1200 Intel H570**
 
 **H570 Steel Legend**
