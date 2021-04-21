@@ -530,6 +530,9 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+6.62|April 21st, 2021|JZ|[Download](https://drive.google.com/file/d/1I3cJx44Tt4cO3NNDP43vXS34uqFfTsgq/view?usp=sharing)
+6.61|December 16th, 2020|JZ|[Download](https://drive.google.com/file/d/1jRJOVinDzddT9Re8PgN5KPlktsImgFuY/view?usp=sharing)
+6.40|August, 19th, 2020|JZ|[Download](https://drive.google.com/file/d/1BUNKW6JFEvWl_xJ3dJN1L1QT_FhiIC_e/view?usp=sharing)
 6.32|July 28th, 2020|JZ|[Download](https://drive.google.com/file/d/1XQ99HkF1P_ufNp2SIZYFCiUbi8U6QkC2/view?usp=sharing)
 5.95|November 15th, 2019|JZ|[Download](https://drive.google.com/file/d/1AHPjJG6hzjseyhPg0X8Hn_4SPux-XaMC/view?usp=sharing)
 5.94|November 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1eAt0ubjvqU8FnVICO5OqRwJ1Ox-Eib3r/view?usp=sharing)
