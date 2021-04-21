@@ -269,7 +269,11 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.51|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/11jSl04oz_oD7nWQ-8OS5PqG0X-J5OSUC/view?usp=sharing)
 
-****
+**Z590 PG Velocita**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1IMqnqy6-OykftGonGm7h36iwA5yiH-Br/view?usp=sharing)
 
 ## **Socket 1200 Intel H570**
 
