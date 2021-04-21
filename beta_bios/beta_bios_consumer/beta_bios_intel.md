@@ -317,6 +317,13 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.51|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1_wdUiVaC9t0gHdVsh-TfGyhF-jKkhDh3/view?usp=sharing)
 
+**Z590M Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.51|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/11x2BmAxjjMhrK38hZtDAhSXsiyUZkU2Y/view?usp=sharing)
+
+
 ## **Socket 1200 Intel H570**
 
 **H570 Steel Legend**
