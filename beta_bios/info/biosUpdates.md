@@ -31,6 +31,7 @@
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |X370 Taichi|6.62|04/18/2021|04/20/2021|[Download](https://drive.google.com/file/d/1p8b0wORXKVWNDDXejLy9VArhkcU_BdOw/view?usp=sharing)|
+|X370 Professional Gaming|6.62|04/20/2021|04/21/2021|[Download](https://drive.google.com/file/d/1I3cJx44Tt4cO3NNDP43vXS34uqFfTsgq/view?usp=sharing)|
 
 **Changelog**
 
