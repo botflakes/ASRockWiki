@@ -287,6 +287,11 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.11|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1QC22FuiG1L1oVoSNdpevt2xP__N5lRvK/view?usp=sharing)
 
+**Z590 Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.42|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1Mh47ENrwFiOTXhuARRI5Lg4bKQg06PiE/view?usp=sharing)
 
 ## **Socket 1200 Intel H570**
 
