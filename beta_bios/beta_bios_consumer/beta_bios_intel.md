@@ -305,6 +305,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.41|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/17vfyb6FK-4UFi7ECWCabgUQBSf38kHUJ/view?usp=sharing)
 
+**Z590 Taichi**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.62|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1mT_o-w4uX-NVDgtBwn8ilqvlpHoGSzSV/view?usp=sharing)
+
 ## **Socket 1200 Intel H570**
 
 **H570 Steel Legend**
