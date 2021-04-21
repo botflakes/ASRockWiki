@@ -323,6 +323,11 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.51|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/11x2BmAxjjMhrK38hZtDAhSXsiyUZkU2Y/view?usp=sharing)
 
+**Z590M-ITX/ax**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.21|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1dgtmbbYGae0FZte7L_rRow5ilX8PlPWI/view?usp=sharing)
 
 ## **Socket 1200 Intel H570**
 
