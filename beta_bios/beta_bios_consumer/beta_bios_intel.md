@@ -299,6 +299,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.41|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1cBXhaAwkRLnOmrfbHjo_B3Es4zqoX57N/view?usp=sharing)
 
+**Z590 Steel Legend WiFi 6E**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.41|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/17vfyb6FK-4UFi7ECWCabgUQBSf38kHUJ/view?usp=sharing)
+
 ## **Socket 1200 Intel H570**
 
 **H570 Steel Legend**
