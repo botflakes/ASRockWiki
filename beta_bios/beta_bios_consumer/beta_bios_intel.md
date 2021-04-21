@@ -293,6 +293,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.42|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1Mh47ENrwFiOTXhuARRI5Lg4bKQg06PiE/view?usp=sharing)
 
+**Z590 Steel Legend**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.41|April 21st, 2021|ASRock|[Download](https://drive.google.com/file/d/1cBXhaAwkRLnOmrfbHjo_B3Es4zqoX57N/view?usp=sharing)
+
 ## **Socket 1200 Intel H570**
 
 **H570 Steel Legend**
