@@ -80,6 +80,13 @@
 |Motherboard|Version|Build Date|Release Date|Download|
 |B560M-HDV-A|1.50|04/15/2021|04/19/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
 
+## **Z370**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|Z370 Extreme4|4.25|04/20/2021|04/22/2021|[Download](https://drive.google.com/file/d/19tGoaReeaBEq-Neo8T0uHwfAZvTnVXdV/view?usp=sharing)|
+
+
 **Changelog**
 
     Z590:
@@ -90,6 +97,9 @@
         2. Update Intel Microcode and ME
         3. Update GOP
         4. Improve memory compatibility
+    
+    Z370:
+        Fixed C.A.M. (Clever Access Memory)
 
 # ASRock Rack
 
