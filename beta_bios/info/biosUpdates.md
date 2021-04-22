@@ -23,6 +23,10 @@
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
+|B550 Taichi Razer Edition|1.50|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi%20Razer%20Edition/index.asp#BIOS)|
+|B550 Pro4|1.90|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Pro4/index.asp#BIOS)|
+|B550 Phantom Gaming 4/ac|1.90|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Phantom%20Gaming%204ac/index.asp#BIOS)|
+|B550 Phantom Gaming 4|1.90|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS)|
 
 ## **A520**
 
