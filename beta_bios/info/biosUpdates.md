@@ -80,6 +80,15 @@
 |Motherboard|Version|Build Date|Release Date|Download|
 |B560M-HDV-A|1.50|04/15/2021|04/19/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
 
+## **H510**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|H510M/ac|1.50|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510Mac/index.asp#BIOS)|
+|H510M-HDV|1.40|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HDV/index.asp#BIOS)|
+|H510M-HDV/M.2|1.40|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HDVM.2/index.asp#BIOS)|
+|H510M-HVS|1.40|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HVS/index.asp#BIOS)
+
 ## **Z370**
 
 |:-|:-|:-|:-|:-|
@@ -93,6 +102,12 @@
         Improved compatibility with NVMe™ SSD Add-in-Cards
     
     B560:
+        1. Added "Intel Adaptive Boost Technology"
+        2. Update Intel Microcode and ME
+        3. Update GOP
+        4. Improve memory compatibility
+    
+    H510:
         1. Added "Intel Adaptive Boost Technology"
         2. Update Intel Microcode and ME
         3. Update GOP
