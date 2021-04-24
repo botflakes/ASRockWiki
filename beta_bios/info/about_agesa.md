@@ -196,4 +196,4 @@
 <p>Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.</p>
 
 <h2> Sources </h2>
-<img src="https://www.countryflags.io/de/shiny/16.png"> / <img src="https://www.countryflags.io/gb/shiny/16.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
+<img src="/ASRockWiki/assets/img/flags/de.png"> <a class="flag-text" href="https://planet3dnow.de" target="_blank">Planet3dNow!</a>
