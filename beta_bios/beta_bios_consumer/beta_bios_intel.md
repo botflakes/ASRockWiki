@@ -387,6 +387,32 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 L1.41|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1G27gXhOlqe7DtG6B9tlx6-2jaL6nEJ7w/view?usp=sharing)
 
+## **Socket 1200 Intel H570**
+
+**H510M/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.50|April 23rd, 2021|ASRock|[Download](https://drive.google.com/file/d/1gkenowrJX1VkzsRpaFTgM0BTiLwxjwZY/view?usp=sharing)
+
+**H510M-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.40|April 23rd, 2021|ASRock|[Download](https://drive.google.com/file/d/1N3uLTNXdncmbkCdBtsW7YYocvcXt8rFW/view?usp=sharing)
+
+**H510M-HDV/M.2**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.40|April 23rd, 2021|ASRock|[Download](https://drive.google.com/file/d/1DsdmBC3Pvor0Q5tVM2P-myYMqvgoNWms/view?usp=sharing)
+
+**H510M-HVS**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.40|April 23rd, 2021|ASRock|[Download](https://drive.google.com/file/d/1PoZou_hUpfHIeCsvBA7EoUXYsysWUHz1/view?usp=sharing)
+
 ## **Socket 1200 Intel Z490 **
 
 **Z490 Aqua**
