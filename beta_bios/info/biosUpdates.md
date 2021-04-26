@@ -1,134 +1,35 @@
-# BIOS Updates - Week 16. - 2021
+# BIOS Updates - Week 17. - 2021
 
 <img style="margin-left:auto;margin-right:auto;display: block;" src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">
 
-<p style="text-align:center;color:#79bd28">All BIOS updates week 16 - 2021</p>
+<p style="text-align:center;color:#79bd28">All BIOS Updates Week 17 - 2021</p>
 
 # AMD
 
-## **X570**
+# **X570**
 
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
-|X570 Phantom Gaming 4|4.00|04/15/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%204/index.asp#BIOS)|
-|X570 Phantom Gaming 4 WiFi ax|4.00|04/15/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%204%20WiFi%20ax/index.asp#BIOS)|
-|X570 Phantom Gaming 4S|4.00|04/15/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%204S/index.asp#BIOS)|
-|X570 Phantom Gaming X|4.30|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming%20X/index.asp#BIOS)|
-|X570 Pro4|4.00|04/15/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Pro4/index.asp#BIOS)|
-|X570 Steel Legend|3.70|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend/index.asp#BIOS)|
-|X570 Taichi|4.30|04/14/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Taichi/index.asp#BIOS)|
+|X570 AQUA|3.50|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20AQUA/index.asp#BIOS)|
+|X570 Creator|3.50|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Creator/index.asp#BIOS)|
+|X570 Extreme4|3.70|04/14/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Extreme4/index.asp#BIOS)|
+|X570 Extreme4 WiFi ax|3.70|04/14/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Extreme4%20WiFi%20ax/index.asp#BIOS)|
+|X570 Phantom Gaming-ITX/TB3|3.10|04/20/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming-ITXTB3/index.asp#BIOS)|
+|X570 Steel Legend WiFi ax|3.70|04/14/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend%20WiFi%20ax/index.asp#BIOS)|
+|X570M Pro4|3.50|04/20/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570M%20Pro4/index.asp#BIOS)|
 
-## **B550**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|B550 Taichi|1.90|04/13/2021|04/20/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi/index.asp#BIOS)|
-|B550 Taichi Razer Edition|1.50|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Taichi%20Razer%20Edition/index.asp#BIOS)|
-|B550 Pro4|1.90|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Pro4/index.asp#BIOS)|
-|B550 Phantom Gaming 4/ac|1.90|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Phantom%20Gaming%204ac/index.asp#BIOS)|
-|B550 Phantom Gaming 4|1.90|04/19/2021|04/22/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS)|
-
-## **A520**
+# **B550**
 
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
-|A520M Pro4|1.60|04/16/2021|04/21/2021|[Download](https://www.asrock.com/MB/AMD/A520M%20Pro4/index.asp#BIOS)|
-
-## **X370**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|X370 Taichi|6.62|04/18/2021|04/20/2021|[Download](https://drive.google.com/file/d/1p8b0wORXKVWNDDXejLy9VArhkcU_BdOw/view?usp=sharing)|
-|X370 Professional Gaming|6.62|04/20/2021|04/21/2021|[Download](https://drive.google.com/file/d/1I3cJx44Tt4cO3NNDP43vXS34uqFfTsgq/view?usp=sharing)|
+|B550 Extreme4|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Extreme4/index.asp#BIOS)|
+|B550 PG Velocita|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550%20PG%20Velocita/index.asp#BIOS)|
+|B550 Steel Legend|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Steel%20Legend/index.asp#BIOS)|
+|B550M Steel Legend|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20AQUA/index.asp#BIOS)|
 
 **Changelog**
 
-    X570:
-        Update to AMD AGESA ComboAM4v2 1.2.0.2
-    
-    B550:
-        Update to AMD AGESA ComboAM4v2 1.2.0.2
-    
-    A520:
-        Update to AMD AGESA ComboAM4v2 1.2.0.2
-    
-    X370:
-        Fixed PCIe X16 bug 
-
-# Intel
-
-## **Z590**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|Z590 Extreme|1.51|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Extreme/index.asp#BIOS)|
-|Z590 Extreme WiFi 6E|1.51|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Extreme%20WiFi%206E/index.asp#BIOS)|
-|Z590 PG Velocita|1.31|04/20/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20PG%20Velocita/index.asp#BIOS)|
-|Z590 Phantom Gaming 4|1.51|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Phantom%20Gaming%204/index.asp#BIOS)|
-|Z590 Phantom Gaming 4/ac+|1.11|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Phantom%20Gaming%204ac+/index.asp#BIOS)|
-|Z590 Pro4|1.42|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Pro4/index.asp#BIOS)|
-|Z590 Steel Legend|1.41|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Steel%20Legend/index.asp#BIOS)|
-|Z590 Steel Legend WiFi 6E|1.41|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Steel%20Legend%20WiFi%206E/index.asp#BIOS)|
-|Z590 Taichi|1.62|02/20/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Taichi/index.asp#BIOS)|
-|Z590M Phantom Gaming 4|1.51|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590M%20Phantom%20Gaming%204/index.asp#BIOS)|
-|Z590M Pro4|1.51|04/21/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590M%20Pro4/index.asp#BIOS)|
-|Z590M-ITX/ax|1.21|04/14/2021|04/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590M-ITXax/index.asp#BIOS)|
-
-## **B560**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|B560M-HDV-A|1.50|04/15/2021|04/19/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV-A/index.asp#BIOS)|
-
-## **H510**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|H510M/ac|1.50|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510Mac/index.asp#BIOS)|
-|H510M-HDV|1.40|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HDV/index.asp#BIOS)|
-|H510M-HDV/M.2|1.40|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HDVM.2/index.asp#BIOS)|
-|H510M-HVS|1.40|04/23/2021|04/23/2021|[Download](https://www.asrock.com/MB/Intel/H510M-HVS/index.asp#BIOS)
-
-## **Z370**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|Z370 Extreme4|4.25|04/20/2021|04/22/2021|[Download](https://drive.google.com/file/d/19tGoaReeaBEq-Neo8T0uHwfAZvTnVXdV/view?usp=sharing)|
-
-
-**Changelog**
-
-    Z590:
-        Improved compatibility with NVMe™ SSD Add-in-Cards
-    
-    B560:
-        1. Added "Intel Adaptive Boost Technology"
-        2. Update Intel Microcode and ME
-        3. Update GOP
-        4. Improve memory compatibility
-    
-    H510:
-        1. Added "Intel Adaptive Boost Technology"
-        2. Update Intel Microcode and ME
-        3. Update GOP
-        4. Improve memory compatibility
-    
-    Z370:
-        Fixed C.A.M. (Clever Access Memory)
-
-# ASRock Rack
-
-## **X570**
-
-|:-|:-|:-|:-|:-|
-|Motherboard|Version|Build Date|Release Date|Download|
-|X570D4U|1.50|04/08/2021|04/09/2021|[Download](https://www.asrockrack.com/general/productdetail.asp?Model=X570D4U#Download)|
-
-**Changelog**
-
-    X570D4U:
-        1. Update AGESA ComboV2 to 1.2.0.1
-        2. Fix issue of low network speed in Ubuntu
+    1. Update to AMD AGESA ComboAM4v2 1.2.0.2
 
 **Source**  
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
