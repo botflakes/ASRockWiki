@@ -25,7 +25,7 @@
 |B550 Extreme4|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Extreme4/index.asp#BIOS)|
 |B550 PG Velocita|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550%20PG%20Velocita/index.asp#BIOS)|
 |B550 Steel Legend|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550%20Steel%20Legend/index.asp#BIOS)|
-|B550M Steel Legend|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20AQUA/index.asp#BIOS)|
+|B550M Steel Legend|2.00|04/21/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/B550M%20Steel%20Legend/index.asp#BIOS)|
 
 **Changelog**
 
