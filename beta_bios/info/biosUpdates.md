@@ -31,9 +31,26 @@
 |B550M Pro4|1.90|04/22/2021|04/27/2021|[Download](https://www.asrock.com/MB/AMD/B550M%20Pro4/index.asp#BIOS)|
 |B550M/ac|1.80|04/22/2021|04/27/2021|[Download](https://www.asrock.com/MB/AMD/B550Mac/index.asp#BIOS)|
 
+## **X370**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|X370 Gaming X|6.12|04/23/2021|04/26/2021|[Download](https://drive.google.com/file/d/1EEbNr85yTVkjGSKZLBir4wt9FZKXU_4F/view?usp=sharing)|
+|X370 Gaming K4|6.12|04/23/2021|04/26/2021|[Download](https://drive.google.com/file/d/1HFUPKNa0yLn1m6JQHu05XzqCoV-0vAIN/view?usp=sharing)|
+|X370 Killer SLI|6.12|04/23/2021|04/26/2021|[Download](https://drive.google.com/file/d/1KvNnbZ7O9s5Fva_wtjEU9-v42QhelXdD/view?usp=sharing)|
+|X370 Killer SLI/ac|6.12|04/23/2021|04/26/2021|[Download](https://drive.google.com/file/d/1jQF5JDWYtUQ-VfHqbTn7EjV1CstlqxB7/view?usp=sharing)|
+
 **Changelog**
 
-    1. Update to AMD AGESA ComboAM4v2 1.2.0.2
+    X570:
+        Update to AMD AGESA ComboAM4v2 1.2.0.2
+    
+    B550:
+        Update to AMD AGESA ComboAM4v2 1.2.0.2
+    
+    X370:
+        Fixed PCIe X16 bug in combination with 5000 Series CPUs
+
 
 # Intel
 
