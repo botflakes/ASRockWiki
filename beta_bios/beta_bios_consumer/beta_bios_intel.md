@@ -389,10 +389,11 @@ L1.41|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1G27gXh
 
 ## **Socket 1200 Intel Z490 **
 
-**Z490 Aqua**
+**Z490 AQUA**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.11|April 27th, 2021|ASRock|[Download](https://drive.google.com/file/d/1ie9DaJdySX4t15Y2PByLLZxWTIlqmqdO/view?usp=sharing)
 1.71|December 4th, 2020|ASRock|[Download](https://drive.google.com/file/d/1h3bsyed-va2Xi1FQSGq5a7dJKY6NBib9/view?usp=sharing)
 
 **Z490 Taichi**
