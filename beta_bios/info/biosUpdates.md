@@ -17,6 +17,7 @@
 |X570 Phantom Gaming-ITX/TB3|3.10|04/20/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming-ITXTB3/index.asp#BIOS)|
 |X570 Steel Legend WiFi ax|3.70|04/14/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend%20WiFi%20ax/index.asp#BIOS)|
 |X570M Pro4|3.50|04/20/2021|04/26/2021|[Download](https://www.asrock.com/MB/AMD/X570M%20Pro4/index.asp#BIOS)|
+|X570 Taichi Razer Edition|1.44|04/13/2021|04/27/2021|[Download](https://drive.google.com/file/d/1f5d-4au907myOGCVSs3yFDh2pFP7pQqX/view?usp=sharing)|
 
 ## **B550**
 
