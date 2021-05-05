@@ -8,13 +8,13 @@ Please only proceed at your own caution. As a note, we have not personally teste
 ***
 
 ## Quick Facts  
-- **Depository Size: 9.91GB (9.873.804.834 Bytes) or 1169 Beta BIOS Files**
+- **Depository Size: ~9.91GB (9.873.804.834 Bytes) or ~1169 Beta BIOS Files**
 
 ***
 
 ## BIOS Updates
 
-- [BIOS Updates - Week 17. 2021](info/biosUpdates)
+- [BIOS Updates - Week 18. 2021](info/biosUpdates)
 
 ## ASRock Consumer Motherboards
 

@@ -24,6 +24,11 @@ layout: default
 * [Guides](guides/index.md)
 * [Beta BIOS database](beta_bios/index.md)
 
+### ASRock BIOS Updates
+
+* [BIOS Updates - Week 18. 2021](info/biosUpdates)
+
+
 
 ### r/ASRock Community Information:
 
