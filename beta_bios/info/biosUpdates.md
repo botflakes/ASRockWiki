@@ -18,6 +18,7 @@
 
     X470:
         Update to AMD AGESA ComboAM4v2 1.2.0.0
+        Fixes the AMD ACPI Error in ZenTimings
 
 # Intel
 
