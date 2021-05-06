@@ -623,12 +623,6 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.21*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1pkBJIbwgHKtu6RG0xWcJHdKjZOpWaMkG/view?usp=sharing)
 
-### **6.61**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
-
 ### **A320M Pro4 R2.0**
 
 Revision|Date Published|Source|Mirror 1
@@ -639,6 +633,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
 4.71|May 10th, 2018|ASRock|[Download](https://drive.google.com/file/d/1uGFsuAVuRXC-6i2IqYl60Has2hk9vBYd/view?usp=sharing)
 
 ### **A320M-HDV R4.0**
