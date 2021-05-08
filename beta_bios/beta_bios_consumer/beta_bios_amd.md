@@ -318,6 +318,15 @@ Revision|Date Published|Source|Mirror 1
 1.15A|August 3rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1v1Q3vEQeG0EyW_cVBwICeE-FoBEDIYGs/view?usp=sharing)
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1ADeFx26oPwH_pbYwGzoXb4alPT5GlzSr/view?usp=sharing)
 
+## **Socket AM4 AMD A520**
+
+### **A520M-ITX/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.62|April 27th, 2021|JZ|[Download](https://drive.google.com/file/d/1_cVrmCEwNXmYMkiVi3BhXMzvLtSoVI7H/view?usp=sharing)
+
+
 ## **Socket AM4 AMD X470**
 
 ### **X470 Taichi Ultimate**
