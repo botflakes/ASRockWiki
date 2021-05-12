@@ -14,6 +14,7 @@
 |B450M Pro4|5.10|05/06/2021|05/12/2021|[Download](https://www.asrock.com/MB/AMD/B450M%20Pro4/index.asp#BIOS)|
 |B450M Pro4 R2.0|5.10|05/06/2021|05/12/2021|[Download](https://www.asrock.com/MB/AMD/B450M%20Pro4%20R2.0/index.asp#BIOS)|
 |B450M Steel Legend|4.00|05/06/2021|05/12/2021|[Download](https://www.asrock.com/MB/AMD/B450M%20Steel%20Legend/index.asp#BIOS)|
+|B450M Steel Legend Pink Edition|3.90P|05/06/2021|05/12/2021|[Download](https://www.asrock.com/MB/AMD/B450M%20Steel%20Legend/index.asp#BIOS)|
 
 **Changelog**
 
