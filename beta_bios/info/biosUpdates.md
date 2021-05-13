@@ -4,7 +4,20 @@
 
 <p style="text-align:center;color:#79bd28">All BIOS Updates Week 19 - 2021</p>
 
+&#x200B;
+
 # AMD
+
+## **X570**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|X570 PG Velocita|1.70|04/28/2021|05/12/2021|[Download](https://www.asrock.com/MB/AMD/X570%20PG%20Velocita/index.asp#BIOS)|
+|X570 Taichi Razer Edition|1.50|04/28/2021|05/12/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Taichi%20Razer%20Edition/index.asp#BIOS)|
+
+**Changelog**
+
+    Update to AMD AGESA ComboAM4v2 1.2.0.2
 
 ## **B450**
 
@@ -27,10 +40,16 @@
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |B560M-HDV|1.80|05/10/2021|05/11/2021|[Download](https://www.asrock.com/MB/Intel/B560M-HDV/index.asp#BIOS)|
+|B560 Pro4|1.80|04/16/2021|05/12/2021|[Download](https://www.asrock.com/MB/Intel/B560%20Pro4/index.asp#BIOS)|
+|B560 Steel Legend|1.80|04/16/2021|05/12/2021|[Download](https://www.asrock.com/MB/Intel/B560%20Steel%20Legend/index.asp#BIOS)|
+|B560M Steel Legend|1.40|04/19/2021|05/12/2021|[Download](https://www.asrock.com/MB/Intel/B560M%20Steel%20Legend/index.asp#BIOS)|
 
 **Changelog**
 
-    Optimize BIOS settings
+    1. Added "Intel Adaptive Boost Technology"
+    2. Update Intel Microcode and ME
+    3. Update GOP
+    4. Improved memory compatibility
 
 # GPUs
 
