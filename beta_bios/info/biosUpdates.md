@@ -17,6 +17,16 @@
 
     Update to AMD AGESA ComboAM4v2 1.2.0.2
 
+## **B550**
+
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|B550M-HDV|1.76|03/03/2021|05/14/2021|[Download](https://drive.google.com/file/d/1UMmvZfNACGmh_6Y7rYoaSsrJUBbDFR1o/view?usp=sharing)|
+
+**Changelog**
+
+    Update to AMD AGESA ComboAM4v2 1.2.0.2
+
 ## **B450**
 
 |:-|:-|:-|:-|:-|
@@ -67,6 +77,7 @@
 **Changelog**
 
     Optimizes GPU Performance
+
 
 
 **Source**  
