@@ -5,10 +5,37 @@
 <p style="text-align:center;color:#79bd28">All BIOS Updates Week 20 - 2021</p>
 
 
+&#x200B;
+
 # AMD
 
-## **X470**
+|**B550**|||||
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|B550M-HDV|1.80|05/13/2021|05/19/2021|[Download](https://www.asrock.com/MB/AMD/B550M-HDV/index.asp#BIOS)|
+|B550M-ITX/ac|1.70|05/13/2021|05/19/2021|[Download](https://www.asrock.com/MB/AMD/B550M-ITXac/index.asp#BIOS)|
 
+**Changelog**
+
+    B550:
+        Update to AMD AGESA ComboAM4v2 1.2.0.2
+
+&#x200B;
+
+|**A520**|||||
+|:-|:-|:-|:-|:-|
+|Motherboard|Version|Build Date|Release Date|Download|
+|A520M-HDVP/DASH|1.40|05/04/2021|05/19/2021|[Download](https://www.asrock.com/MB/AMD/A520M-HDVPDASH/index.asp#BIOS)|
+|A520M-ITX/ac|1.70|05/13/2021|05/19/2021|[Download](https://www.asrock.com/MB/AMD/A520M-ITXac/index.asp#BIOS)|
+
+**Changelog**
+
+    A520:
+        Update to AMD AGESA ComboAM4v2 1.2.0.2
+
+&#x200B;
+
+|**X470**|||||
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |Fatal1ty X470 Gaming-ITX/ac|4.50|05/11/2021|05/17/2021|[Download](https://www.asrock.com/MB/AMD/Fatal1ty%20X470%20Gaming-ITXac/index.asp#BIOS)|
@@ -18,8 +45,9 @@
     X470:
         Update to AMD AGESA ComboAM4v2 1.2.0.2
 
-## **B450**
+&#x200B;
 
+|**B450**|||||
 |:-|:-|:-|:-|:-|
 |Motherboard|Version|Build Date|Release Date|Download|
 |B450M-HDV R4.0|4.60|05/11/2021|05/17/2021|[Download](https://www.asrock.com/MB/AMD/B450M-HDV%20R4.0/index.asp#BIOS)|
