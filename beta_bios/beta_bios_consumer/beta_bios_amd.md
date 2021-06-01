@@ -522,7 +522,9 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1BKnjEDgGy0id-zjBThr9Fion2yPAEFFW/view?usp=sharing)
+6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1w1WlbWnsvwF7qeqlMQafuyl_7eAld3kd/view?usp=sharing)
+6.12|December 15th, 2020|ASRock|[Download](https://drive.google.com/file/d/1KvNnbZ7O9s5Fva_wtjEU9-v42QhelXdD/view?usp=sharing)
+6.11|December 14th, 2020|ASRock|[Download](https://drive.google.com/file/d/1BKnjEDgGy0id-zjBThr9Fion2yPAEFFW/view?usp=sharing)
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1yvYIcxaeQF8J7xNnRTTt92UzxLK5Sxxt/view?usp=sharing)
 4.73|July 3rd, 2018|JZ|[Download](https://drive.google.com/file/d/1wQsuhOOEUcky4tSafdD5Cm_WdeIjILXV/view?usp=sharing)
 
@@ -558,7 +560,8 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.11*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
+6.62*|January 22nd, 2021|Chiphell|[Download](https://drive.google.com/file/d/1B3SOQ6elLXLBnUqDH25jA66CbJmHGhMW/view?usp=sharing)
+6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 
