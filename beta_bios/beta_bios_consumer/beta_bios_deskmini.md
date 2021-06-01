@@ -38,6 +38,12 @@ Revision|Date Published|Source|Mirror 1
 3.60K|July 22nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1sdOxp10KtBnguoKSvqpb3p-cdY1gAAvl/view?usp=sharing)
 3.60H|June 12th, 2020|ASRock|[Download](https://drive.google.com/file/d/1qZ7miy1JYVCyKgk3QlmEx2HApvoqMQ_n/view?usp=sharing)
 
+### **DeskMini H470**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.11|April 28th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jer3VGzPD8UuR6Pig-WnnbfKFCIJqE1B/view?usp=sharing)
+
 <p>
     ⚠️ *    = This BIOS does not support Bristol Ridge APUs. Please DO NOT update the BIOS when using Bristol Ridge APU<br>
     ⚠️ **   = Doesn't support Renoir. We strongly recommend 3.60S
