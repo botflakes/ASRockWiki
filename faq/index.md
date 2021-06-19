@@ -19,6 +19,10 @@ Here is a collection of frequently ask questions
 2. One other way would be to enter the BIOS  
 3. The last way would be with tools like CPU-Z or HWiNFO64
 
+**Q: What screw size do I need for an M.2?**
+
+- A: As the name already suggests, you need an M2 screw - M2x3mm to be precise
+
 ***
 
 # **r/ASRock and Userbenchmark**
