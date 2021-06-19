@@ -26,7 +26,7 @@ layout: default
 
 ### ASRock BIOS Updates
 
-* [BIOS Updates - Week 21. 2021](beta_bios/info/biosUpdates)
+* [BIOS Updates - Week 24. 2021](beta_bios/info/biosUpdates)
 
 ### r/ASRock Community Information:
 

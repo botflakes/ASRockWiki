@@ -1,8 +1,8 @@
-# BIOS Updates - Week 21. - 2021
+# BIOS Updates - Week 24. - 2021
 
 <img style="margin-left:auto;margin-right:auto;display: block;" src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">
 
-<p style="text-align:center;color:#79bd28">All BIOS Updates Week 21 - 2021</p>
+<p style="text-align:center;color:#79bd28">All BIOS Updates Week 24 - 2021</p>
 
 # Intel
 
@@ -10,30 +10,30 @@
 
 |Motherboard|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
-|Z590 Phantom Gaming 4|1.60|05/21/2021|05/24/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Phantom%20Gaming%204/index.asp#BIOS)|
-|Z590 Phantom Gaming 4/ac|1.60|05/21/2021|05/24/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Phantom%20Gaming%204ac/index.asp#BIOS)|
-|Z590 Phantom Gaming 4/ac+|1.20|05/21/2021|05/24/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Phantom%20Gaming%204ac+/index.asp#BIOS)|
+|Z590 Extreme|1.70|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Extreme/index.asp#BIOS)|
+|Z590 Extreme WiFi 6E|1.70|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Extreme%20WiFi%206E/index.asp#BIOS)|
+|Z590 PG Velocita|1.50|06/17/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20PG%20Velocita/index.asp#BIOS)|
+|Z590 Pro4|1.60|06/17/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Pro4/index.asp#BIOS)|
+|Z590 Steel Legend|1.60|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Steel%20Legend/index.asp#BIOS)|
+|Z590 Steel Legend WiFi 6E|1.60|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Steel%20Legend%20WiFi%206E/index.asp#BIOS)|
+|Z590M Pro4|1.70|06/17/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590M%20Pro4/index.asp#BIOS)|
 
 **Changelog**
 
     Z590:
-        1. Optimized "Adaptive Boost Technology"
-        2. Optimized BIOS "Primary Video Adaptor" 
-           option when M.2 SSD is installed
+        Improved memory XMP profile compatibility
 
-**H570**
+**Z490**
 
 |Motherboard|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
-|H570 Phantom Gaming 4|1.80|05/20/2021|05/24/2021|[Download](https://www.asrock.com/MB/Intel/H570%20Phantom%20Gaming%204/index.asp#BIOS)|
-|H570 Steel Legend|1.70|05/21/2021|05/24/2021|[Download](https://www.asrock.com/MB/Intel/H570%20Steel%20Legend/index.asp#BIOS)|
+|Z490 Taichi|1.92B|06/16/2021|06/17/2021|[Download](https://www.asrock.com/MB/Intel/Z490%20Taichi/index.asp#BIOS)|
 
 **Changelog**
 
-    H570:
-        1. Optimized "Adaptive Boost Technology"
-        2. Optimized BIOS "Primary Video Adaptor" 
-           option when M.2 SSD is installed.
+    Z490:
+        Improved memory compatibility when 11th Gen processors is installed
+
 **Source**  
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
 
