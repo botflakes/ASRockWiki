@@ -4,35 +4,37 @@
 
 <p style="text-align:center;color:#79bd28">All BIOS Updates Week 24 - 2021</p>
 
+New week, new BIOS releases![In addition to last weeks Intel 500 Series BIOS releases](https://new.reddit.com/r/ASRock/comments/o2n0k6/weekly_bios_update_post_week_24_2021/), here are the latest one from this week.
+
+If you are waiting for AMD BIOS releases, there is a minor delay because of the recent COVID-19 wave in Taiwan.
+
+# AMD
+
+**B550**
+
+|Motherboard|Version|Build Date|Release Date|Download|
+|:-|:-|:-|:-|:-|
+|B550 PG Riptide|1.20|06/18/2021|06/23/2021|[Download](https://www.asrock.com/MB/AMD/B550%20PG%20Riptide/index.asp#BIOS)|
+
+**Changelog**
+
+    B550:
+        1. Correct BIOS description string
+        2. Optimize PXE function
+
 # Intel
 
 **Z590**
 
 |Motherboard|Version|Build Date|Release Date|Download|
 |:-|:-|:-|:-|:-|
-|Z590 Extreme|1.70|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Extreme/index.asp#BIOS)|
-|Z590 Extreme WiFi 6E|1.70|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Extreme%20WiFi%206E/index.asp#BIOS)|
-|Z590 PG Velocita|1.50|06/17/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20PG%20Velocita/index.asp#BIOS)|
-|Z590 Pro4|1.60|06/17/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Pro4/index.asp#BIOS)|
-|Z590 Steel Legend|1.60|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Steel%20Legend/index.asp#BIOS)|
-|Z590 Steel Legend WiFi 6E|1.60|06/16/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Steel%20Legend%20WiFi%206E/index.asp#BIOS)|
-|Z590M Pro4|1.70|06/17/2021|06/18/2021|[Download](https://www.asrock.com/MB/Intel/Z590M%20Pro4/index.asp#BIOS)|
+|Z590 Phantom Gaming-ITX/TB4|1.50|06/18/2021|06/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Phantom%20Gaming-ITXTB4/index.asp#BIOS)|
+|Z590 Taichi|1.90|06/18/2021|06/21/2021|[Download](https://www.asrock.com/MB/Intel/Z590%20Taichi/index.asp#BIOS)|
 
 **Changelog**
 
     Z590:
         Improved memory XMP profile compatibility
-
-**Z490**
-
-|Motherboard|Version|Build Date|Release Date|Download|
-|:-|:-|:-|:-|:-|
-|Z490 Taichi|1.92B|06/16/2021|06/17/2021|[Download](https://www.asrock.com/MB/Intel/Z490%20Taichi/index.asp#BIOS)|
-
-**Changelog**
-
-    Z490:
-        Improved memory compatibility when 11th Gen processors is installed
 
 **Source**  
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
