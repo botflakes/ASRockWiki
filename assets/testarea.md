@@ -8,7 +8,6 @@
 <h2 style="text-align:center">Which board did receive <b>AGESA ComboAM4v2 1.2.0.3 - Patch B</b> yet?</h2>
 
 <h3><b>X570</b></h3>
-
 <table>
     <colgroup>
         <col width="300">
@@ -129,7 +128,6 @@
 </table>
 
 <h3><b>B550</b></h3>
-
 <table>
     <colgroup>
         <col width="300">
@@ -244,7 +242,6 @@
 </table>
 
 <h3><b>A520</b></h3>
-
 <table>
     <colgroup>
         <col width="300">
@@ -311,7 +308,6 @@
 </table>
 
 <h3><b>X470</b></h3>
-
 <table>
     <colgroup>
         <col width="300">
@@ -366,7 +362,6 @@
 </table>
 
 <h3><b>B450</b></h3>
-
 <table>
     <colgroup>
         <col width="300">
