@@ -1,9 +1,9 @@
 <html>
-<head>
-<style>
-    
-</style>
-</head>
+    <head>
+        <style>
+            .container {width: 100%;max-width: 620px;margin: 0 auto;}
+        </style>
+    </head>
 <body>
 <h1>> This is just a test area. You can ignore this page</h1>
 
