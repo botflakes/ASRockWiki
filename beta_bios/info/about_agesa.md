@@ -214,7 +214,7 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.1 - Patch A</td>
-            <td>- Improve USB compatibility</td>
+            <td>- Improved USB compatibility</td>
             <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
@@ -224,6 +224,17 @@
             <td>Source:<br><a href="https://community.amd.com/t5/knowledge-base/updated-agesa-coming-for-intermittent-usb-connectivity/ta-p/456762" target="_blank">AMD</a></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.3 - Patch A</td>
+            <td>- Better Ryzen CPU Performance<br>- Better System Performance</td>
+            <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.3 - Patch B</td>
+            <td>- Improved USB compatibility</td>
+            <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
     </tbody>
 </table>
 
