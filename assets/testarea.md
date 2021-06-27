@@ -1,7 +1,7 @@
 <html>
     <head>
         <style>
-            .container {width: 100%;max-width: 620px;margin: 0 auto;}
+            .container {width: 100%;max-width: 625px;margin: 0 auto;}
         </style>
     </head>
 <body>
