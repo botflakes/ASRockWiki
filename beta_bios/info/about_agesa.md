@@ -16,6 +16,7 @@
             <th>AGESA Version</th>
             <th>Changes</th>
             <th>Additional Notes</th>
+            <th>TEST</th>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
