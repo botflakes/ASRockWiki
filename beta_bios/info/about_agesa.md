@@ -10,20 +10,17 @@
         <col width="300">
         <col width="800">
         <col width="300">
-        <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>AGESA Version</th>
             <th>Changes</th>
             <th>Additional Notes</th>
-            <th>Officially Supported On<th>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
             <td>- Sprectre V2 Protection</td>
             <td>None</td>
-            <td>Test<br>Test</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2 - Patch A</td>
