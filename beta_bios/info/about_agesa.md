@@ -209,18 +209,6 @@
             <td>- Fix: USB port dropout<br>- Fix: USB 2.0 audio crackling (e.g., DAC/AMP combos)<br>- USB/PCIe Gen 4 exclusion</td>
             <td>Source:<br><a href="https://community.amd.com/t5/knowledge-base/updated-agesa-coming-for-intermittent-usb-connectivity/ta-p/456762" target="_blank">AMD</a></td>
         </tr>
-        <tr>
-            <td>Combo-AM4v2Pi 1.2.0.3 - Patch A</td>
-            <td>Improve USB compatibility</td>
-            <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
-            <td>B450<br>X470<br>B550<br>X570</td>
-        </tr>
-        <tr>
-            <td>Combo-AM4v2Pi 1.2.0.3 - Patch B</td>
-            <td>Improve USB compatibility</td>
-            <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
-            <td>B450<br>X470<br>B550<br>X570</td>
-        </tr>
     </tbody>
 </table>
 
