@@ -132,62 +132,73 @@
             <td>Combo-AM4v2Pi 1.0.0.0</td>
             <td>- Initial BIOS for B550 Motherboards<br>- CPU support only Matisse and younger</td>
             <td>None</td>
-            <td>TEST</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.1</td>
             <td>- No Changelog available</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.2</td>
             <td>- Fix for SMM Callout Privilege Escalation (CVE-2020–12890)<br>- Support for Ryzen 3000XT</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.8.0 - Patch A</td>
             <td>- Early Support for Ryzen 5000</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.8.1</td>
             <td>- Better memory compatibility<br>- Better memory overclocking ability<br>- Mitigating the problem of waking up from S3 hibernation<br>- Fixed a RAID problem on the B550 platform<br>- Now supports the UMA setting for Ryzen ™ 4000 G-Series (Renoir) processors</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0</td>
             <td>- Support for Ryzen 5000 with Zen 3 (“Vermeer”)<br>- Smart Access Memory<br>- General performance improvements for many types of workloads<br>- Improved support for loading and applying overclocked memory profile<br>- Improved BIOS overclocking robustness<br>- Improved USB hotplug detection<br>- Improved SATA device detection on select SATA ports<br>- Adds support for Eco Mode for automatic TDP reduction (AMD Ryzen Master)</td>
             <td>Source:<br><a href="https://community.amd.com/t5/blogs/prepping-your-motherboard-for-the-amd-ryzen-5000-series/ba-p/414274" target="_blank">AMD (AMD Community Blog)</a></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch B</td>
             <td>?</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch C</td>
             <td>?</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch D</td>
             <td>- New Curve Optimizer OC feature enabled<br>- Support for Ryzen 5000 Series on 400 Series mobos<br>- General stability improvements</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>        
         <tr>
             <td>Combo-AM4v2Pi 1.1.8.0</td>
             <td>- Introduces Precision Boost Overdrive 2 (PBO 2)<br>- Adds core undervolting for Ryzen 5000<br>- Adds Curve Optimizer for Undervolting and Overclocking</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.8.1</td>
             <td>- Support for Vermeer A0/B0 stepping and Cezanne A0 stepping</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.9.0</td>
             <td>- Adds Win10 s0i3 support<br>- Stability tuning for 1800-2000MHz FCLK (OC)<br>- Support for passive X570 motherboards<br>- General stability improvements</td>
             <td>None</td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.0</td>
@@ -198,16 +209,19 @@
             <td>Combo-AM4v2Pi 1.2.0.1</td>
             <td>- Fix: False SMART errors on Hynix NVMe<br>- Fix: Intermittent SSD detection for M.2 SATA devices<br>- Improve L3$ bandwidth in AIDA64<br>- Improve stability if user disables cores on 5600X/5800X with AMD Ryzen Master</td>
             <td>Source:<br><a href="https://twitter.com/AMDRyzen/status/1364971430337740804?s=20" target="_blank">AMD</a></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.1 - Patch A</td>
             <td>- Improve USB compatibility</td>
             <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.2</td>
             <td>- Fix: USB port dropout<br>- Fix: USB 2.0 audio crackling (e.g., DAC/AMP combos)<br>- USB/PCIe Gen 4 exclusion</td>
             <td>Source:<br><a href="https://community.amd.com/t5/knowledge-base/updated-agesa-coming-for-intermittent-usb-connectivity/ta-p/456762" target="_blank">AMD</a></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
     </tbody>
 </table>
