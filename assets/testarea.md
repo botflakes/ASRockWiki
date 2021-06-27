@@ -128,7 +128,7 @@
     </tbody>
 </table>
 
-<h3><b>B550</b></h2>
+<h3><b>B550</b></h3>
 
 <table>
     <colgroup>
@@ -467,8 +467,6 @@
         </tr>
     </tbody>
 </table>
-</body>
-</html>
 
 <!--
 <table>
