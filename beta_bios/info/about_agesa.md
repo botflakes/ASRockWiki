@@ -166,13 +166,13 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch B</td>
-            <td>?</td>
+            <td>No Information</td>
             <td>None</td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch C</td>
-            <td>?</td>
+            <td>No Information</td>
             <td>None</td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
