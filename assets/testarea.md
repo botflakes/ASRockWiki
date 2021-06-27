@@ -5,7 +5,7 @@
         </style>
     </head>
 <body>
-<h2 style="text-align:center">Which board did receive <b>AGESA ComboAM4v2 1.2.0.3 - Patch B</b> yet?</h2>
+<h2 style="text-align:center">Which board did receive <br><b>AGESA ComboAM4v2 1.2.0.3 - Patch B</b> yet?</h2>
 
 <h3><b>X570</b></h3>
 <table>
