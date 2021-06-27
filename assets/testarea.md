@@ -5,9 +5,7 @@
         </style>
     </head>
 <body>
-<h1>> This is just a test area. You can ignore this page</h1>
-
-<h2>Which board did receive <b>AGESA ComboAM4v2 1.2.0.3 - Patch B</b> yet?</h2>
+<h2 style="text-align:center">Which board did receive <b>AGESA ComboAM4v2 1.2.0.3 - Patch B</b> yet?</h2>
 
 <h3><b>X570</b></h3>
 
