@@ -23,6 +23,7 @@
             <td>PinnaclePi-AM4 1.0.0.2</td>
             <td>- Sprectre V2 Protection</td>
             <td>None</td>
+            <td>Test</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2 - Patch A</td>
