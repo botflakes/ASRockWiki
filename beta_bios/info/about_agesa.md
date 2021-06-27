@@ -10,7 +10,7 @@
         <col width="300">
         <col width="800">
         <col width="300">
-        <col width="300">
+        <col width="205">
     </colgroup>
     <tbody>
         <tr>
@@ -23,7 +23,7 @@
             <td>PinnaclePi-AM4 1.0.0.2</td>
             <td>- Sprectre V2 Protection</td>
             <td>None</td>
-            <td>Test</td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2 - Patch A</td>
@@ -105,7 +105,7 @@
         <col width="300">
         <col width="800">
         <col width="300">
-        <col width="300">
+        <col width="205">
     </colgroup>
     <tbody>
         <tr>
