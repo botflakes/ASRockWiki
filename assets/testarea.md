@@ -131,7 +131,7 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="110">
+        <col width="115">
         <col width="100">
         <col width="100">
     </colgroup>
@@ -245,7 +245,7 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="110">
+        <col width="115">
         <col width="100">
         <col width="100">
     </colgroup>
@@ -311,7 +311,7 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="110">
+        <col width="115">
         <col width="100">
         <col width="100">
     </colgroup>
@@ -365,7 +365,7 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="110">
+        <col width="115">
         <col width="100">
         <col width="100">
     </colgroup>
