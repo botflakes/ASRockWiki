@@ -41,7 +41,7 @@
             <td>Combo-AM4 0.0.7.2</td>
             <td>- Support for Picasso and provisional for Matisse</td>
             <td>Partial problems with PBO / SMT</td>
-            <td style="text-align:center">A320<br>B350<br>X370</td>
+            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470</td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.1</td>
