@@ -10,7 +10,7 @@
         <col width="300">
         <col width="800">
         <col width="300">
-        <col width="100">
+        <col width="300">
     </colgroup>
     <tbody>
         <tr>
