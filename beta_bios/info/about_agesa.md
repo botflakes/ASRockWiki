@@ -41,73 +41,61 @@
             <td>Combo-AM4 0.0.7.2</td>
             <td>- Support for Picasso and provisional for Matisse</td>
             <td>Partial problems with PBO / SMT</td>
-            <td style="text-align:center">A320<br>B350<br>X370<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.1</td>
             <td>- Full support for Matisse</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.2</td>
             <td>- Better RAM & Multiplier support</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.3</td>
             <td>- Performance improvement for Ryzen 9<br>- Improved compatibility with DDR4-3000 and higher</td>
             <td>Problems with Core-Boost</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.3 - Patch A</td>
             <td>- Improvement of the core boost(?)</td>
             <td>All functions only with 32 MB BIOS</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.3 - Patch AB</td>
             <td>- Improvement of the core boost(?)<br>- Fix for M2.SSD</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.3 - Patch ABA</td>
             <td>- Fix the random numbers for systemd and Destiny 2</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.3 - Patch ABB</td>
             <td>- Fix the random numbers for systemd<br>- "Event 17, WHEA-Logger" warnings in the Windows Event Log removed</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.3 - Patch ABBA</td>
             <td>- Boost 25-50 MHz higher<br>- Activity filter for light workloads</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.4 - Patch B</td>
             <td>- Eco Mode - Setting a lower TDP class via Ryzen Master<br>- X570 mainboards: Improved stability and compatibility with add-in devices<br>- Improvements to the interoperability of PCIe, USB, SATA and device reset functions<br>- Additional improvements to PCIe device support and stability<br>- Improved system stability when changing the ACPI states<br>- Shorter boot times (depending on the motherboard)<br>- Improvements when using the best CPU cores<br>- Further boost improvements for the Ryzen 9 3900X</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.5</td>
             <td>- Fixes a bug in the PCI lane configuration of the AMD Ryzen 3 PRO 2100GE<br>- Fixes a sporadic virtual memory error in combination with Realtek onboard LAN<br>- Improved POST with memory modules based on Micron DDR4-3200 chips<br>- Optimized PCIe firmware for improved stability and compatibility</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
         <tr>
             <td>Combo-AM4 1.0.0.6</td>
             <td>- CCX Overclocking<br>- Fix for SMM Callout Privilege Escalation (CVE-2020–12890)<br>- Support for Ryzen 3000XT</td>
             <td>None</td>
-            <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470<td>
         </tr>
     </tbody>
 </table>
@@ -161,12 +149,12 @@
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch B</td>
-            <td>None</td>
+            <td>?</td>
             <td>None</td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch C</td>
-            <td>None</td>
+            <td>?</td>
             <td>None</td>
         </tr>
         <tr>
