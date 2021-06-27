@@ -105,17 +105,20 @@
         <col width="300">
         <col width="800">
         <col width="300">
+        <col width="300">
     </colgroup>
     <tbody>
         <tr>
             <th>AGESA Version</th>
             <th>Changes</th>
             <th>Additional Notes</th>
+            <th>Officially Supported On</th>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.0</td>
             <td>- Initial BIOS for B550 Motherboards<br>- CPU support only Matisse and younger</td>
             <td>None</td>
+            <td>TEST</td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.1</td>
