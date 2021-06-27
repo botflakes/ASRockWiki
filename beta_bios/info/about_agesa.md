@@ -204,6 +204,7 @@
             <td>Combo-AM4v2Pi 1.2.0.0</td>
             <td>- RAID Driver Update<br>- Support for PCIe ReBAR (GPU/driver support req'd)<br>- Stability updates<br>- Fix for 5600X/5800X telemetry in Ryzen Master (req's RM 2.6.1.X)<br>- SMU 56.44.00<br>- Improved Curve Optimizer<br>- Improved dLDO (digitally controlled low drop out)<br>- WHEA fix when FCLK is 1900<br>- Minor Bugfixes<br>- Code Cleanup<br>- Optimized and support AMD Ryzen 5000 series processors<br>- Optimized Resizable BAR (Re-Size BAR) function with NVidia Graphics cards<br>- Improved AM4 processor compatibility</td>
             <td>Sources:<br><a href="https://twitter.com/1usmus/status/1350410738775556098?s=20" target="_blank">Yuri Bubliy</a><br><a href="https://twitter.com/patrickschur_/status/1348681478952132609?s=20" target="_blank">Patrick Schur</a><br><a href="https://www.msi.com/news/detail/95203cab9dcecc7d956a2c57ccc06bd8" target="_blank">MSI</a><br><a href="https://twitter.com/AMD_AUNZ/status/1353221012490485762?s=20" target="_blank">AMD</a></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.1</td>
