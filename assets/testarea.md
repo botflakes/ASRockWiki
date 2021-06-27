@@ -1,3 +1,10 @@
+<html>
+<head>
+<style>
+    
+</style>
+</head>
+<body>
 <h1>> This is just a test area. You can ignore this page</h1>
 
 <h2>Which board did receive <b>AGESA ComboAM4v2 1.2.0.3 - Patch B</b> yet?</h2>
@@ -462,6 +469,8 @@
         </tr>
     </tbody>
 </table>
+</body>
+</html>
 
 <!--
 <table>
