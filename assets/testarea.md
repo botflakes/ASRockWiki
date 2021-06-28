@@ -60,7 +60,7 @@
         </tr>
         <tr>
             <td>X570 Pro4</td>
-            <td style="text-align:center;color:red">✖</td>
+            <td style="text-align:center;color:lime">✔</td>
             <td>Not Yet</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
@@ -90,19 +90,19 @@
         </tr>
         <tr>
             <td>X570S PG Riptide</td>
-            <td style="text-align:center;color:red">✖</td>
+            <td style="text-align:center;color:lime">✔</td>
             <td>Not Yet</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570S%20PG%20Riptide/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming X</td>
-            <td style="text-align:center;color:red">✖</td>
+            <td style="text-align:center;color:lime">✔</td>
             <td>Not Yet</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%20X/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming 4 WiFi ax</td>
-            <td style="text-align:center;color:red">✖</td>
+            <td style="text-align:center;color:lime">✔</td>
             <td>Not Yet</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%204%20WiFi%20ax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
@@ -114,7 +114,7 @@
         </tr>
         <tr>
             <td>X570 Phantom Gaming 4</td>
-            <td style="text-align:center;color:red">✖</td>
+            <td style="text-align:center;color:lime">✔</td>
             <td>Not Yet</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
