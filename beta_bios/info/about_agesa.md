@@ -235,6 +235,7 @@
             <td>- Fixes all USB Issues (according to AMD)<br>- Extented support for Ryzen 5000G APUs(Cezanne)<br>- Added support for Ryzen 5000 CPUs (Vermeer B2 Stepping)</td>
             <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
     </tbody>
 </table>
 
