@@ -270,8 +270,8 @@
         </tr>
         <tr>
             <td>A520M-HVS</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>06/29/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M-HVS/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -282,8 +282,8 @@
         </tr>
         <tr>
             <td>A520M-HDV</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>06/29/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M-HDV/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -294,8 +294,8 @@
         </tr>
         <tr>
             <td>A520M/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>06/29/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520Mac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
