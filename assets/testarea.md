@@ -431,7 +431,7 @@
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Pro4%20R2.0/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
-            <td>B450M Pro4 000</td>
+            <td>B450M Pro4</td>
             <td style="text-align:center;color:lime">✔</td>
             <td>07/01/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
