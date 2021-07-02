@@ -383,7 +383,19 @@
             <td><a href="https://www.asrock.com/mb/AMD/B450%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
+            <td>B450 Steel Legend Pink Edition</td>
+            <td style="text-align:center;color:red">✖</td>
+            <td>Not Yet</td>
+            <td><a href="https://www.asrock.com/mb/AMD/B450%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
+        </tr>
+        <tr>
             <td>B450M Steel Legend</td>
+            <td style="text-align:center;color:red">✖</td>
+            <td>Not Yet</td>
+            <td><a href="https://www.asrock.com/mb/AMD/B450M%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
+        </tr>
+        <tr>
+            <td>B450M Steel Legend Pink Edition</td>
             <td style="text-align:center;color:red">✖</td>
             <td>Not Yet</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
