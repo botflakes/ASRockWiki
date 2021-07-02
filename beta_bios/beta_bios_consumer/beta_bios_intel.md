@@ -408,6 +408,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.72C|July 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1JdzDcz1SnmYG10p2kbEyZDab4-IKiXbW/view?usp=sharing)
 1.21|December 4th, 2020|ASRock|[Download](https://drive.google.com/file/d/1V98XoM09N0NVLrRKlpa4Ms1XMturl01r/view?usp=sharing)
 1.20A|August 3rd, 2020|ASRock|[Download](https://drive.google.com/file/d/15jONiGs1iJb_v1-Z4pkN5MhCrOtqNRmU/view?usp=sharing)
 
