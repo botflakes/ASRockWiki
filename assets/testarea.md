@@ -390,14 +390,14 @@
         </tr>
         <tr>
             <td>B450M Steel Legend</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>07/01/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B450M Steel Legend Pink Edition</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>07/01/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -426,14 +426,14 @@
         </tr>
         <tr>
             <td>B450M Pro4 R2.0</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>07/01/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Pro4%20R2.0/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B450M Pro4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>07/01/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -462,8 +462,8 @@
         </tr>
         <tr>
             <td>B450M-HDV R4.0</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>07/01/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450M-HDV%20R4.0/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
