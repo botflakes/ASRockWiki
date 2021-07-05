@@ -1,18 +1,23 @@
-# BIOS Updates - Week 26. - 2021
+# BIOS Updates - Week 27. - 2021
 
 <img style="margin-left:auto;margin-right:auto;display: block;" src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">
 
-<p style="text-align:center;color:#79bd28">All BIOS Updates Week 26 - 2021</p>
+<p style="text-align:center;color:#79bd28">All BIOS Updates Week 27 - 2021</p>
 
-New week, new BIOS releases! If you missed last weeks BIOS Update Post, [there you go](https://new.reddit.com/r/ASRock/comments/o4nkzq/weekly_bios_update_post_week_25_2021/)
+Brand new week, new BIOS updates. If you missed last weeks BIOS updates, don't be mad you can find them [here](https://new.reddit.com/r/ASRock/comments/o98gvx/weekly_bios_update_post_week_26_2021/)
 
-# AMD
+&#x200B;
 
-None Yet
+**Z370**
 
-# Intel
+|Motherboard|Version|Build Date|Release Date|Download|
+|:-|:-|:-|:-|:-|
+|Z370 Taichi|4.20I|06/17/2021|07/05/2021|[Download](https://www.asrock.com/MB/Intel/Z370%20Taichi/index.asp#BIOS)|
 
-None Yet
+**Changelog**
+
+    Z370 Taichi:
+        Added NVME TCG OPAL SSD support
 
 **Source**  
 [**ASRock Support Page**](https://www.asrock.com/support/index.asp?cat=BIOS)
