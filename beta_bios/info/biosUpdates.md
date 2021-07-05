@@ -6,7 +6,16 @@
 
 <p style="text-align:center">Brand new week, new BIOS updates. If you missed last weeks BIOS updates, don't be mad you can find them <a href="https://new.reddit.com/r/ASRock/comments/o98gvx/weekly_bios_update_post_week_26_2021/" target="_blank">[here]</a></p>
 
-&#x200B;
+**DeskMini**
+
+|Motherboard|Version|Build Date|Release Date|Download|
+|:-|:-|:-|:-|:-|
+|DeskMini X300 (X300M-STX)|1.70|07/01/2021|07/05/2021|[Download](https://www.asrock.com/nettop/AMD/DeskMini%20X300%20Series/index.asp#BIOS)|
+
+**Changelog**
+
+    DeskMini X300 (X300M-STX):
+        Update to AMD AGESA ComboAM4v2 1.2.0.3 - Patch A
 
 **Z370**
 
