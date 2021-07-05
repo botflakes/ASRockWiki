@@ -2,9 +2,9 @@
 
 <img style="margin-left:auto;margin-right:auto;display: block;" src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">
 
-<p style="text-align:center;color:#79bd28">All BIOS Updates Week 27 - 2021</p>
+<p style="text-align:center;color:#79bd28">All BIOS Updates of Week 27 - 2021</p>
 
-Brand new week, new BIOS updates. If you missed last weeks BIOS updates, don't be mad you can find them [here](https://new.reddit.com/r/ASRock/comments/o98gvx/weekly_bios_update_post_week_26_2021/)
+<p style="text-align:center">Brand new week, new BIOS updates. If you missed last weeks BIOS updates, don't be mad you can find them [here](https://new.reddit.com/r/ASRock/comments/o98gvx/weekly_bios_update_post_week_26_2021/)</p>
 
 &#x200B;
 
