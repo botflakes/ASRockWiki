@@ -341,8 +341,8 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.83|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1K8hBj9ok4sT_xccnm0L_j5Vo367qALq_/view?usp=sharing)
 1.76|May 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1UMmvZfNACGmh_6Y7rYoaSsrJUBbDFR1o/view?usp=sharing)
-
 
 ## **Socket AM4 AMD A520**
 
