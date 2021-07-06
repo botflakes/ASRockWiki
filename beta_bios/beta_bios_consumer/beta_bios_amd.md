@@ -337,6 +337,13 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.62|May 14st, 2021|ASRock|[Download](https://drive.google.com/file/d/13LQCNUSo6Fz9hADMCXiT0ol1_wIdPzzX/view?usp=sharing)
 
+### **B550-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.76|May 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1UMmvZfNACGmh_6Y7rYoaSsrJUBbDFR1o/view?usp=sharing)
+
+
 ## **Socket AM4 AMD A520**
 
 ### **A520M-ITX/ac**
