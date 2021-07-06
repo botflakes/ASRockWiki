@@ -514,6 +514,12 @@ Revision|Date Published|Source|Mirror 1
 3.85|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/16uZIdE3TBq2-OMa34PfjeBEm-2sffABt/view?usp=sharing)
 3.81|October 16th, 2019|JZ|[Download](https://drive.google.com/file/d/1NZi2opbmr4YsI3g1K79yXhYK1_2Qz6Cv/view?usp=sharing)
 
+### **B450M Pro4-F R2.0**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.81|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1sraOdrUaIhWgmUaAeb589OYYcRTjJ78N/view?usp=sharing)
+
 ### **B450M Pro4-F**
 
 Revision|Date Published|Source|Mirror 1
