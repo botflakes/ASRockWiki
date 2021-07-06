@@ -11,14 +11,14 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="115">
+        <col width="120">
         <col width="100">
         <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>Motherboard</th>
-            <th>Received yet?</th>
+            <th>1.2.0.3 Patch B</th>
             <th>When?</th>
             <th>Download</th>
         </tr>
@@ -131,14 +131,14 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="115">
+        <col width="120">
         <col width="100">
         <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>Motherboard</th>
-            <th>Received yet?</th>
+            <th>1.2.0.3 Patch B</th>
             <th>When?</th>
             <th>Download</th>
         </tr>
@@ -245,14 +245,14 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="115">
+        <col width="120">
         <col width="100">
         <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>Motherboard</th>
-            <th>Received yet?</th>
+            <th>1.2.0.3 Patch B</th>
             <th>When?</th>
             <th>Download</th>
         </tr>
@@ -311,14 +311,14 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="115">
+        <col width="120">
         <col width="100">
         <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>Motherboard</th>
-            <th>Received yet?</th>
+            <th>1.2.0.3 Patch B</th>
             <th>When?</th>
             <th>Download</th>
         </tr>
@@ -365,14 +365,14 @@
 <table>
     <colgroup>
         <col width="300">
-        <col width="115">
+        <col width="120">
         <col width="100">
         <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>Motherboard</th>
-            <th>Received yet?</th>
+            <th>1.2.0.3 Patch B</th>
             <th>When?</th>
             <th>Download</th>
         </tr>
