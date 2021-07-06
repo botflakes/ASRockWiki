@@ -347,6 +347,12 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket AM4 AMD A520**
 
+### **A520M Phantom Gaming 4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.44|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1d9r9sSv222SODd6LiGNNE30WyWdl3mu0/view?usp=sharing)
+
 ### **A520M-ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
