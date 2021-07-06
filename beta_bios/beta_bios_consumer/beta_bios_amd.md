@@ -490,6 +490,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+5.01|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/11U0pYw_bzQWpNKJKK_15xcTl8F5yQvFu/view?usp=sharing)
 4.42|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1ePffw_xG73cw_limosBWALZoju4elwwU/view?usp=sharing)
 
 ### **B450 Pro4**
