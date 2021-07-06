@@ -359,6 +359,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.62|April 27th, 2021|JZ|[Download](https://drive.google.com/file/d/1_cVrmCEwNXmYMkiVi3BhXMzvLtSoVI7H/view?usp=sharing)
 
+### **A520M Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.64|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/19TloRwmPJA-bgKS-SGWCv3-IW_rUg6Aw/view?usp=sharing)
+
 ## **Socket AM4 AMD X470**
 
 ### **X470 Taichi Ultimate**
