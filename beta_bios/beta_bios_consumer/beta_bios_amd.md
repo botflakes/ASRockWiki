@@ -562,7 +562,6 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1w1WlbWnsvwF7qeqlMQafuyl_7eAld3kd/view?usp=sharing)
 6.12|December 15th, 2020|ASRock|[Download](https://drive.google.com/file/d/1KvNnbZ7O9s5Fva_wtjEU9-v42QhelXdD/view?usp=sharing)
 6.11|December 14th, 2020|ASRock|[Download](https://drive.google.com/file/d/1BKnjEDgGy0id-zjBThr9Fion2yPAEFFW/view?usp=sharing)
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1yvYIcxaeQF8J7xNnRTTt92UzxLK5Sxxt/view?usp=sharing)
