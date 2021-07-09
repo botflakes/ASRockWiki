@@ -135,6 +135,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.72|July 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1o2IzvhfsBjZf7BrvMivrQ0HVBalVwgvg/view?usp=sharing)
 3.63|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1EnP5TCmnlAhn1voPG3ZG3hm0GMDmQo05/view?usp=sharing)
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1cxzEacufSDIcHTlQ8L7syTm9d9PIN198/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1NvwL_ZEGEH_E7vWD9WXICkJxvIdoFF3b/view?usp=sharing)
@@ -218,6 +219,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+3.72|July 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Z8f6K8gyhfCiWdnL5gIA8mypWbCIvQPo/view?usp=sharing)
 3.63|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-cQhXZ4A-IB3Sq6nSO9NpNaEzKfC0CvQ/view?usp=sharing)
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1aP73W4aoJ6BkkEYe8DxksdjPNa1sgULX/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/126-xStjWTbxfzW6FFCjjMRYrnpO3AmFd/view?usp=sharing)

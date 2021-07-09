@@ -18,6 +18,8 @@
 |X570 Steel Legend WiFi ax|3.72|06/01/2021|07/06/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend%20WiFi%20ax/index.asp#BIOS)|
 |X570 Phantom Gaming-ITX/TB3|3.12|06/25/2021|07/06/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Phantom%20Gaming-ITXTB3/index.asp#BIOS)|
 |X570 PG Velocita|1.73|06/26/2021|07/06/2021|[Download](https://www.asrock.com/MB/AMD/X570%20PG%20Velocita/index.asp#BIOS)|
+|X570 Extreme4|3.72|06/01/2021|07/09/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Extreme4/index.asp#BIOS)|
+|X570 Steel Legend|3.72|06/01/2021|07/09/2021|[Download](https://www.asrock.com/MB/AMD/X570%20Steel%20Legend/index.asp#BIOS)|
 
 **B550**
 
