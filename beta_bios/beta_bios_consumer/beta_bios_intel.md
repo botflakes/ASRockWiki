@@ -830,6 +830,12 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket 1151 Intel H370**
 
+**Fatal1ty H370 Performance**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.20B|July 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1ryE-e9MfXAY4sF_7vB0ukoJac9voViOr/view?usp=sharing)
+
 **H370M-ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
