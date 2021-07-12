@@ -75,6 +75,12 @@ Revision|Date Published|Source|Mirror 1
 1.48|July 31st, 2017|ASRock|[Download](https://drive.google.com/file/d/1VMMObBtB9i-qYbMAufDqTvUvAIruCmGs/view?usp=sharing)
 1.41|August 4th, 2017|ASRock|[Download](https://drive.google.com/file/d/16pMetpbJsphis763PkDQBEknnUgUqo9g/view?usp=sharing)
 
+**X299 Taichi CLX**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.61|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mEvLKYYX8hkV61r1UEQw-EeWmuRrKnaZ/view?usp=sharing)
+
 **X299E-ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
