@@ -14,7 +14,7 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 ## BIOS Updates
 
-- [BIOS Updates - Week 27. 2021](info/biosUpdates)
+- [BIOS Updates - Week 28. 2021](info/biosUpdates)
 
 ## ASRock Consumer Motherboards
 
