@@ -91,6 +91,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.20B|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1lhEn71ZiL-3rxV9v5XK73xRi-3cDqygR/view?usp=sharing)
 1.03|November 2nd, 2017|ASRock|[Download](https://drive.google.com/file/d/1XwAmYa6U__lkAh9hlPHAM6WxhYlV5546/view?usp=sharing)
 
 ## **Socket 2011-3 Intel X99**
