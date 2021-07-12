@@ -20,6 +20,7 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.30B|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1i3nx1Rgr9F74Kze9q53XO7rOs_CjiV8C/view?usp=sharing)
 1.40A|August 15th, 2017|ASRock|[Download](https://drive.google.com/file/d/1NsSMVoazbE7l0MZzDx2mqRon72AUFuYm/view?usp=sharing)
 1.28|July 31st, 2017|ASRock|[Download](https://drive.google.com/file/d/1kC9jse278uF6f-ENIW4H9iSBmxhlzAx6/view?usp=sharing)
 
