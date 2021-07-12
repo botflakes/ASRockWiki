@@ -16,6 +16,14 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 ## **Socket 2066 Intel X299**
 
+**Fatal1ty X299 Gaming K6**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.00B|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1NqiU7cZ-aPK5FfXGPmbn53vXE4ogGtwt/view?usp=sharing)
+1.30A|August 15th, 2017|ASRock|[Download](https://drive.google.com/file/d/1JysMlpGs10HZG0lodjKv6ylarZILzs_L/view?usp=sharing)
+1.21|July 31st, 2017|ASRock|[Download](https://drive.google.com/file/d/1gTmqN9xrKwWP6sMOFqxW6ijLcOAkoOc4/view?usp=sharing)
+
 **Fatal1ty X299 Professional Gaming i9**
 
 Revision|Date Published|Source|Mirror 1
@@ -30,13 +38,11 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.90C|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1QN9x7zw-aATm6lZxQDaabaC9WD8pJ_Nz/view?usp=sharing)
 
-**Fatal1ty X299 Gaming K6**
+**X299 Creator**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-2.00B|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1NqiU7cZ-aPK5FfXGPmbn53vXE4ogGtwt/view?usp=sharing)
-1.30A|August 15th, 2017|ASRock|[Download](https://drive.google.com/file/d/1JysMlpGs10HZG0lodjKv6ylarZILzs_L/view?usp=sharing)
-1.21|July 31st, 2017|ASRock|[Download](https://drive.google.com/file/d/1gTmqN9xrKwWP6sMOFqxW6ijLcOAkoOc4/view?usp=sharing)
+1.40H|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1o6Zqlh0Ms8N4InMhdj_-9uF9AgIuZ_cK/view?usp=sharing)
 
 **X299 Killer SLI/ac**
 
