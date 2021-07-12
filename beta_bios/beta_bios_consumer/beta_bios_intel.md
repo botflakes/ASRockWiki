@@ -28,6 +28,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.90C|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1QN9x7zw-aATm6lZxQDaabaC9WD8pJ_Nz/view?usp=sharing)
 
 **Fatal1ty X299 Gaming K6**
 
