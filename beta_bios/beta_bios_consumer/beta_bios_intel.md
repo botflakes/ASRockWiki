@@ -81,6 +81,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.61|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mEvLKYYX8hkV61r1UEQw-EeWmuRrKnaZ/view?usp=sharing)
 
+**X299 Taichi XE**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.90B|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1vetGOWrYfngwqO_8X-ZJ0KTRwcLfPigK/view?usp=sharing)
+
 **X299E-ITX/ac**
 
 Revision|Date Published|Source|Mirror 1
