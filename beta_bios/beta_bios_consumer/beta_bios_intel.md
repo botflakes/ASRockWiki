@@ -16,17 +16,23 @@ Search will be added soon as it's not that easy to implement. If you are good at
 
 ## **Socket 2066 Intel X299**
 
-**Fatal1ty X299 Professional Gaming**
+**Fatal1ty X299 Professional Gaming i9**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.40A|August 15th, 2017|ASRock|[Download](https://drive.google.com/file/d/1NsSMVoazbE7l0MZzDx2mqRon72AUFuYm/view?usp=sharing)
 1.28|July 31st, 2017|ASRock|[Download](https://drive.google.com/file/d/1kC9jse278uF6f-ENIW4H9iSBmxhlzAx6/view?usp=sharing)
 
-**X299 Gaming K6**
+**Fatal1ty X299 Professional Gaming i9 XE**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+
+**Fatal1ty X299 Gaming K6**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.00B|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1NqiU7cZ-aPK5FfXGPmbn53vXE4ogGtwt/view?usp=sharing)
 1.30A|August 15th, 2017|ASRock|[Download](https://drive.google.com/file/d/1JysMlpGs10HZG0lodjKv6ylarZILzs_L/view?usp=sharing)
 1.21|July 31st, 2017|ASRock|[Download](https://drive.google.com/file/d/1gTmqN9xrKwWP6sMOFqxW6ijLcOAkoOc4/view?usp=sharing)
 
