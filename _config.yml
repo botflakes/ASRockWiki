@@ -22,7 +22,3 @@ plugins:
   - jemoji
   - jekyll-sitemap
 safe: false
-
-sass:
-  sass_dir: _sass
-  style: compressed
