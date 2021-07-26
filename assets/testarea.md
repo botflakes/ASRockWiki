@@ -48,8 +48,8 @@
         </tr>
         <tr>
             <td>X570 Extreme4 WiFi ax</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>07/16/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Extreme4%20WiFi%20ax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
