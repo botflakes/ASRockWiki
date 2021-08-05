@@ -439,7 +439,7 @@
         <tr>
             <td>B450M/ac R2.0</td>
             <td style="text-align:center;color:lime">✔</td>
-            <td>08/05/2021</td>>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B450Mac%20R2.0/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
