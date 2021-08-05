@@ -369,19 +369,48 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.45|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1uCuHBU23oHUlXQrUHwtsrx35nI4HQjsd/view?usp=sharing)
 1.44|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1d9r9sSv222SODd6LiGNNE30WyWdl3mu0/view?usp=sharing)
 
-### **A520M-ITX/ac**
+### **A520M/ac**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-1.62|April 27th, 2021|JZ|[Download](https://drive.google.com/file/d/1_cVrmCEwNXmYMkiVi3BhXMzvLtSoVI7H/view?usp=sharing)
+1.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/105BRv48PkG2T1BMbOJfgAnsD63rJ5Z9J/view?usp=sharing)
 
 ### **A520M Pro4**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.65|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1-ZecYWBDve7YWj4_wal-HiW0txiTt3cY/view?usp=sharing)
 1.64|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/19TloRwmPJA-bgKS-SGWCv3-IW_rUg6Aw/view?usp=sharing)
+
+### **A520M-HDV**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1o-aOi-6WjmWE3JBbHkQseDdYJ2pHd96d/view?usp=sharing)
+
+### **A520M-HDVP**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.62|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1WqmG3qT5_8pUTA2FfqUigjVK99vp2RBV/view?usp=sharing)
+1.61|July 6th. 2021|ASRock|[Download](https://drive.google.com/file/d/1NrCAkTXEjU-CpJ0qimY20LDhfwtbtIhc/view?usp=sharing)
+
+### **A520M-HVS**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1L_5Dwi4fE-4Ms_RO-jCZA4QsDA34L3TG/view?usp=sharing)
+
+### **A520M-ITX/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.75|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1WqmG3qT5_8pUTA2FfqUigjVK99vp2RBV/view?usp=sharing)
+1.73|July 6th. 2021|ASRock|[Download](https://drive.google.com/file/d/1NrCAkTXEjU-CpJ0qimY20LDhfwtbtIhc/view?usp=sharing)
+1.62|April 27th, 2021|JZ|[Download](https://drive.google.com/file/d/1_cVrmCEwNXmYMkiVi3BhXMzvLtSoVI7H/view?usp=sharing)
 
 ## **Socket AM4 AMD X470**
 
@@ -472,6 +501,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.11|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1lbCBOM98hxsJFDMs5eyXnJ2G36UrD7Ej/view?usp=sharing)
 3.62|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1d54k8MduTB-kiTFwASAMR4nhiZwWUY1Y/view?usp=sharing)
 3.15|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1kUkm-udtb5o7mzA7fAOgoX4N969Va7zA/view?usp=sharing)
 3.10|October 14th, 2019|JZ|[Download](https://drive.google.com/file/d/1spprnvrau7THLjCkggDDDbNJH0b1yKQ3/view?usp=sharing)
@@ -490,6 +520,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+5.02|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/18ciY5xJIbQpBG2ENWEJ7xO3g0mExfZhu/view?usp=sharing)
 4.42|Novmebr 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1PwBlB6j2KAMgVY42eOS6W0oHkfrMyQIS/view?usp=sharing)
 3.85|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1GESni1srMlxKS5J7t-x-DpydFqa_O-84/view?usp=sharing)
 3.81|October 16th, 2019|JZ|[Download](https://drive.google.com/file/d/17w_p522JHPRAHo5InPmnUdf3GuZCgDpc/view?usp=sharing)
@@ -500,6 +531,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.51|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1Nlv84AcfYKjkcLybwioUXkBusSOmaWnm/view?usp=sharing)
 4.11|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1Hl_fyPDw8KzJdH7qqxGB1KdP_IgU6EmB/view?usp=sharing)
 3.59|November 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1OR3Wx87yVlzfukngYp1sdfmMom9xlKSq/view?usp=sharing)
 3.54|October 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1zar59QIJNw0HomYDnJhObl1PDbHp4LZe/view?usp=sharing)
@@ -509,6 +541,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+5.02|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1X4l1LR8ZbelZ_ufTkYFB5nWKnNhFMl76/view?usp=sharing)
 5.01|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/11U0pYw_bzQWpNKJKK_15xcTl8F5yQvFu/view?usp=sharing)
 4.42|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1ePffw_xG73cw_limosBWALZoju4elwwU/view?usp=sharing)
 
@@ -523,6 +556,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+5.21|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1C72o2KZFjjxcf1W7pTMI53yK_2wlej3R/view?usp=sharing)
 4.51|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/13knRWBu_BGEDoXUhWjrXlPa2v07alRuQ/view?usp=sharing)
 
 ### **B450M Pro4**
@@ -537,6 +571,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1_GWjd-DvuWW6aGkaEqbJ_t_N6jgI-WX5/view?usp=sharing)
 2.81|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1sraOdrUaIhWgmUaAeb589OYYcRTjJ78N/view?usp=sharing)
 
 ### **B450M Pro4-F**
@@ -558,6 +593,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 4.04|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1qTKuEqLcE7_kQYtmLOHKyXbdvIht9AeT/view?usp=sharing)
 1.96|November 13th, 2019|JZ|[Download](https://drive.google.com/file/d/1jv_mJSPm2-pUWCXyL8aNsbpT7RR3knHb/view?usp=sharing)
+
+### **B450/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.71|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1WIknJM9ljNmtXVGg45LctBuadtYJbs8a/view?usp=sharing)
 
 ## **Socket AM4 AMD X370**
 
