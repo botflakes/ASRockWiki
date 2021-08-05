@@ -42,86 +42,86 @@
         </tr>
         <tr>
             <td>X570 Taichi</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Taichi/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Extreme4 WiFi ax</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Extreme4%20WiFi%20ax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Extreme4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Extreme4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Pro4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570M Pro4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570M%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Steel Legend WiFi ax</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Steel%20Legend%20WiFi%20ax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Steel Legend</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 PG Velocita</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20PG%20Velocita/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570S PG Riptide</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570S%20PG%20Riptide/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming X</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%20X/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming 4 WiFi ax</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%204%20WiFi%20ax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming 4S</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%204S/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming 4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X570 Phantom Gaming-ITX/TB3</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming-ITXTB3/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
     </tbody>
