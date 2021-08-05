@@ -156,26 +156,26 @@
         </tr>
         <tr>
             <td>B550 Extreme4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Extreme4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550 Steel Legend</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550 Pro4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550 PG Velocita</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20PG%20Velocita/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -186,26 +186,26 @@
         </tr>
         <tr>
             <td>B550 Phantom Gaming 4/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204ac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550 Phantom Gaming 4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550 Phantom Gaming-ITX/ax</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming-ITXax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550M Steel Legend</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550M%20Steel%20Legend/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -222,20 +222,20 @@
         </tr>
         <tr>
             <td>B550M/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550Mac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550M-HDV</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550M-HDV/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550M-ITX/ac </td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550M-ITXac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
     </tbody>
@@ -503,6 +503,6 @@
             <td>Not Yet</td>
 
 <td style="text-align:center;color:lime">✔</td>
-            <td></td>
+            <td>08/05/2021</td>
 -->
 
