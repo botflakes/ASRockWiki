@@ -258,20 +258,20 @@
         </tr>
         <tr>
             <td>A520M Pro4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M%20Pro4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>A520M Phantom Gaming 4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>A520M-HVS</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M-HVS/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -282,26 +282,26 @@
         </tr>
         <tr>
             <td>A520M-HDV</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M-HDV/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>A520M-HDVP</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M-HDVP/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>A520M/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520Mac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>A520M-ITX/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/05/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/A520M-ITXac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
     </tbody>
