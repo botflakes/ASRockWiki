@@ -12,10 +12,6 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 ***
 
-## BIOS Updates
-
-- [BIOS Updates - Week 31. 2021](info/biosUpdates)
-
 ## ASRock Consumer Motherboards
 
 - [Beta BIOSes - AMD](beta_bios_consumer/beta_bios_amd)  
