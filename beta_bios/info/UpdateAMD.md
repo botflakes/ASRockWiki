@@ -144,14 +144,14 @@
         </tr>
         <tr>
             <td>B550 Taichi Razer Edition</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/10/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Taichi%20Razer%20Edition/Specification.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>B550 Taichi</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/10/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Taichi/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@
         <tr>
             <td>B550 Phantom Gaming-ITX/ax</td>
             <td style="text-align:center;color:lime">✔</td>
-            <td>08/05/2021</td>
+            <td>08/10/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming-ITXax/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
