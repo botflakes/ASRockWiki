@@ -36,8 +36,8 @@
         </tr>
         <tr>
             <td>X570 Taichi Razer Edition</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/17/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X570%20Taichi%20Razer%20Edition/Specification.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
@@ -180,8 +180,8 @@
         </tr>
         <tr>
             <td>B550 PG Riptide</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/17/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/B550%20PG%20Riptide/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
