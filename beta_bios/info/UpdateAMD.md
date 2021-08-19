@@ -324,38 +324,38 @@
         </tr>
         <tr>
             <td>X470 Taichi Ultimate</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/19/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X470%20Taichi%20Ultimate/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X470 Taichi</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/19/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X470%20Taichi/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X470 Master SLI/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/19/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X470%20Master%20SLIac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>X470 Master SLI</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/19/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/X470%20Master%20SLI/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>Fatal1ty X470 Gaming K4</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/19/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/Fatal1ty%20X470%20Gaming%20K4/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
         <tr>
             <td>Fatal1ty X470 Gaming-ITX/ac</td>
-            <td style="text-align:center;color:red">✖</td>
-            <td>Not Yet</td>
+            <td style="text-align:center;color:lime">✔</td>
+            <td>08/19/2021</td>
             <td><a href="https://www.asrock.com/mb/AMD/Fatal1ty%20X470%20Gaming-ITXac/index.asp#BIOS" target="_blank">Download</a></td>
         </tr>
     </tbody>
