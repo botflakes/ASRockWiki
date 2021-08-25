@@ -441,7 +441,8 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--  
-4.75|August 19th. 2021|ASRock|[Download](https://drive.google.com/file/d/1xfmfPGYY_ORXkcMaomMgUTu7XHFHQUl6/view?usp=sharing)
+4.76|August 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1PTgUgyvjCo-76uvcbYTQV7FeJxqilmAD/view?usp=sharing)
+4.75|August 19th, 2021|ASRock|[Download](https://drive.google.com/file/d/1xfmfPGYY_ORXkcMaomMgUTu7XHFHQUl6/view?usp=sharing)
 4.74|July 13th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oLvSDOdIRfWnj43XREQtOwhBBMXEUYEU/view?usp=sharing)
 4.73|May 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/13wYZWtTaqs8bSvzKVQj-cgbA-87pUAME/view?usp=sharing)
 4.62|March 15th, 2021|ASRock|[Download](https://drive.google.com/file/d/1SvpeFvzFl2luJ218fPAu-LMyPE3CwCpr/view?usp=sharing)
@@ -467,7 +468,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.41|August 19th. 2021|ASRock|[Download](https://drive.google.com/file/d/1o2slfFUZXSNWexuiPa0igKe7mTYkcZ-i/view?usp=sharing)
+4.41|August 19th, 2021|ASRock|[Download](https://drive.google.com/file/d/1o2slfFUZXSNWexuiPa0igKe7mTYkcZ-i/view?usp=sharing)
 4.10|July 16th, 2020|JZ|[Download](https://drive.google.com/file/d/19kkyWuDgQ0NceZIDi2ShxsEpIlh6was2/view?usp=sharing)
 3.65|July 16th, 2020|JZ|[Download](https://drive.google.com/file/d/1Zz93oyXWQ8wIkCvDRFuVui25sP3olWWJ/view?usp=sharing)
 3.64|July 16th, 2020|JZ|[Download](https://drive.google.com/file/d/1EqASvENfBFxQ808TPJyFm725QmysMANU/view?usp=sharing)
@@ -484,7 +485,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.41|August 19th. 2021|ASRock|[Download](https://drive.google.com/file/d/1wjE0buC2WjrR7WEaH05_qSvouuXEpu8V/view?usp=sharing)
+4.41|August 19th, 2021|ASRock|[Download](https://drive.google.com/file/d/1wjE0buC2WjrR7WEaH05_qSvouuXEpu8V/view?usp=sharing)
 4.40|March 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Y5HiaSwE14WaEWuIna0339b7SLdCYZEw/view?usp=sharing)
 4.12|July 22nd, 2020|JZ|[Download](https://drive.google.com/file/d/1-iLggPzTZJAwQ14ITaCNI9UIgnDNHZ9P/view?usp=sharing)
 4.10|July 16th, 2020|JZ|[Download](https://drive.google.com/file/d/11bzx9b0OhI9EQxr4yh5uvYflG9niguET/view?usp=sharing)
@@ -500,7 +501,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.60|August 19th. 2021|ASRock|[Download](https://drive.google.com/file/d/1PGYpdxlDui2DYH7mTrSv7q6hp4eBMd5D/view?usp=sharing)
+4.60|August 19th, 2021|ASRock|[Download](https://drive.google.com/file/d/1PGYpdxlDui2DYH7mTrSv7q6hp4eBMd5D/view?usp=sharing)
 4.04|July 16h, 2020|JZ|[Download](https://drive.google.com/file/d/15BFwUbp6lwkB_k8uzAw614s7RZCCJMY8/view?usp=sharing)
 3.58|November 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1ABkeHjEmJkrhT5AphNp7yyEpU0iqC95p/view?usp=sharing)
 3.53|October 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1MwLJ-HlJiSTgaDgDqi1sM6XP-F9LTfRf/view?usp=sharing)
@@ -511,7 +512,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.11|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1lbCBOM98hxsJFDMs5eyXnJ2G36UrD7Ej/view?usp=sharing)
+4.11|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1lbCBOM98hxsJFDMs5eyXnJ2G36UrD7Ej/view?usp=sharing)
 3.62|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1d54k8MduTB-kiTFwASAMR4nhiZwWUY1Y/view?usp=sharing)
 3.15|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1kUkm-udtb5o7mzA7fAOgoX4N969Va7zA/view?usp=sharing)
 3.10|October 14th, 2019|JZ|[Download](https://drive.google.com/file/d/1spprnvrau7THLjCkggDDDbNJH0b1yKQ3/view?usp=sharing)
@@ -530,7 +531,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-5.02|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/18ciY5xJIbQpBG2ENWEJ7xO3g0mExfZhu/view?usp=sharing)
+5.02|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/18ciY5xJIbQpBG2ENWEJ7xO3g0mExfZhu/view?usp=sharing)
 4.42|Novmebr 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1PwBlB6j2KAMgVY42eOS6W0oHkfrMyQIS/view?usp=sharing)
 3.85|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1GESni1srMlxKS5J7t-x-DpydFqa_O-84/view?usp=sharing)
 3.81|October 16th, 2019|JZ|[Download](https://drive.google.com/file/d/17w_p522JHPRAHo5InPmnUdf3GuZCgDpc/view?usp=sharing)
@@ -541,7 +542,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.51|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1Nlv84AcfYKjkcLybwioUXkBusSOmaWnm/view?usp=sharing)
+4.51|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Nlv84AcfYKjkcLybwioUXkBusSOmaWnm/view?usp=sharing)
 4.11|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1Hl_fyPDw8KzJdH7qqxGB1KdP_IgU6EmB/view?usp=sharing)
 3.59|November 12th, 2019|JZ|[Download](https://drive.google.com/file/d/1OR3Wx87yVlzfukngYp1sdfmMom9xlKSq/view?usp=sharing)
 3.54|October 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1zar59QIJNw0HomYDnJhObl1PDbHp4LZe/view?usp=sharing)
@@ -551,7 +552,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-5.02|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1X4l1LR8ZbelZ_ufTkYFB5nWKnNhFMl76/view?usp=sharing)
+5.02|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1X4l1LR8ZbelZ_ufTkYFB5nWKnNhFMl76/view?usp=sharing)
 5.01|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/11U0pYw_bzQWpNKJKK_15xcTl8F5yQvFu/view?usp=sharing)
 4.42|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1ePffw_xG73cw_limosBWALZoju4elwwU/view?usp=sharing)
 
@@ -566,7 +567,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-5.21|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1C72o2KZFjjxcf1W7pTMI53yK_2wlej3R/view?usp=sharing)
+5.21|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1C72o2KZFjjxcf1W7pTMI53yK_2wlej3R/view?usp=sharing)
 4.51|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/13knRWBu_BGEDoXUhWjrXlPa2v07alRuQ/view?usp=sharing)
 
 ### **B450M Pro4**
@@ -581,7 +582,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-2.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1_GWjd-DvuWW6aGkaEqbJ_t_N6jgI-WX5/view?usp=sharing)
+2.82|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1_GWjd-DvuWW6aGkaEqbJ_t_N6jgI-WX5/view?usp=sharing)
 2.81|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1sraOdrUaIhWgmUaAeb589OYYcRTjJ78N/view?usp=sharing)
 
 ### **B450M Pro4-F**
@@ -617,7 +618,7 @@ Revision|Date Published|Source|Mirror 1
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.62|April 20th, 2021|JZ|[Download](https://drive.google.com/file/d/1p8b0wORXKVWNDDXejLy9VArhkcU_BdOw/view?usp=sharing)
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
+6.61*|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
 6.32|April 28rd, 2020|JZ|[Download](https://drive.google.com/file/d/1fObryv88J9qfqw3Dn4B7UfK_Rz-zJXuf/view?usp=sharing)
 6.22|April 1st, 20220|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
 6.20B|March 23rd, 2020|JZ|[Download](https://drive.google.com/file/d/1II9SF_HQZXhenZ_ke6fTfKTdGp0RFCjr/view?usp=sharing)
