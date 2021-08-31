@@ -580,6 +580,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.60B|August 31st, 2021|ASRock|[Download](https://drive.google.com/file/d/1bkwYH2x25HGtkhFD3_nKxAhCGDV5HchG/view?usp=sharing)
 1.61|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/1XMAYL-wdJhe0sCucaYfdLcbAOI5-1u8c/view?usp=sharing)
 
 **B460M-HDV**
