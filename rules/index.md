@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # > Rules
 
 These are our full comprehensive rules. If you're unsure why you might have been banned, read these. 

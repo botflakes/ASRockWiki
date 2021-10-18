@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # > AMD CPUIDs
 
 Here are all AMD Zen (Zen1, Zen+, Zen2, Zen3) Models, Codenames and the corresponding CPUIDs

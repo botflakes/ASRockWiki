@@ -1,4 +1,4 @@
-theme: "jekyll-theme-hacker"
+theme: jekyll-theme-hacker
 
 title: "The r/ASRock Wiki"
 tagline: "An ASRock releated Wiki made by the ASRock Community for the ASRock Community"
@@ -22,3 +22,7 @@ plugins:
   - jemoji
   - jekyll-sitemap
 safe: false
+
+kramdown:
+  input: GFM
+  hard_wrap: flase

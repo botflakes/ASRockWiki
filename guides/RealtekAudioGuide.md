@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Realtek Audio Guide
 
 Hey r/ASRock Community,

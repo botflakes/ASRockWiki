@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # > How to: Update the BIOS
 
 # Introduction

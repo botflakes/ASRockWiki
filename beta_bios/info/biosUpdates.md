@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # BIOS Updates - Week 31. - 2021
 
 <img style="margin-left:auto;margin-right:auto;display: block;" src="/ASRockWiki/assets/img/includes/wiki/bios_updates.png">

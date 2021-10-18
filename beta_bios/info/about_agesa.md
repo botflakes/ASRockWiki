@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <h1> > AGESA Changelog </h1>
 
 <h2>What is AGESA?</h2>

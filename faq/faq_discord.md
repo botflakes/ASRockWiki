@@ -1,3 +1,6 @@
+---
+layout: default
+---
 **Subreddit Wiki**
 
 > **Overview ->** https://kutt.it/3sIil9  

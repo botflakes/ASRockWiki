@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <html>
     <head>
         <style>

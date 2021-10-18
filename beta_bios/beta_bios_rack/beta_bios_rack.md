@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # > ASRock Rack Overview
 
 ## Notice
