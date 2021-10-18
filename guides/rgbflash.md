@@ -1,6 +1,3 @@
----
-layout: default
----
 # > RGB Flash Guide
 
 # Introduction

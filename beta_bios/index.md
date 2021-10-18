@@ -1,6 +1,3 @@
----
-layout: default
----
 # > Beta BIOS Overview
 
 ## Warning
@@ -17,25 +14,25 @@ Please only proceed at your own caution. As a note, we have not personally teste
 
 ## ASRock Consumer Motherboards
 
-- [Beta BIOSes - AMD](beta_bios_consumer/beta_bios_amd.html)  
-- [Beta BIOSes - Intel](beta_bios_consumer/beta_bios_intel.html)
+- [Beta BIOSes - AMD](beta_bios_consumer/beta_bios_amd)  
+- [Beta BIOSes - Intel](beta_bios_consumer/beta_bios_intel)
 
 ***
 
 ## ASRock Barebones & Mini-PCs 
 
-- [Beta BIOSes - DeskMini](beta_bios_consumer/beta_bios_deskmini.html)
-- [Beta BIOSes - 4x4 BOX](beta_bios_consumer/beta_bios_4x4.html)
+- [Beta BIOSes - DeskMini](beta_bios_consumer/beta_bios_deskmini)
+- [Beta BIOSes - 4x4 BOX](beta_bios_consumer/beta_bios_4x4)
 
 ***
 
 ## ASRock Rack Server BIOSes & BMC's
 
-- [Beta BIOSes & BMCs - ASRock Rack](beta_bios_rack/beta_bios_rack.html)
+- [Beta BIOSes & BMCs - ASRock Rack](beta_bios_rack/beta_bios_rack)
 
 ***
 
 ## BIOS Informations
 
-- [AMD CPUIDs](info/amd_cpu_ids.html)  
-- [AMD AGESA Changelog](info/about_agesa.html)
+- [AMD CPUIDs](info/amd_cpu_ids)  
+- [AMD AGESA Changelog](info/about_agesa)

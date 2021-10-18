@@ -1,6 +1,3 @@
----
-layout: default
----
 # > Tools
 
 Welcome to the r/ASRock tools repository. We gathered some tools which maybe helpful for you.  

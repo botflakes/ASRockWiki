@@ -1,6 +1,3 @@
----
-layout: default
----
 # > FAQ
 
 Here is a collection of frequently ask questions

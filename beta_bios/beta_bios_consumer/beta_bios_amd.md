@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # > Beta BIOS AMD
 
 ## Notice

@@ -1,6 +1,3 @@
----
-layout: default
----
 # > How to use AFUWin
 
 # Introduction

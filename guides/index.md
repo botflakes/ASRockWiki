@@ -1,6 +1,3 @@
----
-layout: default
----
 # > Guides  
 
 An overview to all guides we have so far. There will be more over time.

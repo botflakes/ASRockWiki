@@ -1,7 +1,4 @@
----
-layout: default
----
-# [Wiki-Index](/index.html) - Back to home
+# [Wiki-Index](/index.md) - Back to home
 
 Hey there!  
 Welcome to the r/ASRock Discord server. Before you can get chatting away, we ask you to read and agree to our rules.

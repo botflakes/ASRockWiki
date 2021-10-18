@@ -1,6 +1,3 @@
----
-layout: default
----
 # > Beta BIOS DeskMini
 
 ## Notice

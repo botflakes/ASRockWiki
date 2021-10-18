@@ -1,6 +1,3 @@
----
-layout: default
----
 # What is 12V EPS?
 
 12V EPS is the main and only source for your CPU (Central Processing Unit) to get power. The Power comes obviously from the main source, the PSU (Power Supply Unit). 

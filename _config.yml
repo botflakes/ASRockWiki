@@ -22,7 +22,3 @@ plugins:
   - jemoji
   - jekyll-sitemap
 safe: false
-
-kramdown:
-  input: GFM
-  hard_wrap: flase

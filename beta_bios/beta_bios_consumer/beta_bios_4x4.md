@@ -1,6 +1,3 @@
----
-layout: default
----
 # > Beta BIOS 4x4 Box
 
 ## Notice

@@ -1,6 +1,3 @@
----
-layout: default
----
 # > ASRock Rack BIOS
 
 ## Notice
