@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange"><p>
-    This GitHub Page will be shut down by the end of the month!
-</p><i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange">
+<i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange">This GitHub Page will be shut down by the end of the month!<i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange">
 
 
 
