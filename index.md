@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="color:prange;font-size:x-large">
+<p style="color:orange;font-size:x-large">
     The GitHub Page will be shut down in a couple days!<br>
     It will move to a different address!<br>
     The Repo will still be up, used and maintained!<br>
