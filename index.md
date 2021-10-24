@@ -3,6 +3,10 @@ layout: default
 ---
 
 <i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange">This GitHub Page will be shut down by the end of the month!<i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange">
+<p style="font-size: large">
+    The Site will move to a different address!<br>
+    The Repo will still be used, worked on and maintained
+</p>
 
 
 
