@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="color:#red;font-size:x-large">
+<p style="color:#red;font-size:x-large"><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#orange"><br>
     The GitHub Page will be shut down in a couple days!
     It will move to a different address!
     The Repo will still be up, used and maintained!
