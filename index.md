@@ -2,8 +2,10 @@
 layout: default
 ---
 
+
 <p style="color:orange;font-size:x-large">
-    The GitHub Page will be shut down in a couple days!<br>
+    <i class="fa fa-exclamation-triangle" aria-hidden="true">
+    The GitHub Page will be shut down in a couple days!<br><i class="fa fa-exclamation-triangle" aria-hidden="true">
     It will move to a different address!<br>
     The Repo will still be up, used and maintained!<br>
 </p>
