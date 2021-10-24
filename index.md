@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p style="color:#red;font-size:x-large">
-    <i class="fa fa-exclamation-triangle" aria-hidden="true"></i><br>
+    <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
     The GitHub Page will be shut down in a couple days!<i class="fa fa-exclamation-triangle" aria-hidden="true"><br>
     It will move to a different address!<br>
     The Repo will still be up, used and maintained!
