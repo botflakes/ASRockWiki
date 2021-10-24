@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-
+<i class="fa fa-exclamation-triangle" aria-hidden="true">
 <p style="color:orange;font-size:large">
-    <i class="fa fa-exclamation-triangle" aria-hidden="true">This GitHub Page will be shut down by the end of the month!<i class="fa fa-exclamation-triangle" aria-hidden="true">
+    This GitHub Page will be shut down by the end of the month!
 </p>
+<i class="fa fa-exclamation-triangle" aria-hidden="true">
 
 
 ### r/ASRock Resources:
