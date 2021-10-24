@@ -6,7 +6,7 @@ layout: default
 <p style="color:orange;font-size:x-large">
     <i class="fa fa-exclamation-triangle" aria-hidden="true">The GitHub Page will be shut down in a couple days!<i class="fa fa-exclamation-triangle" aria-hidden="true"><br>
     It will move to a different address!<br>
-    The Repo will still be up, used and maintained!<br>
+    The Repo will still be up, used and maintained!
 </p>
 
 ### r/ASRock Resources:
