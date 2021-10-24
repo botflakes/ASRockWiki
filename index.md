@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<p style="color:#fff;font-size:x-large">
-    The GitHub Page will be shut down in a couple of days and more to a different address!
-    The Repo will still be up, used and maintained 
+<p style="color:#red;font-size:x-large"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+    The GitHub Page will be shut down in a couple days!  
+    It will move to a different address!  
+    The Repo will still be up, used and maintained!<i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
 </p>
 
 ### r/ASRock Resources:
