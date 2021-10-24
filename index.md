@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<p style="color:orange;font-size:large">
+    <i class="fa fa-exclamation-triangle" aria-hidden="true">This GitHub Page will be shut down by the end of the month!<i class="fa fa-exclamation-triangle" aria-hidden="true">
+</p>
+
+
 ### r/ASRock Resources:
 
 * [FAQs](faq/index.md)
@@ -17,3 +22,10 @@ layout: default
 
 ### Contact the Mods
 If you have an idea for a wiki page, send a message via <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>
+
+
+<p style="color:orange;font-size:x-large">
+    <i class="fa fa-exclamation-triangle" aria-hidden="true">The GitHub Page will be shut down in a couple days!<i class="fa fa-exclamation-triangle" aria-hidden="true"><br>
+    It will move to a different address!<br>
+    The Repo will still be up, used and maintained!
+</p>
