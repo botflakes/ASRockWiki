@@ -1,0 +1,11 @@
+//scrollbar - DO NOT TOUCH
+
+body::-webkit-scrollbar {
+    width: 10px;
+    background-color: #101010;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #85c226;
+    border-radius: 5px;
+}

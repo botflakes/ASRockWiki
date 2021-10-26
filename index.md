@@ -1,27 +1,45 @@
 ---
 layout: default
+title: Home
+nav_order: 1
+description: "This is the r/ASRock Wiki - Here you will find a bunch of Guides and Tools. Including an FAQ, a Beta BIOS database and more!"
+tagline: "An ASRock releated Wiki made by the ASRock Community for the ASRock Community"
+permalink: /
 ---
 
-<i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange"> - This GitHub Page will be shut down by the end of the month! - <i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size:large;color:orange">
-<p style="font-size: large">
-    The Site will move to a different address!<br>
-    The Repo will still be used, worked on and maintained
-</p>
+## Welcome to the new Wiki of the [r/ASRock](https://reddit.com/r/ASRock) Subreddit
+***
+  
+This site is still in developement so please expect downtimes.  
+Layout and links are subject to change!
 
+## To-Do
 
+- Responsive Tables on Mobile Devices
 
-### r/ASRock Resources:
+***
 
-* [FAQs](faq/index.md)
-* [Tools](tools/index.md)
-* [Guides](guides/index.md)
-* [Beta BIOS database](beta_bios/index.md)
+## Information 
+This Wiki was made by the Moderators of the Subreddit and it's users!  
+It is (we think) the largest collection of Beta BIOSes for ASRock Motherboards on the Internet.  
+We also have a collection of Tools, Guides and an FAQ section.
 
-### r/ASRock Community Information:
+***
 
-* [r/ASRock Rules](rules/index.md) - Our rules
-* [r/ASRock & Userbenchmark](faq/index.md#rasrock-and-userbenchmark) - Why is Userbenchmark restricted on r/ASRock? Read this!
-* [r/ASRock Community Discord](https://discord.gg/rFrMpxV) - Our Discord-Server
+## I want to help!
+We always appreciate help from others! So if you have an idea about what we may have missed here,  
+hit us up on: 
 
-### Contact the Mods
-If you have an idea for a wiki page, send a message via <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>
+- Discord [(@CornFlakes#0001)](https://discord.gg/rFrMpxV)
+- Twitter [(@CornFlakesPC)](https://twitter.com/CornFlakesPC)  
+- Reddit  [(@CornFlakes1991)](https://new.reddit.com/user/CornFlakes1991)
+
+or send us a [ModMail](https://www.reddit.com/message/compose?to=%2Fr%2FASRock) on Reddit
+
+***
+
+## Social Media & more!
+
+You can follow us on Twitter | [@redditASRock](https://twitter.com/redditASRock)
+You can join our Steam Group | [r/ASRock](https://steamcommunity.com/groups/redditASRock)
+You can join our Discord     | [r/ASRock Discord](https://discord.gg/rFrMpxV)
