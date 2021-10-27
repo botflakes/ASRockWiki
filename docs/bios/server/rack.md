@@ -16,11 +16,6 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 <p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
 
 ***
-# Search
-
-Search will be added soon as it's not that easy to implement. If you are good at such things and you have experiance in adding search functions on GitHub-Pages, hit us up!
-
-***
 
 ## **AMD Server Motherboards**
 
