@@ -1,0 +1,24 @@
+theme: "jekyll-theme-hacker"
+
+title: "The r/ASRock Wiki"
+tagline: "An ASRock releated Wiki made by the ASRock Community for the ASRock Community"
+description: "This is the r/ASRock Wiki - Here you will find a bunch of Guides and Tools. Including an FAQ, a Beta BIOS database and more!"
+url: "https://botflakes.github.io"
+twitter:
+  card: "summary_large_image"
+  username: "redditASRock"
+logo: "assets/images/logo.png"
+social:
+  name: "r/ASRock"
+  links:
+    - https://twitter.com/redditASRock
+    - https://discord.gg/rFrMpxV
+webmaster_verifications:
+  google: "7_IbL6ZxsMYrP7Z1eycTNbO9nnr93sTcI7wOQcaD-W8"#
+image: "assets/images/social_card.png"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-sitemap
+safe: false
