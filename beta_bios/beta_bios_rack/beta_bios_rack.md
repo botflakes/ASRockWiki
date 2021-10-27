@@ -1,14 +1,15 @@
-# > ASRock Rack Overview
-
-## Notice
-You have a BIOS which isn't listed here? Let us know in a <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>  
-Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6sxzFnm7" target="_blank">here</a>  
-
-## Warning
-<p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
-
-***
-
-- [ASRockRack Beta BIOS](beta_bios_rack_bios)
-
-- [ASRockRack Beta BMCs](beta_bios_rack_bmc)
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://botflakes.de/asrockwiki">
+        <script type="text/javascript">
+            window.location.href = "https://botflakes.de/asrockwiki"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://botflakes.de/asrockwiki'>link</a>.
+    </body>
+</html>

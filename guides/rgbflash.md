@@ -1,22 +1,15 @@
-# > RGB Flash Guide
-
-# Introduction
-
-The following guide is for the X570 & B550 Taichi. The procedure is similar to other motherboards. 
-<p style="color:#840000;text-align:center;font-size:x-large">We're not responsible for any damage that may happen to your board!</p>
-
-**Question:**  
-I cannot control the RGB lighting via RAZER Synapse on my X570/B550 Taichi Razer Edition motherboard. How do I solve this problem?(1/1/2021)
-
-**Answer:**  
-Please flash the RGB controller firmware by following the steps below.
-
-1. Download the firmware file from ASRock website and extract the compressed file.    
-<br>
-2. Execute "UpdateFW.cmd” to update the RGB controller firmware.  
-![](/ASRockWiki/assets/img/includes/wiki/rgbflash0.jpg)  
-<br>
-3. After step 2 please wait for 10 seconds or so and the firmware flash will finish.  
-![](/ASRockWiki/assets/img/includes/wiki/rgbflash1.jpg)  
-<br>
-4. After the message "update firmware SUCCESS” is shown please restart your system.
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://botflakes.de/asrockwiki">
+        <script type="text/javascript">
+            window.location.href = "https://botflakes.de/asrockwiki"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://botflakes.de/asrockwiki'>link</a>.
+    </body>
+</html>

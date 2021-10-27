@@ -1,23 +1,15 @@
-# > Beta BIOS 4x4 Box
-
-## Notice
-You have a BIOS which isn't listed here? Let us know in a <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>  
-Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6sxzFnm7" target="_blank">here</a>  
-
-## Warning
-<p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
-
-***
-# Search
-
-Search will be added soon as it's not that easy to implement. If you are good at such things and you have experiance in adding search functions on GitHub-Pages, hit us up!
-
-***
-
-## **4X4 BOX AMD Based**
-
-### **4X4 BOX-4000U**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-1.30K|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MkWamEdbhKZMB-LAygC4I6WazMnlDmqS/view?usp=sharing)
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://botflakes.de/asrockwiki">
+        <script type="text/javascript">
+            window.location.href = "https://botflakes.de/asrockwiki"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://botflakes.de/asrockwiki'>link</a>.
+    </body>
+</html>
