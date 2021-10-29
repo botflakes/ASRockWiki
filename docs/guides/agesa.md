@@ -12,7 +12,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 
 ### PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
 
-<table>
+<table style="table-layout:auto;width:100%;color:#fff;margin-left:auto;margin-right:auto;font-size:14px;">
     <colgroup>
         <col width="300">
         <col width="800">
