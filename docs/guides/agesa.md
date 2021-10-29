@@ -15,9 +15,9 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 <table style="table-layout:fixed;width:100%;color:#fff;margin-left:auto;margin-right:auto;font-size:14px;">
     <colgroup>
         <col width="300">
-        <col width="800">
-        <col width="300">
-        <col width="205">
+        <col width="400">
+        <col width="200">
+        <col width="100">
     </colgroup>
     <tbody>
         <tr>
@@ -123,10 +123,10 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 
 <table style="table-layout:fixed;width:100%;color:#fff;margin-left:auto;margin-right:auto;font-size:14px;">
     <colgroup>
-        <col width="500">
-        <col width="800">
         <col width="300">
-        <col width="205">
+        <col width="400">
+        <col width="200">
+        <col width="100">
     </colgroup>
     <tbody>
         <tr>
