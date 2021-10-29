@@ -168,7 +168,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0</td>
             <td>- Support for Ryzen 5000 with Zen 3 (“Vermeer”)<br>- Smart Access Memory<br>- General performance improvements for many types of workloads<br>- Improved support for loading and applying overclocked memory profile<br>- Improved BIOS overclocking robustness<br>- Improved USB hotplug detection<br>- Improved SATA device detection on select SATA ports<br>- Adds support for Eco Mode for automatic TDP reduction (AMD Ryzen Master)</td>
-            <td>Source:<br><a href="https://community.amd.com/t5/blogs/prepping-your-motherboard-for-the-amd-ryzen-5000-series/ba-p/414274" target="_blank">AMD (AMD Community Blog)</a></td>
+            <td>Source:<br><a href="https://community.amd.com/t5/blogs/prepping-your-motherboard-for-the-amd-ryzen-5000-series/ba-p/414274" target="_blank">AMD</a></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
