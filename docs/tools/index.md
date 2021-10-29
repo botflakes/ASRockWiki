@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools
+title: Tools & Links
 nav_order: 4
 ---
 ## Tools
@@ -55,11 +55,16 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 * [**ASRock Driver Updates**](https://www.asrock.com/support/index.asp?cat=Drivers) - Latest Drivers updates. Sorted by time.
 * [**ASRock Utilities Updates**](https://www.asrock.com/support/index.asp?cat=Utilities) - Latest Utilities updates. Sorted by time.
 * [**ASRock B550AM (CyberPower)**](http://www.cyberpowerinc.com/drivers/?dir=Motherboards/MB-478-101%20B550AM%20GAMING/) - Link to the Support-Page
+* [**Motherboard Comparison Sheet**](https://docs.google.com/spreadsheets/d/1wmsTYK9Z3-jUX5LGRoFnsZYZiW1pfiDZnKCjaXyzd1o/edit#gid=2112472504) - Motherboard comparison sheet (AM4)
 
 ### **Drivers**
 
 * [**AMD Drivers**](https://www.amd.com/en/support) - Drivers for Chipset, GPU & more
 * [**Intel Drivers**](https://downloadcenter.intel.com/) - Drivers for Chipset, NIC & more
 * [**Realtek Audio Driver**](https://github.com/pal1000/Realtek-UAD-generic/releases) - ***Unofficial*** Generic Realtek Audio Driver Package
+
+### **Software**
+
+* [**OpenRGB**](https://openrgb.org) - Alternative RGB Software
 
 More will be added soon! Don't hassle to message us if you have an idea what needs to be added!
