@@ -119,9 +119,9 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
     </tbody>
 </table>
 
-<h2>Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.2</h2>
+### Combo-AM4v2Pi 1.0.0.0 - Combo-AM4v2Pi 1.2.0.2
 
-<table class="customTable">
+<table style="table-layout:auto;width:100%;color:#fff;margin-left:auto;margin-right:auto;font-size:14px;">
     <colgroup>
         <col width="300">
         <col width="800">
@@ -246,8 +246,8 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
     </tbody>
 </table>
 
-<h2> Notice </h2>
-<p>Every changelog is more or less unofficial as AMD does not publish informations for every AGESA.</p>
+### Notice
+Every changelog is more or less unofficial as AMD does not publish informations for every AGESA
 
-<h2> Sources </h2>
+### Sources
 <img src="/ASRockWiki/assets/img/flags/de.png"> <a class="flag-text" href="http://planet3dnow.de" target="_blank">Planet3dNow!</a>
