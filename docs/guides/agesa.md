@@ -10,9 +10,9 @@ parent: Guides
 
 AGESA stands for "AMD Generic Encapsulated System Architecture" which is the basic framework for initializing AMD processors in the Power-On-Self-Test (POST) phase after the system is switched on. The mainboard manufacturers develop their firmware based on this (alias BIOS alias UEFI), but always based on an AGESA version published by AMD.
 
-## PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
+### PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
 
-<table class="customTable">
+<table>
     <colgroup>
         <col width="300">
         <col width="800">
@@ -28,7 +28,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
-            <td>- Sprectre V2 Protection</td>
+            <td>Sprectre V2 Protection</td>
             <td>None</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
