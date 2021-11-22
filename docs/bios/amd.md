@@ -618,7 +618,7 @@ Revision|Date Published|Source|Mirror 1
 
 ### **X370 Taichi**
 
-Revision|Date Published|Source|Mirror 1
+Revisions|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.62|April 20th, 2021|JZ|
 6.61*|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
