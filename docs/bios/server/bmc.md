@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beta BMC
+title: ASRock Rack Beta BMC
 nav_order: 1
 parent: Beta BIOS Server
 ---
