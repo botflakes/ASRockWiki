@@ -1,0 +1,22 @@
+{
+    "gitlens.currentLine.pullRequests.enabled": false,
+    "gitlens.statusBar.pullRequests.enabled": false,
+    "gitlens.hovers.autolinks.enhanced": false,
+    "gitlens.hovers.pullRequests.enabled": false,
+    "gitlens.views.commits.pullRequests.enabled": false,
+    "gitlens.views.commits.pullRequests.showForCommits": false,
+    "gitlens.views.repositories.pullRequests.enabled": false,
+    "gitlens.views.repositories.pullRequests.showForCommits": false,
+    "gitlens.views.repositories.pullRequests.showForBranches": false,
+    "gitlens.views.branches.pullRequests.enabled": false,
+    "gitlens.views.branches.pullRequests.showForBranches": false,
+    "gitlens.views.branches.pullRequests.showForCommits": false,
+    "gitlens.views.remotes.pullRequests.enabled": false,
+    "gitlens.views.remotes.pullRequests.showForBranches": false,
+    "gitlens.views.remotes.pullRequests.showForCommits": false,
+    "gitlens.views.contributors.pullRequests.enabled": false,
+    "gitlens.views.contributors.pullRequests.showForCommits": false,
+    "gitlens.views.searchAndCompare.pullRequests.enabled": false,
+    "gitlens.views.searchAndCompare.pullRequests.showForCommits": false,
+    "gitlens.views.commits.pullRequests.showForBranches": false
+}
