@@ -740,7 +740,9 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+7.05|December 14th|ASRock|[Download](https://drive.google.com/file/d/1A6r4RMtIEBhUudvTblkT6HR_EpfZrYMM/view?usp=sharing)
 4.22*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1DfKbUz9FxeP-fF_8V-gM_EYxK7sg8fJz/view?usp=sharing)
+4.11*|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
 
 ### **A320M-HDV R3.0**
 
@@ -766,12 +768,6 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
 4.71|May 10th, 2018|ASRock|[Download](https://drive.google.com/file/d/1uGFsuAVuRXC-6i2IqYl60Has2hk9vBYd/view?usp=sharing)
-
-### **A320M-HDV R4.0**
-
-Revision|Date Published|Source|Mirror 1
-:--|:--|:--:|:--
-4.11*|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
