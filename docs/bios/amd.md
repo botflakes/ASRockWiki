@@ -736,6 +736,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.71*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1MogH1d05VXdKL53z0j2YtrrQNrnPk77k/view?usp=sharing)
 
+### **A320M-DVS R4.0**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+7.05|December 14th|ASRock|[Download](https://drive.google.com/file/d/1JOOc8qaNvUBNTCVoAVRYOQ-5nKDP6P5h/view?usp=sharing)
+
 ### **A320M-HDV R4.0**
 
 Revision|Date Published|Source|Mirror 1
