@@ -255,8 +255,8 @@ Revision|Date Published|Source|Mirror 1
 1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1kf2qFqS3n_kVTms0avFojEvAyixYvz3g/view?usp=sharing)
 1.70|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1hmb05BCNWsEikfEDlHhvkusfm-0rp-bA/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1ZArJtmc1XlCFX6s12TM8bg4SQvYJGzGs/view?usp=sharing)
-1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1Xsf2hdOWhgn57GddrPJ9LC4MJa34_xma/view?usp=sharing)
-1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1c-XJ-kpEL46IW8-Pr6lFNDGkWdGguMmX/view?usp=sharing)
+1.15|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1Xsf2hdOWhgn57GddrPJ9LC4MJa34_xma/view?usp=sharing)
+1.10|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1c-XJ-kpEL46IW8-Pr6lFNDGkWdGguMmX/view?usp=sharing)
 
 ### **B550 Taichi Razer Edition**
 
@@ -276,8 +276,8 @@ Revision|Date Published|Source|Mirror 1
 1.93|April 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Sj3htW5qAZNxtAr0UPhMxBoHD3yOsq4S/view?usp=sharing)
 1.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1A3RkF8JHE6NjB47e_cKfKZEyxQvmytTx/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1RV2M0ygk87qrIIgTGyLw7gFxajLtcp19/view?usp=sharing)
-1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1Q99klPfFTWYKDYfNDFKgc0Y0T2PtSc9b/view?usp=sharing)
-1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1j3F9-xnF24ly1M5VXuRukk3q2z9efEt9/view?usp=sharing)
+1.15|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1Q99klPfFTWYKDYfNDFKgc0Y0T2PtSc9b/view?usp=sharing)
+1.10|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1j3F9-xnF24ly1M5VXuRukk3q2z9efEt9/view?usp=sharing)
 
 ### **B550 Steel Legend**
 
@@ -288,14 +288,15 @@ Revision|Date Published|Source|Mirror 1
 1.93|April 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mD_hr0Mi_YL9rS4i_Fq0CVSPpDJc1Xhh/view?usp=sharing)
 1.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1uls94NNfNESVbnQlGi6csHI5tWF6_w1z/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1i2Zn5GwzZRemvHof0ICypp3bmuqiB4xl/view?usp=sharing)
-1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1jw9x4aOGfgMPxiGd23udtb-qJCpUE9Wx/view?usp=sharing)
-1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1XK_0derPA3e5fyabqOf4AS0s5I-k-5MS/view?usp=sharing)
+1.15|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1jw9x4aOGfgMPxiGd23udtb-qJCpUE9Wx/view?usp=sharing)
+1.10|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1XK_0derPA3e5fyabqOf4AS0s5I-k-5MS/view?usp=sharing)
 
 ### **B550 Pro4**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1wQqAGPWIL-EJ5S-YM4A89yqdovrC78gU/view?usp=sharing)
+1.15|March 8th, 2020|ASRock|[Download](https://drive.google.com/file/d/14teIGzfkaU42QCce2UhXfjkKQMSRVwJF/view?usp=sharing)
+1.10|July 29th, 2020|ASRock|[Download](https://drive.google.com/file/d/1wQqAGPWIL-EJ5S-YM4A89yqdovrC78gU/view?usp=sharing)
 
 ### **B550 PG Velocita**
 
@@ -308,8 +309,8 @@ Revision|Date Published|Source|Mirror 1
 1.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1iietjfY1tRt0EQuZLlzo8_hoxuGEFqJc/view?usp=sharing)
 1.53|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1fZOCsM6L80j2DKjtslLvg9IPjCMts6gB/view?usp=sharing)
 1.16|July 23rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1AcVt9ZIwfxQLb71X96_ZLWKHAQEo2tOh/view?usp=sharing)
-1.15A|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1FuBB41jqU-1-k9fEpPZhxgyHQVy6w1D1/view?usp=sharing)
-1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1hbmYiMFoue2cY7578h90hLeuJMMHrEvp/view?usp=sharing)
+1.15|July 31th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1FuBB41jqU-1-k9fEpPZhxgyHQVy6w1D1/view?usp=sharing)
+1.10|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1hbmYiMFoue2cY7578h90hLeuJMMHrEvp/view?usp=sharing)
 
 ### **B550 PG Riptide**
 
