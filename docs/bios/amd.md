@@ -385,6 +385,12 @@ Revision|Date Published|Source|Mirror 1
 1.73|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1iyMlCx5mGTgVNLp95QHAFEWrlQeV9_Ry/view?usp=sharing)
 1.62|May 14st, 2021|ASRock|[Download](https://drive.google.com/file/d/13LQCNUSo6Fz9hADMCXiT0ol1_wIdPzzX/view?usp=sharing)
 
+### **B550M/ac**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.24|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1PDcw2UJPcAGzG95oLD1DogZcsu6SmGFf/view?usp=sharing)
+
 ### **B550-HDV**
 
 Revision|Date Published|Source|Mirror 1
