@@ -685,6 +685,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.71*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
+### **X370 Pro4**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+6.41|Novmeber 11th|ASRock|[Download](https://drive.google.com/file/d/1vnVT7p2WETECG6T1kfYroqjqm6eF30iR/view?usp=sharing)
+
 ### **X370M-HDV**
 
 Revision|Date Published|Source|Mirror 1
