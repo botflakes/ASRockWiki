@@ -675,7 +675,7 @@ Revision|Date Published|Source|Mirror 1
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.62*|January 22nd, 2021|Chiphell|[Download](https://drive.google.com/file/d/1B3SOQ6elLXLBnUqDH25jA66CbJmHGhMW/view?usp=sharing)
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
+6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 
@@ -683,19 +683,20 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.71*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
+6.71*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
 ### **X370 Pro4**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.41|Novmeber 11th|ASRock|[Download](https://drive.google.com/file/d/1vnVT7p2WETECG6T1kfYroqjqm6eF30iR/view?usp=sharing)
+7.10|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1aY9gqbynIe9vF5oPIaaYGxwYdhWgAosp/view?usp=sharing)
+6.41|Novmeber 11th, 2021|ASRock|[Download](https://drive.google.com/file/d/1vnVT7p2WETECG6T1kfYroqjqm6eF30iR/view?usp=sharing)
 
 ### **X370M-HDV**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-4.20*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
+4.20*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
@@ -705,14 +706,14 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZkEiNsIjdghW3lwer0qM-lcDgrK-Wl81/view?usp=sharing)
+6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZkEiNsIjdghW3lwer0qM-lcDgrK-Wl81/view?usp=sharing)
 6.31|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1aOPo2bDwRV7eve00eLY4PWhrtk3NmLZs/view?usp=sharing)
 
 ### **Fatal1ty AB350 Gaming K4**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.41*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1QFlZzVs5zld0ozaqywdykprcgL5cIWc9/view?usp=sharing)
+6.41*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1QFlZzVs5zld0ozaqywdykprcgL5cIWc9/view?usp=sharing)
 
 ### **AB350 Pro4**
 
@@ -730,7 +731,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.21|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
+6.21|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
@@ -740,33 +741,33 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.71*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1MogH1d05VXdKL53z0j2YtrrQNrnPk77k/view?usp=sharing)
+6.71*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1MogH1d05VXdKL53z0j2YtrrQNrnPk77k/view?usp=sharing)
 
 ### **A320M-DVS R4.0**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-7.05|December 14th|ASRock|[Download](https://drive.google.com/file/d/1JOOc8qaNvUBNTCVoAVRYOQ-5nKDP6P5h/view?usp=sharing)
+7.05|December 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1JOOc8qaNvUBNTCVoAVRYOQ-5nKDP6P5h/view?usp=sharing)
 
 ### **A320M-HDV R4.0**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-7.05|December 14th|ASRock|[Download](https://drive.google.com/file/d/1A6r4RMtIEBhUudvTblkT6HR_EpfZrYMM/view?usp=sharing)
-4.22*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1DfKbUz9FxeP-fF_8V-gM_EYxK7sg8fJz/view?usp=sharing)
+7.05|December 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1A6r4RMtIEBhUudvTblkT6HR_EpfZrYMM/view?usp=sharing)
+4.22*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1DfKbUz9FxeP-fF_8V-gM_EYxK7sg8fJz/view?usp=sharing)
 4.11*|November 9th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1JcwSuC1uHe-DEY8S1LrvhPuYsmUlBasQ/view?usp=sharing)
 
 ### **A320M-HDV R3.0**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-3.62*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/12nSDWscVJA2Wwku-dJfsrn0flzbXnJe0/view?usp=sharing)
+3.62*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/12nSDWscVJA2Wwku-dJfsrn0flzbXnJe0/view?usp=sharing)
 
 ### **A320M-HDV**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.21*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1pkBJIbwgHKtu6RG0xWcJHdKjZOpWaMkG/view?usp=sharing)
+6.21*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1pkBJIbwgHKtu6RG0xWcJHdKjZOpWaMkG/view?usp=sharing)
 
 ### **A320M Pro4 R2.0**
 
@@ -778,7 +779,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-6.61*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
+6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
 4.71|May 10th, 2018|ASRock|[Download](https://drive.google.com/file/d/1uGFsuAVuRXC-6i2IqYl60Has2hk9vBYd/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
