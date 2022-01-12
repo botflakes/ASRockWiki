@@ -295,6 +295,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.14|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1Pt_68LvzMCSHMN-4Mvy2iCc2l9IzotGC/view?usp=sharing)
 1.15|March 8th, 2020|ASRock|[Download](https://drive.google.com/file/d/14teIGzfkaU42QCce2UhXfjkKQMSRVwJF/view?usp=sharing)
 1.10|July 29th, 2020|ASRock|[Download](https://drive.google.com/file/d/1wQqAGPWIL-EJ5S-YM4A89yqdovrC78gU/view?usp=sharing)
 
@@ -317,6 +318,12 @@ Revision|Date Published|Source|Mirror 1
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 1.34|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1WF_m8uTj5-k7eWQ9TIz0OzJ_GMopbX9v/view?usp=sharing)
+
+### **B550M PG Riptide**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.11|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1zTZ0FMHJvrSWxuYc9RuAGnqdOeduumFq/view?usp=sharing)
 
 ### **B550 Phantom Gaming 4**
 
