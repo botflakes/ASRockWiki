@@ -515,6 +515,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.23|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/19IQSE-MG3A3FeWus5rOKmniaAClvIG7A/view?usp=sharing)
 4.11|August 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1lbCBOM98hxsJFDMs5eyXnJ2G36UrD7Ej/view?usp=sharing)
 3.62|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1d54k8MduTB-kiTFwASAMR4nhiZwWUY1Y/view?usp=sharing)
 3.15|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1kUkm-udtb5o7mzA7fAOgoX4N969Va7zA/view?usp=sharing)
