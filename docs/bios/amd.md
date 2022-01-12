@@ -532,6 +532,12 @@ Revision|Date Published|Source|Mirror 1
 2.81|October 17th, 2019|JZ|[Download](https://drive.google.com/file/d/1pqZPdKzTewK4pTJ3SkrN8QilNVPO1MWK/view?usp=sharing)
 2.50|July 18th, 2019|JZ|[Download](https://drive.google.com/file/d/1yO1qsQZ3LYqWIwW7EApJ6FEMcg14PR1j/view?usp=sharing)
 
+### **B450M Steel Legend Pink Edition**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+4.23|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1vpdkrhIjPLVjRoo_yH2su60eP5v0mrva/view?usp=sharing)
+
 ### **Fatal1ty B450 Gaming K4**
 
 Revision|Date Published|Source|Mirror 1
