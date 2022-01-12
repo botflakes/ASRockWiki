@@ -329,6 +329,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.14|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1TBJEsfQzZS3wjQjj6WK_iOQx5hydClaZ/view?usp=sharing)
 1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/13DFh9vNpOFqLcZjMBDcNXeO5AzVkYXHJ/view?usp=sharing)
 
 ### **B550 Phantom Gaming-ITX/ax**
