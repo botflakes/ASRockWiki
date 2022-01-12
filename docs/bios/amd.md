@@ -228,6 +228,12 @@ Revision|Date Published|Source|Mirror 1
 1.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1vykpWtxfFxkUczx-0xWKivn15NXk_erd/view?usp=sharing)
 1.22|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/11-v0U46mr35UtCGX9oe_7rnfrjTrX5Ag/view?usp=sharing)
 
+### **X570S PG Riptide**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.41|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1R19tsKogpWhJF9sxkP0p0plywDeuxhw2/view?usp=sharing)
+
 ### **X570 Extreme4**
 
 Revision|Date Published|Source|Mirror 1
