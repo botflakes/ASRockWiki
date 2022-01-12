@@ -363,6 +363,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+1.20|August, 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/10L6a36VuT0I2p31oxF-j_LQDjsuKbRIj/view?usp=sharing)
 1.15|March 8th, 2020|ASRock|[Download](https://drive.google.com/file/d/1Gym-LaRM8agHd0PNMp08VkkJqAdCuNWa/view?usp=sharing)
 1.10|July 29th, 2020|ASRock|[Download](https://drive.google.com/file/d/1OIwQxZz0BoCP-qch646nmqL5LLD6MW4T/view?usp=sharing)
 
