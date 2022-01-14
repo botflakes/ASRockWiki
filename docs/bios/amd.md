@@ -669,7 +669,7 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket AM4 AMD X370**
 
-### **X370 Taichi** - TEST
+### **X370 Taichi**
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
