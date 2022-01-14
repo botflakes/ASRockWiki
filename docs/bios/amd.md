@@ -669,14 +669,14 @@ Revision|Date Published|Source|Mirror 1
 
 ## **Socket AM4 AMD X370**
 
-### **X370 Taichi**
+### **X370 Taichi** - TEST
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.62|April 20th, 2021|JZ|[Download](https://drive.google.com/file/d/1O_1sD_a3kLFxAgVKdlPb3f8Qt_qyB-ZF/view?usp=sharing)
 6.61*|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
 6.32|April 28rd, 2020|JZ|[Download](https://drive.google.com/file/d/1fObryv88J9qfqw3Dn4B7UfK_Rz-zJXuf/view?usp=sharing)
-6.22|April 1st, 2020000|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
+6.22|April 1st, 2020|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
 6.20B|March 23rd, 2020|JZ|[Download](https://drive.google.com/file/d/1II9SF_HQZXhenZ_ke6fTfKTdGp0RFCjr/view?usp=sharing)
 5.95|November 15th, 2019|JZ|[Download](https://drive.google.com/file/d/1ZZgj7Xr6-5iC7GnwbIWfRjykq4pVebz7/view?usp=sharing)
 5.94|November 7th, 2019|JZ|[Download](https://drive.google.com/file/d/1UQkF6DwGf-Je5TlU2BiIJQXwnHOkH6q7/view?usp=sharing)
