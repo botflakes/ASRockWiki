@@ -535,6 +535,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+4.47|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/1szW7BmCnBnRFrPu1JOl-jmqUSIWp8pN7/view?usp=sharing)
 4.41|August 19th. 2021|ASRock|[Download](https://drive.google.com/file/d/1wTOXEZCczP3zsrEiLWLMXsFYcKRirNMN/view?usp=sharing)
 
 ### **Fatal1ty X470 Gaming K4**
