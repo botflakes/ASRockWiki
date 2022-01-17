@@ -454,7 +454,14 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.03|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/1G-ys7nnYcbHwZ1IVsHaMKjNZ-529RFSJ/view?usp=sharing)
 1.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1o-aOi-6WjmWE3JBbHkQseDdYJ2pHd96d/view?usp=sharing)
+
+### **A520M-HDV/DASH***
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+1.44|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/1md_SDa6v5ucxz-zyZOz3bHPs0u1r7cnn/view?usp=sharing)
 
 ### **A520M-HDVP**
 
