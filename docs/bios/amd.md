@@ -481,8 +481,9 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
-1.75|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1WqmG3qT5_8pUTA2FfqUigjVK99vp2RBV/view?usp=sharing)
-1.73|July 6th. 2021|ASRock|[Download](https://drive.google.com/file/d/1NrCAkTXEjU-CpJ0qimY20LDhfwtbtIhc/view?usp=sharing)
+1.85|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/1R1Gy33KjW4Z9ZgxnruXy4sKZ3PwiVGrG/view?usp=sharing)
+1.75|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1R_JEU3dkmtFAljfClFmC581i1-FOpPM9/view?usp=sharing)
+1.73|July 6th. 2021|ASRock|[Download](https://drive.google.com/file/d/1NW4lkKAo42MHnO1YWneYdFHYFSJtQm1s/view?usp=sharing)
 1.62|April 27th, 2021|JZ|[Download](https://drive.google.com/file/d/1_cVrmCEwNXmYMkiVi3BhXMzvLtSoVI7H/view?usp=sharing)
 
 ## **Socket AM4 AMD X470**
