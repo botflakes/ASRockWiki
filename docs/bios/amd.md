@@ -439,6 +439,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+2.03|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/1IOlYadrjgNJHI5siZQeXZLYmPz51w7-l/view?usp=sharing)
 1.82|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/105BRv48PkG2T1BMbOJfgAnsD63rJ5Z9J/view?usp=sharing)
 
 ### **A520M Pro4**
