@@ -104,6 +104,12 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 3.03|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1h_vMrMLvxKhQBjQX98nOaBaQaBfK7ZTA/view?usp=sharing)
 
+**EPYCD8**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.52|August, 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1N6vRjxAVIZe08_NxKdscaXg5E0awPrGa/view?usp=sharing)
+
 ## **AMD Server Barebones**
 
 ### **Socket AM4 : AMD X470**
