@@ -804,6 +804,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZkEiNsIjdghW3lwer0qM-lcDgrK-Wl81/view?usp=sharing)
 6.31|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1aOPo2bDwRV7eve00eLY4PWhrtk3NmLZs/view?usp=sharing)
+4.51|May 2nd, 2018|ASRock|[Download](https://drive.google.com/file/d/1UK6JeZmanixs4qz8cm9421099LWlTArv/view?usp=sharing)
 
 ### **Fatal1ty AB350 Gaming K4**
 
