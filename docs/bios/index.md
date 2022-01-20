@@ -17,5 +17,5 @@ Either use the Searchbar on top of the Page, click the categories on the left or
 ***
 
 ## Facts
-**Depository Size: ~9.49GB (10.200.485.888 Bytes) or ~1190 Beta BIOS Files**
+**~ 11GB of BIOSes | 1314 Files | around 600 different motherboards listed**
 
