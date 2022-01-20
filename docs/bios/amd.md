@@ -773,6 +773,7 @@ Revision|Date Published|Source|Mirror 1
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 4.53|March 04th, 2018|ASRock|[Download](https://drive.google.com/file/d/1Inf4T361m0oeGUQgHDFfoFbM7LQIfAb2/view?usp=sharing)
+4.43|February 12, 2018|ASRock|[Download](https://drive.google.com/file/d/1EIPxgEmLkKRxjFRWyS_YCcBJIZRDviig/view?usp=sharing)
 
 ### **X370M Pro4**
 
