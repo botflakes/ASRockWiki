@@ -712,6 +712,7 @@ Revision|Date Published|Source|Mirror 1
 
 Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
+7.03|January 20th, 2022|ASRock|[Download](https://drive.google.com/file/d/1HHDa8aog8HKTOwK0_VEQuUl2IxmDNOa4/view?usp=sharing)
 7.00 (Bridge)|January 20th, 2022|ASRock|[Download](https://drive.google.com/file/d/15GVh8a11ZptmaHpK7jlzXQNKnC16zL7k/view?usp=sharing)
 6.62|April 20th, 2021|JZ|[Download](https://drive.google.com/file/d/1O_1sD_a3kLFxAgVKdlPb3f8Qt_qyB-ZF/view?usp=sharing)
 6.61*|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
