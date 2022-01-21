@@ -120,7 +120,7 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.52|August, 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1N6vRjxAVIZe08_NxKdscaXg5E0awPrGa/view?usp=sharing)
 
-## **Intel Server Motherboards**
+## **Intel Server**
 
 ### **Socket 2011 : Intel C602**
 
@@ -136,3 +136,11 @@ Revision|Date Published|Source|Mirror 1
 :--|:--|:--:|:--
 2.10|Dezember 9th, 2021|ASRock|[Download](https://drive.google.com/file/d/1Do3Ia33k1IHoEaecOQQQoTCKJZdO27Rd/view?usp=sharing)
 2.03|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1HDtNW_gN0LkHxIB8eSjnDdWZk73fcreR/view?usp=sharing)
+
+### **Socket 1200 : Intel W480**
+
+**W480M WS**
+
+Revision|Date Published|Source|Mirror 1
+:--|:--|:--:|:--
+2.21A|January 7th, 2022|ASRock|[Download](https://drive.google.com/file/d/1HZ_J7zkD-77IpVRrkmL7CDz-Ay6rTW3g/view?usp=sharing)
