@@ -17,7 +17,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ***
 
-## **AMD Server Motherboards**
+## **AMD Server**
 
 ### **Socket TR4**
 
