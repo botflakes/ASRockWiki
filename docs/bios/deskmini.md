@@ -21,7 +21,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ### **DeskMini X300**
 
-Revision|Date Published|Source|Mirror 1
+Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.72|October 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1M5ZrIHDw1o4m_X2FGJoah1rIVmWqC05r/view?usp=sharing)
 1.70B|August 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1TcClu7PVu9SUe2_ZXvrx7r7iBSqlyRu3/view?usp=sharing)
@@ -32,7 +32,7 @@ Revision|Date Published|Source|Mirror 1
 
 ### **DeskMini A300**
 
-Revision|Date Published|Source|Mirror 1
+Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.70B|March 29th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-KZaOi7p-HRQrJXmEC0r4oGGG0kRAtsz/view?usp=sharing)
 3.63**|August 24th, 2020|ASRock|[Download](https://drive.google.com/file/d/1u-o0iPc1isO7L7Na-0qjAad7O0oxvNN_/view?usp=sharing)
@@ -45,7 +45,7 @@ Revision|Date Published|Source|Mirror 1
 
 ### **DeskMini H470**
 
-Revision|Date Published|Source|Mirror 1
+Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.11|April 28th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jer3VGzPD8UuR6Pig-WnnbfKFCIJqE1B/view?usp=sharing)
 

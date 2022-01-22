@@ -21,6 +21,6 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ### **4X4 BOX-4000U**
 
-Revision|Date Published|Source|Mirror 1
+Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.30K|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MkWamEdbhKZMB-LAygC4I6WazMnlDmqS/view?usp=sharing)
