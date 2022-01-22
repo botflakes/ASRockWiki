@@ -19,14 +19,6 @@ body::-webkit-scrollbar-thumb {
 
 @media (min-width: 66.5rem)
 {.main {
-    position: relative;
-    max-width: 1100px;
-    margin-left: 248px;
-    }
-}
-
-@media (min-width: 66.5rem)
-{.main {
     margin-left: calc( (100% - 1500px) / 2 + 264px);
     }
 }
