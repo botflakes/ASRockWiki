@@ -17,8 +17,10 @@ body::-webkit-scrollbar-thumb {
     }
 }
 
-@media (min-width: 66.5rem)
+@media (min-width: 50rem)
 {.main {
-    margin-left: calc( (100% - 1500px) / 2 + 264px);
+    position: relative;
+    max-width: 1100px;
+    margin-left: 248px;
     }
 }
