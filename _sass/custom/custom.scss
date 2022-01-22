@@ -10,18 +10,6 @@ body::-webkit-scrollbar-thumb {
     border-radius: 5px;
 };
 
-@media (min-width: 50rem)
-{.side-bar {
-    flex-wrap: nowrap;
-    position: fixed;
-    width: 248px;
-    height: 100%;
-    flex-direction: column;
-    border-right: 1px solid #4f4f50;
-    align-items: flex-end;
-    }
-}
-
 @media (min-width: 66.5rem)
 {.side-bar {
     width: calc((100% - 1500px) / 2 + 264px);
