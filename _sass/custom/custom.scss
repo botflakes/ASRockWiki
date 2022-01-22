@@ -16,3 +16,8 @@ body::-webkit-scrollbar-thumb {
     min-width: 264px;
     }
 }
+
+@media (min-width: 66.5rem)
+{.main {
+    margin-left: calc( (100% - 1300px) / 2 + 382px);
+}}
