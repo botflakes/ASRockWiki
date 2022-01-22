@@ -3,14 +3,12 @@
 body::-webkit-scrollbar {
     width: 10px;
     background-color: #101010;
-}
+};
 
 body::-webkit-scrollbar-thumb {
     background-color: #85c226;
     border-radius: 5px;
-}
-
-@media (min-width: 66.5rem);
+};
 
 .side-bar {
     width: calc((100% - 1500px) / 2 + 264px);
