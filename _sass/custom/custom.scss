@@ -10,9 +10,11 @@ body::-webkit-scrollbar-thumb {
     border-radius: 5px;
 }
 
-//.side-bar {
-//    width: calc((100% - 1350px) / 2 + 264px);
-//}
+@media (min-width: 66.5rem)
+.side-bar {
+    width: calc((100% - 1500px) / 2 + 264px);
+    min-width: 264px;
+}
 
 //.main {
 //    max-width: 1000px;
