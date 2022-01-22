@@ -10,23 +10,6 @@ body::-webkit-scrollbar-thumb {
     border-radius: 5px;
 };
 
-//@media (min-width: 66.5rem)
-//{.side-bar {
-//    width: calc((100% - 1700px) / 2 + 264px);
-//    min-width: 264px;
-//    }
-//}
-
-@media (min-width: 66.5rem)
-{.main {
-    margin-left: calc( (100% - 1500px) / 2 + 482px);
-}}
-
-@media (min-width: 50rem)
-{.main {
-    max-width: 1200px;
-}}
-
 @media (min-width: 50rem)
 {.side-bar {
     width: 248px;
