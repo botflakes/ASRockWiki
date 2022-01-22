@@ -21,3 +21,8 @@ body::-webkit-scrollbar-thumb {
 {.main {
     margin-left: calc( (100% - 1300px) / 2 + 382px);
 }}
+
+@media (min-width: 50rem)
+{.main {
+    max-width: 1000px;
+}}
