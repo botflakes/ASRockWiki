@@ -1,6 +1,6 @@
 ---
 layout: default
-#title: Ryzen SMU Versions
+title: Ryzen SMU Versions
 parent: Guides
 ---
 
