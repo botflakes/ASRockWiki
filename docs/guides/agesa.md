@@ -243,6 +243,36 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
             <td>Source:<br><a href="https://www.asrock.com/mb/AMD/B550%20Phantom%20Gaming%204/index.asp#BIOS" target="_blank">ASRock</a></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.3 - Patch C</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.4</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.4 - Patch A</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.5</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
+        <tr>
+            <td>Combo-AM4v2Pi 1.2.0.6</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
+        </tr>
     </tbody>
 </table>
 
