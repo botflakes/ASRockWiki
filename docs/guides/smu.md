@@ -6,7 +6,7 @@ parent: Guides
 
 AMD Ryzen SMU (System Management Units) and their coresponding AGESA Versions
 
-<table style="min width:55%;">
+<table style="min-width:55%;">
     <tbody>
         <tr>
             <th>AGESA</th>
