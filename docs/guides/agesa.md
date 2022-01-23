@@ -28,43 +28,43 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>SummitPi-AM4 1.0.0.4 - Patch A</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end">Summit Ridge = 25.70.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>SummitPi-AM4 1.0.0.6</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end">Summit Ridge = 25.77.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>SummitPi-AM4 1.0.0.6 - Patch A</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:center;font-size:20px!important;font-weight:900">?</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>SummitPi-AM4 1.0.0.6 - Patch B</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end">Summit Ridge = 25.82.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.0 - Patch A</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end">Summit Ridge = 25.83.0<br>Pinnacle Ridge = 43.10.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.1 - Patch A</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end">Summit Ridge = 25.83.0<br>Pinnacle Ridge = 43.14.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
-            <td>Sprectre V2 Protection</td>
+            <td>- Sprectre V2 Protection</td>
             <td style="text-align:end">Summit Ridge = 25.83.0<br>Pinnacle Ridge = 43.16.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
@@ -76,7 +76,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.4 - Patch C</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end">Summit Ridge = 25.84.0<br>Pinnacle Ridge = 43.20.0<br>Raven Ridge = 30.72.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
@@ -88,7 +88,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>Combo-AM4 0.0.7.0</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end"></td>
             <td style="text-align:center">A320<br>B350<br>X370<br>B450<br>X470</td>
         </tr>
@@ -197,7 +197,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.1</td>
-            <td>- No Changelog available</td>
+            <td>No information yet</td>
             <td style="text-align:end">None</td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
@@ -299,31 +299,31 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.3 - Patch C</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.4</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.4 - Patch A</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.5</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.6</td>
-            <td></td>
+            <td>No information yet</td>
             <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
