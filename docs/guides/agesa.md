@@ -10,7 +10,7 @@ parent: Guides
 
 AGESA stands for "AMD Generic Encapsulated System Architecture" which is the basic framework for initializing AMD processors in the Power-On-Self-Test (POST) phase after the system is switched on. The mainboard manufacturers develop their firmware based on this (alias BIOS alias UEFI), but always based on an AGESA version published by AMD.
 
-### PinnaclePi 1.0.0.2 - Combo-AM4 1.0.0.6
+### SummitPi-AM4 1.0.0.4 - Patch A - Combo-AM4 1.0.0.6
 
 <table style="table-layout:fixed;width:100%;color:#fff;margin-left:auto;margin-right:auto;font-size:14px;">
     <colgroup>
@@ -335,3 +335,4 @@ Every changelog is more or less unofficial as AMD does not publish informations 
 
 ### Sources
 <img src="/asrockwiki/assets/images/flags/de.png"> <a class="flag-text" href="http://planet3dnow.de" target="_blank">- Planet3dNow!</a>
+<img src="/asrockwiki/assets/images/flags/de.png"> <a class="flag-text" href="https://www.hardwareluxx.de/community/members/reous.55847/" target="_blank">- Reous @Hardwareluxx Forum</a>
