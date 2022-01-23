@@ -2,9 +2,8 @@
 layout: default
 #title: Ryzen SMU Versions
 parent: Guides
----
-
 <style type="text/css">table{min width:55%}</style>
+---
 
 AMD Ryzen SMU (System Management Units) and their coresponding AGESA Versions
 
