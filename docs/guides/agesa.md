@@ -23,8 +23,44 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <th>AGESA Version</th>
             <th>Changes</th>
-            <th>Additional Notes</th>
+            <th>SMU Version</th>
             <th>Officially Supported On</th>
+        </tr>
+        <tr>
+            <td>SummitPi-AM4 1.0.0.4 - Patch A</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
+        </tr>
+        <tr>
+            <td>SummitPi-AM4 1.0.0.6</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
+        </tr>
+        <tr>
+            <td>SummitPi-AM4 1.0.0.6 - Patch A</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
+        </tr>
+        <tr>
+            <td>SummitPi-AM4 1.0.0.6 - Patch B</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
+        </tr>
+        <tr>
+            <td>PinnaclePi-AM4 1.0.0.0 - Patch A</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
+        </tr>
+        <tr>
+            <td>PinnaclePi-AM4 1.0.0.1 - Patch A</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
