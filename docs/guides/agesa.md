@@ -16,7 +16,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
     <colgroup>
         <col width="300">
         <col width="400">
-        <col width="200">
+        <col width="150">
         <col width="100">
     </colgroup>
     <tbody>
@@ -24,7 +24,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
             <th>AGESA Version</th>
             <th>Changes</th>
             <th>SMU Version</th>
-            <th>Officially Supported On</th>
+            <th>Supported On</th>
         </tr>
         <tr>
             <td>SummitPi-AM4 1.0.0.4 - Patch A</td>
@@ -179,15 +179,15 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
     <colgroup>
         <col width="300">
         <col width="400">
-        <col width="200">
+        <col width="150">
         <col width="100">
     </colgroup>
     <tbody>
         <tr>
             <th>AGESA Version</th>
             <th>Changes</th>
-            <th>Additional Notes</th>
-            <th>Officially Supported On</th>
+            <th>SMU Version</th>
+            <th>Supported On</th>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.0</td>
