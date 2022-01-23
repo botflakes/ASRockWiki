@@ -53,25 +53,25 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>PinnaclePi-AM4 1.0.0.0 - Patch A</td>
             <td></td>
-            <td></td>
+            <td>Summit Ridge = 25.83.0<br>Pinnacle Ridge = 43.10.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.1 - Patch A</td>
             <td></td>
-            <td></td>
+            <td>Summit Ridge = 25.83.0<br>Pinnacle Ridge = 43.14.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2</td>
             <td>Sprectre V2 Protection</td>
-            <td></td>
+            <td>Summit Ridge = 25.83.0<br>Pinnacle Ridge = 43.16.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.2 - Patch A</td>
-            <td>- Fix Powermanagement “Raven Ridge”-APU </td>
-            <td></td>
+            <td>- Fix Powermanagement "Raven Ridge"-APU </td>
+            <td>Summit Ridge = 25.83.0/25.83.0<br>Pinnacle Ridge = 43.18.0/43.20.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
