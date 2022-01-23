@@ -192,31 +192,31 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.0</td>
             <td>- Initial BIOS for B550 Motherboards<br>- CPU support only Matisse and younger</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.1</td>
             <td>No information yet</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.0.2</td>
             <td>- Fix for SMM Callout Privilege Escalation (CVE-2020–12890)<br>- Support for Ryzen 3000XT</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.8.0 - Patch A</td>
             <td>- Early Support for Ryzen 5000</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.0.8.1</td>
             <td>- Better memory compatibility<br>- Better memory overclocking ability<br>- Mitigating the problem of waking up from S3 hibernation<br>- Fixed a RAID problem on the B550 platform<br>- Now supports the UMA setting for Ryzen ™ 4000 G-Series (Renoir) processors</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
@@ -228,37 +228,37 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch B</td>
             <td>No Information</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch C</td>
             <td>No Information</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.0.0 - Patch D</td>
             <td>- New Curve Optimizer OC feature enabled<br>- Support for Ryzen 5000 Series on 400 Series mobos<br>- General stability improvements</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>        
         <tr>
             <td>Combo-AM4v2Pi 1.1.8.0</td>
             <td>- Introduces Precision Boost Overdrive 2 (PBO 2)<br>- Adds core undervolting for Ryzen 5000<br>- Adds Curve Optimizer for Undervolting and Overclocking</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.8.1</td>
             <td>- Support for Vermeer A0/B0 stepping and Cezanne A0 stepping</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
             <td>Combo-AM4v2Pi 1.1.9.0</td>
             <td>- Adds Win10 s0i3 support<br>- Stability tuning for 1800-2000MHz FCLK (OC)<br>- Support for passive X570 motherboards<br>- General stability improvements</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>Combo-AM4v2Pi 1.2.0.3 - Patch A</td>
             <td>- Better Ryzen CPU Performance<br>- Better System Performance</td>
-            <td style="text-align:end">Release</td>
+            <td style="text-align:end"></td>
             <td style="text-align:center">B450<br>X470<br>A520<br>B550<br>X570<br></td>
         </tr>
         <tr>
