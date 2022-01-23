@@ -334,5 +334,5 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
 Every changelog is more or less unofficial as AMD does not publish informations for every AGESA
 
 ### Sources
-<img src="/asrockwiki/assets/images/flags/de.png"> <a class="flag-text" href="http://planet3dnow.de" target="_blank">- Planet3dNow!</a>
+<img src="/asrockwiki/assets/images/flags/de.png"> <a class="flag-text" href="http://planet3dnow.de" target="_blank">- Planet3dNow!</a><br>
 <img src="/asrockwiki/assets/images/flags/de.png"> <a class="flag-text" href="https://www.hardwareluxx.de/community/members/reous.55847/" target="_blank">- Reous @Hardwareluxx Forum</a>
