@@ -29,13 +29,13 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>SummitPi-AM4 1.0.0.4 - Patch A</td>
             <td></td>
-            <td></td>
+            <td>Summit Ridge = 25.70.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>SummitPi-AM4 1.0.0.6</td>
             <td></td>
-            <td></td>
+            <td>Summit Ridge = 25.77.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
@@ -47,7 +47,7 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         <tr>
             <td>SummitPi-AM4 1.0.0.6 - Patch B</td>
             <td></td>
-            <td></td>
+            <td>Summit Ridge = 25.82.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
