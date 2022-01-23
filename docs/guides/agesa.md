@@ -76,14 +76,14 @@ AGESA stands for "AMD Generic Encapsulated System Architecture" which is the bas
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.4 - Patch C</td>
-            <td>- Support till Ryzen 2000<br>- Enabled Athlon 200GE Overlocking(?)</td>
-            <td>Summit Ridge = 25.84.0<br>Pinnacle Ridge = 43.20.0</td>
+            <td></td>
+            <td>Summit Ridge = 25.84.0<br>Pinnacle Ridge = 43.20.0<br>Raven Ridge = 30.72.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
             <td>PinnaclePi-AM4 1.0.0.6</td>
             <td>- Support till Ryzen 2000<br>- Enabled Athlon 200GE Overlocking(?)</td>
-            <td>Summit Ridge = 25.84.0<br>Pinnacle Ridge = 43.20.0</td>
+            <td>Summit Ridge = 25.84.0<br>Pinnacle Ridge = 43.20.0<br>Raven Ridge = 30.78.0</td>
             <td style="text-align:center">A320<br>B350<br>X370</td>
         </tr>
         <tr>
