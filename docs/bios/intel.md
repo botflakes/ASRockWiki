@@ -891,10 +891,10 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.40A|Janury 24th, 2022|ASRock|[Download](https://drive.google.com/file/d/1DUj2mT20a2aRtMFifYkRZLpASu0p0pq0/view?usp=sharing)
 4.22|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1QtM9IoqJTE8lVIQcDnSLt0bCkH_9ypHk/view?usp=sharing)
 
 ### **B365 Pro4**
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 4.23|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/19wlq6jJfnAEs8PfGTlUktT-cWStvbVre/view?usp=sharing)
