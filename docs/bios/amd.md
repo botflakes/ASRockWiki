@@ -188,7 +188,7 @@ Revision|Release|Source|Mirror 1
 3.41|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/16eefALEG0Kun3Ujs4nbtxhzpoFL2694v/view?usp=sharing)
 3.14|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/17s4Ho1hqq-8aQq7hAQ4BhVWWdtuSyY1i/view?usp=sharing)
 3.12|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1kf7jLKVoY6Bq2Drx-GUdZc0Um-AoiGl8/view?usp=sharing)
-3.03|April 15th, 2021|ASRock|<a href="https://drive.google.com/file/d/1-_NE_aXK-KLt0WC1f7zVShTwbVLYQbvC/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS was not tested!\nWe strongly recommend to wait for the AGESA 1.2.0.2 BIOS\nThis BIOS fixes the USB Issues (AGESA 1.2.0.1 Patch A)')">Download</a> 
+3.03|April 15th, 2021|ASRock|<a href="https://drive.google.com/file/d/1-_NE_aXK-KLt0WC1f7zVShTwbVLYQbvC/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS was not tested!')">Download</a> 
 2.92|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1XyT5j6O76TwlY7Kl3W-1FsVJ7p3LlzEd/view?usp=sharing)
 2.72|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1ZmK8U1nR8q52uHdwFDd5pEfxxGNQJE7L/view?usp=sharing)
 2.55|August 19th, 2020|JZ|[Download](https://drive.google.com/file/d/14yBAvj8QR5I6Ma8OK6kMc8bOOuFPhTat/view?usp=sharing)
