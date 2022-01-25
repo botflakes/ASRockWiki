@@ -101,7 +101,7 @@ Revision|Release|Source|Mirror 1
 2.81|January 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1NKxwUZfaFmGwfN_a1RL53fFuO5-x9c-C/view?usp=sharing)
 1.68|July 23th, 2019|ASRock|[Download](https://drive.google.com/file/d/1y01llaHpGBGfmIsxY9_zoNHQfbyxpI6C/view?usp=sharing)
 
-*
+* 
 {:footnotes}
 [^1]: There is a Final BIOS on the specific Support page. This is a pre-release!
 
