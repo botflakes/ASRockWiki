@@ -89,6 +89,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
+  - kramdown
 
 markdown: kramdown
 
