@@ -97,15 +97,11 @@ Revision|Release|Source|Mirror 1
 3.60|October 22nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1TXhRNJyptboF6ao4mSdBNrUp-49LPe79/view?usp=sharing)
 3.40|August 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1CjEEQYWjPAF6VGibTa6jbRvOVl6qWTIo/view?usp=sharing)
 3.33|August 15th, 2020|ASRock|[Download](https://drive.google.com/file/d/1GrX9Ov4jtzpTm-Q27jsLNQc5P235PpbJ/view?usp=sharing)
-3.20[^1]|June 12th, 2020|JZ|[Download](https://drive.google.com/file/d/1v3JRlkDIrEo8XsoOqOXHf1vChmT8qlw8/view?usp=sharing)
+3.20*|June 12th, 2020|JZ|[Download](https://drive.google.com/file/d/1v3JRlkDIrEo8XsoOqOXHf1vChmT8qlw8/view?usp=sharing)
 2.81|January 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1NKxwUZfaFmGwfN_a1RL53fFuO5-x9c-C/view?usp=sharing)
 1.68|July 23th, 2019|ASRock|[Download](https://drive.google.com/file/d/1y01llaHpGBGfmIsxY9_zoNHQfbyxpI6C/view?usp=sharing)
 
-<p>Notes</p>
-
-* 
-{:footnotes}
-[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!
+[*]: There is a Final BIOS on the specific Support page. This is a pre-release!
 
 ### **X570 Taichi Razer Edition**
 
@@ -163,13 +159,9 @@ Revision|Release|Source|Mirror 1
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1cxzEacufSDIcHTlQ8L7syTm9d9PIN198/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1NvwL_ZEGEH_E7vWD9WXICkJxvIdoFF3b/view?usp=sharing)
 2.86|July 21st, 2020|ASRock|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
-2.30[^2]|February 3rd, 2020|JZ|[Download](https://drive.google.com/file/d/11p0Do2g0wG8wf3PUFVi2CPk8kW_7wM5Z/view?usp=sharing)
+2.30*|February 3rd, 2020|JZ|[Download](https://drive.google.com/file/d/11p0Do2g0wG8wf3PUFVi2CPk8kW_7wM5Z/view?usp=sharing)
 
-<p>Notes</p>
-
-* 
-{:footnotes}
-[^2]: There is a Final BIOS on the specific Support page. This is a pre-release!
+<p>* = There is a Final BIOS on the specific Support page. This is a pre-release!</p>
 
 ### **X570 Steel Legend WiFi/ax**
 
@@ -194,13 +186,9 @@ Revision|Release|Source|Mirror 1
 3.80|December 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1Sagrow1IYPzZMoH3w3HGq-Q2fV_orRlM/view?usp=sharing)
 3.66|November 20th, 2020|ASRock|[Download](https://drive.google.com/file/d/1RCb1kCdQyqzMoBQlAOadKgHiVk5RAFyL/view?usp=sharing)
 3.62|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1jnDEf32ALDUKwacJAe261Kjz3tOTjt_3/view?usp=sharing)
-2.80[^3]|January 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
+2.80*|January 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
 
-<p>Notes</p>
-
-* 
-{:footnotes}
-[^3]: There is a Final BIOS on the specific Support page. This is a pre-release!
+<p>* = There is a Final BIOS on the specific Support page. This is a pre-release!</p>
 
 ### **X570 Phantom Gaming-ITX/TB3**
 
@@ -738,7 +726,7 @@ Revision|Release|Source|Mirror 1
 7.03|January 20th, 2022|ASRock|<a href="https://drive.google.com/file/d/1HHDa8aog8HKTOwK0_VEQuUl2IxmDNOa4/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!')">Download</a>
 7.00 (Bridge)|January 20th, 2022|ASRock|<a href="https://drive.google.com/file/d/15GVh8a11ZptmaHpK7jlzXQNKnC16zL7k/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!')">Download</a>
 6.62|April 20th, 2021|JZ|[Download](https://drive.google.com/file/d/1O_1sD_a3kLFxAgVKdlPb3f8Qt_qyB-ZF/view?usp=sharing)
-6.61[^4]|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
+6.61*|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
 6.32|April 28rd, 2020|JZ|[Download](https://drive.google.com/file/d/1fObryv88J9qfqw3Dn4B7UfK_Rz-zJXuf/view?usp=sharing)
 6.22|April 1st, 2020|ASRock|[Download](https://drive.google.com/file/d/1r1IosRuEj9TDm6fXHKBMW7cT38w-yu0C/view?usp=sharing)
 6.20B|March 23rd, 2020|JZ|[Download](https://drive.google.com/file/d/1II9SF_HQZXhenZ_ke6fTfKTdGp0RFCjr/view?usp=sharing)
@@ -770,7 +758,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-6.11[^5]|December 16th|Chiphell|[Download](https://drive.google.com/file/d/19uZMhJuuAtVyVpHqenTIC95eWrjiUbwm/view?usp=sharing)
+6.11*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/19uZMhJuuAtVyVpHqenTIC95eWrjiUbwm/view?usp=sharing)
 5.75|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1c-ksRLg0S9KOH8H3RvIulpCA0n_1JnAi/view?usp=sharing)
 5.42|June 27th, 2019|JZ|[Download](https://drive.google.com/file/d/1EcIsbnwddnWepz8QUT7uiPLm7T_r9llA/view?usp=sharing)
 4.86|July 4th, 2018|JZ|[Download](https://drive.google.com/file/d/1NCu2fGaTQj9kxIsV_gin29XAAo0CPsNN/view?usp=sharing)
@@ -791,8 +779,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-6.62[^6]|January 22nd, 2021|Chiphell|[Download](https://drive.google.com/file/d/1B3SOQ6elLXLBnUqDH25jA66CbJmHGhMW/view?usp=sharing)
-6.61[^7]|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
+6.62*|January 22nd, 2021|Chiphell|[Download](https://drive.google.com/file/d/1B3SOQ6elLXLBnUqDH25jA66CbJmHGhMW/view?usp=sharing)
+6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZYBDRRrlvZSC22OTTSVe35WB5mKj8aPf/view?usp=sharing)
 6.31|March 5th, 2019|JZ|[Download](https://drive.google.com/file/d/1MxwPX_YvVYs7N-sPNR19r7oESHmW3TOL/view?usp=sharing)
 5.30A|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/14siGqBrWgToYyhhIRkzEnfPbnMGiZWT6/view?usp=sharing)
 4.53|March 04th, 2018|ASRock|[Download](https://drive.google.com/file/d/1Inf4T361m0oeGUQgHDFfoFbM7LQIfAb2/view?usp=sharing)
@@ -802,7 +790,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-6.71[^8]|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
+6.71*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
 ### **X370 Pro4**
 
@@ -815,13 +803,9 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-4.20[^9]|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
+4.20*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1PZFjfnWBkhYxt2J7OaL82nvCgA85ZWVU/view?usp=sharing)
 
-<p>Notes</p>
-
-* 
-{:footnotes}
-[^4]: This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
 ## **Socket AM4 AMD B350**
 
@@ -858,7 +842,7 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 6.21|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
-<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board</p>
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
 ## **Socket AM4 AMD A320**
 
@@ -907,7 +891,7 @@ Revision|Release|Source|Mirror 1
 6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
 4.71|May 10th, 2018|ASRock|[Download](https://drive.google.com/file/d/1uGFsuAVuRXC-6i2IqYl60Has2hk9vBYd/view?usp=sharing)
 
-<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board</p>
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
 ## **Socket AM3+ AMD 990FX**
 
