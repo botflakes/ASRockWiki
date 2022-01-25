@@ -858,7 +858,7 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 6.21|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
-<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board</p>
 
 ## **Socket AM4 AMD A320**
 
