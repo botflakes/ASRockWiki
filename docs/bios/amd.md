@@ -97,11 +97,11 @@ Revision|Release|Source|Mirror 1
 3.60|October 22nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1TXhRNJyptboF6ao4mSdBNrUp-49LPe79/view?usp=sharing)
 3.40|August 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1CjEEQYWjPAF6VGibTa6jbRvOVl6qWTIo/view?usp=sharing)
 3.33|August 15th, 2020|ASRock|[Download](https://drive.google.com/file/d/1GrX9Ov4jtzpTm-Q27jsLNQc5P235PpbJ/view?usp=sharing)
-3.20*|June 12th, 2020|JZ|[Download](https://drive.google.com/file/d/1v3JRlkDIrEo8XsoOqOXHf1vChmT8qlw8/view?usp=sharing)
+3.20[^1]|June 12th, 2020|JZ|[Download](https://drive.google.com/file/d/1v3JRlkDIrEo8XsoOqOXHf1vChmT8qlw8/view?usp=sharing)
 2.81|January 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1NKxwUZfaFmGwfN_a1RL53fFuO5-x9c-C/view?usp=sharing)
 1.68|July 23th, 2019|ASRock|[Download](https://drive.google.com/file/d/1y01llaHpGBGfmIsxY9_zoNHQfbyxpI6C/view?usp=sharing)
 
-<p>* = There is a Final BIOS on the specific Support page. This is a pre-release!</p>
+[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!</p>
 
 ### **X570 Taichi Razer Edition**
 
