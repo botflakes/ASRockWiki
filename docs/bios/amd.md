@@ -169,7 +169,7 @@ Revision|Release|Source|Mirror 1
 
 * 
 {:footnotes}
-[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!</p>
+[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!
 
 ### **X570 Steel Legend WiFi/ax**
 
@@ -200,7 +200,7 @@ Revision|Release|Source|Mirror 1
 
 * 
 {:footnotes}
-[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!</p>
+[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!
 
 ### **X570 Phantom Gaming-ITX/TB3**
 
@@ -821,7 +821,7 @@ Revision|Release|Source|Mirror 1
 
 * 
 {:footnotes}
-[^1]: This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
+[^1]: This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board
 
 ## **Socket AM4 AMD B350**
 
@@ -858,7 +858,7 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 6.21|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
-<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board
 
 ## **Socket AM4 AMD A320**
 
@@ -907,7 +907,7 @@ Revision|Release|Source|Mirror 1
 6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZJVhDN6wLr-3SJHQCrYWPKcoOCfcnplN/view?usp=sharing)
 4.71|May 10th, 2018|ASRock|[Download](https://drive.google.com/file/d/1uGFsuAVuRXC-6i2IqYl60Has2hk9vBYd/view?usp=sharing)
 
-<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
+<p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board
 
 ## **Socket AM3+ AMD 990FX**
 
