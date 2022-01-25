@@ -89,9 +89,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
-  - kramdown
 
-markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 compress_html:
   clippings: all
