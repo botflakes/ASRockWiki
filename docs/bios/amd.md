@@ -19,12 +19,12 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ## Popular Chipsets
 
-#### [X570](#socket-am4-amd-x570) 
-#### [B550](#socket-am4-amd-b550)  
-#### [X470](#socket-am4-amd-x470)  
-#### [B450](#socket-am4-amd-b450)  
-#### [X370](#socket-am4-amd-x370)  
-#### [B350](#socket-am4-amd-b350)
+### [X570](#socket-am4-amd-x570) 
+### [B550](#socket-am4-amd-b550)  
+### [X470](#socket-am4-amd-x470)  
+### [B450](#socket-am4-amd-b450)  
+### [X370](#socket-am4-amd-x370)  
+### [B350](#socket-am4-amd-b350)
 
 ## **Socket TR4 AMD X399**
 
