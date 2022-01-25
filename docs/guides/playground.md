@@ -1,10 +1,3 @@
 ---
 layout: default
 ---
-
-
-
-
-This is some text.[^1]. Other text.[^footnote].
-
-this is a test
