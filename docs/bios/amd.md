@@ -163,13 +163,13 @@ Revision|Release|Source|Mirror 1
 3.53|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1cxzEacufSDIcHTlQ8L7syTm9d9PIN198/view?usp=sharing)
 3.32|November 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1NvwL_ZEGEH_E7vWD9WXICkJxvIdoFF3b/view?usp=sharing)
 2.86|July 21st, 2020|ASRock|[Download](https://drive.google.com/file/d/1YlJRNSpJv57OwCP_37ZtQ8uz0kWX1qlm/view?usp=sharing)
-2.30[^1]|February 3rd, 2020|JZ|[Download](https://drive.google.com/file/d/11p0Do2g0wG8wf3PUFVi2CPk8kW_7wM5Z/view?usp=sharing)
+2.30[^2]|February 3rd, 2020|JZ|[Download](https://drive.google.com/file/d/11p0Do2g0wG8wf3PUFVi2CPk8kW_7wM5Z/view?usp=sharing)
 
 <p>Notes</p>
 
 * 
 {:footnotes}
-[^1]: There is a Final BIOS on the specific Support page. This is a pre-release!
+[^2]: There is a Final BIOS on the specific Support page. This is a pre-release!
 
 ### **X570 Steel Legend WiFi/ax**
 
