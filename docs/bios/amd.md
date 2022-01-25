@@ -26,6 +26,9 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 - [X370](#socket-am4-amd-x370)  
 - [B350](#socket-am4-amd-b350)
 
+
+This is some text.[^1]. Other text.[^footnote].
+
 ## **Socket TR4 AMD X399**
 
 ### **X399 Taichi**
