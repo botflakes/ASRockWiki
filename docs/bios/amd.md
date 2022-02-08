@@ -760,6 +760,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.00 (Bridge)|February 8th, 2022|[Download](https://drive.google.com/file/d/1Cj9OEh6eVbpq4aSRRgg1rmYcvr3S10Et/view?usp=sharing)
 6.12|Arpril 23th, 2021|ASRock|[Download](https://drive.google.com/file/d/1HFUPKNa0yLn1m6JQHu05XzqCoV-0vAIN/view?usp=sharing)
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1AualKS4btfi1QSKNda1sqQG6bvBATrnu/view?usp=sharing)
 5.02|January 8th, 2019|JZ|[Download](https://drive.google.com/file/d/1wn5gZPEbEcFLs7X507C5fkfjSfRudLBw/view?usp=sharing)
