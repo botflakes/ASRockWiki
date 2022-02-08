@@ -722,8 +722,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-7.04|January 24th, 2022|ASRock|<a href="https://drive.google.com/file/d/13Uvl7kTjcm2974Qrfan8oTjvAMZswxzO/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!')">Download</a>
-7.03|January 20th, 2022|ASRock|<a href="https://drive.google.com/file/d/1HHDa8aog8HKTOwK0_VEQuUl2IxmDNOa4/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!')">Download</a>
+7.04|January 24th, 2022|ASRock|<a href="https://drive.google.com/file/d/13Uvl7kTjcm2974Qrfan8oTjvAMZswxzO/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!\nFlash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.03|January 20th, 2022|ASRock|<a href="https://drive.google.com/file/d/1HHDa8aog8HKTOwK0_VEQuUl2IxmDNOa4/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!\nFlash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00 (Bridge)|January 20th, 2022|ASRock|<a href="https://drive.google.com/file/d/15GVh8a11ZptmaHpK7jlzXQNKnC16zL7k/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!')">Download</a>
 6.62|April 20th, 2021|JZ|[Download](https://drive.google.com/file/d/1O_1sD_a3kLFxAgVKdlPb3f8Qt_qyB-ZF/view?usp=sharing)
 6.61*|December 16th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1eQWxJNnLZ-lmxq24jvDwztXNrn0X4jRu/view?usp=sharing)
