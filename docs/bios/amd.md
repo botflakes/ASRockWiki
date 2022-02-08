@@ -741,6 +741,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.00|
 6.12|December 15th, 2020|ASRock|[Download](https://drive.google.com/file/d/1KvNnbZ7O9s5Fva_wtjEU9-v42QhelXdD/view?usp=sharing)
 6.11|December 14th, 2020|ASRock|[Download](https://drive.google.com/file/d/1BKnjEDgGy0id-zjBThr9Fion2yPAEFFW/view?usp=sharing)
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1yvYIcxaeQF8J7xNnRTTt92UzxLK5Sxxt/view?usp=sharing)
@@ -750,8 +751,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-7.03|ASRock|<a href="https://drive.google.com/file/d/1s-3E2dv4uKjZw7-kM94KstXCtplrDzyt/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
-7.00 (Bridge)|February 2022|ASRock|[Download](https://drive.google.com/file/d/1WcB67rUm8STLERpM4IGWUWvpehWsS-Ay/view?usp=sharing)
+7.03|February 8th, 2022|ASRock|<a href="https://drive.google.com/file/d/1s-3E2dv4uKjZw7-kM94KstXCtplrDzyt/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00 (Bridge)|February 8th, 2022|ASRock|[Download](https://drive.google.com/file/d/1WcB67rUm8STLERpM4IGWUWvpehWsS-Ay/view?usp=sharing)
 6.12|April 27th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jQF5JDWYtUQ-VfHqbTn7EjV1CstlqxB7/view?usp=sharing)
 
 ### **Fatal1ty X370 Gaming K4**
