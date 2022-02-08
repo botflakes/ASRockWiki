@@ -750,6 +750,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.03|ASRock|[Download](https://drive.google.com/file/d/1s-3E2dv4uKjZw7-kM94KstXCtplrDzyt/view?usp=sharing)
 7.00 (Bridge)|February 2022|ASRock|[Download](https://drive.google.com/file/d/1WcB67rUm8STLERpM4IGWUWvpehWsS-Ay/view?usp=sharing)
 6.12|April 27th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jQF5JDWYtUQ-VfHqbTn7EjV1CstlqxB7/view?usp=sharing)
 
