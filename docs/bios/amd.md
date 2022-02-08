@@ -746,6 +746,12 @@ Revision|Release|Source|Mirror 1
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1yvYIcxaeQF8J7xNnRTTt92UzxLK5Sxxt/view?usp=sharing)
 4.73|July 3rd, 2018|JZ|[Download](https://drive.google.com/file/d/1wQsuhOOEUcky4tSafdD5Cm_WdeIjILXV/view?usp=sharing)
 
+### **X370 Killer SLI/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+6.12|April 27th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jQF5JDWYtUQ-VfHqbTn7EjV1CstlqxB7/view?usp=sharing)
+
 ### **Fatal1ty X370 Gaming K4**
 
 Revision|Release|Source|Mirror 1
