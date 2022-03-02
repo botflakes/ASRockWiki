@@ -294,6 +294,14 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.60C|January 24th, 2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
 
+## **Socket 1700 Intel Z690**
+
+### **Z690 AQUA**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+5.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1kJDiWvP2Xy7HCJDmkh_IXpWozMaBzpwW/view?usp=sharing)
+
 ## **Socket 1200 Intel Z590**
 
 ### **Z590 Extreme**
