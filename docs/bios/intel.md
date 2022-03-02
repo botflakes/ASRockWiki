@@ -308,6 +308,12 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 5.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1ROMa2scBKQa1kmawHM8Y4UqeVqHS_NIY/view?usp=sharing)
 
+### **Z690 PG Velocita**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1pBtpEQogvcJy1SLdAiknSK7gCZTdkuaX/view?usp=sharing)
+
 ## **Socket 1200 Intel Z590**
 
 ### **Z590 Extreme**
