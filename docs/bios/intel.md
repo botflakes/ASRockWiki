@@ -1083,6 +1083,14 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.02|June 27th, 2017|ASRock|[Download](https://drive.google.com/file/d/1iYlVffCuNlXGC2ucwlg8ulSIT0kie7Pr/view?usp=sharing)
 
+## **Socket 1151 Intel Q270**
+
+### **Q270 Pro BTC+**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.11|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1ChWkyE3DWACrvD4u0OVN6RnfVEVkHpJy/view?usp=sharing)
+
 ## **Socket 1151 Intel B250**
 
 ### **B250 Gaming K4**
