@@ -314,6 +314,18 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 7.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1pBtpEQogvcJy1SLdAiknSK7gCZTdkuaX/view?usp=sharing)
 
+### **Z690 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+8.02|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1V-Aq7y3MyuXhE3qJHj9p5FdLBU5_0lH6/view?usp=sharing)
+
+### **Z690 Taichi Razer Edition**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+8.02|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1xNwdltjS0RK0p3ZVNhetEzp-NdNeDNR-/view?usp=sharing)
+
 ## **Socket 1200 Intel Z590**
 
 ### **Z590 Extreme**
