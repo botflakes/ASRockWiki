@@ -321,6 +321,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+9.02|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1RTv6R4XtD6tVJUJVczM-ByrQ6qcML1lc/view?usp=sharing)
 8.02|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1V-Aq7y3MyuXhE3qJHj9p5FdLBU5_0lH6/view?usp=sharing)
 
 ### **Z690 Taichi Razer Edition**
