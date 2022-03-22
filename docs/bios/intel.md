@@ -314,6 +314,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+8.02|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/19qEfphVYByPwT7zaxUSQufny5yfs9Kco/view?usp=sharing)
 7.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1pBtpEQogvcJy1SLdAiknSK7gCZTdkuaX/view?usp=sharing)
 
 ### **Z690 Taichi**
