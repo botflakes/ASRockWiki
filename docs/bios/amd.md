@@ -944,7 +944,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-7.10|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1PK73DzHgWUHpOLPb_llVxGij5bZ2w1X-/view?usp=sharing)
+7.10|March 22nd, 2022|ASRock|<a href="https://drive.google.com/file/d/1aPK0WBoaZPZqLR-hVbGjxSWOG0bzbb1T/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00 (Bridge)|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1PK73DzHgWUHpOLPb_llVxGij5bZ2w1X-/view?usp=sharing)
 
 ## **Socket AM3+ AMD 990FX**
 
