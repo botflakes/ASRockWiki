@@ -301,6 +301,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.01||March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1N7wry3wbJo-xZKbzzu44oc40K36czgIQ/view?usp=sharing)
 5.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1kJDiWvP2Xy7HCJDmkh_IXpWozMaBzpwW/view?usp=sharing)
 
 ### **Z690 AQUA OC**
