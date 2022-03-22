@@ -940,6 +940,12 @@ Revision|Release|Source|Mirror 1
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
+### **A320M/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.10|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1PK73DzHgWUHpOLPb_llVxGij5bZ2w1X-/view?usp=sharing)
+
 ## **Socket AM3+ AMD 990FX**
 
 ### **990FX Extreme3**
