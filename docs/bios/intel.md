@@ -330,6 +330,14 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 8.02|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1xNwdltjS0RK0p3ZVNhetEzp-NdNeDNR-/view?usp=sharing)
 
+## **Socket 1700 Intel B600**
+
+### **B660 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+8.01|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1wServVcrzmq9AY7y9GpkdDd9JGi0m0qj/view?usp=sharing)
+
 ## **Socket 1200 Intel Z590**
 
 ### **Z590 Extreme**
