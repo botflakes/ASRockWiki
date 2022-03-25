@@ -855,6 +855,13 @@ Revision|Release|Source|Mirror 1
 7.10|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1aY9gqbynIe9vF5oPIaaYGxwYdhWgAosp/view?usp=sharing)
 6.41|Novmeber 11th, 2021|ASRock|[Download](https://drive.google.com/file/d/1vnVT7p2WETECG6T1kfYroqjqm6eF30iR/view?usp=sharing)
 
+### **X370M-HDV R4.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.10|March 25th, 2022|ASRock|<a href="https://drive.google.com/file/d/1G2NQpuXt4nINzlW2XTOMpHWfnFS3iwnM/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00(Bridge)|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1psXpRSoPpghR2Lam2DBM-VXFlxmHGmj8/view?usp=sharing)
+
 ### **X370M-HDV**
 
 Revision|Release|Source|Mirror 1
