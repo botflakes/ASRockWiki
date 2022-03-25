@@ -917,6 +917,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.02|March 25th, 2022|ASRock|<a href="https://drive.google.com/file/d/19nzYodcOG693rJyEDGp1NilgFLloRZUr/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00 (Bridge)|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1S9LQbRhwCvIpk9mrsxYOlG0gVvSwzK1x/view?usp=sharing)
 3.62*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/12nSDWscVJA2Wwku-dJfsrn0flzbXnJe0/view?usp=sharing)
 
 ### **A320M-HDV**
