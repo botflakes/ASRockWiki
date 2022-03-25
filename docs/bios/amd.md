@@ -905,6 +905,13 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 7.05|December 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1JOOc8qaNvUBNTCVoAVRYOQ-5nKDP6P5h/view?usp=sharing)
 
+### **A320M-DVS R3.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.02|March 25th, 2022|ASRock|<a href="https://drive.google.com/file/d/1KTxkt6amAgMPLPSwoqQrD1z-rxlK5bYF/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00(Bridge)|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1rUasEYp7JF6mDFRgo_BLuyv3FCH7hE0F/view?usp=sharing)
+
 ### **A320M-HDV R4.0**
 
 Revision|Release|Source|Mirror 1
