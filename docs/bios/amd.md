@@ -835,6 +835,13 @@ Revision|Release|Source|Mirror 1
 4.53|March 04th, 2018|ASRock|[Download](https://drive.google.com/file/d/1Inf4T361m0oeGUQgHDFfoFbM7LQIfAb2/view?usp=sharing)
 4.43|February 12, 2018|ASRock|[Download](https://drive.google.com/file/d/1EIPxgEmLkKRxjFRWyS_YCcBJIZRDviig/view?usp=sharing)
 
+### **X370M Pro4 R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.02|March 25th, 2022|ASRock|<a href="https://drive.google.com/file/d/17Co3mzY_tm-08xsuCJUflJje8f9pQCy6/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00(Bridge)|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1NyNFb2awlud8trd9Gj0Rdpu2S6Wbd_Gu/view?usp=sharing)
+
 ### **X370M Pro4**
 
 Revision|Release|Source|Mirror 1
