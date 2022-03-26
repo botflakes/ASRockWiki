@@ -17,5 +17,5 @@ Either use the Searchbar on top of the Page, click the categories on the left or
 ***
 
 ## Facts
-**~ 11GB of BIOSes | 1314 Files | around 600 different motherboards listed**
+**~ 12GB of BIOSes | 1384 Files | around 700 different motherboards listed**
 
