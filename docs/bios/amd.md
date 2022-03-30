@@ -738,13 +738,19 @@ Revision|Release|Source|Mirror 1
 4.04|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1qTKuEqLcE7_kQYtmLOHKyXbdvIht9AeT/view?usp=sharing)
 1.96|November 13th, 2019|JZ|[Download](https://drive.google.com/file/d/1jv_mJSPm2-pUWCXyL8aNsbpT7RR3knHb/view?usp=sharing)
 
-### **B450/ac R2.0**
+### **B450M/ac R2.0**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.85|February 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/1rC3iuf0oYUIWBer67zylwIMTHKxx8nkC/view?usp=sharing)
 2.83|January 17th. 2022|ASRock|[Download](https://drive.google.com/file/d/1ReGAw3vKqphT8lVOk8MpfSv9s6d9P8ve/view?usp=sharing)
 2.71|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/1WIknJM9ljNmtXVGg45LctBuadtYJbs8a/view?usp=sharing)
+
+### **B450M/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.90|March 29th, 2022|ASRock|[Download](https://drive.google.com/file/d/16r-J7bFaRDMMA8qS07k6vBCZ1WAHOtXl/view?usp=sharing)
 
 ## **Socket AM4 AMD X370**
 
