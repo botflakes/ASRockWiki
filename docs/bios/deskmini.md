@@ -23,6 +23,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.77|May 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/1MHPrIaG9lARPAD1Bgsr8zEUYZYFoB3GH/view?usp=sharing)
 1.72|October 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1M5ZrIHDw1o4m_X2FGJoah1rIVmWqC05r/view?usp=sharing)
 1.70B|August 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1TcClu7PVu9SUe2_ZXvrx7r7iBSqlyRu3/view?usp=sharing)
 1.58|March 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mIfZlW7Tm808C1UxX0vz543LUpMscQfB/view?usp=sharing)
