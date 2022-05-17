@@ -71,10 +71,6 @@ Revision|Release|Source|Mirror 1
 4.09|April 27th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oci8S2zXG7xQNwKoGkpUEAJ8atH8cj4a/view?usp=sharing)
 3.39A|June 9th, 2020|ASRock|[Download](https://drive.google.com/file/d/17tdL43HzBcPJ-R1Jny0J0x7-TzBhk6-7/view?usp=sharing)
 
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.37|June 11th, 2020|ASRock|[Download](https://drive.google.com/file/d/1MJ0tEskqIPds87ux3sTXlzdCX_VMZ4eA/view?usp=sharing)
-
 **1U4LW-X470**
 
 Revision|Release|Source|Mirror 1
