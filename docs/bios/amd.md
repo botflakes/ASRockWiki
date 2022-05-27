@@ -917,6 +917,13 @@ Revision|Release|Source|Mirror 1
 
 ## **Socket AM4 AMD A320**
 
+### **A320M-DGS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.03|April 22nd, 2022|ASRock|<a href="https://drive.google.com/file/d/1nQ2CP80i1zBC_xXj1T1Yjhm9qj1hHRdh/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|January 19th, 2022|ASRock|[Download](https://drive.google.com/file/d/1sYJVF6P4liPHmaEZqvsm5A8x27POeOOm/view?usp=sharing)
+
 ### **A320M Pro4 R2.0**
 
 Revision|Release|Source|Mirror 1
