@@ -909,6 +909,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.20|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1AVGyus-mRLMA3Rgm33ZEUmG-k0_XF761/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1lWLR4iHI3ih1FtCZdLGLR9o9aY64FRWx/view?usp=sharing)
 6.35|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1oaD0nRe0tu-Egkr9UTocokfa9gAyOA-q/view?usp=sharing)
 
 ### **AB350M Pro4 R2.0**
