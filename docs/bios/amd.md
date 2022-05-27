@@ -884,6 +884,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.20|April 28th, 2022|ASRock|<a href="https://drive.google.com/file/d/1uQOGNJBNdSX5TsakCvHFrNkNLOlOfmjA/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|December 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1UR4qGeBjn2fvr9eOZvCE2G9VqEknhPNS/view?usp=sharing)
 6.61*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1ZkEiNsIjdghW3lwer0qM-lcDgrK-Wl81/view?usp=sharing)
 6.31|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1aOPo2bDwRV7eve00eLY4PWhrtk3NmLZs/view?usp=sharing)
 4.51|May 2nd, 2018|ASRock|[Download](https://drive.google.com/file/d/1UK6JeZmanixs4qz8cm9421099LWlTArv/view?usp=sharing)
