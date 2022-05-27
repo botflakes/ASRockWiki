@@ -924,6 +924,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.03|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1Rm8xz0MCl43IgO0PRX8fg3_ODXf6543U/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1ZgYiZwZwT_C8Av00jKDqxlIKuHgZm_53/view?usp=sharing)
 6.21|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1H2JlP6Z-MqU_Uc1mvZfD5i5YEE6Z2r2D/view?usp=sharing)
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
