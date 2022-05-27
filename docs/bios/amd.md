@@ -727,6 +727,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.89|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1njJMxZdKlsZnjsrAPgU81bcuRWX0STVf/view?usp=sharing)
 4.11|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1FqZ_hNyt8ySf-GVae4jfj6yBz3OhM8Oh/view?usp=sharing)
 3.22|November 14th, 2019|JZ|[Download](https://drive.google.com/file/d/1H-PDhCJIvZULPxhSmo611tPd8Ci6p8sR/view?usp=sharing)
 
@@ -734,6 +735,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.20|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/11A2hYeSSxYg2n65qzjRpiL8vhnF5ZWW7/view?usp=sharing)
 4.86|February 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/1_bOeis_OuOjOGJSfj-UnFUfvOTVc-jqr/view?usp=sharing)
 4.85|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1fxyzdHJYaQJlgCHVkhYmlPMdMMv5JgTC/view?usp=sharing)
 4.04|November 14th, 2020|Chiphell|[Download](https://drive.google.com/file/d/1qTKuEqLcE7_kQYtmLOHKyXbdvIht9AeT/view?usp=sharing)
