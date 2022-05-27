@@ -935,6 +935,13 @@ Revision|Release|Source|Mirror 1
 7.10|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1YwQ3CGBACTW3uwbpLT3Jj4IgoqlTVeO_/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1JeL-D43zC5ms7_L_DdsiMH4KsA0_FAXx/view?usp=sharing)
 
+### **AB350M-HDV R4.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.20|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1sXS4AN2xXHpfvOF27kwd5yy6oI1chg7t/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1_DD75U0OxFFVZ4qg9iarbe-A7_ERaKsc/view?usp=sharing)
+
 ## **Socket AM4 AMD A320**
 
 ### **A320M-DGS**
