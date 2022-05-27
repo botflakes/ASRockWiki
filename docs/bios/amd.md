@@ -854,6 +854,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.30|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1C-0XX_Eps3yASrRDMoyUiX7a9-n5MMng/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1d25ZoU6az66eWVc-RrFbaLEl9EOBuAh9/view?usp=sharing)
 6.71*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
 ### **X370 Pro4**
