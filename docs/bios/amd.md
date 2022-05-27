@@ -977,6 +977,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.03|April 22nd, 2022|ASRock|<a href="https://drive.google.com/file/d/1tomQsmEzjOf1mSS0Q0HRxfT-CrzVwZAO/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|January 19th, 2022|ASRock|[Download](https://drive.google.com/file/d/1TU-gWfc7INziH20u7BOEvThmgTduW4DL/view?usp=sharing)
 6.21*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1pkBJIbwgHKtu6RG0xWcJHdKjZOpWaMkG/view?usp=sharing)
 
 ### **A320M Pro4 R2.0**
