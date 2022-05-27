@@ -928,6 +928,13 @@ Revision|Release|Source|Mirror 1
 
 <p>* = This is a Zen3 BETA BIOS provided from a user on Chiphell.com. We are not responsible for damage on your board.</p>
 
+### **AB350M-HDV R3.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.10|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1YwQ3CGBACTW3uwbpLT3Jj4IgoqlTVeO_/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1JeL-D43zC5ms7_L_DdsiMH4KsA0_FAXx/view?usp=sharing)
+
 ## **Socket AM4 AMD A320**
 
 ### **A320M-DGS**
