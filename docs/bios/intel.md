@@ -330,13 +330,21 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 8.02|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1xNwdltjS0RK0p3ZVNhetEzp-NdNeDNR-/view?usp=sharing)
 
-## **Socket 1700 Intel B600**
+## **Socket 1700 Intel B660**
 
 ### **B660 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 8.01|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1wServVcrzmq9AY7y9GpkdDd9JGi0m0qj/view?usp=sharing)
+
+## **Socket 1700 Intel H610**
+
+### **H610M-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+5.02|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/11J2SnPq88OzsxJ40LDHraIPprEJxx8-f/view?usp=sharing)
 
 ## **Socket 1200 Intel Z590**
 
