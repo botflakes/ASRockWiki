@@ -135,6 +135,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.34|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/12Vuww86TMtCZeYkZprvaF4BAHV_m2Cae/view?usp=sharing)
 4.26|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1sgcYkXIydRvmIUQWNNgmCll3mwPMwTKU/view?usp=sharing)
 3.92|March 31st, 2021|ASRock|[Download](https://drive.google.com/file/d/1bKaTR--QsRrRI0YYd44iIokUD9cl8LxA/view?usp=sharing)
 3.85|December 31st, 2020|ASRock|[Download](https://drive.google.com/file/d/1v029-im6FDvkbTfw401KIzQr-NsaLmmJ/view?usp=sharing)
@@ -254,6 +255,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.51|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1LePvEtl6vEsrtNt6M0RhzujRDki4CIXg/view?usp=sharing)
 1.41|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1R19tsKogpWhJF9sxkP0p0plywDeuxhw2/view?usp=sharing)
 
 ### **X570 Extreme4**
@@ -336,6 +338,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1W2gCtnu4Eg3YX96fShsxiz7FapzKxQkN/view?usp=sharing)
 2.14|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1Pt_68LvzMCSHMN-4Mvy2iCc2l9IzotGC/view?usp=sharing)
 1.15|March 8th, 2020|ASRock|[Download](https://drive.google.com/file/d/14teIGzfkaU42QCce2UhXfjkKQMSRVwJF/view?usp=sharing)
 1.10|July 29th, 2020|ASRock|[Download](https://drive.google.com/file/d/1wQqAGPWIL-EJ5S-YM4A89yqdovrC78gU/view?usp=sharing)
@@ -358,6 +361,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.42|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1nxIcuZ-3J58-5k-q0ZZlGd7TRDLdd1OH/view?usp=sharing)
 1.34|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1WF_m8uTj5-k7eWQ9TIz0OzJ_GMopbX9v/view?usp=sharing)
 
 ### **B550M PG Riptide**
@@ -374,10 +378,11 @@ Revision|Release|Source|Mirror 1
 1.82|March 25th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gFN08_SG-x4wAmW7g3xfZangcNaaxpjI/view?usp=sharing)
 1.10A|July 29th, 2020 |ASRock|[Download](https://drive.google.com/file/d/1nxb-MemEha_uNCeigsGKlAInTAUSsni0/view?usp=sharing)
 
-### **B550 Phantom Gaming 4**
+### **B550M Phantom Gaming 4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.92|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1Bf8O64PRZWkk0hvij8_sacgHzp-gbDCu/view?usp=sharing)
 1.84|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1Mw4TYpAr-7hgFC-IxrE0Yrly2noAsR0S/view?usp=sharing)
 
 ### **B550 Phantom Gaming 4/ac**
@@ -405,6 +410,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.32|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/17X4ndRHmrzt2b0pgVRAq6ZbYbj9KV6jJ/view?usp=sharing)
 2.24|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1jJtfyybO7jxiFR-Ba4mY5WkHe5hjC9Kv/view?usp=sharing)
 1.20|August, 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/10L6a36VuT0I2p31oxF-j_LQDjsuKbRIj/view?usp=sharing)
 1.15|March 8th, 2020|ASRock|[Download](https://drive.google.com/file/d/1Gym-LaRM8agHd0PNMp08VkkJqAdCuNWa/view?usp=sharing)
@@ -414,6 +420,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.32|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/18F8huPxSfQ8BpEUpWRGki-feAaV_NiWb/view?usp=sharing)
 2.24|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-trQ2FrxqArIFB5KutUoh0wnJ-Pyo7VG/view?usp=sharing)
 1.82|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1V8N_uyk4cWh1FSZnpe_vSQKw2fWVBELm/view?usp=sharing)
 1.15A|August 3rd, 2020|ASRock|[Download](https://drive.google.com/file/d/1v1Q3vEQeG0EyW_cVBwICeE-FoBEDIYGs/view?usp=sharing)
