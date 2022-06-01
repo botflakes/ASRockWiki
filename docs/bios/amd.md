@@ -969,9 +969,6 @@ Revision|Release|Source|Mirror 1
 7.01|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1dZxd_j64IciivBD6JA9s7lwSjAyVes8U/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00 (Bridge)|June 1st, 2022|ASRock|[Download](https://drive.google.com/file/d/1iOZhCBZb0t0q9ZEByAeaPfnis57likI-/view?usp=sharing)
 
-
-
-
 ## **Socket AM4 AMD A320**
 
 ### **A320M-DGS**
@@ -1059,6 +1056,13 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 7.10|March 22nd, 2022|ASRock|<a href="https://drive.google.com/file/d/1aPK0WBoaZPZqLR-hVbGjxSWOG0bzbb1T/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00 (Bridge)|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1PK73DzHgWUHpOLPb_llVxGij5bZ2w1X-/view?usp=sharing)
+
+### **A320M**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.01|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1JiNV8DvCoXLJ0z9fV7DwZ_cYf08hk9W_/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00 (Bridge)|June 1st, 2022|ASRock|[Download](https://drive.google.com/file/d/1NGFEniXS-qZiRdfzTdcUfALiYtX4q9Jq/view?usp=sharing)
 
 ## **Socket AM3+ AMD 990FX**
 
