@@ -58,6 +58,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/1H2_m5JkJf1tioQyKlIuBdxp5N-OXoDaC/view?usp=sharing)
 1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1r_wbLneyymZFxe_QGM3Xysmt0PaR_FfS/view?usp=sharing)
 
 ### **TRX40 Taichi**
