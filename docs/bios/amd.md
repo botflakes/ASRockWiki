@@ -810,8 +810,9 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-7.03|February 8th, 2022|<a href="https://drive.google.com/file/d/14ZWnKrLkC6FnRpLXkN80WVzxAgVxEu5M/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
-7.00 (Bridge)|February 8th, 2022|[Download](https://drive.google.com/file/d/1Cj9OEh6eVbpq4aSRRgg1rmYcvr3S10Et/view?usp=sharing)
+7.10|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1KdssNHoNhiW0V2vQn7oAuJzfgfnDH7i-/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.03|February 8th, 2022|ASRock|<a href="https://drive.google.com/file/d/14ZWnKrLkC6FnRpLXkN80WVzxAgVxEu5M/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00 (Bridge)|February 8th, 2022|ASRock|[Download](https://drive.google.com/file/d/1Cj9OEh6eVbpq4aSRRgg1rmYcvr3S10Et/view?usp=sharing)
 6.12|Arpril 23th, 2021|ASRock|[Download](https://drive.google.com/file/d/1HFUPKNa0yLn1m6JQHu05XzqCoV-0vAIN/view?usp=sharing)
 5.65|November 9th, 2019|JZ|[Download](https://drive.google.com/file/d/1AualKS4btfi1QSKNda1sqQG6bvBATrnu/view?usp=sharing)
 5.02|January 8th, 2019|JZ|[Download](https://drive.google.com/file/d/1wn5gZPEbEcFLs7X507C5fkfjSfRudLBw/view?usp=sharing)
@@ -820,6 +821,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.10|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1owOEaaTwyHI4jbv38GUH3j5aF8EKSNE3/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.03|February 8th, 2022|ASRock|<a href="https://drive.google.com/file/d/1T-bVattdB6gqS4dvsGY1VS8G_RjftNs0/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00 (Bridge)|February 8th, 2022|ASRock|[Download](https://drive.google.com/file/d/1CMkesU9XbekOxHsMUmcY0uV12wZmwNs-/view?usp=sharing)
 6.11*|December 16th|Chiphell|[Download](https://drive.google.com/file/d/19uZMhJuuAtVyVpHqenTIC95eWrjiUbwm/view?usp=sharing)
@@ -959,6 +961,16 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 7.20|May 27th, 2022|ASRock|<a href="https://drive.google.com/file/d/1sXS4AN2xXHpfvOF27kwd5yy6oI1chg7t/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1_DD75U0OxFFVZ4qg9iarbe-A7_ERaKsc/view?usp=sharing)
+
+### **AB350M**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.01|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1dZxd_j64IciivBD6JA9s7lwSjAyVes8U/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
+7.00 (Bridge)|June 1st, 2022|ASRock|[Download](https://drive.google.com/file/d/1iOZhCBZb0t0q9ZEByAeaPfnis57likI-/view?usp=sharing)
+
+
+
 
 ## **Socket AM4 AMD A320**
 
