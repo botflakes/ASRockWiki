@@ -831,6 +831,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.10|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1-qZHx0dGqv4J7auFrv7eMP1C1QmEI054/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.06|February 22nd, 2022|ASRock|<a href="https://drive.google.com/file/d/1sxCsYGTyxUy0u_5pC7jsdJmcP0Jq-zSN/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!\nFlash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.04|February 16th, 2022|ASRock|<a href="https://drive.google.com/file/d/1_u8E9ymgoTszUUcgAHrs86lltrCamAcs/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!\nFlash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.03|February 8th, 2022|ASRock|<a href="https://drive.google.com/file/d/1OIXxuxY31OacxYiukK31IMP9TYnwyz2V/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle, Raven, Summit or Bristol Ridge CPU!\nFlash 7.00 (Bridge) before flashing this BIOS')">Download</a>
