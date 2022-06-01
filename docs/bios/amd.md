@@ -65,6 +65,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/17L4gD-C9jpJ3KmzH9YrMV7Ls_f2WuiRK/view?usp=sharing)
 1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MEvqS7AOAi0fITnpHlIFv72VaZutBE3n/view?usp=sharing)
 
 ## **Socket AM4 AMD X570**
