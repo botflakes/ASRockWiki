@@ -461,6 +461,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.32|June 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/10NTAJGCoWq--nUL19Lpqkuz_SPjwB580/view?usp=sharing)
 2.24|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1PDcw2UJPcAGzG95oLD1DogZcsu6SmGFf/view?usp=sharing)
 
 ### **B550-HDV**
