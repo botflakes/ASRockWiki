@@ -365,6 +365,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22|June 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/10ADnm-0rbBX7s6Qu3npceZldJOapqLec/view?usp=sharing)
 2.14|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1xGRKYjlJtInQOMJqP7IjlRAieCLnW0Nv/view?usp=sharing)
 2.06|August 5th. 2021|ASRock|[Download](https://drive.google.com/file/d/11KWdQ1FJI-IRRVxlwuxu4L2kV41vG_qE/view?usp=sharing)
 2.04|July 6th, 2021|ASRock|[Download](https://drive.google.com/file/d/1HZGf-BjEYudsRV6QdFnQrLLRDk5BvQBO/view?usp=sharing)
