@@ -338,6 +338,12 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 8.01|March 25th, 2022|ASRock|[Download](https://drive.google.com/file/d/1wServVcrzmq9AY7y9GpkdDd9JGi0m0qj/view?usp=sharing)
 
+### **B660 PG Riptide**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.02|June 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/16A14jiQdOFz1nhd_aAGNPtuAH-KYxl0R/view?usp=sharing)
+
 ## **Socket 1700 Intel H610**
 
 ### **H610M-HDV**
