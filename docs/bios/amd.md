@@ -1030,6 +1030,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+7.00|June 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/16NnyfEoBFBGkTAcJ-lahBbTMoyyn9LdU/view?usp=sharing)
 6.71*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/1MogH1d05VXdKL53z0j2YtrrQNrnPk77k/view?usp=sharing)
 
 ### **A320M-DVS R4.0**
