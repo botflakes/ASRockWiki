@@ -63,4 +63,4 @@ Trying to **Unblock** it causes errors like:
 5. Change back the owner to **SYSTEM**.
 6. Restart your device, you shouldn't get that prompt
 
-I think, most probably it is due to the original **RtkAudUService64.exe** in your driver package not being unblocked, or something in the script isn't working properly
+I think, most probably it is due to the original **RtkAudUService64.exe** in your driver package not being unblocked, or something in the script isn't working properly.
