@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DeskMini BIOS
+title: DeskMini/-Meet BIOS
 parent: Beta BIOS Consumer
 nav_order: 3
 ---
@@ -23,7 +23,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.79|July, 5th, 2022|ASRock|[Download](https://drive.google.com/file/d/16QjBxxZftAtvDgRZltKaZqoUQfPTONai/view?usp=sharing)
+1.79|July, 5th 2022|ASRock|[Download](https://drive.google.com/file/d/16QjBxxZftAtvDgRZltKaZqoUQfPTONai/view?usp=sharing)
 1.77|May 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/1MHPrIaG9lARPAD1Bgsr8zEUYZYFoB3GH/view?usp=sharing)
 1.72|October 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1M5ZrIHDw1o4m_X2FGJoah1rIVmWqC05r/view?usp=sharing)
 1.70B|August 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1TcClu7PVu9SUe2_ZXvrx7r7iBSqlyRu3/view?usp=sharing)
@@ -31,6 +31,12 @@ Revision|Release|Source|Mirror 1
 1.46G|January 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1eFmQtv1DoazaYMk1GRR0SYBEU3EW10HQ/view?usp=sharing)
 1.46E|January 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1nXuh4wK1JTVosSFiJG8xZq9H-st02RcA/view?usp=sharing)
 1.46|October 27th, 2020|JZ|[Download](https://drive.google.com/file/d/1wPcvbiF2YEvAbaFBT01umvVjSy19H_Bg/view?usp=sharing)
+
+### **DeskMeet X300**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.32|July 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1-0kTpjEYps_UbFcV04kiDrgd-vQ6gfK2/view?usp=sharing)
 
 ### **DeskMini A300**
 
