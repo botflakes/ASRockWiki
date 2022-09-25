@@ -4,7 +4,7 @@ title: DeskMini/-Meet BIOS
 parent: Beta BIOS Consumer
 nav_order: 3
 ---
-## Beta BIOS DeskMini
+## Beta BIOS DeskMini & DeskMeet
 
 ***
 
