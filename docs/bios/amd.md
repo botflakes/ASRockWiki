@@ -26,6 +26,38 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 - [X370](#socket-am4-amd-x370)  
 - [B350](#socket-am4-amd-b350)
 
+## **Socket AM5 AMD X670E
+
+### **X670E PG Lightning**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-NGOPzraRHgpdMX-ycWmgH0X8_8iqmGQ/view?usp=sharing)
+
+### **X670E Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-PsPY8NwvGcs8XpmfO8cS9loxQrPj3LV/view?usp=sharing)
+
+### **X670E Steel Legend**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-w2XBv9DHccVkW9EK9Psmy9E8oWC1Kov/view?usp=sharing)
+
+### **X670E Taichi Carrara**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10BlTEYzvQJZDV8R72Wf_EMAQkhkJnbW2/view?usp=sharing)
+
+### **X670E Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10EV1YM7HCTQcAewoUXsDO9_FuihnrcbZ/view?usp=sharing)
+
 ## **Socket TR4 AMD X399**
 
 ### **X399 Taichi**
