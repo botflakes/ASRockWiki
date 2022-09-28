@@ -32,30 +32,35 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10HacZ-DQ38QayBNJglHiXskO-XDUK-xK/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-NGOPzraRHgpdMX-ycWmgH0X8_8iqmGQ/view?usp=sharing)
 
 ### **X670E Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Jha9NtgKZp0GfHv8CwX_L3PJNQQ1mrk/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-PsPY8NwvGcs8XpmfO8cS9loxQrPj3LV/view?usp=sharing)
 
 ### **X670E Steel Legend**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10MF4LhWswc8k2ebGy48a3dRn-iB3SBBY/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-w2XBv9DHccVkW9EK9Psmy9E8oWC1Kov/view?usp=sharing)
 
 ### **X670E Taichi Carrara**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10LG6kxMQKYtn7MmxECTyzFeG-4MURwEg/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10BlTEYzvQJZDV8R72Wf_EMAQkhkJnbW2/view?usp=sharing)
 
 ### **X670E Taichi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/drive/folders/103fzAupkGN5tPlySa2xyoYISkVyJs6DB?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10EV1YM7HCTQcAewoUXsDO9_FuihnrcbZ/view?usp=sharing)
 
 ## **Socket TR4 AMD X399**
