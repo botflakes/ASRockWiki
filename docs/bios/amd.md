@@ -63,6 +63,50 @@ Revision|Release|Source|Mirror 1
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/drive/folders/103fzAupkGN5tPlySa2xyoYISkVyJs6DB?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10EV1YM7HCTQcAewoUXsDO9_FuihnrcbZ/view?usp=sharing)
 
+## **Socket AM5 AMD B650E**
+
+### **B650E Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **B650E Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **B650E PG Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **B650E PG-ITX WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+## **Socket AM5 AMD B650**
+
+### **B650 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **B650 PG Lightning**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **B650M PG Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **B650M PG Riptide**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
 ## **Socket TR4 AMD X399**
 
 ### **X399 Taichi**
