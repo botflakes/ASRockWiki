@@ -69,21 +69,25 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ### **B650E Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ### **B650E PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ### **B650E PG-ITX WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ## **Socket AM5 AMD B650**
 
@@ -91,21 +95,25 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ### **B650 PG Lightning**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ### **B650M PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ### **B650M PG Riptide**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+||||
 
 ## **Socket TR4 AMD X399**
 
