@@ -26,7 +26,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 - [X370](#socket-am4-amd-x370)  
 - [B350](#socket-am4-amd-b350)
 
-## **Socket AM5 AMD X670E
+## **Socket AM5 AMD X670E**
 
 ### **X670E PG Lightning**
 
