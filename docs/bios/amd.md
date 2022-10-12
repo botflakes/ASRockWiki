@@ -19,7 +19,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ## Quick Navigation
 
-[X670E](#socket-am4-amd-x670e) - [B650E](#socket-am4-amd-b650e) - [B650](#socket-am4-amd-b650) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320
+[X670E](#socket-am4-amd-x670e) - [B650E](#socket-am4-amd-b650e) - [B650](#socket-am4-amd-b650) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
 
 ## **Socket AM5 AMD X670E**
 
