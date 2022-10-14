@@ -618,6 +618,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.61B|September 29, 2022|ASRock|[Download](https://drive.google.com/file/d/13CSX-2w6DPQ825gU7PxxqBbGIjP-BzVq/view?usp=sharing)
 1.61|December 7th, 2020|ASRock|[Download](https://drive.google.com/file/d/1s-6mQkQxIXvfDomIR5NaV5NuTJrAska3/view?usp=sharing)
 
 ### **B460 Steel Legend**
