@@ -27,6 +27,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/11hG-kFDB5DnWfRYIoWAiJQZgoYkVLoey/view?usp=sharing)
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10POcAiErlh8FbvUzba9d4uKZL0Q-jrDA/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10HacZ-DQ38QayBNJglHiXskO-XDUK-xK/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-NGOPzraRHgpdMX-ycWmgH0X8_8iqmGQ/view?usp=sharing)
@@ -35,6 +36,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/11si95FSP2yveMRik9A-3hoFrpCsLFqJy/view?usp=sharing)
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10PUH03srAn4I7zzaPxWFB7EfwNlRuwhE/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Jha9NtgKZp0GfHv8CwX_L3PJNQQ1mrk/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-PsPY8NwvGcs8XpmfO8cS9loxQrPj3LV/view?usp=sharing)
@@ -43,6 +45,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/120-AIB0e3GakoXsyQjvJXwd8YqMz1tMj/view?usp=sharing)
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10RLfWT-Ww3pu9CeQmjISjxwPz65GxhYq/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10MF4LhWswc8k2ebGy48a3dRn-iB3SBBY/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-w2XBv9DHccVkW9EK9Psmy9E8oWC1Kov/view?usp=sharing)
@@ -51,6 +54,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/127I1xH2gJxRx9367kck5t1TSZH7E096R/view?usp=sharing)
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10WTlQBbur6ywvItVMTFk92UuH2gvIg82/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10LG6kxMQKYtn7MmxECTyzFeG-4MURwEg/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10BlTEYzvQJZDV8R72Wf_EMAQkhkJnbW2/view?usp=sharing)
@@ -59,6 +63,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/124ODqvDlHQldE2WzZGM1JxArmvW8FLMb/view?usp=sharing)
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10hxIoslEQ3B91lS81GFlrY1-TAVVXxuE/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/drive/folders/103fzAupkGN5tPlySa2xyoYISkVyJs6DB?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10EV1YM7HCTQcAewoUXsDO9_FuihnrcbZ/view?usp=sharing)
@@ -69,51 +74,57 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12fe_ERfx11EhVfa7XmbzeSg2HaSrrkCw/view?usp=sharing)
 
 ### **B650E Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12SDnNl0P2XqzDYBd23C9Hpaxnd6PR3eP/view?usp=sharing)
 
 ### **B650E PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12D-t_I6grpZVW3pej7OLSslBGy3rs1h6/view?usp=sharing)
 
 ### **B650E PG-ITX WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12L0ChtniWkj2_cgCVbcWWCRkgAqrA_r8/view?usp=sharing)
 
 ## **Socket AM5 AMD B650**
+
+### **B650 LiveMixer**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12itpDL2bQUx-8yGNBT7Q5fx4gJ8mBSeG/view?usp=sharing)
 
 ### **B650 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12nDBYTqENZ-ARwdD3xZMtbRvY8qMSerX/view?usp=sharing)
 
 ### **B650 PG Lightning**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12lXFBKoZ9khNUurTRJB8bCfePxIK0MaP/view?usp=sharing)
 
 ### **B650M PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/1326LfJpI6HjQDZpQr0rnBdS1v8YyEwgc/view?usp=sharing)
 
 ### **B650M PG Riptide**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-||||
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12x5gF7v20YEo7mfw4rUl61dzxnp8F63x/view?usp=sharing)
 
 ## **Socket TR4 AMD X399**
 
