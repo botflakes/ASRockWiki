@@ -126,48 +126,6 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12x5gF7v20YEo7mfw4rUl61dzxnp8F63x/view?usp=sharing)
 
-## **Socket TR4 AMD X399**
-
-### **X399 Taichi**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.92|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/173vkK6qjYLqeFO0Pbc_zyHLBKGS13pZY/view?usp=sharing)
-
-### **X399M Taichi**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.81|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gpJgYltYsZ_I2VSgLXWaArB4_XBJKucc/view?usp=sharing)
-
-### **Fatal1ty X399 Professional Gaming**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mFvBEMF5i3Im5KhTAfraXOMWvazNIEp5/view?usp=sharing)
-
-### **X399 Phantom Gaming 6**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oTK3Mz7UblqoAM5_b1O7l6tFksSKgtil/view?usp=sharing)
-
-## **Socket sTRX4 AMD TRX40**
-
-### **TRX40 Creator**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/1H2_m5JkJf1tioQyKlIuBdxp5N-OXoDaC/view?usp=sharing)
-1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1r_wbLneyymZFxe_QGM3Xysmt0PaR_FfS/view?usp=sharing)
-
-### **TRX40 Taichi**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/17L4gD-C9jpJ3KmzH9YrMV7Ls_f2WuiRK/view?usp=sharing)
-1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MEvqS7AOAi0fITnpHlIFv72VaZutBE3n/view?usp=sharing)
-
 ## **Socket AM4 AMD X570**
 
 ### **X570 AQUA**
@@ -1218,6 +1176,48 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 7.01|June 1st, 2022|ASRock|<a href="https://drive.google.com/file/d/1JiNV8DvCoXLJ0z9fV7DwZ_cYf08hk9W_/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.00 (Bridge)|June 1st, 2022|ASRock|[Download](https://drive.google.com/file/d/1NGFEniXS-qZiRdfzTdcUfALiYtX4q9Jq/view?usp=sharing)
+
+## **Socket TR4 AMD X399**
+
+### **X399 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.92|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/173vkK6qjYLqeFO0Pbc_zyHLBKGS13pZY/view?usp=sharing)
+
+### **X399M Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.81|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gpJgYltYsZ_I2VSgLXWaArB4_XBJKucc/view?usp=sharing)
+
+### **Fatal1ty X399 Professional Gaming**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mFvBEMF5i3Im5KhTAfraXOMWvazNIEp5/view?usp=sharing)
+
+### **X399 Phantom Gaming 6**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oTK3Mz7UblqoAM5_b1O7l6tFksSKgtil/view?usp=sharing)
+
+## **Socket sTRX4 AMD TRX40**
+
+### **TRX40 Creator**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/1H2_m5JkJf1tioQyKlIuBdxp5N-OXoDaC/view?usp=sharing)
+1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1r_wbLneyymZFxe_QGM3Xysmt0PaR_FfS/view?usp=sharing)
+
+### **TRX40 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/17L4gD-C9jpJ3KmzH9YrMV7Ls_f2WuiRK/view?usp=sharing)
+1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MEvqS7AOAi0fITnpHlIFv72VaZutBE3n/view?usp=sharing)
 
 ## **Socket AM3+ AMD 990FX**
 
