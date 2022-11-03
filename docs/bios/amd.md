@@ -107,6 +107,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16zlMp-0eBnk5lfzduAz3ISsALpmAiyp6/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12itpDL2bQUx-8yGNBT7Q5fx4gJ8mBSeG/view?usp=sharing)
 
 ### **B650 Pro RS**
