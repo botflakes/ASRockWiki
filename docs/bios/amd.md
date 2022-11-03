@@ -27,6 +27,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16XqsArC_PKmj29x3Czg4WmiOcuKwgPQK/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/11hG-kFDB5DnWfRYIoWAiJQZgoYkVLoey/view?usp=sharing)
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10POcAiErlh8FbvUzba9d4uKZL0Q-jrDA/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10HacZ-DQ38QayBNJglHiXskO-XDUK-xK/view?usp=sharing)
