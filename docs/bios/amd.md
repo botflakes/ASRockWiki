@@ -93,6 +93,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/17Fhlc0XVwywAfYiAoI6ZxhB7vTmvZmGT/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12D-t_I6grpZVW3pej7OLSslBGy3rs1h6/view?usp=sharing)
 
 ### **B650E PG-ITX WiFi**
@@ -128,6 +129,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/17FML10Rjt9ZbtA4DKrmBr58WLvb50YXl/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/1326LfJpI6HjQDZpQr0rnBdS1v8YyEwgc/view?usp=sharing)
 
 ### **B650M PG Riptide**
