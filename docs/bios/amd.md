@@ -120,6 +120,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/172tQ2zkp6lHyBp4UWb9nYt77D_9suzKM/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12lXFBKoZ9khNUurTRJB8bCfePxIK0MaP/view?usp=sharing)
 
 ### **B650M PG Riptide WiFi**
