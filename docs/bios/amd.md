@@ -81,6 +81,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/17NHEJMIqrQP9P--2V9EiXepxT9x3nQPP/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12fe_ERfx11EhVfa7XmbzeSg2HaSrrkCw/view?usp=sharing)
 
 ### **B650E Steel Legend WiFi**
