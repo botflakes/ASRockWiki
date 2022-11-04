@@ -912,6 +912,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.30E|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/17Z6BiiacV3AWbAk7VcFDK4zkWk22Ykuj/view?usp=sharing)
 4.30C|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1l3zjV85IvY_UNFIqCxGlui_hlkA4H1Jp/view?usp=sharing)
 4.30B|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1r0vY4Mas-QGcguWGEgb2AWUifwgpxP0Q/view?usp=sharing)
 4.30A|March 22nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1fE6VcZk8vWNEo3fwE6nfotG2YnxlbEzf/view?usp=sharing)
@@ -961,6 +962,12 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:-- 
 4.30E|January 24th, 2022|ASRock|[Download](https://drive.google.com/file/d/178HQhxRpj42-7xYh3DMqK9IdyuakmxoS/view?usp=sharing)
 4.23|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/19wlq6jJfnAEs8PfGTlUktT-cWStvbVre/view?usp=sharing)
+
+### **B365M Pro4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:-- 
+4.50B|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/17f1dPJ7gyd76RvyeiixKQqbwCCw3cviM/view?usp=sharing)
 
 ### **B365M Pro4-F**
 
