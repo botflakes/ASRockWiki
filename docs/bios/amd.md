@@ -72,6 +72,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.AS05|November 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/18MEveCHPRWxbu2EWxwma0I-zz3cPCYk6/view?usp=sharing)
 1.11.AS03|November 4th, 2022|ASRock|[Download](https://drive.google.com/file/d/17WG7i2S8slx9eFXGGmUMktzxA5TpXhJZ/view?usp=sharing)
 1.11.AS02|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/16zeIcn7rEipkmjNaLZRhjc00gxpXRzLV/view?usp=sharing)
 1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16vzK8gC2kapDfcNwh40oLyIJXYNrGDZD/view?usp=sharing)
