@@ -1,7 +1,6 @@
 ---
 layout: default
-parent: BIOS Collection - Server
-title: Beta BIOS - Server
+title: BIOS Collection - Server
 nav_order: 3
 has_children: true
 ---
