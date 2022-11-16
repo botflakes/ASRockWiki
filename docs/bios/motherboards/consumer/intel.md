@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intel BIOS
-parent: Beta BIOS Consumer
+parent: BIOS Collection
 nav_order: 2
 ---
 ## Beta BIOS Intel
