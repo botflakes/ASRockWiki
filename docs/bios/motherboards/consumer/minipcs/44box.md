@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4x4 BOX BIOS
-parent: BIOS Collection
+parent: Beta BIOS - Consumer
 nav_order: 4
 ---
 ## Beta BIOS 4x4 Box

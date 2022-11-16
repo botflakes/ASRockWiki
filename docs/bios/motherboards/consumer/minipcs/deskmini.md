@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DeskMini/-Meet BIOS
-parent: BIOS Collection
+parent: Beta BIOS - Consumer
 nav_order: 3
 ---
 ## Beta BIOS DeskMini & DeskMeet
