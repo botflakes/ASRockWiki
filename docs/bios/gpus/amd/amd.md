@@ -1,6 +1,6 @@
 ---
 layout: default
 title: AMD GPU BIOS
-parent: Beta BIOS Consumer
+parent: BIOS Collection
 nav_order: 1
 ---
