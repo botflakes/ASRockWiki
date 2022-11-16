@@ -4,7 +4,7 @@ title: BIOS Collection - AMD
 parent: BIOS Collection
 nav_order: 1
 ---
-## Beta BIOS AMD
+## BIOS Collection - AMD
 
 ***
 

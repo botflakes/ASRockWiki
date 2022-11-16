@@ -4,7 +4,7 @@ title: BIOS Collection - Mini PCs
 parent: BIOS Collection
 nav_order: 3
 ---
-## Beta BIOS DeskMini & DeskMeet
+## BIOS Collection - Mini PCs
 
 ***
 

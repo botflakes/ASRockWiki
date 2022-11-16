@@ -4,7 +4,7 @@ title: BIOS Collection - Intel
 parent: BIOS Collection
 nav_order: 2
 ---
-## Beta BIOS Intel
+## BIOS Collection - Intel
 
 ***
 
