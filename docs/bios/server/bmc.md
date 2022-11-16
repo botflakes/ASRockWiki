@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ASRock Rack Beta BMC
-nav_order: 1
+title: BMC Collection - AMD & Intel
+nav_order: 2
 parent: BIOS Collection - Server
 ---
 ## ASRock Rack BMC

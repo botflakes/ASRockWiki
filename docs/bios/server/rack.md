@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ASRock Rack Beta BIOS
-nav_order: 2
+title: BIOS Collection - AMD & Intel
+nav_order: 1
 parent: BIOS Collection - Server
 ---
 ## ASRock Rack BIOS
