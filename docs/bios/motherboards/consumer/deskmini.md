@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DeskMini/-Meet BIOS
-parent: Beta BIOS - Consumer
+title: BIOS Collection - Mini PCs
+parent: BIOS Collection
 nav_order: 3
 ---
 ## Beta BIOS DeskMini & DeskMeet
@@ -63,3 +63,11 @@ Revision|Release|Source|Mirror 1
     ⚠️ *    = This BIOS does not support Bristol Ridge APUs. Please DO NOT update the BIOS when using Bristol Ridge APU<br>
     ⚠️ **   = Doesn't support Renoir. We strongly recommend 3.60S
 </p>
+
+## **4X4 BOX AMD Based**
+
+### **4X4 BOX-4000U**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.30K|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MkWamEdbhKZMB-LAygC4I6WazMnlDmqS/view?usp=sharing)

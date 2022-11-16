@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AMD BIOS
-parent: Beta BIOS - Consumer
+title: BIOS Collection - AMD
+parent: BIOS Collection
 nav_order: 1
 ---
 ## Beta BIOS AMD
