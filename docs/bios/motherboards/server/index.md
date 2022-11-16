@@ -5,7 +5,7 @@ title: Beta BIOS - Server
 nav_order: 2
 has_children: true
 ---
-## Beta BIOS Server
+## Beta BIOS - Server
 
 ***
 
