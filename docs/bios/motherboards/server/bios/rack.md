@@ -2,7 +2,7 @@
 layout: default
 title: ASRock Rack Beta BIOS
 nav_order: 2
-parent: Beta BIOS Server
+parent: Beta BIOS - Server
 ---
 ## ASRock Rack BIOS
 
