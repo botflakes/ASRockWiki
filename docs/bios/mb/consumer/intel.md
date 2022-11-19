@@ -16,6 +16,73 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 <p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
 
 ***
+## **Socket 1700 Intel Z790
+
+### **Z790 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-7t6F_D_DwZPh6qyATod2iy-G6b-aLkJ/view?usp=sharing)
+
+### **Z790 Taichi Carrara**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-HmmAXw0WrZ2Lwj5TN3A8513NAv3T11R/view?usp=sharing)
+
+### **Z790 Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-RBr33vQP2nAgD-8PKpJLHYo45O1Whkw/view?usp=sharing)
+
+### **Z790 Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-b3PuMHLZHcR7R3bdg9OL7UwDNzGCxWn/view?usp=sharing)
+
+### **Z790 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-fLRF9eXD8c9A2iYJajXAwQdhw-ggFUt/view?usp=sharing)
+
+### **Z790 PG SONIC**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.07|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-lOsll-QixMd-ieCINw9fDPdr8RRNk4F/view?usp=sharing)
+
+### **Z790 PG Riptide**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-qyMGsrhYPe0WekkW3jqvYCA4gW8LlD3/view?usp=sharing)
+
+### **Z790 PG Lightning**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.04|Novmeber 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10-CoQ67Zd5MdG9mRKBMHobDuigDbgJO-/view?usp=sharing)
+
+### **Z790 LiveMixer***
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.05|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Fol_akrdPrcXerk9XFlt8NqtgsuZSoK/view?usp=sharing)
+
+### **Z790M-ITX WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.04|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10POWGDCzRxb_X8RgyuEulWttG3IG3DU2/view?usp=sharing)
+
+## **Z790 PG-ITX/TB4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.05|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Tgja8S-AGMCqPkt8HZwzr3dPYjEEuXW/view?usp=sharing)
 
 ## **Socket 2066 Intel X299**
 
