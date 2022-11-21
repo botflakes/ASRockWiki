@@ -16,7 +16,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 <p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
 
 ***
-## **Socket 1700 Intel Z790
+## **Socket 1700 Intel Z790**
 
 ### **Z790 Taichi**
 
