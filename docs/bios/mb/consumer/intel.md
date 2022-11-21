@@ -66,7 +66,7 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.04|Novmeber 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10-CoQ67Zd5MdG9mRKBMHobDuigDbgJO-/view?usp=sharing)
 
-### **Z790 LiveMixer***
+### **Z790 LiveMixer**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
