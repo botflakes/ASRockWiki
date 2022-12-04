@@ -28,6 +28,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.10|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Zmy6r9X2LZcFDl-fD-bTGDkz9czai5d/view?usp=sharing)
+4.07|November 24th, 2022|ASRock|[Download](https://drive.google.com/file/d/10VANcCkfAkIXP3CfbaNb5uDWa7nKNNYJ/view?usp=sharing)
 4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-HmmAXw0WrZ2Lwj5TN3A8513NAv3T11R/view?usp=sharing)
 
 ### **Z790 Steel Legend WiFi**

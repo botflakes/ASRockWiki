@@ -73,6 +73,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.11.0015|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/10a6pC62OztINkuFvWa34BpjaqcwRotdo/view?usp=sharing)
 1.11.AS06|Novmeber 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/1xLqY5gX68XYHdY_jAaaMX9x8yBTLY93Y/view?usp=sharing)
 1.11.AS05|November 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/18MEveCHPRWxbu2EWxwma0I-zz3cPCYk6/view?usp=sharing)
 1.11.AS03|November 4th, 2022|ASRock|[Download](https://drive.google.com/file/d/17WG7i2S8slx9eFXGGmUMktzxA5TpXhJZ/view?usp=sharing)
@@ -1072,6 +1073,12 @@ Revision|Release|Source|Mirror 1
 7.00|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1d25ZoU6az66eWVc-RrFbaLEl9EOBuAh9/view?usp=sharing)
 6.71*|December 16th, 2021|Chiphell|[Download](https://drive.google.com/file/d/17V_qyM-zAYIUah7oqU2twYgCrD7mTcew/view?usp=sharing)
 
+### **X370M Pro4-F**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.00|December 23rd, 2021|ASRock|[Download]()
+
 ### **X370 Pro4**
 
 Revision|Release|Source|Mirror 1
@@ -1305,6 +1312,14 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.83|May 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/17L4gD-C9jpJ3KmzH9YrMV7Ls_f2WuiRK/view?usp=sharing)
 1.73|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MEvqS7AOAi0fITnpHlIFv72VaZutBE3n/view?usp=sharing)
+
+## **Socket sWRX8 AMD WRX80**
+
+### **WRX80 Creator**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+6.06.TS01|November 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/11DrtZXpgsgbQC2T7RwlocYQWGsust9ef/view?usp=sharing)
 
 ## **Socket AM3+ AMD 990FX**
 
