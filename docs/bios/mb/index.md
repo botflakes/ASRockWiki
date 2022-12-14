@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BIOS Collection
+title: BIOS Collection - Desktop
 nav_order: 2
 has_children: true
 ---
