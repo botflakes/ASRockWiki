@@ -22,6 +22,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.10|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/11eC6hyec15B4Rxc6ZCMXmH7He8Hgj8GK/view?usp=sharing)
 4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-7t6F_D_DwZPh6qyATod2iy-G6b-aLkJ/view?usp=sharing)
 
 ### **Z790 Taichi Carrara**
@@ -36,6 +37,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.01|December 6th, 2022|ASRock|[Download](https://drive.google.com/file/d/11itKQahf296tjHEzhv_EfU8BslKfazEB/view?usp=sharing)
+3.10|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/11rxI35rRhh1d9vMdJEVgvhnXbh3exxPn/view?usp=sharing)
 3.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-RBr33vQP2nAgD-8PKpJLHYo45O1Whkw/view?usp=sharing)
 
 ### **Z790 Pro RS WiFi**
@@ -48,18 +51,21 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.10|December 6th, 2022|ASRock|[Download](https://drive.google.com/file/d/123C7ni8lpCstFL_ReCHwtFpiPemFb0kV/view?usp=sharing)
 4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-fLRF9eXD8c9A2iYJajXAwQdhw-ggFUt/view?usp=sharing)
 
 ### **Z790 PG SONIC**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.12|December 6th, 2022|ASRock|[Download](https://drive.google.com/file/d/120yispu6MsCosr_PvY8c8YP9-h2AjirD/view?usp=sharing)
 3.07|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-lOsll-QixMd-ieCINw9fDPdr8RRNk4F/view?usp=sharing)
 
 ### **Z790 PG Riptide**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.10|December 6th, 2022|ASRock|[Download](https://drive.google.com/file/d/11xTC_35LuGSLvNEflc2agklRbdCu2P-X/view?usp=sharing)
 4.06|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-qyMGsrhYPe0WekkW3jqvYCA4gW8LlD3/view?usp=sharing)
 
 ### **Z790 PG Lightning**
@@ -72,6 +78,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.08|December 6th, 2022|ASRock|[Download](https://drive.google.com/file/d/11fW5zSSY2s7tTmkUuztMZaxrw0_HQSxw/view?usp=sharing)
+4.07|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/11fbIyiSDpVkPFwMqhwAL1Rf2FdfVyoEk/view?usp=sharing)
 4.05|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Fol_akrdPrcXerk9XFlt8NqtgsuZSoK/view?usp=sharing)
 
 ### **Z790M-ITX WiFi**
@@ -84,6 +92,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.08|December 6th, 2022|ASRock|[Download](https://drive.google.com/file/d/11zB9pXaJxbQ1NqngzSQYBDJAjgvjjMpA/view?usp=sharing)
 3.05|November 17th, 2022|ASRock|[Download](https://drive.google.com/file/d/10Tgja8S-AGMCqPkt8HZwzr3dPYjEEuXW/view?usp=sharing)
 
 ## **Socket 2066 Intel X299**
@@ -109,6 +118,12 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.90C|July 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1QN9x7zw-aATm6lZxQDaabaC9WD8pJ_Nz/view?usp=sharing)
+
+### **X299 Extreme4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.00C|November 29th, 2022|ASRock|[Download](https://drive.google.com/file/d/127mZMVLxQDcnneEISCLneQbBtahD9SsC/view?usp=sharing)
 
 ### **X299 Creator**
 
