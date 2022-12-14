@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BIOS Collection - Intel
-parent: BIOS Collection
+parent: BIOS Collection - Desktop
 nav_order: 2
 ---
 ## BIOS Collection - Intel

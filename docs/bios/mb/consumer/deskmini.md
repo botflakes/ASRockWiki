@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BIOS Collection - Mini PCs
-parent: BIOS Collection
+parent: BIOS Collection - Desktop
 nav_order: 3
 ---
 ## BIOS Collection - Mini PCs

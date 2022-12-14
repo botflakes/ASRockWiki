@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BIOS Collection - AMD
-parent: BIOS Collection
+parent: BIOS Collection - Desktop
 nav_order: 1
 ---
 ## BIOS Collection - AMD
@@ -22,6 +22,34 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 [X670E](#socket-am5-amd-x670e) - [B650E](#socket-am5-amd-b650e) - [B650](#socket-am5-amd-b650) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
 
 ## **Socket AM5 AMD X670E**
+
+### **X670E Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.11.0015|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/10a6pC62OztINkuFvWa34BpjaqcwRotdo/view?usp=sharing)
+1.11.AS06|Novmeber 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/1xLqY5gX68XYHdY_jAaaMX9x8yBTLY93Y/view?usp=sharing)
+1.11.AS05|November 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/18MEveCHPRWxbu2EWxwma0I-zz3cPCYk6/view?usp=sharing)
+1.11.AS03|November 4th, 2022|ASRock|[Download](https://drive.google.com/file/d/17WG7i2S8slx9eFXGGmUMktzxA5TpXhJZ/view?usp=sharing)
+1.11.AS02|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/16zeIcn7rEipkmjNaLZRhjc00gxpXRzLV/view?usp=sharing)
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16vzK8gC2kapDfcNwh40oLyIJXYNrGDZD/view?usp=sharing)
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/124ODqvDlHQldE2WzZGM1JxArmvW8FLMb/view?usp=sharing)
+1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10hxIoslEQ3B91lS81GFlrY1-TAVVXxuE/view?usp=sharing)
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/drive/folders/103fzAupkGN5tPlySa2xyoYISkVyJs6DB?usp=sharing)
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10EV1YM7HCTQcAewoUXsDO9_FuihnrcbZ/view?usp=sharing)
+
+### **X670E Taichi Carrara**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.11.AS06|Novmeber 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/1--hW0gEzknmXgC126fYVy27dhmrVWSMv/view?usp=sharing)
+1.11.AS03|November 4th, 2022|ASRock|[Download](https://drive.google.com/file/d/17TQqQ4lvK69NTTYrI5rmY1xlk5MxXAN7/view?usp=sharing)
+1.11.AS02|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/16v_C5nImsKkd2Y83Zfq1rd-BN7ZRM9jH/view?usp=sharing)
+1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16iu6_hHAfSprkU6L4_RPGMdSoMbZ_CT6/view?usp=sharing)
+1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/127I1xH2gJxRx9367kck5t1TSZH7E096R/view?usp=sharing)
+1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10WTlQBbur6ywvItVMTFk92UuH2gvIg82/view?usp=sharing)
+1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10LG6kxMQKYtn7MmxECTyzFeG-4MURwEg/view?usp=sharing)
+1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10BlTEYzvQJZDV8R72Wf_EMAQkhkJnbW2/view?usp=sharing)
 
 ### **X670E PG Lightning**
 
@@ -55,34 +83,6 @@ Revision|Release|Source|Mirror 1
 1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10RLfWT-Ww3pu9CeQmjISjxwPz65GxhYq/view?usp=sharing)
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10MF4LhWswc8k2ebGy48a3dRn-iB3SBBY/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-w2XBv9DHccVkW9EK9Psmy9E8oWC1Kov/view?usp=sharing)
-
-### **X670E Taichi Carrara**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.11.AS06|Novmeber 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/1--hW0gEzknmXgC126fYVy27dhmrVWSMv/view?usp=sharing)
-1.11.AS03|November 4th, 2022|ASRock|[Download](https://drive.google.com/file/d/17TQqQ4lvK69NTTYrI5rmY1xlk5MxXAN7/view?usp=sharing)
-1.11.AS02|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/16v_C5nImsKkd2Y83Zfq1rd-BN7ZRM9jH/view?usp=sharing)
-1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16iu6_hHAfSprkU6L4_RPGMdSoMbZ_CT6/view?usp=sharing)
-1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/127I1xH2gJxRx9367kck5t1TSZH7E096R/view?usp=sharing)
-1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10WTlQBbur6ywvItVMTFk92UuH2gvIg82/view?usp=sharing)
-1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10LG6kxMQKYtn7MmxECTyzFeG-4MURwEg/view?usp=sharing)
-1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10BlTEYzvQJZDV8R72Wf_EMAQkhkJnbW2/view?usp=sharing)
-
-### **X670E Taichi**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.11.0015|November 30th, 2022|ASRock|[Download](https://drive.google.com/file/d/10a6pC62OztINkuFvWa34BpjaqcwRotdo/view?usp=sharing)
-1.11.AS06|Novmeber 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/1xLqY5gX68XYHdY_jAaaMX9x8yBTLY93Y/view?usp=sharing)
-1.11.AS05|November 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/18MEveCHPRWxbu2EWxwma0I-zz3cPCYk6/view?usp=sharing)
-1.11.AS03|November 4th, 2022|ASRock|[Download](https://drive.google.com/file/d/17WG7i2S8slx9eFXGGmUMktzxA5TpXhJZ/view?usp=sharing)
-1.11.AS02|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/16zeIcn7rEipkmjNaLZRhjc00gxpXRzLV/view?usp=sharing)
-1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/16vzK8gC2kapDfcNwh40oLyIJXYNrGDZD/view?usp=sharing)
-1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/124ODqvDlHQldE2WzZGM1JxArmvW8FLMb/view?usp=sharing)
-1.08.AS04|October 11th, 2022|ASRock|[Download](https://drive.google.com/file/d/10hxIoslEQ3B91lS81GFlrY1-TAVVXxuE/view?usp=sharing)
-1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/drive/folders/103fzAupkGN5tPlySa2xyoYISkVyJs6DB?usp=sharing)
-1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/10EV1YM7HCTQcAewoUXsDO9_FuihnrcbZ/view?usp=sharing)
 
 ## **Socket AM5 AMD B650E**
 
