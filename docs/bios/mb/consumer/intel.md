@@ -399,6 +399,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+15.01|December 14th, 2022|ASRock|[Download](https://drive.google.com/file/d/12P6syDRxKqUf3yxaPWpLjqNkmhhGNtE4/view?usp=sharing)
 8.02|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/19qEfphVYByPwT7zaxUSQufny5yfs9Kco/view?usp=sharing)
 7.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1pBtpEQogvcJy1SLdAiknSK7gCZTdkuaX/view?usp=sharing)
 
@@ -1257,6 +1258,14 @@ Revision|Release|Source|Mirror 1
 1.50|July 18th, 2016|ASRock|[Download](https://drive.google.com/file/d/1hAqJZHicOJ_csJcAkOCNpc2RBncXBdLH/view?usp=sharing)
 1.40|April 8th, 2016|ASRock|[Download](https://drive.google.com/file/d/1Fgjx9QiRDba2vqXXoVOAHez-YmU58DAN/view?usp=sharing)
 1.30|March 31st, 2016|ASRock|[Download](https://drive.google.com/file/d/1dZ2t2HTQik8mSqsxMx2fQq1o0eU6kbdj/view?usp=sharing)
+
+## **Socket 4189 Intel C621**
+
+### **C621A WS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.26|December 16th, 2022|ASRock|[Download](https://drive.google.com/file/d/12TTQVtGDFfwdzQtilu24jij0zTK4vnUc/view?usp=sharing)
 
 ## **Socket 1151 Intel Z170**
 
