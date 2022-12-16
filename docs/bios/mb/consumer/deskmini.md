@@ -59,7 +59,7 @@ Revision|Release|Source|Mirror 1
     ⚠️ **   = Doesn't support Renoir. We strongly recommend 3.60S
 </p>
 
-## DeskMini Intel Based
+## **DeskMini Intel Based**
 
 ### **DeskMini H470**
 
