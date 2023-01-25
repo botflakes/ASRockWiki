@@ -1032,6 +1032,14 @@ Revision|Release|Source|Mirror 1
 4.30E|April 13th, 2021|ASRock|[Download](https://drive.google.com/file/d/1rkbOkavYKFXmeKbAOzrQP-QMWolzzn9y/view?usp=sharing)
 4.30D|March 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/1PovoPUIbk9ZUHE72nX8FmS4p7NbkV-Xb/view?usp=sharing)
 
+## **Socket 1151 Intel H310**
+
+### **H310M-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.20A|January 21st, 2023|ASRock|[Download](https://drive.google.com/file/d/1-AwnH65ZR9NCdyebAuc-7Dm53zq_VJhA/view?usp=sharing)
+
 ## **Socket 1151 Intel B365**
 
 ### **B365 Phantom Gaming 4**
@@ -1265,7 +1273,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.27|January 21th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-2Xma1e26doLNePoBIcw2JsmIiFd-PiI/view?usp=sharing)
+1.27|January 21st, 2023|ASRock|[Download](https://drive.google.com/file/d/1-2Xma1e26doLNePoBIcw2JsmIiFd-PiI/view?usp=sharing)
 1.26|December 16th, 2022|ASRock|[Download](https://drive.google.com/file/d/12TTQVtGDFfwdzQtilu24jij0zTK4vnUc/view?usp=sharing)
 
 ## **Socket 1151 Intel Z170**
