@@ -1265,6 +1265,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.27|January 21th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-2Xma1e26doLNePoBIcw2JsmIiFd-PiI/view?usp=sharing)
 1.26|December 16th, 2022|ASRock|[Download](https://drive.google.com/file/d/12TTQVtGDFfwdzQtilu24jij0zTK4vnUc/view?usp=sharing)
 
 ## **Socket 1151 Intel Z170**
