@@ -1072,7 +1072,16 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.30F|March 29th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-T6UzdH5bN5f5AztWv9lbT3bUDLUQ46W/view?usp=sharing)
 4.24|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1PyqqQD7gzlNkzIUFKELP0K6UmjOG_2Yq/view?usp=sharing)
+
+## **Socket 1151 Intel B360**
+
+### **B360 Pro4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.30C|January 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/1-gqQlfuH3qkdXtD4AMcRDb9vg8XBjMgx/view?usp=sharing)
 
 ## **Socket 1151 Intel Z270**
 
