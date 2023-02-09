@@ -11,7 +11,7 @@ has_children: false
 Welcome to the r/ASRock tools repository. We gathered some tools which maybe helpful for you.  
 Something is missing? Feel free to contact us moderators via [modmail!](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)
 
-### **Setup and Overclocking TEST**
+### **Setup and Overclocking**
 
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) - Shows CPU, Motherboard and Memory informations (Free)
 * [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/) - Shows detailed informations about your Graphics Card(s) (Free)
