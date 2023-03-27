@@ -2,7 +2,6 @@
 layout: default
 title: Support & Donation
 nav_order: 7
-permalink: /
 ---
 
 # Helping r/ASRock and the ASRockWiki
