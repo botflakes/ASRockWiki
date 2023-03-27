@@ -1,8 +1,9 @@
-# Welcome
-This is the repository of the ASRock Wiki
-It was, it is and it stays open source
-
-You can visit the Wiki here [https://botflakes.de/asrockwiki](https://botflakes.de/asrockwiki)
+---
+layout: default
+title: Support & Donation
+nav_order: 7
+permalink: /
+---
 
 # Helping r/ASRock and the ASRockWiki
 Thanks for your interest in helping r/ASRock and the ASRockWiki!

@@ -22,19 +22,6 @@ We also have a collection of Tools, Guides and a FAQ section.
 
 ***
 
-## I want to help!
-We always appreciate help from others! So if you have a idea about what we may have missed here,  
-hit us up on: 
-
-Discord | [@CornFlakes#0001](https://discord.gg/rFrMpxV)  
-Twitter | [@CornFlakesPC](https://twitter.com/CornFlakesPC) 
-Twitter | [@redditASRock](https://twitter.com/redditASRock)  
-Reddit  | [@CornFlakes1991](https://new.reddit.com/user/CornFlakes1991)
-
-or send us a [ModMail](https://www.reddit.com/message/compose?to=%2Fr%2FASRock) on Reddit
-
-***
-
 ## Social Media & more!
 
 You can follow us on Twitter | [@redditASRock](https://twitter.com/redditASRock)
