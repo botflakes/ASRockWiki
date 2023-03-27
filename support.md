@@ -7,7 +7,7 @@ nav_order: 7
 ## Helping r/ASRock and the ASRockWiki
 Thanks for your interest in helping r/ASRock and the ASRockWiki!  
 Currently we do not accept monetary donations, and we do not run ads.  
-If you join our Discord server, this is also a way to support us.
+If you join our [Discord server](https://discord.gg/rFrMpxV), this is also a way to support us.
 
 ## Show your appretiation to CornFlakes (creator) directly
 
