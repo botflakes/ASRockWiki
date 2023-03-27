@@ -5,8 +5,8 @@ nav_order: 7
 ---
 
 ## Helping r/ASRock and the ASRockWiki
-Thanks for your interest in helping r/ASRock and the ASRockWiki!
-Currently we do not accept monetary donations, and we do not run ads.
+Thanks for your interest in helping r/ASRock and the ASRockWiki!  
+Currently we do not accept monetary donations, and we do not run ads.  
 If you join our Discord server, this is also a way to support us.
 
 ## Show your appretiation to CornFlakes (creator) directly
@@ -21,8 +21,7 @@ While direct monetary donations are currently not accepted, game gifts are.
 Item gifts are also appreciated.
 
 ### I want to help with Ideas
-We always appreciate help from others! So if you have a idea about what we may have missed here,  
-hit us up on: 
+We always appreciate help from others! So if you have a idea about what we may have missed here, hit us up on:  
 
 Discord | [@CornFlakes#0001](https://discord.gg/rFrMpxV)  
 Twitter | [@CornFlakesPC](https://twitter.com/CornFlakesPC) 
