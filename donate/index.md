@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Support & Donation
+title: Donation & Support
 nav_order: 7
 ---
 
