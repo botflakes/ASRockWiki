@@ -1038,6 +1038,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.30G|March 3rd, 2023|ASRock|[Download](https://drive.google.com/file/d/1-XRgm8EppthyzkdB_ROQrZJPzmEhGVc2/view?usp=sharing)
 4.20A|January 21st, 2023|ASRock|[Download](https://drive.google.com/file/d/1-AwnH65ZR9NCdyebAuc-7Dm53zq_VJhA/view?usp=sharing)
 
 ## **Socket 1151 Intel B365**
