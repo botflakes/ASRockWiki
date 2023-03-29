@@ -17,7 +17,7 @@ A Steam Award gives the creator of this site Steam points.
 ### [Gift a game from my wishlist](https://store.steampowered.com/wishlist/profiles/76561197996167801/#sort=order)
 While direct monetary donations are currently not accepted, game gifts are.
 
-### [Send a trade offer](https://steamcommunity.com/tradeoffer/new/?partner=35902073&token=i67X0R0x)
+### [Send a trade offer](https://steamcommunity.com/tradeoffer/new/?partner=35902073&token=x9PbeCzx)
 Item gifts are also appreciated.
 
 ### I want to help with Ideas
