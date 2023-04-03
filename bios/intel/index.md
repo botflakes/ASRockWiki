@@ -1047,6 +1047,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:-- 
+4.41|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-ZDWaj-6JnIfaID2laD6Kw8tPER5fWAK/view?usp=sharing)
 4.40A|Janury 24th, 2022|ASRock|[Download](https://drive.google.com/file/d/1DUj2mT20a2aRtMFifYkRZLpASu0p0pq0/view?usp=sharing)
 4.22|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1QtM9IoqJTE8lVIQcDnSLt0bCkH_9ypHk/view?usp=sharing)
 
@@ -1054,6 +1055,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:-- 
+4.41|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-eVIFTzqqVwKCCVqoEbTPdHRqJRw8e4l/view?usp=sharing)
 4.30E|January 24th, 2022|ASRock|[Download](https://drive.google.com/file/d/178HQhxRpj42-7xYh3DMqK9IdyuakmxoS/view?usp=sharing)
 4.23|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/19wlq6jJfnAEs8PfGTlUktT-cWStvbVre/view?usp=sharing)
 
@@ -1061,20 +1063,35 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:-- 
+4.51|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-iTukiQLfzkL7slLoXXT1LgqzzYZhhOY/view?usp=sharing)
 4.50B|November 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/17f1dPJ7gyd76RvyeiixKQqbwCCw3cviM/view?usp=sharing)
 
 ### **B365M Pro4-F**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:-- 
+1.31|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-l5Nd5obYxo4RWN69ePAFLjwRC0j0Ju4/view?usp=sharing)
 1.30E|January 24th, 2022|ASRock|[Download](https://drive.google.com/file/d/16pA_GUzEm8ojI4A380EUqiDaJy4GZR1X/view?usp=sharing)
 
 ### **B365M Phantom Gaming 4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.31|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-i-Y4cuebgsDH5PHbJZj7N4TNpBfOGlm/view?usp=sharing)
 4.30F|March 29th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-T6UzdH5bN5f5AztWv9lbT3bUDLUQ46W/view?usp=sharing)
 4.24|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1PyqqQD7gzlNkzIUFKELP0K6UmjOG_2Yq/view?usp=sharing)
+
+### **B365M-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.41|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-ncfhV41H8toWo0e0jAL5KUlyomqM7Re/view?usp=sharing)
+
+### **B365M-ITX/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.51|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-pvhEeVrwz2zJyLZR9pSozU0l3JhPohF/view?usp=sharing)
 
 ## **Socket 1151 Intel B360**
 
