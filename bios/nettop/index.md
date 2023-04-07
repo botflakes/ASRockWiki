@@ -23,6 +23,7 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.80E|April 7th, 2023|ASRock|[Download](https://drive.google.com/file/d/102KK0cpHUrrdTk8GhvARWCP1W5MNuIVH/view?usp=sharing)
 1.80D|March 28th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-Yz91bmqcRjvmsZAxEqd_jsg7ZvSomYM/view?usp=sharing)
 1.80C|March 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-XQMVMD6g00ErvM3pv5LSwFJ1T6aLHAm/view?usp=sharing)
 1.80A|November 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/18J_Ook5vAYtIkD0_KL8QMXEVCDBS_f-z/view?usp=sharing)
