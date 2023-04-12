@@ -19,9 +19,9 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ## Quick Navigation
 
-[X670E](#socket-am5-amd-x670e) - [B650E](#socket-am5-amd-b650e) - [B650](#socket-am5-amd-b650) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
+[X670](#socket-am5-amd-x670) - [B650](#socket-am5-amd-b650) - [A620](#socket-am5-amd-a620)- [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
 
-## **Socket AM5 AMD X670E**
+## **Socket AM5 AMD X670**
 
 ### **X670E Taichi**
 
@@ -90,7 +90,7 @@ Revision|Release|Source|Mirror 1
 1.08.AS02|September 28th, 2022|ASRock|[Download](https://drive.google.com/file/d/10MF4LhWswc8k2ebGy48a3dRn-iB3SBBY/view?usp=sharing)
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-w2XBv9DHccVkW9EK9Psmy9E8oWC1Kov/view?usp=sharing)
 
-## **Socket AM5 AMD B650E**
+## **Socket AM5 AMD B650**
 
 ### **B650E Taichi**
 
@@ -127,8 +127,6 @@ Revision|Release|Source|Mirror 1
 1.11.AS03|November 7th, 2022|ASRock|[Download](https://drive.google.com/file/d/17s1LmZIodktVSmv2iuSzppYejXmE1YxG/view?usp=sharing)
 1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/17Gn3fI4mp4d2rUKUncTIGHE46rfc95JP/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12L0ChtniWkj2_cgCVbcWWCRkgAqrA_r8/view?usp=sharing)
-
-## **Socket AM5 AMD B650**
 
 ### **B650 LiveMixer**
 
@@ -174,6 +172,32 @@ Revision|Release|Source|Mirror 1
 1.11.AS03|November 7th, 2022|ASRock|[Download](https://drive.google.com/file/d/187sBlcmEhVAMLQ31ZBCiX-6S0wTqUrUe/view?usp=sharing)
 1.11.AS01|November 2nd, 2022|ASRock|[Download](https://drive.google.com/file/d/17D3bVfqMqhXu5YsxTNpmBfVBtWFr3HyV/view?usp=sharing)
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12x5gF7v20YEo7mfw4rUl61dzxnp8F63x/view?usp=sharing)
+
+## **Socket AM5 AMD A620**
+
+### **A620M Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10eM7Jo1sPSBFZ8kyURx5BQT36fpBgys5/view?usp=sharing)
+
+### **A620 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10gLOxqL7oxGJHgqctmRKy5P0jXkLnklB/view?usp=sharing)
+
+### **A620M-HDV/M.2**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10hHaa-0swBc6umSEszorvq9R1w4e3qEc/view?usp=sharing)
+
+### **A620M-HDV/M.2+**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10gjrX_WAVqINcwmnlxFjPEnKyQPFrRrx/view?usp=sharing)
 
 ## **Socket AM4 AMD X570**
 
