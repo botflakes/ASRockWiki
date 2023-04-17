@@ -69,5 +69,6 @@ Something is missing? Feel free to contact us moderators via [modmail!](https://
 ### **Software**
 
 * [**OpenRGB**](https://openrgb.org) - Alternative RGB Software
+* [**DBGLED**](https://cdn.botflakes.de/subreddit/asrock/tools/DBGLED.zip) - Tool to disable the Debug Display on ASRock AM5 boards when booted
 
 More will be added soon! Don't hassle to message us if you have an idea what needs to be added!
