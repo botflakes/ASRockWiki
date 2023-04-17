@@ -1011,7 +1011,7 @@ Revision|Release|Source|Mirror 1
 7.30|July 11th. 2022|ASRock|[Download](https://drive.google.com/file/d/16iIvyV0RDKOFO6JdYeUDGDFvrE8FuaAE/view?usp=sharing)
 1.96|November 15th, 2019|JZ|[Download](https://drive.google.com/file/d/1xa_epcXUjhd6_02XuH7A3Jtoe9ZHP0Pe/view?usp=sharing)
 
-### *B450M-HDV**
+### **B450M-HDV**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
