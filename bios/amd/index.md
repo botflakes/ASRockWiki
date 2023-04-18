@@ -235,7 +235,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10gjrX_WAVqINcwmnlxFjPEnKyQPFrRrx/view?usp=sharing)
+1.19.AS07|April 17th, 2023|ASRock|[Download](https://drive.google.com/file/d/12ut1vWwugxAZoqdqwU7L0JCpnfs_Obpi/view?usp=sharing)
+1.19.AS05|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10gjrX_WAVqINcwmnlxFjPEnKyQPFrRrx/view?usp=sharing)
 
 ## **Socket AM4 AMD X570**
 
