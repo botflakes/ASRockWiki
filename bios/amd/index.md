@@ -148,7 +148,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.20.AS01|April 20th, 2023|ASRock|[Download]()
+1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13fRNmb11mEg5b1UWG8DUsOW6WzUu_A_P/view?usp=sharing)
 1.19.AS06|April 12th, 2023|ASRock|[Download](https://drive.google.com/file/d/11ynbgwbdfH6dfsi_SR2gdNj6FuFRyaCv/view?usp=sharing)
 1.18.AS04|Februray 15th, 2023|ASRock|[Download](https://drive.google.com/file/d/11G3jNBRR9N0gSuefpIjqRI8MNwfjXeB-/view?usp=sharing)
 1.14.AS07|December 21st, 2022|ASRock|[Download](https://drive.google.com/file/d/12nP2QztpJPl8iTpgGta_nPVMQkABwQEk/view?usp=sharing)
