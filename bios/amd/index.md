@@ -232,7 +232,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.20.AS01|April 20th, 2023|ASRock|[Download]()
+1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/148hHDBD4J8buBxa3_0cCWLAIybSo2raK/view?usp=sharing)
 1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10eM7Jo1sPSBFZ8kyURx5BQT36fpBgys5/view?usp=sharing)
 
 ### **A620 Pro RS**
