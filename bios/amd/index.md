@@ -246,7 +246,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.20.AS01|April 20th, 2023|ASRock|[Download]()
+1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/14CYmKLf0CHV8VYs_Fm5-meFWMwLTxIGf/view?usp=sharing)
 1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10hHaa-0swBc6umSEszorvq9R1w4e3qEc/view?usp=sharing)
 
 ### **A620M-HDV/M.2+**
