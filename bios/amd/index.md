@@ -122,6 +122,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14R6D-yzcoO5vW2Xf3KKe9UXKCfw2eJ33/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13DhvyDkHSHugYZGLTtTWbul2L26p56-Y/view?usp=sharing)
 1.18.AS13|April 12th, 2023|ASRock|[Download](https://drive.google.com/file/d/11bzoGoQ9ThhpEbN1W1DZ6ltC2TiLIoX9/view?usp=sharing)
 1.18.AS04|February 15th, 2023|ASRock|[Download](https://drive.google.com/file/d/10uiKMzdOC--o-a-l-xPhZk0cHi8QorSX/view?usp=sharing)
