@@ -25,6 +25,11 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 ### **X670E Taichi**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/12xhRyINgGOqdC_Xv0nVGK5xiEP3RLas4/view?usp=sharing)
@@ -46,6 +51,11 @@ Revision|Release|Source|Mirror 1
 
 ### **X670E Taichi Carrara**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13AgyZWJT9vpCWacQZrI4UckA8RiyAJaQ/view?usp=sharing)
@@ -63,6 +73,11 @@ Revision|Release|Source|Mirror 1
 
 ### **X670E PG Lightning**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13PerSCjGmt0t4raYTgtoH7hFT8oX0Jhj/view?usp=sharing)
@@ -78,6 +93,11 @@ Revision|Release|Source|Mirror 1
 
 ### **X670E Pro RS**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13KTeqpD_oN-VKh-j5vASPKtZVDsYO0Gh/view?usp=sharing)
@@ -92,6 +112,11 @@ Revision|Release|Source|Mirror 1
 1.08.AS01|September 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-PsPY8NwvGcs8XpmfO8cS9loxQrPj3LV/view?usp=sharing)
 
 ### **X670E Steel Legend**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -110,6 +135,11 @@ Revision|Release|Source|Mirror 1
 
 ### **B650E Taichi**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13X57Ty56I4UUjwlU92plQykV_a9zClfs/view?usp=sharing)
@@ -121,6 +151,11 @@ Revision|Release|Source|Mirror 1
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12fe_ERfx11EhVfa7XmbzeSg2HaSrrkCw/view?usp=sharing)
 
 ### **B650E Steel Legend WiFi**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -134,6 +169,11 @@ Revision|Release|Source|Mirror 1
 
 ### **B650E PG Riptide WiFi**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13estAz-DtYZ-jiFLq028F-jP9Kq0IVr3/view?usp=sharing)
@@ -145,6 +185,11 @@ Revision|Release|Source|Mirror 1
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12D-t_I6grpZVW3pej7OLSslBGy3rs1h6/view?usp=sharing)
 
 ### **B650E PG-ITX WiFi**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -158,6 +203,11 @@ Revision|Release|Source|Mirror 1
 
 ### **B650 LiveMixer**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13oK9zqIo41ZxiwXYJA3zbfRvY1jPvbKW/view?usp=sharing)
@@ -169,6 +219,11 @@ Revision|Release|Source|Mirror 1
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12itpDL2bQUx-8yGNBT7Q5fx4gJ8mBSeG/view?usp=sharing)
 
 ### **B650 Pro RS**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -182,6 +237,11 @@ Revision|Release|Source|Mirror 1
 
 ### **B650 PG Lightning**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13z959kA87YbBmDcp1mrcfvbJrcUNOE2t/view?usp=sharing)
@@ -193,6 +253,11 @@ Revision|Release|Source|Mirror 1
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12lXFBKoZ9khNUurTRJB8bCfePxIK0MaP/view?usp=sharing)
 
 ### **B650M PG Riptide WiFi**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -206,6 +271,11 @@ Revision|Release|Source|Mirror 1
 
 ### **B650M PG Riptide**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/142o6bUgWUdZ5IBffl3SBfCdSj5vNQ3mZ/view?usp=sharing)
@@ -217,6 +287,11 @@ Revision|Release|Source|Mirror 1
 1.09.AS01|October 13th, 2022|ASRock|[Download](https://drive.google.com/file/d/12x5gF7v20YEo7mfw4rUl61dzxnp8F63x/view?usp=sharing)
 
 ### **B650M-HDV/M.2**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -230,12 +305,22 @@ Revision|Release|Source|Mirror 1
 
 ### **A620M Pro RS WiFi**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/148hHDBD4J8buBxa3_0cCWLAIybSo2raK/view?usp=sharing)
 1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10eM7Jo1sPSBFZ8kyURx5BQT36fpBgys5/view?usp=sharing)
 
 ### **A620 Pro RS**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -244,12 +329,22 @@ Revision|Release|Source|Mirror 1
 
 ### **A620M-HDV/M.2**
 
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/14CYmKLf0CHV8VYs_Fm5-meFWMwLTxIGf/view?usp=sharing)
 1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10hHaa-0swBc6umSEszorvq9R1w4e3qEc/view?usp=sharing)
 
 ### **A620M-HDV/M.2+**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
