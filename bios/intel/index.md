@@ -1077,6 +1077,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.31A|May 5th, 2023|ASRock|[Download](https://drive.google.com/file/d/16fyPZr2ugwyy8DpNHc7p-aCmUeQAjK8T/view?usp=sharing)
 4.31|December 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-i-Y4cuebgsDH5PHbJZj7N4TNpBfOGlm/view?usp=sharing)
 4.30F|March 29th, 2022|ASRock|[Download](https://drive.google.com/file/d/1-T6UzdH5bN5f5AztWv9lbT3bUDLUQ46W/view?usp=sharing)
 4.24|January 13th, 2020|ASRock|[Download](https://drive.google.com/file/d/1PyqqQD7gzlNkzIUFKELP0K6UmjOG_2Yq/view?usp=sharing)
@@ -2714,6 +2715,13 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.17A|Jan. 29th, 2013|ASRock|[Download](https://drive.google.com/file/d/19w945pQiMxjnJiLWL4VqRtq37q5bGuBM/view?usp=sharing)
+
+### **H67M-ITX**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.40|July 18th, 2018|ASRock|[Download](https://drive.google.com/file/d/15vmO318KMyyvmWR-vm_lfJm85ZztcJlo/view?usp=sharing)
+2.20|June 26th, 2012|ASRock|[Download](https://drive.google.com/file/d/15v6VSAQwIh__A9USSe3cKKtVEkBGsm8C/view?usp=sharing)
 
 ## **Socket 1155 Intel P65**
 

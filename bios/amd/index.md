@@ -32,6 +32,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/15wkmYV0vdqaZWtmwclqfyG56ZApSZqPk/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14w4TnA9fHuKsj7NqBvvmT1LwlyjnL_oa/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14NmEcXCRtXpsM3tFpaK4STIgLioVUR3J/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/12xhRyINgGOqdC_Xv0nVGK5xiEP3RLas4/view?usp=sharing)
@@ -60,6 +61,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/15wt2Jy8iJmzrpkI9Zeeoum1YdzQz4OzQ/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14y9VIE5_D9bm1bFC9-ZDZF6UcIqOXuHZ/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14QhRixnj3fah2XoBdzg5N_MvfNaHb5HB/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13AgyZWJT9vpCWacQZrI4UckA8RiyAJaQ/view?usp=sharing)
@@ -84,6 +86,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/161GZrxAK7mdPW7VN__q6R7yC2nv0qUFZ/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14jYekxGda2bob_eeq3zn0wsoYDDHObMe/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13PerSCjGmt0t4raYTgtoH7hFT8oX0Jhj/view?usp=sharing)
 1.18.AS13|April 12th, 2023|ASRock|[Download](https://drive.google.com/file/d/11lN8nX536QkURD1aZ01wxNi7MXle6bAH/view?usp=sharing)
@@ -126,6 +129,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/168Z5U5_GEA8p5-7913sL76FgwIdjAvxW/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14vcCS7jHurIasr2fI0Vnvsurywc4IWUu/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14R6D-yzcoO5vW2Xf3KKe9UXKCfw2eJ33/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13DhvyDkHSHugYZGLTtTWbul2L26p56-Y/view?usp=sharing)
@@ -276,6 +280,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16LbvKW_g_PdHbrj_f5LZ8aAMDz9_v-40/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15VfwCuOnHDkOPlpk6wJXs2EA7SgQpmUp/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14hlSRWf8XmKV1Xf1vj1x8fEgEK3Fx4u2/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/14-Nh--4qQo728stvBKU0pXG1T64zNoCB/view?usp=sharing)
@@ -295,6 +300,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16AH5DFfV2NI0RBg4tWMpCDCpXL9AZeC8/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15VswnsvxVWt6ETrF2VBLZ4Vl1bBH5uqp/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14jBbtiVO0sX6db-TAqWWKwkIJQMgfOJq/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/142o6bUgWUdZ5IBffl3SBfCdSj5vNQ3mZ/view?usp=sharing)
@@ -314,6 +320,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16MbqyGHDzLX9OVDUzdzZGTgbCA2JZeV4/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15XeOYhPcoK-n9q6R2xHiXoXdMgoguTmA/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14frFtdqpPShTBrBNHkzzUXtFSO-IHAm5/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/14446MKzhvmv8DMP3g8SvY8RXLNT_1WUz/view?usp=sharing)
@@ -321,6 +328,17 @@ Revision|Release|Source|Mirror 1
 1.19.AS06|April 12th, 2023|ASRock|[Download](https://drive.google.com/file/d/12VggiC9HoZGRoeCMuvb1fqwr_cyOol8X/view?usp=sharing)
 1.19.AS04|March 17th, 2023|ASRock|[Download](https://drive.google.com/file/d/11RZvLe_0H5lJfofotUkXBteWjNSIifdc/view?usp=sharing)
 1.18.AS04|February 17th, 2023|ASRock|[Download](https://drive.google.com/file/d/11X-Q1B85ahiJFdEoyJLjEsIjIre62UfD/view?usp=sharing)
+
+### **B650M Pro RS WiFi**
+
+## <a style="color:red">Warning</a>
+BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
+We're not responsible for any damage that may happen to any of your components!  
+Using such a BIOS Version may damage your CPU and Motherboard!
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16FUv_6fWSjg9fGAUDm7L7kaql67HH7wA/view?usp=sharing)
 
 ## **Socket AM5 AMD A620**
 
@@ -1501,24 +1519,28 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.01|May 5th, 2023|ASRock|[Download](https://drive.google.com/file/d/16bxF8rVui4Hj-5GuF8TyznbAd9oe4x2w/view?usp=sharing)
 3.92|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/173vkK6qjYLqeFO0Pbc_zyHLBKGS13pZY/view?usp=sharing)
 
 ### **X399M Taichi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.01|May 5th, 2023|ASRock|[Download](https://drive.google.com/file/d/16cTI3jGeZZIqOPIxKVDkiSGRokU1xOR-/view?usp=sharing)
 3.81|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1gpJgYltYsZ_I2VSgLXWaArB4_XBJKucc/view?usp=sharing)
 
 ### **Fatal1ty X399 Professional Gaming**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
+:--|:--|:--:|:-
+4.01|May 5th, 2023|ASRock|[Download](https://drive.google.com/file/d/16Qlf-TGQbRZXAd73Hfld0gCRmm7gy9sQ/view?usp=sharing)
 1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mFvBEMF5i3Im5KhTAfraXOMWvazNIEp5/view?usp=sharing)
 
 ### **X399 Phantom Gaming 6**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.01|May 5th, 2023|ASRock|[Download](https://drive.google.com/file/d/16MoBSEPK436m5mArfh7o2TMwhlDDwBnO/view?usp=sharing)
 1.31|January 14th, 2021|ASRock|[Download](https://drive.google.com/file/d/1oTK3Mz7UblqoAM5_b1O7l6tFksSKgtil/view?usp=sharing)
 
 ## **Socket sTRX4 AMD TRX40**
