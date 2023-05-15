@@ -27,6 +27,12 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 01.82.00|January 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1E5_K43vVA3NIlu7hi0-02dve-oNVhj_9/view?usp=sharing)
 
+**X470D4U2/1N1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+0.11.00|Jauary 12th, 2023|ASRock|[Download](https://drive.google.com/file/d/18Aza06TBKuA12W-GJmxGGJN0qOFBOufw/view?usp=sharing)
+
 ### **Socket SP3**
 
 **ROMED8-2T**
