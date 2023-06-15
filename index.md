@@ -7,7 +7,8 @@ tagline: "An ASRock releated Wiki made by the ASRock Community for the ASRock Co
 permalink: /
 ---
 
-## Welcome to the new Wiki of the [r/ASRock](https://reddit.com/r/ASRock) Subreddit
+## Welcome to the Wiki of the [r/ASRock](https://reddit.com/r/ASRock) Subreddit
+***
 
 ## Information 
 This Wiki was made by the Moderators of the Subreddit and it's users!  
