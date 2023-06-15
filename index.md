@@ -8,19 +8,11 @@ permalink: /
 ---
 
 ## Welcome to the new Wiki of the [r/ASRock](https://reddit.com/r/ASRock) Subreddit
-***
-  
-This site is still in developement.  
-Layout and links are subject to change!
-
-***
 
 ## Information 
 This Wiki was made by the Moderators of the Subreddit and it's users!  
 It is (we think) the largest collection of Beta BIOSes for ASRock Motherboards on the Internet.  
 We also have a collection of Tools, Guides and a FAQ section.
-
-***
 
 ## Social Media & more!
 

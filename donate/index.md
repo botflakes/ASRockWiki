@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Donation & Support
-nav_order: 7
+nav_order: 8
 ---
 
 ## Helping r/ASRock and the ASRockWiki

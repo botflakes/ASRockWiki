@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wiki Changelog
+nav_order: 7
+---
+
 # Changelog
 All notable changes to the Wiki will be documented in the file from now on.
 Could've thought about it earlier but better late then never
