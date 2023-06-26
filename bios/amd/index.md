@@ -32,6 +32,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-eeWPmowedmoJkc_JlkCbCfZN86aWPKY/view?usp=sharing)
 1.25.AS02|June 9th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-92dvyAcr1JVPXnVEroApq_V0i8DmNG6/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/15wkmYV0vdqaZWtmwclqfyG56ZApSZqPk/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14w4TnA9fHuKsj7NqBvvmT1LwlyjnL_oa/view?usp=sharing)
@@ -62,6 +63,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-fqSqL1vFxS_ifREXSTD7pkAiqiGXBYw/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/15wt2Jy8iJmzrpkI9Zeeoum1YdzQz4OzQ/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14y9VIE5_D9bm1bFC9-ZDZF6UcIqOXuHZ/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14QhRixnj3fah2XoBdzg5N_MvfNaHb5HB/view?usp=sharing)
@@ -87,6 +89,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-tDZYPjZV9e4S2I6M-ISZ1ZgIL6g_Cwc/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/161GZrxAK7mdPW7VN__q6R7yC2nv0qUFZ/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14jYekxGda2bob_eeq3zn0wsoYDDHObMe/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13PerSCjGmt0t4raYTgtoH7hFT8oX0Jhj/view?usp=sharing)
@@ -109,6 +112,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-puawpB-rf8axDlfIy0FWDeWGUoqoEwB/view?usp=sharing)
 1.24.AS02|May, 10th, 2023|ASRock|[Download](https://drive.google.com/file/d/17dlvo3DLSgviKusnQIwLKZOIPa3pNTma/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14jtEkDG3s1ozBXUFyXQ0TsiS3HrkGhV_/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13KTeqpD_oN-VKh-j5vASPKtZVDsYO0Gh/view?usp=sharing)
@@ -131,6 +135,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-lcA2wT7Wksi-HpWfUDHXNsDvnrm8hLh/view?usp=sharing)
 1.25.AS01|June 1st, 2023|ASRock|[Download](https://drive.google.com/file/d/1-OUG3GaWfciUSwcn4OeZz2uqER5jN3aA/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/168Z5U5_GEA8p5-7913sL76FgwIdjAvxW/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14vcCS7jHurIasr2fI0Vnvsurywc4IWUu/view?usp=sharing)
@@ -157,6 +162,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/107xglYT86Zj1_9gZRwpKmrbqshXcOfMt/view?usp=sharing)
 1.24.AS02|May 11th, 2023|ASRock|[Download](https://drive.google.com/file/d/17y4ofmHrSNbSjNlKk4q5qDqBgoA163tl/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15P117fe8w9pAkfcLfkdMVYcIy57VQVYl/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13X57Ty56I4UUjwlU92plQykV_a9zClfs/view?usp=sharing)
@@ -176,6 +182,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10Ce7iZhishAfMvAHsOWbMkbK3bs1bT6L/view?usp=sharing)
 1.24.AS02|May 11th, 2023|ASRock|[Download](https://drive.google.com/file/d/17oUnhiRFKbgdTWJ9_wb2t9J3linqJtC8/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15NJ4vp3fR9fcAQveyf8R97pjr9JrkT23/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13bx7nXDm3kcIaSZot9001GB9PGpcbYGx/view?usp=sharing)
@@ -195,6 +202,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/105Z-UJcYwpvzLBBz19PHXjt9AfiFr3Nx/view?usp=sharing)
 1.24.AS02|May 11th, 2023|ASRock|[Download](https://drive.google.com/file/d/17jC7LuiDT7HZ2erWPJTrpfjtYvljCn1M/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15ERBoOGGnyplggNOjqNso4LeHMd3SsI_/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13estAz-DtYZ-jiFLq028F-jP9Kq0IVr3/view?usp=sharing)
@@ -233,6 +241,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-wPJpBO3MFxPwJCJaQpHYHjKHeHMlfhJ/view?usp=sharing)
 1.24.AS02|May 11th, 2023|ASRock|[Download](https://drive.google.com/file/d/17hyp1imWqcOtbA-YqcTcJZT6oP8huw-P/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/14ynegfyZ_YpnVCiJRdUiOUcfi1OMnObJ/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13oK9zqIo41ZxiwXYJA3zbfRvY1jPvbKW/view?usp=sharing)
@@ -252,6 +261,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10234MbgsR9yeMw7y87V9l80ME_f_oMsI/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/158U5SvpaoW4Py43XDiUsSZPdbQTYCLkI/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13ws3SyRxbPpiiaCHXchJEHM8SHkBwMDo/view?usp=sharing)
 1.18.AS13|April 12th, 2023|ASRock|[Download](https://drive.google.com/file/d/12GWYFoMUPJ58PZNUffvD0Ngqjn2tsv8K/view?usp=sharing)
@@ -270,6 +280,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-yN0JdK_cK5MIZmaYU--t9y1LNt3-LTx/view?usp=sharing)
 1.24.AS02|May, 10th, 2023|ASRock|[Download](https://drive.google.com/file/d/16kpdvoGRoIgmS3LDbRHXRtHE_CWj8_F-/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/152RLf0qgOntWcSslcGqAzmLVeysGSWdN/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/13z959kA87YbBmDcp1mrcfvbJrcUNOE2t/view?usp=sharing)
@@ -289,6 +300,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10FLECAGeremk_dbNFJrcD7WNhrnIzlIX/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16LbvKW_g_PdHbrj_f5LZ8aAMDz9_v-40/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15VfwCuOnHDkOPlpk6wJXs2EA7SgQpmUp/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14hlSRWf8XmKV1Xf1vj1x8fEgEK3Fx4u2/view?usp=sharing)
@@ -309,6 +321,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10IlPhuJ65plh43R0CjIIA5U6roGafUXC/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16AH5DFfV2NI0RBg4tWMpCDCpXL9AZeC8/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/15VswnsvxVWt6ETrF2VBLZ4Vl1bBH5uqp/view?usp=sharing)
 1.20|April 25th, 2023|ASRock|[Download](https://drive.google.com/file/d/14jBbtiVO0sX6db-TAqWWKwkIJQMgfOJq/view?usp=sharing)
@@ -347,6 +360,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10Nub9qI8zGhKP78kRtQcRpBiyDAs0iuI/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16rRR90VU-cbb7lfLxjk1E2FKcdMTarzE/view?usp=sharing)
 
 ### **B650M Pro RS WiFi**
@@ -358,6 +372,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10QxeVLXbo8FsFFVtof1iF1gawI4LO9zV/view?usp=sharing)
 1.24.AS02|May 4th, 2023|ASRock|[Download](https://drive.google.com/file/d/16FUv_6fWSjg9fGAUDm7L7kaql67HH7wA/view?usp=sharing)
 1.21|April 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/16nYP0Gcb0oXUuBWSD9c795htKNRl2phl/view?usp=sharing)
 
@@ -372,6 +387,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10U6wP6k-_euiDNWDOJfSHnhjNzeIRhOC/view?usp=sharing)
 1.24.AS02|May, 10th, 2023|ASRock|[Download](https://drive.google.com/file/d/171wyEqFqyN5BQoJkRI1MFGhCoYALIoZe/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/148hHDBD4J8buBxa3_0cCWLAIybSo2raK/view?usp=sharing)
 1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10eM7Jo1sPSBFZ8kyURx5BQT36fpBgys5/view?usp=sharing)
@@ -385,6 +401,7 @@ Using such a BIOS Version may damage your CPU and Motherboard!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26.AS01|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/10XcB-_x0GReHb1-N-fquzuYPD_6AFqKv/view?usp=sharing)
 1.24.AS02|May, 10th, 2023|ASRock|[Download](https://drive.google.com/file/d/17E5newbTXh4FjrWLyLxKC_Thc7StWIxW/view?usp=sharing)
 1.20.AS01|April 20th, 2023|ASRock|[Download](https://drive.google.com/file/d/149Ku9PISzvITOyYItwX_EfAED4hoDE8n/view?usp=sharing)
 1.19.AS01|March 31st, 2023|ASRock|[Download](https://drive.google.com/file/d/10gLOxqL7oxGJHgqctmRKy5P0jXkLnklB/view?usp=sharing)
@@ -482,6 +499,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+5.21|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1US4-DQ1AK0_w8GBGl7DiQ2WNnQn-vKJB/view?usp=sharing)
 3.90|October 21, 2022|ASRock|[Download](https://drive.google.com/file/d/13fDftZtpkp1lnmqtOv-hwJ8VZm9ddg9T/view?usp=sharing)
 3.72|July 11th. 2022|ASRock|[Download](https://drive.google.com/file/d/17D-7AR3ykzZwFyopA-NH_SJPX-Lgb8S8/view?usp=sharing)
 3.62|March 16th, 2022|ASRock|[Download](https://drive.google.com/file/d/1WKhP4SslXE4RlUhJVOud3Kr0uPr2Bwq8/view?usp=sharing)
@@ -642,6 +660,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+5.21|June 26th, 2023|ASRock|[Download](https://drive.google.com/file/d/1Es8Y0YGeJpUiyGdAeOYTCtj3krlxLMKN/view?usp=sharing)
 2.20|October 21, 2022|ASRock|[Download](https://drive.google.com/file/d/14FPS9_r8ZrXEwCnqL_3vLTwP3fIBHH-J/view?usp=sharing)
 1.51|May 27th, 2022|ASRock|[Download](https://drive.google.com/file/d/1LePvEtl6vEsrtNt6M0RhzujRDki4CIXg/view?usp=sharing)
 1.41|January 12th, 2022|ASRock|[Download](https://drive.google.com/file/d/1R19tsKogpWhJF9sxkP0p0plywDeuxhw2/view?usp=sharing)
