@@ -71,6 +71,14 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.11|April 28th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jer3VGzPD8UuR6Pig-WnnbfKFCIJqE1B/view?usp=sharing)
 
+## **Jupiter - AMD Based**
+
+### Jupiter X300
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.40|10/15/2021|ASRock|[Download](https://drive.google.com/file/d/12MNf8KuxzzMdpNHZGf0tGML2C_WBVXYu/view?usp=sharing)
+
 ## **4X4 BOX AMD Based**
 
 ### **4X4 BOX-4000U**

@@ -37,6 +37,7 @@ Could've thought about it earlier but better late then never
 - ➕ 8.01 - X470 Master SLI - Updates AGESA to 1.2.0.8
 - ➕ 8.01 - X470 Master SLI/ac - Updates AGESA to 1.2.0.8
 - ➕ 8.01 - X470 Taichi Ulitmate - Updates AGESA to 1.2.0.8
+- ➕ 1.40 - Jupiter X300 - Adds support for Ryzen 5 Pro 4655G
 
 ### TRX40
 
