@@ -8,6 +8,15 @@ nav_order: 7
 All notable changes to the Wiki will be documented on this site from now on.
 Could've thought about it earlier but better late then never
 
+## [06/29/2023]
+
+### AM4
+
+- ➕ 8.01 - B450M/ac - Updates AGESA to 1.2.0.8
+- ➕ 8.01 - B450M Pro4-F - Updates AGESA to 1.2.0.8
+- ➕ 8.01 - B450M Pro4 - Updates AGESA to 1.2.0.8
+- ➕ 8.01 - B450M-HDV - Updates AGESA to 1.2.0.8
+
 ## [06/28/2023]
 
 ### AM5
