@@ -2,6 +2,29 @@
 All notable changes to the Wiki will be documented in this file from now on.
 Could've thought about it earlier but better late then never
 
+## [07/03/2023]
+
+### AM4
+
+- ➕ 2.90 - A520M-ITX/ac - Updates AGESA to 1.2.0.A
+- ➕ 10.01 - X470 Gaming-ITX/ac - Updates AGESA to 1.2.0.A
+
+### Socket 1151
+
+- ➕ 4.30G - Z390 Phantom Gaming 6 - [No Changelog Available]
+- ➕ 1.30C - Z390 Phantom Gaming 7 - [No Changelog Available]
+
+### Socket 1700
+
+- ➕ 14.06 - Z690 AQUA
+    1. Support for next-generation processors.
+    2. Update Intel Microcode, ME and GOP.
+    3. Optimize processor settings.
+    4. Improve CPU performance.
+    5. Support 48/24GB high density DDR5 memory module.
+    6. Optimized GPU performance for GeForce RTX 40 series.
+- ➕ 10.03 - B660 Steel Legend - [No Changelog Available]
+
 ## [06/29/2023]
 
 ### AM4

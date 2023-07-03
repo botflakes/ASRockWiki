@@ -386,7 +386,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-7.01||March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1N7wry3wbJo-xZKbzzu44oc40K36czgIQ/view?usp=sharing)
+14.06|July 3rd, 2023|ASRock|[Download](https://drive.google.com/file/d/132yw1IqFd_LKredj_1_nRrQVm0FCZAZ-/view?usp=sharing)
+7.01|March 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1N7wry3wbJo-xZKbzzu44oc40K36czgIQ/view?usp=sharing)
 5.01|February 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1kJDiWvP2Xy7HCJDmkh_IXpWozMaBzpwW/view?usp=sharing)
 
 ### **Z690 AQUA OC**
@@ -429,6 +430,12 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.02|June 15th, 2022|ASRock|[Download](https://drive.google.com/file/d/16A14jiQdOFz1nhd_aAGNPtuAH-KYxl0R/view?usp=sharing)
+
+### **B660 Steel Legend**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+10.03|July 3rd, 2023|ASRock|[Download](https://drive.google.com/file/d/131Dat4dOUKJe8IXpa5q5c0LE4iLj5VxK/view?usp=sharing)
 
 ## **Socket 1700 Intel H610**
 
@@ -820,6 +827,7 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 4.34|April 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1ybibtuHG-_ybRHG9lo5R2ZmcWU1H-GlC/view?usp=sharing)
+4.30G|February 23rd, 2023|ASRock|[Download](https://drive.google.com/file/d/134opwTGxllx6Xo9MFvrP-wPzW0GGzqfd/view?usp=sharing)
 4.30E|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1sxU5c4ZabW56uDZ5eEsFh3wXNf-LQ8PH/view?usp=sharing)
 4.30D|February 2nd, 2021|ASRock|[Download](https://drive.google.com/file/d/15zHX5kv0wHVgYM32mMNAbKt-c0oeCTED/view?usp=sharing)
 4.20M|November 22nd, 2019|ASRock|[Download](https://drive.google.com/file/d/1S6xRbyt-pk8oXuFKsIJA869kknMIdn4c/view?usp=sharing)
@@ -830,6 +838,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.30C|January 1st, 2023|ASRock|[Download](https://drive.google.com/file/d/13CGLRoNE5PbLl2TJbLPzwJMB7eUN9eUD/view?usp=sharing)
 1.30B|April 1st, 2021|ASRock|[Download](https://drive.google.com/file/d/1t0JgKQlDCvh7gc4rPmyKgN1B3FaCh7e6/view?usp=sharing)
 1.30A|February 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1iUV3jn9l5yGavRbaDKrC3aM8Aub9aqHk/view?usp=sharing)
 1.20B|November 22nd, 2019|ASRock|[Download](https://drive.google.com/file/d/1LKqIlrrcfCfgzVKItU_JUG_ruD9YZ3it/view?usp=sharing)
