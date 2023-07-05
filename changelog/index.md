@@ -8,6 +8,16 @@ nav_order: 7
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [07/05/2023]
+
+### AM4
+
+- ➕ 10.01 - X470 Taichi - Updates AGESA to 1.2.0.A
+- ➕ 10.01 - X470 Taichi Ultimate - Updates AGESA to 1.2.0.A
+- ➕ 10.01 - X470 Master SLI - Updates AGESA to 1.2.0.A
+- ➕ 10.01 - X470 Master SLI/ac - Updates AGESA to 1.2.0.A
+- ➕ 5.22 - X570 AQUA - Updates AGESA to 1.2.0.A
+
 ## [07/03/2023]
 
 ### AM4
