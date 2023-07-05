@@ -12,6 +12,11 @@ Could've thought about it earlier but better late then never
 - ➕ 10.01 - X470 Master SLI/ac - Updates AGESA to 1.2.0.A
 - ➕ 5.22 - X570 AQUA - Updates AGESA to 1.2.0.A
 
+### AM4 - ASRock Rack
+
+- ➕ 4.24 - X470D4U - [No Changelog Available]
+- ➕ 4.26 - X470D4U - [No Changelog Available]
+
 ## [07/03/2023]
 
 ### AM4
