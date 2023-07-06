@@ -12,6 +12,7 @@ Could've thought about it earlier but better late then never
 
 - ➕ - Docs Folder which contains technical notes etc
 - 🗑️ - Removed some unnecessary stuff
+- ✅ - standardized date format
 
 ## [07/05/2023]
 

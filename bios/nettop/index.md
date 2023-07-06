@@ -6,7 +6,7 @@ nav_order: 3
 ---
 ## BIOS Collection - Mini PCs
 
-***
+***De
 
 ## Notice
 You have a BIOS which isn't listed here? Let us know in a <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>  
@@ -23,40 +23,40 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.80F|May 11th, 2023|ASRock|[Download](https://drive.google.com/file/d/17gf7PHv691PRixbciD3Mf1KNBJiwkm8O/view?usp=sharing)
-1.80E|April 7th, 2023|ASRock|[Download](https://drive.google.com/file/d/102KK0cpHUrrdTk8GhvARWCP1W5MNuIVH/view?usp=sharing)
-1.80D|March 28th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-Yz91bmqcRjvmsZAxEqd_jsg7ZvSomYM/view?usp=sharing)
-1.80C|March 27th, 2023|ASRock|[Download](https://drive.google.com/file/d/1-XQMVMD6g00ErvM3pv5LSwFJ1T6aLHAm/view?usp=sharing)
-1.80A|November 9th, 2022|ASRock|[Download](https://drive.google.com/file/d/18J_Ook5vAYtIkD0_KL8QMXEVCDBS_f-z/view?usp=sharing)
-1.79|July, 5th 2022|ASRock|[Download](https://drive.google.com/file/d/16QjBxxZftAtvDgRZltKaZqoUQfPTONai/view?usp=sharing)
-1.77|May 3rd, 2022|ASRock|[Download](https://drive.google.com/file/d/1MHPrIaG9lARPAD1Bgsr8zEUYZYFoB3GH/view?usp=sharing)
-1.72|October 8th, 2021|ASRock|[Download](https://drive.google.com/file/d/1M5ZrIHDw1o4m_X2FGJoah1rIVmWqC05r/view?usp=sharing)
-1.70B|August 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1TcClu7PVu9SUe2_ZXvrx7r7iBSqlyRu3/view?usp=sharing)
-1.58|March 26th, 2021|ASRock|[Download](https://drive.google.com/file/d/1mIfZlW7Tm808C1UxX0vz543LUpMscQfB/view?usp=sharing)
-1.46G|January 12th, 2021|ASRock|[Download](https://drive.google.com/file/d/1eFmQtv1DoazaYMk1GRR0SYBEU3EW10HQ/view?usp=sharing)
-1.46E|January 5th, 2021|ASRock|[Download](https://drive.google.com/file/d/1nXuh4wK1JTVosSFiJG8xZq9H-st02RcA/view?usp=sharing)
-1.46|October 27th, 2020|JZ|[Download](https://drive.google.com/file/d/1wPcvbiF2YEvAbaFBT01umvVjSy19H_Bg/view?usp=sharing)
+1.80F|05/11/2023|ASRock|[Download](https://drive.google.com/file/d/17gf7PHv691PRixbciD3Mf1KNBJiwkm8O/view?usp=sharing)
+1.80E|04/07/2023|ASRock|[Download](https://drive.google.com/file/d/102KK0cpHUrrdTk8GhvARWCP1W5MNuIVH/view?usp=sharing)
+1.80D|03/28/2023|ASRock|[Download](https://drive.google.com/file/d/1-Yz91bmqcRjvmsZAxEqd_jsg7ZvSomYM/view?usp=sharing)
+1.80C|03/27/2023|ASRock|[Download](https://drive.google.com/file/d/1-XQMVMD6g00ErvM3pv5LSwFJ1T6aLHAm/view?usp=sharing)
+1.80A|11/09/2022|ASRock|[Download](https://drive.google.com/file/d/18J_Ook5vAYtIkD0_KL8QMXEVCDBS_f-z/view?usp=sharing)
+1.79|06/05/022|ASRock|[Download](https://drive.google.com/file/d/16QjBxxZftAtvDgRZltKaZqoUQfPTONai/view?usp=sharing)
+1.77|05/03/2022|ASRock|[Download](https://drive.google.com/file/d/1MHPrIaG9lARPAD1Bgsr8zEUYZYFoB3GH/view?usp=sharing)
+1.72|10/08/2021|ASRock|[Download](https://drive.google.com/file/d/1M5ZrIHDw1o4m_X2FGJoah1rIVmWqC05r/view?usp=sharing)
+1.70B|08/30/2021|ASRock|[Download](https://drive.google.com/file/d/1TcClu7PVu9SUe2_ZXvrx7r7iBSqlyRu3/view?usp=sharing)
+1.58|03/26/2021|ASRock|[Download](https://drive.google.com/file/d/1mIfZlW7Tm808C1UxX0vz543LUpMscQfB/view?usp=sharing)
+1.46G|01/12/2021|ASRock|[Download](https://drive.google.com/file/d/1eFmQtv1DoazaYMk1GRR0SYBEU3EW10HQ/view?usp=sharing)
+1.46E|01/05/2021|ASRock|[Download](https://drive.google.com/file/d/1nXuh4wK1JTVosSFiJG8xZq9H-st02RcA/view?usp=sharing)
+1.46|10/27/2020|JZ|[Download](https://drive.google.com/file/d/1wPcvbiF2YEvAbaFBT01umvVjSy19H_Bg/view?usp=sharing)
 
 ### **DeskMeet X300**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.32|July 22nd, 2022|ASRock|[Download](https://drive.google.com/file/d/1-0kTpjEYps_UbFcV04kiDrgd-vQ6gfK2/view?usp=sharing)
+1.32|07/22/2022|ASRock|[Download](https://drive.google.com/file/d/1-0kTpjEYps_UbFcV04kiDrgd-vQ6gfK2/view?usp=sharing)
 
 ### **DeskMini A300**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.71A|July 7th, 2022|ASRock|[Download](https://drive.google.com/file/d/11XfQ7ZpIimZ65yXhmRtXCiu58f6JARt_/view?usp=sharing)
-3.70B|March 29th, 2021|ASRock|[Download](https://drive.google.com/file/d/1-KZaOi7p-HRQrJXmEC0r4oGGG0kRAtsz/view?usp=sharing)
-3.63**|August 24th, 2020|ASRock|[Download](https://drive.google.com/file/d/1u-o0iPc1isO7L7Na-0qjAad7O0oxvNN_/view?usp=sharing)
-3.60U*|September 2nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1gXsieXivS5ZcD1jXWA9OzBF73mpZtp4W/view?usp=sharing)
-3.60S*|September 1st, 2020|JZ|[Download](https://drive.google.com/file/d/1JCPdLWH9ztrcAHMj47e2gVwzr0brrJIJ/view?usp=sharing)
-3.60R*|August 14th, 2020|JZ|[Download](https://drive.google.com/file/d/1kPVqnIFTBa4lBtw-735KYDLj52_-NR4S/view?usp=sharing)
-3.60N*|July 29th, 2020|JZ|[Download](https://drive.google.com/file/d/16O0_w0YZrkckw0IFxdcJ4uQm-gh3Wgsj/view?usp=sharing)
-3.60L*|July 24th, 2020|JZ|[Download](https://drive.google.com/file/d/1ORFJm5TEydCK0CEkCFBmczKYbk8LHexr/view?usp=sharing)
-3.60K|July 22nd, 2020|ASRock|[Download](https://drive.google.com/file/d/1sdOxp10KtBnguoKSvqpb3p-cdY1gAAvl/view?usp=sharing)
-3.60H|June 12th, 2020|ASRock|[Download](https://drive.google.com/file/d/1qZ7miy1JYVCyKgk3QlmEx2HApvoqMQ_n/view?usp=sharing)
+3.71A|07/07/2022|ASRock|[Download](https://drive.google.com/file/d/11XfQ7ZpIimZ65yXhmRtXCiu58f6JARt_/view?usp=sharing)
+3.70B|03/29/2021|ASRock|[Download](https://drive.google.com/file/d/1-KZaOi7p-HRQrJXmEC0r4oGGG0kRAtsz/view?usp=sharing)
+3.63**|08/24/2020|ASRock|[Download](https://drive.google.com/file/d/1u-o0iPc1isO7L7Na-0qjAad7O0oxvNN_/view?usp=sharing)
+3.60U*|09/02/2020|ASRock|[Download](https://drive.google.com/file/d/1gXsieXivS5ZcD1jXWA9OzBF73mpZtp4W/view?usp=sharing)
+3.60S*|09/01/2020|JZ|[Download](https://drive.google.com/file/d/1JCPdLWH9ztrcAHMj47e2gVwzr0brrJIJ/view?usp=sharing)
+3.60R*|08/14/2020|JZ|[Download](https://drive.google.com/file/d/1kPVqnIFTBa4lBtw-735KYDLj52_-NR4S/view?usp=sharing)
+3.60N*|07/29/2020|JZ|[Download](https://drive.google.com/file/d/16O0_w0YZrkckw0IFxdcJ4uQm-gh3Wgsj/view?usp=sharing)
+3.60L*|07/24/2020|JZ|[Download](https://drive.google.com/file/d/1ORFJm5TEydCK0CEkCFBmczKYbk8LHexr/view?usp=sharing)
+3.60K|07/22/2020|ASRock|[Download](https://drive.google.com/file/d/1sdOxp10KtBnguoKSvqpb3p-cdY1gAAvl/view?usp=sharing)
+3.60H|06/12/2020|ASRock|[Download](https://drive.google.com/file/d/1qZ7miy1JYVCyKgk3QlmEx2HApvoqMQ_n/view?usp=sharing)
 
 <p>
     ⚠️ *    = This BIOS does not support Bristol Ridge APUs. Please DO NOT update the BIOS when using Bristol Ridge APU<br>
@@ -69,7 +69,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.11|April 28th, 2021|ASRock|[Download](https://drive.google.com/file/d/1jer3VGzPD8UuR6Pig-WnnbfKFCIJqE1B/view?usp=sharing)
+2.11|04/28/2021|ASRock|[Download](https://drive.google.com/file/d/1jer3VGzPD8UuR6Pig-WnnbfKFCIJqE1B/view?usp=sharing)
 
 ## **Jupiter - AMD Based**
 
@@ -85,4 +85,4 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.30K|March 30th, 2021|ASRock|[Download](https://drive.google.com/file/d/1MkWamEdbhKZMB-LAygC4I6WazMnlDmqS/view?usp=sharing)
+1.30K|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1MkWamEdbhKZMB-LAygC4I6WazMnlDmqS/view?usp=sharing)
