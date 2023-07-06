@@ -8,6 +8,11 @@ nav_order: 7
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [07/06/2023]
+
+- ➕ - Docs Folder which contains technical notes etc
+- 🗑️ - Removed some unnecessary stuff
+
 ## [07/05/2023]
 
 ### AM4
