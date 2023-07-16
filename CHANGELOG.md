@@ -14,8 +14,10 @@ Could've thought about it earlier but better late then never
 
 ### Intel Socket 1700
 
-- ➕ - 15.02 - Z690 Steel Legend - Improve HDMI cable compatibility
-- ➕ - 15.02 - Z690 Steel Legend WiFi 6E - Improve HDMI cable compatibility
+- ➕ - 15.02 - Z690 Steel Legend
+- ➕ - 15.02 - Z690 Steel Legend WiFi 6E
+        1. Update Intel Microcode.
+        2. Improve memory compatibility.
 
 ## [07/06/2023]
 
