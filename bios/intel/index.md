@@ -417,6 +417,18 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 8.02|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1xNwdltjS0RK0p3ZVNhetEzp-NdNeDNR-/view?usp=sharing)
 
+### **Z690 Steel Legend**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+15.02|07/11/2023|ASRock|[Download](https://drive.google.com/file/d/13voV9PNOBYurHuSmw_LARk5Vf75zqJ65/view?usp=sharing)
+
+### **Z690 Steel Legend WiFi 6E**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+15.02|07/11/2023|ASRock|[Download](https://drive.google.com/file/d/142oKfX-yNJa3A-yMKOu1nnUfIF-cVDkC/view?usp=sharing)
+
 ## **Socket 1700 Intel B660**
 
 ### **B660 Pro RS**

@@ -839,6 +839,7 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.63|07/13/2023|ASRock|[Download](https://drive.google.com/file/d/1-Zqr2DBVKqsYTAfD2R4bOghgN8t39KMC/view?usp=sharing)
+2.62|02/22/2023|ASRock|[Download](https://drive.google.com/file/d/13d7JAaURcBvmR67chnOjp_jriQpDJo0T/view?usp=sharing)
 2.40|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/15GIFN7Bh-9wXZoOc0UdZwh00XivoWyQP/view?usp=sharing)
 2.31|06/13/2022|ASRock|[Download](https://drive.google.com/file/d/10FiDTEJxmMUXobPPFTjEffYRFsQObu4c/view?usp=sharing)
 2.23|01/17/2022|ASRock|[Download](https://drive.google.com/file/d/1gsuo7gxld34H3rpxX_FSAk0gY0Y54Xl6/view?usp=sharing)
@@ -1653,6 +1654,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+6.09.TS01|06/02/2023|ASRock|[Download](https://drive.google.com/file/d/13jH9Kyh31mUUgywe9vNbDSkfe-qf2XGy/view?usp=sharing)
 6.06.TS01|11/22/2022|ASRock|[Download](https://drive.google.com/file/d/11DrtZXpgsgbQC2T7RwlocYQWGsust9ef/view?usp=sharing)
 
 ## **Socket AM3+ AMD 990FX**
