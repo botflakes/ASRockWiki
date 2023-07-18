@@ -26,7 +26,6 @@ Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6
 ### **X670E Taichi**
 
 ## <a style="color:red">Warning</a>
-{: .warning }
 > BIOSes prior of <b>1.20</b> do <b>NOT</b> contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
 > We're not responsible for any damage that 05/happen to any of your components!  
 > Using such a BIOS Version 05/damage your CPU and Motherboard!
