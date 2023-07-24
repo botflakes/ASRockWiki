@@ -4,7 +4,7 @@ title: Wiki Changelog
 nav_order: 7
 ---
 
-{. :highlight-title}
+{. :highlight-title }
 > Note
 >
 > All notable changes to the Wiki will be documented in this file from now on.  
