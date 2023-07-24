@@ -4,9 +4,15 @@ title: Wiki Changelog
 nav_order: 7
 ---
 
-# Changelog
-All notable changes to the Wiki will be documented in this file from now on.  
-Could've thought about it earlier but better late then never
+{. :highlight-title}
+> Note
+>
+> All notable changes to the Wiki will be documented in this file from now on.  
+> Could've thought about it earlier but better late then never
+
+## [07/24/2023]
+
+- ✅ - Major redesign
 
 ## [07/17/2023]
 
