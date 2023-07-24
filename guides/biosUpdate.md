@@ -49,8 +49,8 @@ As for an ASRock motherboard you only need the following:
 - A USB drive formatted in FAT32 with a size of, at least, 32MB
 
 The BIOS file can be downloaded on the specific support page of your board [[OVERVIEW]](https://www.asrock.com/mb/index.asp#AllProduct) under "Support > BIOS".
-Its packed into a .zip container and needs to be unzipped or extracted onto the USB drive. There's mostly only one file in the .zip [[EXAMPLE]](/ASRockWiki/assets/img/includes/wiki/bios_example_1.png).
-Just drag and drop this file in the root directory of your USB drive like so [[EXAMPLE]](/ASRockWiki/assets/img/includes/wiki/bios_example_2.png). It can also be in a directory.
+Its packed into a .zip container and needs to be unzipped or extracted onto the USB drive. There's mostly only one file in the .zip [[EXAMPLE]](/asrockwiki/assets/images/wiki/bios_example_1.png).
+Just drag and drop this file in the root directory of your USB drive like so [[EXAMPLE]](/asrockwiki/assets/images/wiki/bios_example_2.png). It can also be in a directory.
 Now all you need is to restart the PC and spam DEL while the PC is rebooting. This will get you into the BIOS and from there you are able to update the BIOS by using the "InstantFlash" option.
 A window will pop up where you can select the BIOS file you downloaded and placed on the USB drive. The BIOS will ask you if you are sure to update the BIOS. 
 Click yes and wait a bit till it says that the BIOS Update was successful. Click ok and the PC should restart on its own.

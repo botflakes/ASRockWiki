@@ -1,3 +1,4 @@
+// custom SCSS (or CSS) goes here
 //scrollbar - DO NOT TOUCH
 
 body::-webkit-scrollbar {
@@ -9,15 +10,3 @@ body::-webkit-scrollbar-thumb {
     background-color: #85c226;
     border-radius: 5px;
 };
-
-@media (min-width: 50rem)
-{.side-bar {
-    width: 264px;
-}}
-
-@media (min-width: 50rem)
-{.main {
-    position: relative;
-    max-width: 100%;
-    margin-left: 264px;
-}}

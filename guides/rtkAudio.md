@@ -21,7 +21,7 @@ To do this you can use Revo Uninstaller [\[Download\]](https://www.revouninstall
 * After you downloaded it, unzip it and start it. If you can find any Realtek Audio Driver, uninstall it. If not, nice you can proceed with step 4.
 * If you uninstalled the Realtek Audio Driver, **reboot your system!**
 * So let’s start with installing the Unofficial Generic Driver Package from pal1000. [\[Download\]](https://github.com/pal1000/Realtek-UAD-generic/releases) the driver package and unzip it. After that, go into the unzipped folder. There should be a folder named like “Realtek-UAD-generic”
-* In this folder there is a file called “setup.cmd” - Make a right click on it and start it as administrator. You should now see a command line window like this: [\[EXAMPLE\]](https://i.botflakes.de/vKahCH.png)
+* In this folder there is a file called “setup.cmd” - Make a right click on it and start it as administrator
 * It will ask you now if you want to manage updates, codecs etc all by yourself. We press “n” and hit enter
 * Now it checks if any audio driver is currently running and if so stops it and deletes it.
 * It will ask you then if you want to install it. To confirm this, press “y” and hit enter.
@@ -46,7 +46,7 @@ No problem, start the setup again, press a key to continue, press "n" and "enter
 
 If you are having that issue, do the following
 
-![image](../../../assets/images/wiki/rtkAudio.png)
+![image](../../assets/images/wiki/rtkAudio.png)
 
 Trying to **Unblock** it causes errors like:
 

@@ -6,14 +6,18 @@ nav_order: 3
 ---
 ## BIOS Collection - Mini PCs
 
-***De
+***
 
-## Notice
-You have a BIOS which isn't listed here? Let us know in a <a style="color:#79bd28" href="https://www.reddit.com/message/compose?to=%2Fr%2FASRock" target="_blank">modmail!</a>  
-Dead link? Report it <a style="color:#79bd28" href="https://forms.gle/ApqAN72vS6sxzFnm7" target="_blank">here</a>  
+{: .highlight-title }
+> Note
+>
+> You have a BIOS which isn't listed here? Let us know in a [modmail](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)  
+> Please report any dead links here [here](https://forms.gle/ApqAN72vS6sxzFnm7) 
 
-## Warning
-<p style="color:#840000;text-align:center">We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!</p>
+***
+
+{: .warning }
+> We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!
 
 ***
 
@@ -58,10 +62,14 @@ Revision|Release|Source|Mirror 1
 3.60K|07/22/2020|ASRock|[Download](https://drive.google.com/file/d/1sdOxp10KtBnguoKSvqpb3p-cdY1gAAvl/view?usp=sharing)
 3.60H|06/12/2020|ASRock|[Download](https://drive.google.com/file/d/1qZ7miy1JYVCyKgk3QlmEx2HApvoqMQ_n/view?usp=sharing)
 
-<p>
-    ⚠️ *    = This BIOS does not support Bristol Ridge APUs. Please DO NOT update the BIOS when using Bristol Ridge APU<br>
-    ⚠️ **   = Doesn't support Renoir. We strongly recommend 3.60S
-</p>
+{: .highlight-title}
+> Caution
+>
+> ⚠️ *  
+> This BIOS does not support Bristol Ridge APUs   
+> Please DO NOT update the BIOS when using Bristol Ridge APU  
+> ⚠️ **  
+> Doesn't support Renoir. We strongly recommend 3.60S
 
 ## **DeskMini Intel Based**
 
