@@ -16,7 +16,7 @@
 title: ASRock Wiki
 description: "This is the r/ASRock Wiki - Here you will find a bunch of Guides and Tools. Including an FAQ, a Beta BIOS database and more!"
 tagline: "An ASRock releated Wiki made by the ASRock Community for the ASRock Community"
-baseurl: "/asrockwikidev" # the subpath of your site, e.g. /blog
+baseurl: "/asrockwiki" # the subpath of your site, e.g. /blog
 url: "https://botflakes.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
