@@ -65,8 +65,8 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 * [**ASRock BIOS Updates**](https://www.asrock.com/support/index.asp?cat=BIOS) - Latest BIOS & Beta BIOS. Sorted by time.
 * [**ASRock Driver Updates**](https://www.asrock.com/support/index.asp?cat=Drivers) - Latest Drivers updates. Sorted by time.
 * [**ASRock Utilities Updates**](https://www.asrock.com/support/index.asp?cat=Utilities) - Latest Utilities updates. Sorted by time.
-* [**ASRock B550AM (CyberPower)**](http://www.cyberpowerinc.com/drivers/?dir=Motherboards/MB-478-101%20B550AM%20GAMING/) - Link to the Support-Page
-* [**Motherboard Comparison Sheet**](https://docs.google.com/spreadsheets/d/1wmsTYK9Z3-jUX5LGRoFnsZYZiW1pfiDZnKCjaXyzd1o/edit#gid=2112472504) - Motherboard comparison sheet (AM4)
+* [**iBUYPOWER Support Page**](https://www.ibuypower.com/support/driver-downloads) - iBUYPOWER Support Page for Prebuilds
+* [**CyberPower Support Page**](http://www.cyberpowerinc.com/drivers/?dir=Motherboards/MB-478-101%20B550AM%20GAMING/) - CyberPower Support Page for Prebuilds
 
 ### **Drivers**
 
