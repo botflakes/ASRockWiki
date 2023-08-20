@@ -183,7 +183,7 @@ Revision|Release|Source|Mirror 1
 1.11.AS01|11/02/2022|ASRock|[Download](https://drive.google.com/file/d/17NHEJMIqrQP9P--2V9EiXepxT9x3nQPP/view?usp=sharing)
 1.09.AS01|10/13/2022|ASRock|[Download](https://drive.google.com/file/d/12fe_ERfx11EhVfa7XmbzeSg2HaSrrkCw/view?usp=sharing)
 
-### **B650E Taichi Lite***
+### **B650E Taichi Lite**
 
 {: .warning }
 > BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
@@ -993,7 +993,7 @@ Revision|Release|Source|Mirror 1
 2.03|01/17/2022|ASRock|[Download](https://drive.google.com/file/d/1G-ys7nnYcbHwZ1IVsHaMKjNZ-529RFSJ/view?usp=sharing)
 1.82|08/05/2021|ASRock|[Download](https://drive.google.com/file/d/1o-aOi-6WjmWE3JBbHkQseDdYJ2pHd96d/view?usp=sharing)
 
-### **A520M-HDV/DASH***
+### **A520M-HDV/DASH**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
