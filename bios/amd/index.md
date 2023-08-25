@@ -1409,6 +1409,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+10.02|10/08/2023|ASRock|<a href="https://drive.google.com/file/d/15QC0SC-a5mBdyrgdZ7cbLQuYFr-QBNP7/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 10.01|04/18/2023|ASRock|<a href="https://drive.google.com/file/d/1-8d-frVhoe7v4jeJo1BVXMMlfj5U_JKP/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.10|06/01/2022|ASRock|<a href="https://drive.google.com/file/d/1-qZHx0dGqv4J7auFrv7eMP1C1QmEI054/view?usp=sharing" onclick="alert('Flash 7.00 (Bridge) before flashing this BIOS')">Download</a>
 7.06|02/22/2022|ASRock|<a href="https://drive.google.com/file/d/1sxCsYGTyxUy0u_5pC7jsdJmcP0Jq-zSN/view?usp=sharing" onclick="alert('Do not flash if BIOS 6.61 or 6.62 is flashed & a Vermeer or Renoir based CPU is currently installed!\nThis BIOS needs to be flashed with a Pinnacle/Raven/Summit or Bristol Ridge CPU!\nFlash 7.00 (Bridge) before flashing this BIOS')">Download</a>
