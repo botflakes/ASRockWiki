@@ -1111,8 +1111,8 @@ Revision|Release|Source|Mirror 1
 ### **X470 Taichi Ultimate**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--  
-10.01|07/04/2023|ASRock|[Download](https://drive.google.com/file/d/13IO0EwPYEEPWul__KvWBnJcKaRP-4uT7/view?usp=sharing)
+:--|:--|:--:|:--   
+10.01|07/04/2023|ASRock|<a href="https://drive.google.com/file/d/13IO0EwPYEEPWul__KvWBnJcKaRP-4uT7/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS can cause the board to brick\nASRock is currently investigating')">Download</a> 
 8.01|06/27/2023|ASRock|[Download](https://drive.google.com/file/d/11ptAM0eQY9oqPqkd4hWO1Hd9z1djzHLW/view?usp=sharing)
 5.10|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/15n5svOLwmPtIKxRePqSBtIIPp7IePW6V/view?usp=sharing)
 4.90|07/11/2022|ASRock|[Download](https://drive.google.com/file/d/16oSTlgrTxi26tSIE6-YrqlnCku3PyYoe/view?usp=sharing)
@@ -1142,7 +1142,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--  
-10.01|07/04/2023|ASRock|[Download](https://drive.google.com/file/d/13ON1RmKmzwTol_8EVxrPIQFYxNyf7JzW/view?usp=sharing)
+10.01|07/04/2023|ASRock|<a href="https://drive.google.com/file/d/13ON1RmKmzwTol_8EVxrPIQFYxNyf7JzW/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS can cause the board to brick\nASRock is currently investigating')">Download</a> 
 8.01|03/02/2023|ASRock|[Download](https://drive.google.com/file/d/12eziIzt7Rp0k80gjRHdy6BCEe2LxIFuo/view?usp=sharing)
 5.10|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/15s3dGFQqzCy8ZoNoIVTXXE4ufXPWmMmg/view?usp=sharing)
 4.90|07/11/2022|ASRock|[Download](https://drive.google.com/file/d/16A97Yb8cPf3GKzT3gkCBvUc5MTc3z7Wl/view?usp=sharing)
@@ -1176,7 +1176,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-10.01|07/04/2023|ASRock|[Download](https://drive.google.com/file/d/13Pv1clNNj6GsPJ8v65nMnxjXcF68_JG2/view?usp=sharing)
+10.01|07/04/2023|ASRock|<a href="https://drive.google.com/file/d/13Pv1clNNj6GsPJ8v65nMnxjXcF68_JG2/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS can cause the board to brick\nASRock is currently investigating')">Download</a>
 8.01|06/27/2023|ASRock|[Download](https://drive.google.com/file/d/11V7Y6GJ1QbYE9L0secXJPBcAr3qM7jQQ/view?usp=sharing)
 4.80|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/15z5_S4iKTjt9_7TTKTDCeoia8bl2V1LM/view?usp=sharing)
 4.53|07/11/2022|ASRock|[Download](https://drive.google.com/file/d/16sljSqdwVF9BeGROM6jt4-7W6erR0Gm2/view?usp=sharing)
@@ -1193,7 +1193,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-10.01|07/04/2023|ASRock|[Download](https://drive.google.com/file/d/13LLjdF-Dzfl6qPf0edP-5DzHJ1BaraSO/view?usp=sharing)
+10.01|07/04/2023|ASRock|<a href="https://drive.google.com/file/d/13LLjdF-Dzfl6qPf0edP-5DzHJ1BaraSO/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS can cause the board to brick\nASRock is currently investigating')">Download</a> 
 8.01|06/27/2023|ASRock|[Download](https://drive.google.com/file/d/11_UhoskfXztBO2bYlc8qY2jsXXmYd4Q8/view?usp=sharing)
 4.80|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/16-6wcAWmG_uyrceCSqmPUpHzsLKdOsl7/view?usp=sharing)
 4.53|07/11/2022|ASRock|[Download](https://drive.google.com/file/d/16vCZu13mrRXe-2Fc7SFTvtlTWuGX4Ky3/view?usp=sharing)
@@ -1206,7 +1206,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-10.01|06/27/2023|ASRock|[Download](https://drive.google.com/file/d/10cTvrgo4K80JnrjirOEG4GdjOLZTJzur/view?usp=sharing)
+10.01|07/04/2023|ASRock|<a href="https://drive.google.com/file/d/10cTvrgo4K80JnrjirOEG4GdjOLZTJzur/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS can cause the board to brick\nASRock is currently investigating')">Download</a> 
 8.01|06/28/2023|ASRock|[Download](https://drive.google.com/file/d/10mmcklnP828YlySweEgS5JuzkmCKT2yG/view?usp=sharing)
 4.80|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/164tJ-eugASjehPRUURHL1e5F_mV_6lgv/view?usp=sharing)
 4.53|07/11/2022|ASRock|[Download](https://drive.google.com/file/d/16zA1KPT_5uJXLRoO5ocEnmvjeBht7s12/view?usp=sharing)
@@ -1229,7 +1229,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-10.01|07/03/2023|ASRock|[Download](https://drive.google.com/file/d/12iuJjBPGm16IGCzSNBcLXmpH_4DzumEY/view?usp=sharing)
+10.01|07/04/2023|ASRock|<a href="https://drive.google.com/file/d/12iuJjBPGm16IGCzSNBcLXmpH_4DzumEY/view?usp=sharing" onclick="alert('Please proceed with caution!\nThis BIOS can cause the board to brick\nASRock is currently investigating')">Download</a> 
 8.01|06/17/2023|ASRock|[Download](https://drive.google.com/file/d/10lLJi4DsIsUHdPWamJHFXlFgdAA-gpvD/view?usp=sharing)
 4.81|07/11/2022|ASRock|[Download](https://drive.google.com/file/d/17-MoFyWSkCxFLrnOPaPe9ytJ7ht2gzDG/view?usp=sharing)
 4.71|03/16/2022|ASRock|[Download](https://drive.google.com/file/d/174x01pQv1_RnBUrg0KV1UMtbUniHvE90/view?usp=sharing)
