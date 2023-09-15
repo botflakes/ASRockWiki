@@ -1057,6 +1057,12 @@ Revision|Release|Source|Mirror 1
 4.30E|04/13/2021|ASRock|[Download](https://drive.google.com/file/d/1rkbOkavYKFXmeKbAOzrQP-QMWolzzn9y/view?usp=sharing)
 4.30D|03/02/2021|ASRock|[Download](https://drive.google.com/file/d/1PovoPUIbk9ZUHE72nX8FmS4p7NbkV-Xb/view?usp=sharing)
 
+### **H370 Pro4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.20B|09/15/2023|ASRock|[Download](https://drive.google.com/file/d/17tNpN7T3G9N2D7ZN7va4GgETtmA-4QQ0/view?usp=sharing)
+
 ## **Socket 1151 Intel H310**
 
 ### **H310M-HDV**
