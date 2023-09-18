@@ -2,6 +2,52 @@
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [09/14/2023]
+
+### AM5
+
+- ➕ - 1.29.AS01 - X670E Taichi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - X670E Taichi Carrara - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - X670E Steel Legend - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - X670E Pro RS - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - X670E PG Lightning - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650 LiveMixer - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650 PG Lightning - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650 Pro RS - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650E PG Riptide WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650E PG-ITX WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650E Steel Legend WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650E Taichi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650E Taichi Lite - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650I Lightning WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M PG Lightning - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M PG Lightning WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M PG Riptide - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M PG Riptide WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M Pro RS - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M Pro RS WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M-H/M.2+ - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - B650M-HDV/M.2 - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - A620I Lightning WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - A620M Pro RS - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - A620M Pro RS WiFi - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - A620M-HDV/M.2 - Update AGESA to ComboAM5 1.0.0.7c
+- ➕ - 1.29.AS01 - A620M-HDV/M.2+ - Update AGESA to ComboAM5 1.0.0.7c
+
+### AM4
+
+- ➕ - 3.10 - B550 Taichi - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.10 - B550 Taichi Razer Edition - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.10 - B550M-HDV - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.10 - B550M-HVS SE - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.10 - B550M-ITX/ac - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.20 - A520M/ac - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.20 - A520M-HDV - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.20 - A520M-HVS - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.00 - A520M-HDVP - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.00 - A520M-HDVP R2.0 - Update to AGESA Combo V2 PI 1.2.0.B
+- ➕ - 3.10 - A520M-ITX/ac - Update to AGESA Combo V2 PI 1.2.0.B
+
 ## [07/24/2023]
 
 - ✅ - Major redesign
