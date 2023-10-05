@@ -2,6 +2,35 @@
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [10/03/2023]
+
+- ➕ - 1.30.AS02 - X670E Taichi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - X670E Taichi Carrara - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - X670E Steel Legend - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - X670E Pro RS - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - X670E PG Lightning - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650 LiveMixer - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650 PG Lightning - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650 Pro RS - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650E PG Riptide WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650E PG-ITX WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650E Steel Legend WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650E Taichi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650E Taichi Lite - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650I Lightning WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M PG Lightning - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M PG Lightning WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M PG Riptide - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M PG Riptide WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M Pro RS - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M Pro RS WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M-H/M.2+ - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - B650M-HDV/M.2 - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - A620I Lightning WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - A620M Pro RS - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - A620M Pro RS WiFi - Optimized XMP/EXPO boot times
+- ➕ - 1.30.AS02 - A620M-HDV/M.2+ - Optimized XMP/EXPO boot times
+
 ## [09/14/2023]
 
 ### AM5
