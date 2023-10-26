@@ -45,6 +45,18 @@ Revision|Release|Source|Mirror 1
 3.10|11/30/2022|ASRock|[Download](https://drive.google.com/file/d/11rxI35rRhh1d9vMdJEVgvhnXbh3exxPn/view?usp=sharing)
 3.06|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/1-RBr33vQP2nAgD-8PKpJLHYo45O1Whkw/view?usp=sharing)
 
+### **Z790 Nova WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.01.BD02|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1CJfrs4CzMJmWjbDXkPEunn8B-_SVbOE_/view?usp=sharing)
+
+### **Z790 Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.02.BD02|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1CHvf0a233vsOcPoBdh8B1Y8GGZQYCvO0/view?usp=sharing)
+
 ### **Z790 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
@@ -1072,6 +1084,12 @@ Revision|Release|Source|Mirror 1
 4.30G|03/03/2023|ASRock|[Download](https://drive.google.com/file/d/1-XRgm8EppthyzkdB_ROQrZJPzmEhGVc2/view?usp=sharing)
 4.20A|01/21/2023|ASRock|[Download](https://drive.google.com/file/d/1-AwnH65ZR9NCdyebAuc-7Dm53zq_VJhA/view?usp=sharing)
 
+### **H310CM-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.30T|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1C3r_qnxMdxiwkdrSjOEKpHoILUYtNm0j/view?usp=sharing)
+
 ## **Socket 1151 Intel B365**
 
 ### **B365 Phantom Gaming 4**
@@ -1118,12 +1136,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.41A|19/26/2023|ASRock|[Download](https://drive.google.com/file/d/1BwGM7WGNs6TfRxpTDD23PpyuE5ERgudG/view?usp=sharing)
 4.41|12/27/2022|ASRock|[Download](https://drive.google.com/file/d/1-ncfhV41H8toWo0e0jAL5KUlyomqM7Re/view?usp=sharing)
 
 ### **B365M-ITX/ac**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.51A|10/26/2023|ASRock|[Donwload](https://drive.google.com/file/d/1ByNxUknRMsjV35dTpicqnWt6hNp_fNza/view?usp=sharing)
 4.51|12/27/2022|ASRock|[Download](https://drive.google.com/file/d/1-pvhEeVrwz2zJyLZR9pSozU0l3JhPohF/view?usp=sharing)
 
 ## **Socket 1151 Intel B360**
@@ -1133,6 +1153,12 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 4.30C|01/31/2023|ASRock|[Download](https://drive.google.com/file/d/1-gqQlfuH3qkdXtD4AMcRDb9vg8XBjMgx/view?usp=sharing)
+
+### **B360M-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.20G|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1BtnvFsgTULOQ7oyEhAKnrOIFv7QgimeO/view?usp=sharing)
 
 ## **Socket 1151 Intel Z270**
 

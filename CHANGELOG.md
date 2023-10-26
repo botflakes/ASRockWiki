@@ -2,6 +2,12 @@
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [10/26/2023]
+
+- ➕ - Added latest AMD AM5 BIOSes
+- ➕ - Added latest AMD AM4 BIOSes
+- ➕ - Added latest Intel BIOSes
+
 ## [10/03/2023]
 
 - ➕ - 1.30.AS02 - X670E Taichi - Optimized XMP/EXPO boot times
