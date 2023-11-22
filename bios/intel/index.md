@@ -585,7 +585,14 @@ L1.61|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmjBpJBG9
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.32|11/22/2023|ASRock|[Download](https://drive.google.com/file/d/1CgDyizcmgFKAXTTcR9yx45fgd2Xwc4On/view?usp=sharing)
 L1.61|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/16Cnn7VsSo32mv8qtVJwVhrbxp8fvAL-e/view?usp=sharing)
+
+### **B560M Pro4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.32|11/22/2023|ASRock|[Download](https://drive.google.com/file/d/1CoNB409LIh6JtML_9mU6SvqI8XziLGNR/view?usp=sharing)
 
 ### **B560M Steel Legend**
 
@@ -912,6 +919,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.34D|11/09/2023|ASRock|[Download](https://drive.google.com/file/d/1Cqe0YBafMCoLjvg6s0-cZuBBtP8-gOQi/view?usp=sharing)
 4.34|04/08/2021|ASRock|[Download](https://drive.google.com/file/d/1o2tGxEiEx9_1fd_00PeUBUX7HWecikA1/view?usp=sharing)
 4.30I|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1vpw_9kNa82zT5-AFygWKgfNcEhKQja7y/view?usp=sharing)
 4.30H|03/17/2021|ASRock|[Download](https://drive.google.com/file/d/1zhmY56YSSmJHP6ju8yHuHgQ9gd3etJc8/view?usp=sharing)
@@ -922,6 +930,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.34F|11/09/2023|ASRock|[Download](https://drive.google.com/file/d/1Cr-6GhEfbYYxI0zesH9Zjbx0Ck0XsGZk/view?usp=sharing)
 4.34|06/16/2021|ASRock|[Download](https://drive.google.com/file/d/17cDvb-E4B691A4boRNeRXobOfJbnSutP/view?usp=sharing)
 4.33|04/08/2021|ASRock|[Download](https://drive.google.com/file/d/1DmThYnV914t-zZBegfayTSg0PMLHnYID/view?usp=sharing)
 4.30D|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/17LTvqcgd3_O5wTPnWgOnVZyjwOB03XuD/view?usp=sharing)

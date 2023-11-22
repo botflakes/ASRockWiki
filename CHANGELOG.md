@@ -2,6 +2,14 @@
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [11/22/2023]
+
+- ➕ - 1.76 - DeskMini X300
+- ➕ - 2.32 - Intel B560 Pro4
+- ➕ - 2.32 - Intel B560M Pro4
+- ➕ - 4.34F - Intel Z390 Taichi Ultimate
+- ➕ - 4.34D - Intel Z390 Taichi
+
 ## [10/26/2023]
 
 - ➕ - Added latest AMD AM5 BIOSes
