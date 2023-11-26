@@ -10,6 +10,10 @@ nav_order: 7
 > All notable changes to the Wiki will be documented in this file from now on.  
 > Could've thought about it earlier but better late then never
 
+## [11/26/2023]
+
+- ➕ - 10.06 - X370 Taichi
+
 ## [11/22/2023]
 
 - ➕ - 1.76 - DeskMini X300
