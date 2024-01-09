@@ -51,7 +51,7 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 
 * [**DDU**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Uninstaller if you want to remove your GPU driver completely
 * [**FanControl**](https://getfancontrol.com/) - Lets you control all of your System Fans in one, simple application
-* [**ZenTimings**](https://zentimings.protonrom.com/) - ZenTimings shows you all the important memory timings, voltages, Infinity Fabric and Memory Controller clocks
+* [**ZenTimings**](https://zentimings.protonrom.com/) - ZenTimings shows you all the important memory timings, voltages etc.
 * [**MC Extractor**](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA & Freescale etc. Microcode Extraction Tool
 * [**nVidia Inspector**](https://www.guru3d.com/files-details/nvidia-inspector-download.html) - Shows GPU info, supports OC and has an build in Multi Display Power Saver
 * [**Thaiphoon Burner**](http://www.softnology.biz/files.html) - Helps identify your system memory
