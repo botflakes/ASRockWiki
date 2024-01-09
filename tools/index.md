@@ -82,8 +82,8 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 
 ### **ASRock Dynamic Lightning Firmware**
 
-* [**ASRock Dynamic Lighting | V. 20240105 | 05/01/2024**](https://drive.google.com/file/d/1-Wbtb2bz_bq0AvW-gzc3Ivszi-cJoLnX/view?usp=sharing)
-* [**ASRock Dynamic Lighting | V. 20240103 | 01/03/2024**](https://drive.google.com/file/d/1-L67bCleUD9lj3NTzhbbD52CYleu8r4Y/view?usp=sharing)
-* [**ASRock Dynamic Lighting | V. 20231220 | 12/20/2023**](https://drive.google.com/file/d/1-Wbtb2bz_bq0AvW-gzc3Ivszi-cJoLnX/view?usp=sharing)
+* [**ASRock Dynamic Lighting - V. 20240105 - 05/01/2024**](https://drive.google.com/file/d/1-Wbtb2bz_bq0AvW-gzc3Ivszi-cJoLnX/view?usp=sharing)
+* [**ASRock Dynamic Lighting - V. 20240103 - 01/03/2024**](https://drive.google.com/file/d/1-L67bCleUD9lj3NTzhbbD52CYleu8r4Y/view?usp=sharing)
+* [**ASRock Dynamic Lighting - V. 20231220 - 12/20/2023**](https://drive.google.com/file/d/1-Wbtb2bz_bq0AvW-gzc3Ivszi-cJoLnX/view?usp=sharing)
 
 More will be added soon! Don't hassle to message us if you have an idea what needs to be added!
