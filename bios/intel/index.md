@@ -475,76 +475,106 @@ Revision|Release|Source|Mirror 1
 
 ## **Socket 1200 Intel Z590**
 
+### **Z590 OC Formula**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.62|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10W6az5GD5snwzn6kYyu-uns6weqFYtE1/view?usp=sharing)
+
 ### **Z590 Extreme**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10N6Cfnryhe_9I9uBqzHrYqxn9UJuM13h/view?usp=sharing)
 1.51|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1rDCtqwKzBlIkBUPpQ61pAoOxziA8fN3Z/view?usp=sharing)
 
 ### **Z590 Extreme WiFi 6E**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10L--4H6ruCTWsYFkehTtTUrxeDN8LI7K/view?usp=sharing)
 1.51|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/11jSl04oz_oD7nWQ-8OS5PqG0X-J5OSUC/view?usp=sharing)
 
 ### **Z590 PG Velocita**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.92|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10hdjA92kuZvnEzhP2l6AhT91DwehEVK1/view?usp=sharing)
 1.31|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1IMqnqy6-OykftGonGm7h36iwA5yiH-Br/view?usp=sharing)
 
 ### **Z590 Phantom Gaming 4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.12|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10mC7UUMN6r6uu0YJ-c9mygH9xMNPSzWw/view?usp=sharing)
 1.51|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/12DQmcKb2GyO8cNC9twY29rMqxlOkmb2Q/view?usp=sharing)
+
+### **Z590 Phantom Gaming 4/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.12|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10tWsqlDlOg72WPIv9e_6bKyhGvePVdV9/view?usp=sharing)
 
 ### **Z590 Phantom Gaming 4/ac+**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.72|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/10yhUkWYZfd1M6uyxa1-d_8K7CogVVidj/view?usp=sharing)
 1.11|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1QC22FuiG1L1oVoSNdpevt2xP__N5lRvK/view?usp=sharing)
 
 ### **Z590 Pro4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.02|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11IBIe12hmOuDzBFI_KUApvGjBCiUHp49/view?usp=sharing)
 1.42|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1Mh47ENrwFiOTXhuARRI5Lg4bKQg06PiE/view?usp=sharing)
 
 ### **Z590 Steel Legend**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.15|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11U33N_PQ-45Zrn8OJKwGGs3l7Ql5KSTd/view?usp=sharing)
 1.41|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1cBXhaAwkRLnOmrfbHjo_B3Es4zqoX57N/view?usp=sharing)
 
 ### **Z590 Steel Legend WiFi 6E**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.15|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11MBOmBeGl2zdFDrDry9XHmLecJ6aTx8T/view?usp=sharing)
 1.41|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/17vfyb6FK-4UFi7ECWCabgUQBSf38kHUJ/view?usp=sharing)
 
 ### **Z590 Taichi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.33|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11VO0WlxWelHhioYG06lDRW65xBOPtpch/view?usp=sharing)
 1.62|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1mT_o-w4uX-NVDgtBwn8ilqvlpHoGSzSV/view?usp=sharing)
 
-### **Z590 Phantom Gaming 4**
+### **Z590M Phantom Gaming 4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.02|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11YGSNh09M9_QI30THzkNwXeY41y17UTC/view?usp=sharing)
 1.51|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1_wdUiVaC9t0gHdVsh-TfGyhF-jKkhDh3/view?usp=sharing)
+
+### **Z590 Phantom Gaming-ITX/TB4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.92|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/118GBT4-xQl7wlACKpOlSRn1574Y8MBSm/view?usp=sharing)
 
 ### **Z590M Pro4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11YsT1cM5SDf_WIdF6arlqm_t7bWlejoQ/view?usp=sharing)
 1.51|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/11x2BmAxjjMhrK38hZtDAhSXsiyUZkU2Y/view?usp=sharing)
 
 ### **Z590M-ITX/ax**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.62|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11a4Dl7N8NnVmNkGwix5F3p8RMwhnzbpF/view?usp=sharing)
 1.21|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1dgtmbbYGae0FZte7L_rRow5ilX8PlPWI/view?usp=sharing)
 
 ## **Socket 1200 Intel H570**
