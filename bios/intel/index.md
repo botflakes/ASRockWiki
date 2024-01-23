@@ -609,38 +609,86 @@ L1.32|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1Emi79rNa8xvs
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-L1.61|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmjBpJBG9-vnmXCId-qAj1p1buA76/view?usp=sharing)
+2.22|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/11b7Qtpdsn-Ub0vC9DV4ogtjnwS7Zhh2e/view?usp=sharing)
+1.61|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1K1skmjBpJBG9-vnmXCId-qAj1p1buA76/view?usp=sharing)
 
 ### **B560 Pro4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.33|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/11aBE9r-yBdXqLwvkLHcZxUs-7FZnq6kz/view?usp=sharing)
 2.32|11/22/2023|ASRock|[Download](https://drive.google.com/file/d/1CgDyizcmgFKAXTTcR9yx45fgd2Xwc4On/view?usp=sharing)
-L1.61|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/16Cnn7VsSo32mv8qtVJwVhrbxp8fvAL-e/view?usp=sharing)
+1.61|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/16Cnn7VsSo32mv8qtVJwVhrbxp8fvAL-e/view?usp=sharing)
 
 ### **B560M Pro4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.33|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/11bOxAB32rmhM3GZAr8sWxoRfjkt5pXX-/view?usp=sharing)
 2.32|11/22/2023|ASRock|[Download](https://drive.google.com/file/d/1CoNB409LIh6JtML_9mU6SvqI8XziLGNR/view?usp=sharing)
+
+### **B560M Pro4/ac***
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.13|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/11huCcHcIsiPb6DhQ7vxaoQ-TiCzkdwxv/view?usp=sharing)
+
+### **B560M Pro4/ac+***
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.63|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/11oQgf30_DqxmtldG0vqJ_hcZKu0LkYgd/view?usp=sharing)
 
 ### **B560M Steel Legend**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-L1.22|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1t_bqICKb5InxjFmj8eyyFprWIcq6mHFP/view?usp=sharing)
+1.94|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/11xntfGceXj-rx5hxMNzwLyzeYlgvdHSl/view?usp=sharing)
+1.22|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1t_bqICKb5InxjFmj8eyyFprWIcq6mHFP/view?usp=sharing)
 
 ### **B560M-ITX/ac**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-L1.32|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1jwDT3s--jhMsOmxMrxuTZ4Bw7fh62WBi/view?usp=sharing)
+2.02|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/12fYpF9H73u4Qq5Qz924iRE2uxgBpVOG3/view?usp=sharing)
+1.32|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1jwDT3s--jhMsOmxMrxuTZ4Bw7fh62WBi/view?usp=sharing)
 
 ### **B560M-HDV**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-L1.41|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1G27gXhOlqe7DtG6B9tlx6-2jaL6nEJ7w/view?usp=sharing)
+2.73|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/127DZRoAATd8smUU_PcYX-1lI07gSKGOd/view?usp=sharing)
+1.41|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1G27gXhOlqe7DtG6B9tlx6-2jaL6nEJ7w/view?usp=sharing)
+
+### **B560M-HDV R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.63|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/123JTappKvjSvi__seMFtasE4FeFQlfLJ/view?usp=sharing)
+
+### **B560M-HDV R3.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.12|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/126V1ZQrlMrhVf30chlobMLvf1r0Jxji0/view?usp=sharing)
+
+### **B560M-HDV-A**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.22|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/12U2L15k6jVdW5s1LpCP3i-GLHBKAKEBe/view?usp=sharing)
+
+### **B560M-HDV-A R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.72|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/12CoQRki17ojs7BN2x4AYnJN3H7ckY9li/view?usp=sharing)
+
+### **B560M-HDV/M2**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.22|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/12cMZbhGmrdASXAWEnDv3ILMZqiYesdQk/view?usp=sharing)
 
 ## **Socket 1200 Intel Z490**
 
