@@ -583,6 +583,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1C3I_oNS_A0G6Ao_kxVSXZ1bcTxArtyzZ/view?usp=sharing)
 L1.45|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1nPapc6LVW6FX5U9Cx3msnSRqMtPpAH7W/view?usp=sharing)
 
 ### **H570 Phantom Gaming 4**
@@ -595,12 +596,14 @@ L1.54|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1AyAF5lEXL-HR
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.72|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1Btiz5baRDL5pho7Ss-zw15toLp9VvDkm/view?usp=sharing)
 L1.13|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1c6qa4n56kLSup4EpUGo6mVeSFiqH9Bei/view?usp=sharing)
 
 ### **H570M Pro4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.02|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1ByHKoEOk4wADOsON2fqksSGnDM_qblyX/view?usp=sharing)
 L1.32|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1Emi79rNa8xvs3lIZJIfb1UV3jIqX5KP6/view?usp=sharing)
 
 ## **Socket 1200 Intel B560**
@@ -689,6 +692,57 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.22|01/23/2024|ASRock|[Download](https://drive.google.com/file/d/12cMZbhGmrdASXAWEnDv3ILMZqiYesdQk/view?usp=sharing)
+
+### **Socket 1200 Intel H510**
+
+### **H510M-HDV R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.53|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1B_aOvVmaQ4wiMiYoTE3d2plzwBks6c8p/view?usp=sharing)
+
+### **H510M-HDV/M.2**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.22|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1BmTj63JBN_uIglDximpvZZcav1DqTAxQ/view?usp=sharing)
+1.40|04/23/2021|ASRock|[Download](https://drive.google.com/file/d/1DsdmBC3Pvor0Q5tVM2P-myYMqvgoNWms/view?usp=sharing)
+
+### **H510M-ITX/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.03|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1BmssbFwsa0GXD5lnW-o1d6rPwgSNWsW4/view?usp=sharing)
+
+### **H510M-HVS R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.53|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1BoC6D3uXKjkfFIxy4oCpI1zJdIp4DHUE/view?usp=sharing)
+
+### **H510M-HVS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.40|04/23/2024|ASRock|[Download](https://drive.google.com/file/d/1PoZou_hUpfHIeCsvBA7EoUXYsysWUHz1/view?usp=sharing)
+
+### **H510M-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.92|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1Bb4B5p4WBDkXZi91cKMzF6xAPVDn-P7Q/view?usp=sharing)
+1.40|04/23/2021|ASRock|[Download](https://drive.google.com/file/d/1N3uLTNXdncmbkCdBtsW7YYocvcXt8rFW/view?usp=sharing)
+
+### **H510 Pro BTC+**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.52|01/31/2024|ASRock|[Download](https://drive.google.com/file/d/1Brfbpq-_A-mtZWnmgk88KLdP_wt1MFkQ/view?usp=sharing)
+
+### **H510M/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
 
 ## **Socket 1200 Intel Z490**
 
