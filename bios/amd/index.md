@@ -1028,10 +1028,11 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.41|03/01/2024|ASRock|[Download](https://drive.google.com/file/d/1-nuElK9P8j4cmrbxHobQVUlRtdTs3520/view?usp=sharing)
 2.40|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/14ay1yzOaMel8YFlNl7QK_wCkOoFsdZbv/view?usp=sharing)
 2.22|05/27/2022|ASRock|[Download](https://drive.google.com/file/d/1W2gCtnu4Eg3YX96fShsxiz7FapzKxQkN/view?usp=sharing)
 2.14|01/12/2022|ASRock|[Download](https://drive.google.com/file/d/1Pt_68LvzMCSHMN-4Mvy2iCc2l9IzotGC/view?usp=sharing)
-1.80|02/27/2021|ASRock|[Download](https://drive.google.com/file/d/1-9xVKMRI7VkNfr0J_nx_7pX_I4moMpBh/view?usp=sharing)
+1.80|02/27/2021|ASRock|[Download](https://drive.google.com/file/d/1-rRsOkB7QwmVaTw5Doz47xtcsbTVQH8q/view?usp=sharing)
 1.15|03/08/2020|ASRock|[Download](https://drive.google.com/file/d/14teIGzfkaU42QCce2UhXfjkKQMSRVwJF/view?usp=sharing)
 1.10|07/29/2020|ASRock|[Download](https://drive.google.com/file/d/1wQqAGPWIL-EJ5S-YM4A89yqdovrC78gU/view?usp=sharing)
 
@@ -1128,6 +1129,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.41|03/01/2024|ASRock|[Download](https://drive.google.com/file/d/1-eP-2uKzxzQl287plSUgx3kxV-3KuHtH/view?usp=sharing)
 2.50|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/15_LE8WqeNAffuSNDW1MD0QvoG0-cq_u3/view?usp=sharing)
 2.32|05/27/2022|ASRock|[Download](https://drive.google.com/file/d/18F8huPxSfQ8BpEUpWRGki-feAaV_NiWb/view?usp=sharing)
 2.24|01/12/2022|ASRock|[Download](https://drive.google.com/file/d/1-trQ2FrxqArIFB5KutUoh0wnJ-Pyo7VG/view?usp=sharing)
@@ -1139,7 +1141,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.44|03/01/2024|ASRock|[Download](https://drive.google.com/file/d/1-YlWkxjIaMdMrEbSvdo3Mf8_TXil-lp0/view?usp=sharing)
+3.44|03/01/2024|ASRock|[Download](https://drive.google.com/file/d/1-YlWkxjIaMdMrEbSvdo3Mf8_TXil-lp0/view?usp=sharing
 3.10|09/13/2023|ASRock|[Download](https://drive.google.com/file/d/184zpJK0RDG-N1XiQdfQFypKSo_4IsujE/view?usp=sharing)
 2.10|10/21/2022|ASRock|[Download](https://drive.google.com/file/d/15a3xlT5w-iBf_jjktadWHpOfb4La33K6/view?usp=sharing)
 1.92|06/13/2022|ASRock|[Download](https://drive.google.com/file/d/10azTZ6YStUC25ULsyFde6jVW6O5eaOdl/view?usp=sharing)
@@ -1166,6 +1168,13 @@ Revision|Release|Source|Mirror 1
 1.85|08/05/2021|ASRock|[Download](https://drive.google.com/file/d/14E8rv7Wv2yb0SbZs_o1HsdGkeIfzIhVn/view?usp=sharing)
 1.83|07/06/2021|ASRock|[Download](https://drive.google.com/file/d/1K8hBj9ok4sT_xccnm0L_j5Vo367qALq_/view?usp=sharing)
 1.76|05/14/2021|ASRock|[Download](https://drive.google.com/file/d/1UMmvZfNACGmh_6Y7rYoaSsrJUBbDFR1o/view?usp=sharing)
+
+### **B550M-HVS SE***
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.44|03/01/2024|ASRock|[Download](https://drive.google.com/file/d/1-ZMJtn0Cl1jHZFQ0FtmShC3_udZLIA3F/view?usp=sharing)
+3.43|02/28/2024|ASRock|[Download](https://drive.google.com/file/d/1-ZepAkTLtKYVLnmgSOhzNhKXr2k8z5Ay/view?usp=sharing)
 
 ## **Socket AM4 AMD A520**
 
