@@ -26,6 +26,7 @@ nav_order: 2
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+12.09|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12wguKYIPifQRl4ssezmS9X5lQ9aZQVE2/view?usp=sharing)
 12.07|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/12-XnytyBYtu_itD8wJxb63Qu_AQCVxYP/view?usp=sharing)
 12.03|02/07/2024|ASRock|[Download](https://drive.google.com/file/d/11taDFNKq0TztFY9qdP5C3zoRKTi0NH_C/view?usp=sharing)
 4.10|11/30/2022|ASRock|[Download](https://drive.google.com/file/d/11eC6hyec15B4Rxc6ZCMXmH7He8Hgj8GK/view?usp=sharing)
@@ -35,6 +36,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+12.09|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/131nSMzrfvPcVExCzqvUOz-Lw416FXJ0l/view?usp=sharing)
 12.07|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/123aI_52Ezh8JD-L5zDxcToURqj6jNeG_/view?usp=sharing)
 12.03|02/07/2024|ASRock|[Download](https://drive.google.com/file/d/121-Smew3Diff12pbCxdEVwI0qJkDiJX3/view?usp=sharing)
 4.10|11/30/2022|ASRock|[Download](https://drive.google.com/file/d/10Zmy6r9X2LZcFDl-fD-bTGDkz9czai5d/view?usp=sharing)
@@ -45,6 +47,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+5.09|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/13DREW7VCbkHcD8Z0i5-KghxmeGUlvDEe/view?usp=sharing)
 5.07|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11r4KHmv9Dykdv0mBeAAcdeTXY16jVV4u/view?usp=sharing)
 5.03|02/07/2024|ASRock|[Download](https://drive.google.com/file/d/11sm7k8CsJUp0Me-2_qpSvmYwoR-AIJN7/view?usp=sharing)
 
@@ -52,6 +55,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+13.06|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/12qwvysQIk88SZrF7d7tjVrdWYY6Vt4hq/view?usp=sharing)
 13.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/1198DSn2iQ5Xx98jqABHRZLFqHheO-1p-/view?usp=sharing)
 4.01|12/06/2022|ASRock|[Download](https://drive.google.com/file/d/11itKQahf296tjHEzhv_EfU8BslKfazEB/view?usp=sharing)
 3.10|11/30/2022|ASRock|[Download](https://drive.google.com/file/d/11rxI35rRhh1d9vMdJEVgvhnXbh3exxPn/view?usp=sharing)
@@ -61,6 +65,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.10|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12PBeu9rQdnXa_PcLemGir6JcaZS3NGZT/view?usp=sharing)
 4.08|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/12EHgBE8W_RxCJCNL5yzcM3NryQ2rs0gg/view?usp=sharing)
 4.05|02/07/2024|ASRock|[Download](https://drive.google.com/file/d/12LlF6Aysu5HSXdmgy4qTxLnDCSXxupZN/view?usp=sharing)
 3.01.BD02|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1CJfrs4CzMJmWjbDXkPEunn8B-_SVbOE_/view?usp=sharing)
@@ -69,6 +74,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+6.07|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12m9-vq4lw_gSzRPOlrnnvnXfVUhbFkRe/view?usp=sharing)
 6.05|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11W0VlVZEA8KdquCdsL49WoFhdzVQ8JpR/view?usp=sharing)
 4.02.BD02|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1CHvf0a233vsOcPoBdh8B1Y8GGZQYCvO0/view?usp=sharing)
 
@@ -83,6 +89,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.09|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12fF4WTnVatSUjAeWDncaglLBHNc1pF6n/view?usp=sharing)
 11.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11cElrMj78TXgOkUF3ho2mIo2xNdHuTMj/view?usp=sharing)
 4.10|12/06/2022|ASRock|[Download](https://drive.google.com/file/d/123C7ni8lpCstFL_ReCHwtFpiPemFb0kV/view?usp=sharing)
 4.06|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/1-fLRF9eXD8c9A2iYJajXAwQdhw-ggFUt/view?usp=sharing)
@@ -91,12 +98,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+10.05|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/12in77kQTzqMfFSXMSkP135JCMkYGanh_/view?usp=sharing)
 10.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/118cSoxp22V3jVvHIw86ZmWGwDZ3sfZvI/view?usp=sharing)
 
 ### **Z790 PG SONIC**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.09|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12VcDrgMAfaO2DKhpA2GK_-8Zy1enZn6m/view?usp=sharing)
 11.05|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/10aAK0D4IUVIp4ZIWmwqiyWzSxRnyyJWC/view?usp=sharing)
 3.12|12/06/2022|ASRock|[Download](https://drive.google.com/file/d/120yispu6MsCosr_PvY8c8YP9-h2AjirD/view?usp=sharing)
 3.07|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/1-lOsll-QixMd-ieCINw9fDPdr8RRNk4F/view?usp=sharing)
@@ -105,6 +114,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+12.09|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12UHPhhNsa2qr4jrZjx2tX_GhT_tEfNgs/view?usp=sharing)
 12.05|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/10zXldRFWlbZUtIeueSnFhLM5t3fRg-D-/view?usp=sharing)
 4.10|12/06/2022|ASRock|[Download](https://drive.google.com/file/d/11xTC_35LuGSLvNEflc2agklRbdCu2P-X/view?usp=sharing)
 4.06|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/1-qyMGsrhYPe0WekkW3jqvYCA4gW8LlD3/view?usp=sharing)
@@ -113,6 +123,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.06|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12QuZBbOodEgZhz3TTuCPWs_J4KGNl55s/view?usp=sharing)
 11.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11UXuBVxZFtxWOmHVGKDyCeguB_bBuISl/view?usp=sharing)
 3.04|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/10-CoQ67Zd5MdG9mRKBMHobDuigDbgJO-/view?usp=sharing)
 
@@ -126,12 +137,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.06|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12M4aIta9rtz4dCvcsNnAiTmG3wGZUnJ6/view?usp=sharing)
 4.04|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/10v-O5t5EPj6Qay4IR0QA3KdIbOu-T8i9/view?usp=sharing)
 
 ### **Z790 LiveMixer**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+14.05|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12OkTg8JTkw6VOW0JNgYJ6wihuhF5RRN3/view?usp=sharing)
 14.02|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11e2WuMpXi3W_NWD9ObLJwl3KNW1o3W0s/view?usp=sharing)
 4.08|12/06/2022|ASRock|[Download](https://drive.google.com/file/d/11fW5zSSY2s7tTmkUuztMZaxrw0_HQSxw/view?usp=sharing)
 4.07|11/30/2022|ASRock|[Download](https://drive.google.com/file/d/11fbIyiSDpVkPFwMqhwAL1Rf2FdfVyoEk/view?usp=sharing)
@@ -143,11 +156,13 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 11.05|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/10TZfcHA3RkZmACCDwGMEfdQcb4QkDLq9/view?usp=sharing)
 4.05|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/10POWGDCzRxb_X8RgyuEulWttG3IG3DU2/view?usp=sharing)
+3.04|11/19/2022|ASRock|[Download](https://drive.google.com/file/d/13Ec6FKLfiF9-GUzPk_4C0ILcPixihUMm/view?usp=sharing)
 
 ### **Z790 PG-ITX/TB4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.07|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/12YoubqO-RAFCCaQW177yJLyc2zrdrLD8/view?usp=sharing)
 11.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/10mRHwUkxQyuGuNlk2b6s-sDUjFiXyDUz/view?usp=sharing)
 3.08|12/06/2022|ASRock|[Download](https://drive.google.com/file/d/11zB9pXaJxbQ1NqngzSQYBDJAjgvjjMpA/view?usp=sharing)
 3.05|11/17/2022|ASRock|[Download](https://drive.google.com/file/d/10Tgja8S-AGMCqPkt8HZwzr3dPYjEEuXW/view?usp=sharing)
@@ -156,6 +171,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+10.05|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/13Dv8D_N5pbzVvAfRlZKT0sMWbPjg3V0S/view?usp=sharing)
 10.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11TBjG6N9uqdPzMkrKC6XV5SksDG4fTyf/view?usp=sharing)
 
 ## **Socket 2066 Intel X299**
