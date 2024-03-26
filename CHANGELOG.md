@@ -2,6 +2,10 @@
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [02/26/2024]
+
+First update of the year. Finally had time to add all recently released Beta BIOSes
+
 ## [11/26/2023]
 
 - ➕ - 10.06 - X370 Taichi
