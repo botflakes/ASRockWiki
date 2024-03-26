@@ -542,6 +542,12 @@ Revision|Release|Source|Mirror 1
 
 ## **Socket 1700 Intel H610**
 
+### **H610M-HDVP/D5 R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+13.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13goxIRvvHMtteda9hObiJuo_6z3a7QeK/view?usp=sharing)
+
 ### **H610M-HDV**
 
 Revision|Release|Source|Mirror 1
