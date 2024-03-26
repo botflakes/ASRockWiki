@@ -528,6 +528,18 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 10.03|07/03/2023|ASRock|[Download](https://drive.google.com/file/d/131Dat4dOUKJe8IXpa5q5c0LE4iLj5VxK/view?usp=sharing)
 
+### **B660M-HDVP/D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+12.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13Rkuhr73215alC6Aku8CR1EUA05U8pPp/view?usp=sharing)
+
+### **B660M-HDVP/D5 R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+12.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13YV3lRyJ4eCaPZWKmVkEpK2dwG9GswKE/view?usp=sharing)
+
 ## **Socket 1700 Intel H610**
 
 ### **H610M-HDV**
