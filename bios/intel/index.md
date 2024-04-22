@@ -174,290 +174,115 @@ Revision|Release|Source|Mirror 1
 10.05|03/21/2024|ASRock|[Download](https://drive.google.com/file/d/13Dv8D_N5pbzVvAfRlZKT0sMWbPjg3V0S/view?usp=sharing)
 10.03|03/15/2024|ASRock|[Download](https://drive.google.com/file/d/11TBjG6N9uqdPzMkrKC6XV5SksDG4fTyf/view?usp=sharing)
 
-## **Socket 2066 Intel X299**
-
-### **Fatal1ty X299 Gaming K6**
+### **Z790I Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.00B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1NqiU7cZ-aPK5FfXGPmbn53vXE4ogGtwt/view?usp=sharing)
-1.30A|08/15/2017|ASRock|[Download](https://drive.google.com/file/d/1JysMlpGs10HZG0lodjKv6ylarZILzs_L/view?usp=sharing)
-1.21|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1gTmqN9xrKwWP6sMOFqxW6ijLcOAkoOc4/view?usp=sharing)
+2.02.GS02|04/18/2024|ASRock|[Download](https://drive.google.com/file/d/1BS4LWQyNIx_Cu2jBH2590ma4rsxlu0cz/view?usp=sharing)
 
-### **Fatal1ty X299 Professional Gaming i9**
+## **Socket 1700 Intel B760**
 
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.30B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1i3nx1Rgr9F74Kze9q53XO7rOs_CjiV8C/view?usp=sharing)
-1.40A|08/15/2017|ASRock|[Download](https://drive.google.com/file/d/1NsSMVoazbE7l0MZzDx2mqRon72AUFuYm/view?usp=sharing)
-1.28|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1kC9jse278uF6f-ENIW4H9iSBmxhlzAx6/view?usp=sharing)
-
-### **Fatal1ty X299 Professional Gaming i9 XE**
+### **B760 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.90C|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1QN9x7zw-aATm6lZxQDaabaC9WD8pJ_Nz/view?usp=sharing)
+8.05|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15z0GZRgpM6doBWLnu-DEqFXc783luK4f/view?usp=sharing)
 
-### **X299 Extreme4**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.00C|11/29/2022|ASRock|[Download](https://drive.google.com/file/d/127mZMVLxQDcnneEISCLneQbBtahD9SsC/view?usp=sharing)
-
-### **X299 Creator**
+### **B760 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.52C|08/08/2022|ASRock|[Download](https://drive.google.com/file/d/1-567YanGR_wTZ5mT9EoQ5iT8mkGk8eQH/view?usp=sharing)
-1.51|03/14/2022|ASRock|[Download](https://drive.google.com/file/d/1htSeKkNnpmF9oWr9Z_Tqs8ZXR4kOmF7G/view?usp=sharing)
-1.40H|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1o6Zqlh0Ms8N4InMhdj_-9uF9AgIuZ_cK/view?usp=sharing)
+6.05|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15oy292t2cAYmegk8FrSne_zkgZAT_X1G/view?usp=sharing)
 
-### **X299 Killer SLI/ac**
+### **B760 Pro RS/D4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.00B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1yl6TrGuPCJu0r_VmQiq6lq027xw3QEBk/view?usp=sharing)
-1.30A|08/15/2017|ASRock|[Download](https://drive.google.com/file/d/16uEAzpDz7YaXY951_gv0bwft1BOyRSM3/view?usp=sharing)
-1.21|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1V2gr1hB_Jj2ypWVWw82GOTmki7Qv4g16/view?usp=sharing)
+8.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/162wc9SXVLkojVH7o4R22xd1WfOTVPg3u/view?usp=sharing)
 
-### **X299 OC Formula**
+### **B760 Pro RS/D4 WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.90B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1ZrmwfLRz2MYAjb48Mdsjl5AgRI01Zpu4/view?usp=sharing)
-1.16|09/28/2017|ASRock|[Download](https://drive.google.com/file/d/13TkU-0f6egqg5CPbwOcSEUmBkGC1GVem/view?usp=sharing)
-1.11|09/07/2017|ASRock|[Download](https://drive.google.com/file/d/1i6aqZqnz4x_ZKF1f_0yzHkWIQwL2Doe6/view?usp=sharing)
+4.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/161Mjib4OHfELpKD-KM9uwx5axgYbi_BN/view?usp=sharing)
 
-### **X299 Steel Legend**
+### **B760M Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.30G|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1CvcW9RWk8hHpekgeuDsAimHvBPQKacZ4/view?usp=sharing)
+8.04|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/17XrdqKD3WWkZ2I8zaxBHC6KuS2d1czuo/view?usp=sharing)
 
-### **X299 Taichi**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.50B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1AERkBC4LVG2GE_vXJlhwee-cFohRzNJJ/view?usp=sharing)
-1.60|08/14/2017|ASRock|[Download](https://drive.google.com/file/d/1MgYRaED8AJ4h2HhUTDW6zAB3TnVqv0IW/view?usp=sharing)
-1.48|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1VMMObBtB9i-qYbMAufDqTvUvAIruCmGs/view?usp=sharing)
-1.41|08/04/2017|ASRock|[Download](https://drive.google.com/file/d/16pMetpbJsphis763PkDQBEknnUgUqo9g/view?usp=sharing)
-
-### **X299 Taichi CLX**
+### **B760M Pro RS/D4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.61|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1mEvLKYYX8hkV61r1UEQw-EeWmuRrKnaZ/view?usp=sharing)
+6.04|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/17HhEbWr1bTST5hzXonJ5jcKvqEOsyXpG/view?usp=sharing)
 
-### **X299 Taichi XE**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.90B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1vetGOWrYfngwqO_8X-ZJ0KTRwcLfPigK/view?usp=sharing)
-
-**X299E-ITX/ac**
+### **B760M Pro RS/D4 WiFi
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.20B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1lhEn71ZiL-3rxV9v5XK73xRi-3cDqygR/view?usp=sharing)
-1.03|11/02/2017|ASRock|[Download](https://drive.google.com/file/d/1XwAmYa6U__lkAh9hlPHAM6WxhYlV5546/view?usp=sharing)
+6.04|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1746vhymYq0HLyrp86igu2LvneC5LJz7V/view?usp=sharing)
 
-## **Socket 2011-3 Intel X99**
-
-### **Fatal1ty X99 Professional Gaming i7**
+### **B760M PG Sonic WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.72|10/22/2019|ASRock|[Download](https://drive.google.com/file/d/1XGPC9b0A8161PdmSGfLLjI0ZqGctJM_1/view?usp=sharing)
+8.04|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/16xPe3BCTIGhRXHjzrO72pULBolRGgnKr/view?usp=sharing)
 
-### **X99 Extreme3**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.40|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1VUY5VappBUAO1GouM6nT530fBR6ZUrNF/view?usp=sharing)
-
-### **X99 Extreme4**
+### **B760M PG Riptide**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.81|12/12/2018|ASRock|[Download](https://drive.google.com/file/d/1erPAIPoN_PGEmA2RYIOhSYZB21OkggUf/view?usp=sharing)
-3.40|06/06/2016|ASRock|[Download](https://drive.google.com/file/d/1B-K_kYU5MDiIAg60Wp1e1d7zbcGeSuZ1/view?usp=sharing)
+9.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/16tIMfGlbHK8ExN9JYzqvb3QiHIjPbwc6/view?usp=sharing)
 
-### **X99 Extreme4 3.1**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.30|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1eCuwm5tW5zY24NlPHyVpstXCYWlds2YQ/view?usp=sharing)
-3.20|06/07/2016|ASRock|[Download](https://drive.google.com/file/d/1lvzTuvaDMIcPG2Xu2CqTcZQ__p4s3Law/view?usp=sharing)
-
-### **X99 Extreme6 3.1**
+### **B760M PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.20|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1REVzRXFSGAaqDyiQEVlhVoS1QS8pSw8Z/view?usp=sharing)
-3.10|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1gWfFOMXFiHkHri37_XHN_VFxegl-edzK/view?usp=sharing)
+3.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/16maZiqQOzO9FE6qn0l5eKc3F0wY90mdS/view?usp=sharing)
 
-### **X99 Extreme6 AC**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.97|04/14/2016|ASRock|[Download](https://drive.google.com/file/d/1ZErtzqdzze7bvyK8KuUEQlLxSj0woE-T/view?usp=sharing)
-1.53|02/02/2015|ASRock|[Download](https://drive.google.com/file/d/1a8WzvZcyev-22kNn49e_dPx7TyAzFoJo/view?usp=sharing)
-
-### **X99 Extreme11**
+### **B760M PG Lightning**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.41|10/23/2019|ASRock|[Download](https://drive.google.com/file/d/1qoSLfRZygBhS6drl6myt-_zy_tImCIaT/view?usp=sharing)
+5.04|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/16Wjff3tkzcuKeYnLEehTutT9CFCbrDjG/view?usp=sharing)
 
-### **X99 OC Formula 3.1**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.40|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1-MrE_4XCcoadQkO-RPgXXu8mA6cuhHay/view?usp=sharing)
-
-### **X99 Pro 3.1**
+### **B760M PG Lightning/D4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.40|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/11l6SI_cxTgaPNv5yKLE-1a_zyk0XZrdD/view?usp=sharing)
+6.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/16a1YLaayc4mIjiZNgPa9MJqqI0kBaw1j/view?usp=sharing)
 
-### **X99 Taichi**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.82|10/25/2019|ASRock|[Download](https://drive.google.com/file/d/1t1UcgX7FFP-_9xncur70runybKXg26Zh/view?usp=sharing)
-
-### **X99 WS**
+### **B760I Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.20|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1NmAJb3iQSUJBngGsS7uXu4kEOJKoLkod/view?usp=sharing)
+2.01.GS01|04/18/2024|ASRock|[Download](https://drive.google.com/file/d/16IPM2XFgpibv9fxHv-ffxU3op5nL28Hd/view?usp=sharing)
 
-### **X99 WS-E**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.30|06/26/2016|ASRock|[Download](https://drive.google.com/file/d/1J_wJ-EtKw9kk7FBaA5XpBSp-MNDL1qWZ/view?usp=sharing)
-
-### **X99 WS-E 10G**
+### **B760M-HDV/M.2 D4**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.30|06/27/2016|ASRock|[Download](https://drive.google.com/file/d/1TW-o32FGSwU6IWj1InO_ZIrFm_CNZgcm/view?usp=sharing)
+6.05|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/17yJ8fAIA2m5qvzkL9-7HSx3IvkzJsuwX/view?usp=sharing)
 
-### **X99E ITX/ac**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.40|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/129O1PtUHrQDpP5iFmwPlGqf6CyDFKVMr/view?usp=sharing)
-3.20|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1yvRQAH5SljVLYbdHI1hSrOioB9Ipxu_u/view?usp=sharing)
-
-### **X99M Extreme4**
+### **B760M-H2/M.2**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.10|06/13/2016|ASRock|[Download](https://drive.google.com/file/d/1NdazbHwsjiYL_L8MvOTMHIKkOmTH6nT4/view?usp=sharing)
+4.05|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/17gcFCXn2yO9IAVKd-SaD3XdDBvzDH2ip/view?usp=sharing)
 
-### **X99M Killer 3.1**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-4.01|01/02/2019|ASRock|[Download](https://drive.google.com/file/d/1oou5uwhBrQj3ER8pM98w86pshwerP_Eu/view?usp=sharing)
-3.50|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1OlvUC5SjE3sGZBk6Pg3xLidk3xgit1BO/view?usp=sharing)
-3.40|06/17/2016|ASRock|[Download](https://drive.google.com/file/d/1XqDSoqojQHOM6v8WXxFdYBE2DRDeREv6/view?usp=sharing)
-
-### **X99X Killer 3.1**
+### **B760-H/M.2**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.20|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1MRWu6fWLFHMd8b0Q1j91AtPzbw0PWTi-/view?usp=sharing)
-3.10|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1GkA0x8xJlq-iRHc-WyGmVYfB0jEnNWjV/view?usp=sharing)
+5.05|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1895yBqhpfMPu-kO_-vtorK1q1OtA8vAW/view?usp=sharing)
 
-## **Socket 2011 Intel X79**
-
-### **Fatal1ty X79 Champion**
+### **B760M-ITX/D4 WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.62|02/14/2014|ASRock|[Download](https://drive.google.com/file/d/1Dqzf0No7aQMzNqlxcb3vYldVV1jsW5c5/view?usp=sharing)
-2.61|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1soVexltcG-rlNHY_6PZLqWhT9sB0VdUw/view?usp=sharing)
-2.41|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1XWhGjjttBy_G0hvOb2eQZCbN6_1MUBUS/view?usp=sharing)
-
-### **X79 Extreme3**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.90|01/11/2017|ASRock|[Download](https://drive.google.com/file/d/1tVgoeu7AFFL8pBS8wGCCX-cwVt7ulASs/view?usp=sharing)
-2.61|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1UmNEg_LEhtzMhjrmEwsCAgc0DT8X8i9B/view?usp=sharing)
-
-### **X79 Extreme4**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.21|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1hgBLELOzPHd_OBiLfYyVInVpIHzfuH4b/view?usp=sharing)
-
-### **X79 Extreme4 M**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.40|03/10/2018|ASRock|[Download](https://drive.google.com/file/d/1p76N2IZusYt910ZLmZv-6kutGtegTEfH/view?usp=sharing)
-3.05|09/16/2013|ASRock|[Download](https://drive.google.com/file/d/1LfgdnxyrxYgFer61CGEt3Nl8kK46N6tu/view?usp=sharing)
-3.01|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1QndQXyQ7F2ozY7LNPLOWVPT0XeSSUB25/view?usp=sharing)
-
-### **X79 Extreme6**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.45|09/05/2013|ASRock|[Download](https://drive.google.com/file/d/1N-7bkIBB8lhvHGeKDMykOftaf6Rw5HUH/view?usp=sharing)
-2.41|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1b-aRSkBsycnEV6tVwfVhLnqiKNfVlkZG/view?usp=sharing)
-
-### **X79 Extreme6 GB**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.31|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1o_2iTOZqnp0g6Fk0y7JH6nZrYyfJ8e6C/view?usp=sharing)
-
-### **X79 Extreme7**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.01|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/19ysWsRyapWQwG855xTpqsPEbJ_9qCdF9/view?usp=sharing)
-
-### **X79 Extreme9**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.61|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1fjwLIkwUQ_krezmYWjczdFDyllobFeUr/view?usp=sharing)
-
-### **X79 Extreme11**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-3.40|08/15/2016|ASRock|[Download](https://drive.google.com/file/d/1fkR0-JolFdto250nX7HIMqV5o_Cw4ltZ/view?usp=sharing)
-3.30P|08/10/2015|ASRock|[Download](https://drive.google.com/file/d/1Bzb02Hb6gw45a02nXphjTFR-asJQyeWh/view?usp=sharing)
-3.30M|04/10/2015|ASRock|[Download](https://drive.google.com/file/d/1BwYuIEmycSzi9EK5ZqFQ8IDIibkpFnNr/view?usp=sharing)
-3.01|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1poC8wZOkI7WuxMcDDG9kZcmAG-8TAw2o/view?usp=sharing)
-
-## **Socket 1366 Intel X58**
-
-### **X58 Extreme**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.82|04/25/2011|ASRock|[Download](https://drive.google.com/file/d/1HACCNVRWUS_HFcyaJ0Lpf2tCQjW83p-4/view?usp=sharing)
-
-### **X58 Extreme3**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-2.81|04/12/2013|ASRock|[Download](https://drive.google.com/file/d/1UW7P8UFRKLTpild0kLwzRKwvlqBU08F2/view?usp=sharing)
-
-### **X58 Extreme6**
-
-Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
-1.60C|01/24/2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
+6.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18em4X7TWn59vnMFh1Gd8yCV0HPHMSCuB/view?usp=sharing)
 
 ## **Socket 1700 Intel Z690**
 
@@ -465,6 +290,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+17.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19N6uk6-wVUmSbV-3YwUAwtK-jPop1QGh/view?usp=sharing)
 14.06|07/03/2023|ASRock|[Download](https://drive.google.com/file/d/132yw1IqFd_LKredj_1_nRrQVm0FCZAZ-/view?usp=sharing)
 7.01|03/22/2022|ASRock|[Download](https://drive.google.com/file/d/1N7wry3wbJo-xZKbzzu44oc40K36czgIQ/view?usp=sharing)
 5.01|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1kJDiWvP2Xy7HCJDmkh_IXpWozMaBzpwW/view?usp=sharing)
@@ -473,12 +299,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19OAwls3sIgmBjlabEhCgmxWIMY8muNiO/view?usp=sharing)
 5.01|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1ROMa2scBKQa1kmawHM8Y4UqeVqHS_NIY/view?usp=sharing)
 
 ### **Z690 PG Velocita**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+20.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19ephMCQ2D7p0KIyl1EYyRgrepNMT4Ab3/view?usp=sharing)
 15.01|12/14/2022|ASRock|[Download](https://drive.google.com/file/d/12P6syDRxKqUf3yxaPWpLjqNkmhhGNtE4/view?usp=sharing)
 8.02|03/22/2022|ASRock|[Download](https://drive.google.com/file/d/19qEfphVYByPwT7zaxUSQufny5yfs9Kco/view?usp=sharing)
 7.01|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1pBtpEQogvcJy1SLdAiknSK7gCZTdkuaX/view?usp=sharing)
@@ -487,6 +315,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+20.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AfWmnrAcNDgQ8sTQs56ZRJbqLejvrzi_/view?usp=sharing)
 9.02|03/22/2022|ASRock|[Download](https://drive.google.com/file/d/1RTv6R4XtD6tVJUJVczM-ByrQ6qcML1lc/view?usp=sharing)
 8.02|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1V-Aq7y3MyuXhE3qJHj9p5FdLBU5_0lH6/view?usp=sharing)
 
@@ -494,12 +323,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+20.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AekTP4zw8xSahwp-aePUPWztL5kqrVo_/view?usp=sharing)
 8.02|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1xNwdltjS0RK0p3ZVNhetEzp-NdNeDNR-/view?usp=sharing)
 
 ### **Z690 Steel Legend**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AYBckFgHkUWG6sUa2gVZUo-HHlit0PxP/view?usp=sharing)
 15.02|07/11/2023|ASRock|[Download](https://drive.google.com/file/d/13voV9PNOBYurHuSmw_LARk5Vf75zqJ65/view?usp=sharing)
 
 ### **Z690 Steel Legend WiFi 6E**
@@ -507,6 +338,78 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 15.02|07/11/2023|ASRock|[Download](https://drive.google.com/file/d/142oKfX-yNJa3A-yMKOu1nnUfIF-cVDkC/view?usp=sharing)
+
+### **Z690 Steel Legend WiFi 6E/D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AK11ObYvCv-MvRaZsyZIw_lME3sb-prZ/view?usp=sharing)
+
+### **Z690 Steel Legend/D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1Aa2-9BNWU-n71gwJgXwpjmAkVBqG8vjM/view?usp=sharing)
+
+### **Z690 PG Riptide**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19c9R8_LjiJw_GYc5o8KASo2tMM5jNdys/view?usp=sharing)
+
+### **Z690 Phantom Gaming 4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+19.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19kYyeDDQqn_uep4b_OOSadcIiHDhnRGl/view?usp=sharing)
+
+### **Z690 Phantom Gaming 4/D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+16.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19znnz9jkilsco0BscbhgaB8UR2ZrCr0-/view?usp=sharing)
+
+### **Z690 Extreme**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19XbyIiN0LFFfbGySCWTzzk2lXITWNQhq/view?usp=sharing)
+
+### **Z690 Extreme WiFi 6E**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19P3I3sBgI-Q9GWuZo0BBro_wwv-iUL3R/view?usp=sharing)
+
+### **Z690 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.03|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1A8jnD1b-OiqFeyD-dSDWqwcuV4J50hMn/view?usp=sharing)
+
+### **Z690 Phantom Gaming-ITX/TB4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+19.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1A7AEMXcbnVWj1UvJoRE6KHcdf5HT3ywd/view?usp=sharing)
+
+### **Z690M PG Riptide/D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AmDFkLRinGo99eoEM9b6RUfOSZ2Kivg7/view?usp=sharing)
+
+### **Z690M Phantom Gaming 4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+17.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1BEWgiRyArHt9Jl2eng19_GlA0HK0QrNd/view?usp=sharing)
+
+### **Z690M-ITXax**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1BHccNAp2emkGD21BioZWqlZs2ZusqQp_/view?usp=sharing)
 
 ## **Socket 1700 Intel B660**
 
@@ -526,19 +429,102 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+13.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/14QY3ZsCVEi0d1ZKsnlADcu-WPwM6TnH7/view?usp=sharing)
 10.03|07/03/2023|ASRock|[Download](https://drive.google.com/file/d/131Dat4dOUKJe8IXpa5q5c0LE4iLj5VxK/view?usp=sharing)
+
+### **B660M Steel Legend**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+14.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15JhRCVk1LZJGIHEP18zIYNrbJEZM2vC7/view?usp=sharing)
+
+### **B660M-HDV**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15KaiSGpi9NzNnGqY9j-HmmbWn5-YOtIm/view?usp=sharing)
 
 ### **B660M-HDVP/D5**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+12.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15Ojf_bZJB5Rp9iwcBjl-auRtzJNytDWj/view?usp=sharing)
 12.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13Rkuhr73215alC6Aku8CR1EUA05U8pPp/view?usp=sharing)
 
 ### **B660M-HDVP/D5 R2.0**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+12.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15Lr_6my2HlWxHl1y1Yak4vCb-tF5jvmx/view?usp=sharing)
 12.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13YV3lRyJ4eCaPZWKmVkEpK2dwG9GswKE/view?usp=sharing)
+
+### **B660M PG Riptide**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/14fNGMJpg_MXKNd8FZ6wBqZD3vt8mos3y/view?usp=sharing)
+
+### **B660M Phantom Gaming 4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+12.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/14iOch7J-MWHiNu5EDp8numontJlnywat/view?usp=sharing)
+
+### **B660M Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+14.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/14kAYQD-nwxcLBeYZUJ91obHdCjFdlmYb/view?usp=sharing)
+
+### **B660M Pro RS/D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1534UEBD4jxflsMFCutQzvO36maVseezD/view?usp=sharing)
+
+### **B660M Pro RS/ax**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+10.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/14srJdPCzffj7cdeuAp9ZvPnEEC_JbEGh/view?usp=sharing)
+
+### **B660M-ITX/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15UKQhKX_M7M4LhFEy8QZqw5CsxxoeTPd/view?usp=sharing)
+
+### **B660M-ITX/eDP**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15eX3LX3A7-ChnB4AAejZu4EDE8oUrgcV/view?usp=sharing)
+
+## **Socket 1700 Intel H670**
+
+### **H670 PG Riptide**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/196QtHf61FbwKDtPKVrtfTZGzt7BVzb62/view?usp=sharing)
+
+### **H670 Steel Legend**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18mLct_PMoyqK6J8hl_a9hgCWM4FEa5vd/view?usp=sharing)
+
+### **H670M Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+15.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18ltoQbdszKApUCwWNnHd2kZQzvpEVbv7/view?usp=sharing)
+
+### **H670M-ITX/ax**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+17.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18shfmB-CUFtoRbqbYmlaPvjM4WwRQ2yr/view?usp=sharing)
 
 ## **Socket 1700 Intel H610**
 
@@ -1384,6 +1370,291 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 4.20G|10/26/2023|ASRock|[Download](https://drive.google.com/file/d/1BtnvFsgTULOQ7oyEhAKnrOIFv7QgimeO/view?usp=sharing)
+
+## **Socket 2066 Intel X299**
+
+### **Fatal1ty X299 Gaming K6**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.00B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1NqiU7cZ-aPK5FfXGPmbn53vXE4ogGtwt/view?usp=sharing)
+1.30A|08/15/2017|ASRock|[Download](https://drive.google.com/file/d/1JysMlpGs10HZG0lodjKv6ylarZILzs_L/view?usp=sharing)
+1.21|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1gTmqN9xrKwWP6sMOFqxW6ijLcOAkoOc4/view?usp=sharing)
+
+### **Fatal1ty X299 Professional Gaming i9**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.30B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1i3nx1Rgr9F74Kze9q53XO7rOs_CjiV8C/view?usp=sharing)
+1.40A|08/15/2017|ASRock|[Download](https://drive.google.com/file/d/1NsSMVoazbE7l0MZzDx2mqRon72AUFuYm/view?usp=sharing)
+1.28|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1kC9jse278uF6f-ENIW4H9iSBmxhlzAx6/view?usp=sharing)
+
+### **Fatal1ty X299 Professional Gaming i9 XE**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.90C|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1QN9x7zw-aATm6lZxQDaabaC9WD8pJ_Nz/view?usp=sharing)
+
+### **X299 Extreme4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.00C|11/29/2022|ASRock|[Download](https://drive.google.com/file/d/127mZMVLxQDcnneEISCLneQbBtahD9SsC/view?usp=sharing)
+
+### **X299 Creator**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.52C|08/08/2022|ASRock|[Download](https://drive.google.com/file/d/1-567YanGR_wTZ5mT9EoQ5iT8mkGk8eQH/view?usp=sharing)
+1.51|03/14/2022|ASRock|[Download](https://drive.google.com/file/d/1htSeKkNnpmF9oWr9Z_Tqs8ZXR4kOmF7G/view?usp=sharing)
+1.40H|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1o6Zqlh0Ms8N4InMhdj_-9uF9AgIuZ_cK/view?usp=sharing)
+
+### **X299 Killer SLI/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.00B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1yl6TrGuPCJu0r_VmQiq6lq027xw3QEBk/view?usp=sharing)
+1.30A|08/15/2017|ASRock|[Download](https://drive.google.com/file/d/16uEAzpDz7YaXY951_gv0bwft1BOyRSM3/view?usp=sharing)
+1.21|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1V2gr1hB_Jj2ypWVWw82GOTmki7Qv4g16/view?usp=sharing)
+
+### **X299 OC Formula**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.90B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1ZrmwfLRz2MYAjb48Mdsjl5AgRI01Zpu4/view?usp=sharing)
+1.16|09/28/2017|ASRock|[Download](https://drive.google.com/file/d/13TkU-0f6egqg5CPbwOcSEUmBkGC1GVem/view?usp=sharing)
+1.11|09/07/2017|ASRock|[Download](https://drive.google.com/file/d/1i6aqZqnz4x_ZKF1f_0yzHkWIQwL2Doe6/view?usp=sharing)
+
+### **X299 Steel Legend**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.30G|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1CvcW9RWk8hHpekgeuDsAimHvBPQKacZ4/view?usp=sharing)
+
+### **X299 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.50B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1AERkBC4LVG2GE_vXJlhwee-cFohRzNJJ/view?usp=sharing)
+1.60|08/14/2017|ASRock|[Download](https://drive.google.com/file/d/1MgYRaED8AJ4h2HhUTDW6zAB3TnVqv0IW/view?usp=sharing)
+1.48|07/31/2017|ASRock|[Download](https://drive.google.com/file/d/1VMMObBtB9i-qYbMAufDqTvUvAIruCmGs/view?usp=sharing)
+1.41|08/04/2017|ASRock|[Download](https://drive.google.com/file/d/16pMetpbJsphis763PkDQBEknnUgUqo9g/view?usp=sharing)
+
+### **X299 Taichi CLX**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.61|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1mEvLKYYX8hkV61r1UEQw-EeWmuRrKnaZ/view?usp=sharing)
+
+### **X299 Taichi XE**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.90B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1vetGOWrYfngwqO_8X-ZJ0KTRwcLfPigK/view?usp=sharing)
+
+**X299E-ITX/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.20B|07/12/2021|ASRock|[Download](https://drive.google.com/file/d/1lhEn71ZiL-3rxV9v5XK73xRi-3cDqygR/view?usp=sharing)
+1.03|11/02/2017|ASRock|[Download](https://drive.google.com/file/d/1XwAmYa6U__lkAh9hlPHAM6WxhYlV5546/view?usp=sharing)
+
+## **Socket 2011-3 Intel X99**
+
+### **Fatal1ty X99 Professional Gaming i7**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.72|10/22/2019|ASRock|[Download](https://drive.google.com/file/d/1XGPC9b0A8161PdmSGfLLjI0ZqGctJM_1/view?usp=sharing)
+
+### **X99 Extreme3**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.40|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1VUY5VappBUAO1GouM6nT530fBR6ZUrNF/view?usp=sharing)
+
+### **X99 Extreme4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.81|12/12/2018|ASRock|[Download](https://drive.google.com/file/d/1erPAIPoN_PGEmA2RYIOhSYZB21OkggUf/view?usp=sharing)
+3.40|06/06/2016|ASRock|[Download](https://drive.google.com/file/d/1B-K_kYU5MDiIAg60Wp1e1d7zbcGeSuZ1/view?usp=sharing)
+
+### **X99 Extreme4 3.1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.30|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1eCuwm5tW5zY24NlPHyVpstXCYWlds2YQ/view?usp=sharing)
+3.20|06/07/2016|ASRock|[Download](https://drive.google.com/file/d/1lvzTuvaDMIcPG2Xu2CqTcZQ__p4s3Law/view?usp=sharing)
+
+### **X99 Extreme6 3.1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.20|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1REVzRXFSGAaqDyiQEVlhVoS1QS8pSw8Z/view?usp=sharing)
+3.10|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1gWfFOMXFiHkHri37_XHN_VFxegl-edzK/view?usp=sharing)
+
+### **X99 Extreme6 AC**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.97|04/14/2016|ASRock|[Download](https://drive.google.com/file/d/1ZErtzqdzze7bvyK8KuUEQlLxSj0woE-T/view?usp=sharing)
+1.53|02/02/2015|ASRock|[Download](https://drive.google.com/file/d/1a8WzvZcyev-22kNn49e_dPx7TyAzFoJo/view?usp=sharing)
+
+### **X99 Extreme11**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.41|10/23/2019|ASRock|[Download](https://drive.google.com/file/d/1qoSLfRZygBhS6drl6myt-_zy_tImCIaT/view?usp=sharing)
+
+### **X99 OC Formula 3.1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.40|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1-MrE_4XCcoadQkO-RPgXXu8mA6cuhHay/view?usp=sharing)
+
+### **X99 Pro 3.1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.40|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/11l6SI_cxTgaPNv5yKLE-1a_zyk0XZrdD/view?usp=sharing)
+
+### **X99 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.82|10/25/2019|ASRock|[Download](https://drive.google.com/file/d/1t1UcgX7FFP-_9xncur70runybKXg26Zh/view?usp=sharing)
+
+### **X99 WS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.20|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1NmAJb3iQSUJBngGsS7uXu4kEOJKoLkod/view?usp=sharing)
+
+### **X99 WS-E**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.30|06/26/2016|ASRock|[Download](https://drive.google.com/file/d/1J_wJ-EtKw9kk7FBaA5XpBSp-MNDL1qWZ/view?usp=sharing)
+
+### **X99 WS-E 10G**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.30|06/27/2016|ASRock|[Download](https://drive.google.com/file/d/1TW-o32FGSwU6IWj1InO_ZIrFm_CNZgcm/view?usp=sharing)
+
+### **X99E ITX/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.40|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/129O1PtUHrQDpP5iFmwPlGqf6CyDFKVMr/view?usp=sharing)
+3.20|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1yvRQAH5SljVLYbdHI1hSrOioB9Ipxu_u/view?usp=sharing)
+
+### **X99M Extreme4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.10|06/13/2016|ASRock|[Download](https://drive.google.com/file/d/1NdazbHwsjiYL_L8MvOTMHIKkOmTH6nT4/view?usp=sharing)
+
+### **X99M Killer 3.1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+4.01|01/02/2019|ASRock|[Download](https://drive.google.com/file/d/1oou5uwhBrQj3ER8pM98w86pshwerP_Eu/view?usp=sharing)
+3.50|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1OlvUC5SjE3sGZBk6Pg3xLidk3xgit1BO/view?usp=sharing)
+3.40|06/17/2016|ASRock|[Download](https://drive.google.com/file/d/1XqDSoqojQHOM6v8WXxFdYBE2DRDeREv6/view?usp=sharing)
+
+### **X99X Killer 3.1**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.20|08/03/2016|ASRock|[Download](https://drive.google.com/file/d/1MRWu6fWLFHMd8b0Q1j91AtPzbw0PWTi-/view?usp=sharing)
+3.10|07/01/2016|ASRock|[Download](https://drive.google.com/file/d/1GkA0x8xJlq-iRHc-WyGmVYfB0jEnNWjV/view?usp=sharing)
+
+## **Socket 2011 Intel X79**
+
+### **Fatal1ty X79 Champion**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.62|02/14/2014|ASRock|[Download](https://drive.google.com/file/d/1Dqzf0No7aQMzNqlxcb3vYldVV1jsW5c5/view?usp=sharing)
+2.61|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1soVexltcG-rlNHY_6PZLqWhT9sB0VdUw/view?usp=sharing)
+2.41|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1XWhGjjttBy_G0hvOb2eQZCbN6_1MUBUS/view?usp=sharing)
+
+### **X79 Extreme3**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.90|01/11/2017|ASRock|[Download](https://drive.google.com/file/d/1tVgoeu7AFFL8pBS8wGCCX-cwVt7ulASs/view?usp=sharing)
+2.61|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1UmNEg_LEhtzMhjrmEwsCAgc0DT8X8i9B/view?usp=sharing)
+
+### **X79 Extreme4**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.21|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1hgBLELOzPHd_OBiLfYyVInVpIHzfuH4b/view?usp=sharing)
+
+### **X79 Extreme4 M**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.40|03/10/2018|ASRock|[Download](https://drive.google.com/file/d/1p76N2IZusYt910ZLmZv-6kutGtegTEfH/view?usp=sharing)
+3.05|09/16/2013|ASRock|[Download](https://drive.google.com/file/d/1LfgdnxyrxYgFer61CGEt3Nl8kK46N6tu/view?usp=sharing)
+3.01|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1QndQXyQ7F2ozY7LNPLOWVPT0XeSSUB25/view?usp=sharing)
+
+### **X79 Extreme6**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.45|09/05/2013|ASRock|[Download](https://drive.google.com/file/d/1N-7bkIBB8lhvHGeKDMykOftaf6Rw5HUH/view?usp=sharing)
+2.41|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1b-aRSkBsycnEV6tVwfVhLnqiKNfVlkZG/view?usp=sharing)
+
+### **X79 Extreme6 GB**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.31|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1o_2iTOZqnp0g6Fk0y7JH6nZrYyfJ8e6C/view?usp=sharing)
+
+### **X79 Extreme7**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.01|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/19ysWsRyapWQwG855xTpqsPEbJ_9qCdF9/view?usp=sharing)
+
+### **X79 Extreme9**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.61|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1fjwLIkwUQ_krezmYWjczdFDyllobFeUr/view?usp=sharing)
+
+### **X79 Extreme11**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.40|08/15/2016|ASRock|[Download](https://drive.google.com/file/d/1fkR0-JolFdto250nX7HIMqV5o_Cw4ltZ/view?usp=sharing)
+3.30P|08/10/2015|ASRock|[Download](https://drive.google.com/file/d/1Bzb02Hb6gw45a02nXphjTFR-asJQyeWh/view?usp=sharing)
+3.30M|04/10/2015|ASRock|[Download](https://drive.google.com/file/d/1BwYuIEmycSzi9EK5ZqFQ8IDIibkpFnNr/view?usp=sharing)
+3.01|08/10/2013|ASRock|[Download](https://drive.google.com/file/d/1poC8wZOkI7WuxMcDDG9kZcmAG-8TAw2o/view?usp=sharing)
+
+## **Socket 1366 Intel X58**
+
+### **X58 Extreme**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.82|04/25/2011|ASRock|[Download](https://drive.google.com/file/d/1HACCNVRWUS_HFcyaJ0Lpf2tCQjW83p-4/view?usp=sharing)
+
+### **X58 Extreme3**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.81|04/12/2013|ASRock|[Download](https://drive.google.com/file/d/1UW7P8UFRKLTpild0kLwzRKwvlqBU08F2/view?usp=sharing)
+
+### **X58 Extreme6**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.60C|01/24/2013|ASRock|[Download](https://drive.google.com/file/d/1UQeTsn9uIgLo2qZvIYhho2KNuTVQlzRQ/view?usp=sharing)
 
 ## **Socket 1151 Intel Z270**
 
