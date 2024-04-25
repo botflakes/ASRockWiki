@@ -2,6 +2,10 @@
 All notable changes to the Wiki will be documented in this file from now on.  
 Could've thought about it earlier but better late then never
 
+## [04/25/2024]
+
+Added latest AMD 600 Series Motherboard Beta BIOSes
+
 ## [02/26/2024]
 
 First update of the year. Finally had time to add all recently released Beta BIOSes
