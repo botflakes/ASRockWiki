@@ -741,6 +741,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+5.61|04/25/2024|ASRock|[Download](https://drive.google.com/file/d/1CKK90ZpClMYDa74l81aNOiBLe2Ey_VqG/view?usp=sharing)
 5.41|10/14/2023|ASRock|[Download](https://drive.google.com/file/d/1AjqG5ZMafHuzU__WRHmZlAd_I3tVxeiD/view?usp=sharing)
 5.21|06/26/2023|ASRock|[Download](https://drive.google.com/file/d/1US4-DQ1AK0_w8GBGl7DiQ2WNnQn-vKJB/view?usp=sharing)
 5.01|06/27/2023|ASRock|[Download](https://drive.google.com/file/d/10klUToWO78fzzIT1wX9-HYPkUi0l3iHL/view?usp=sharing)
@@ -1153,6 +1154,12 @@ Revision|Release|Source|Mirror 1
 1.82|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1V8N_uyk4cWh1FSZnpe_vSQKw2fWVBELm/view?usp=sharing)
 1.15A|08/03/2020|ASRock|[Download](https://drive.google.com/file/d/1v1Q3vEQeG0EyW_cVBwICeE-FoBEDIYGs/view?usp=sharing)
 1.10A|07/29/2020|ASRock|[Download](https://drive.google.com/file/d/1ADeFx26oPwH_pbYwGzoXb4alPT5GlzSr/view?usp=sharing)
+
+### **B550M Pro SE**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.41|04/25/2024|ASRock|[Download](https://drive.google.com/file/d/1CWbjFWg8DCwmqXdKJ01j9Nj4qC1vV6W6/view?usp=sharing)
 
 ### **B550M-ITX/ac** 
 
