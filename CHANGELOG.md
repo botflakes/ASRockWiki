@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to the Wiki will be documented in this file from now on.  
-Could've thought about it earlier but better late then never
+
+## [05/07/2024]
+
+Added latest AMD 500 and Intel 700 Series Motherboard Beta BIOSes
 
 ## [04/25/2024]
 
