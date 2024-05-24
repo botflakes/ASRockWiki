@@ -4,6 +4,8 @@ title: Modified OCuLink Cable for PCIe Devices
 #parent: Guides
 ---
 
+# Modifed OCuLink Cable for PCIe devices to work with OCuLink Ports - X570D4I-2T (Possibly Other Asrock Motherboards)
+
 {: .important }
 > This Guide was written by our Community Member u/Calpulz. 
 
@@ -35,3 +37,47 @@ However, when using a specialized Supermicro cable designed for U.2 SSDs (OCuLin
 * Non-Working Setup Using Standard OCuLink Cable: Connecting PCIe devices through an OCuLink x4 cable directly to an OCuLink to PCIe x16 slot adapter results in failure of device recognition or operation.
 
 * Working Setup Using Supermicro Cable: Using a Supermicro cable (OCuLink to U.2) and a series of adapters (U.2 to M.2, M.2 to OCuLink), then reconnecting to a standard OCuLink cable to the PCIe x16 adapter, the devices work correctly. This setup essentially replicates a male-to-male OCuLink cable using multiple adapters.
+
+## Technical Analysis and Resolution
+
+* Pinout Differences Identified: Using a multi-meter, significant differences in pinouts were found between the standard OCuLink cable and the Supermicro cable with multiple adapters. These discrepancies suggest unique wiring configurations in the Supermicro cable that affect functionality.
+
+* Modification of Standard OCuLink Cable: By modifying the pinout of a standard OCuLink cable (specifically cutting certain traces and bridging others), it was possible to replicate the functional characteristics of the working setup. This modification allowed the standard cable to work correctly with the OCuLink port and the PCIe adapter board.
+
+{: .warning}
+> Note: The modified cable is now directional, and reversing its direction has not been tested and could cause damage!!!
+
+## Detailed Analysis and Findings
+
+In a typical OCuLink cable, A pins 1-21 are connected to corresponding B pins at the other end and vice versa, with some exceptions for ground pins. Some OCuLink cables differ and A1, A21, B1, B21 will not be connected. My specific cable had these connected.
+
+Analysis using a multi-meter, physical examination of the cable's internal PCB and comparison to a standard OCuLink cable revealed problematic connections at pins A1, A9, A10, A21, B1, B11, B13, and B21. (Figure 2 & 3)
+
+## Modifications to Standard OCuLink Cable
+
+All changes were made to one end of the standard OCuLink cable, specifically the male end connecting to the motherboard, making the cable now directional! (Figure 1, Figure 4, Figure 5)
+
+* Unclip plastic casing around the male connector to reveal the PCB and pins
+* A1, A9, A10, A21, B1, B11, B13, B21 - Disconnected by snipping wires and cutting traces
+* B13 - Connected to ground by bridging to adjacent ground pin B14, soldering pins together
+* Superglue was used to cover over any exposed copper when cutting PCB traces
+* Clip back together the casing around the male connector
+
+## Final Result
+
+With these modifications, the standard OCuLink cable replicates the functionality of the custom assembly, allowing PCIe devices to operate correctly using the modified cable and PCIe adapter board. (Figure 6)
+
+{: .important }
+> The modified end of the cable must always connect to the motherboard.
+
+## Links
+
+* Supermicro Cable - https://store.supermicro.com/supermicro-55cm-oculink-to-u-2-pcie-with-power-cable-cbl-sast-0956.html
+* Standard OCuLink Cable - https://amzn.eu/d/3sMGvP2
+* OCuLink to PCIe x16 (x4) - https://amzn.eu/d/8iHGcK0
+* U.2 to M.2 Adapter Board - https://amzn.eu/d/emLWG5c
+* M.2 to OCuLink Adapter Board - https://amzn.eu/d/7eNcmkc
+
+## References
+
+![Alt](/assets/images/wiki/ocuGuide/ocuFig1.webp)
