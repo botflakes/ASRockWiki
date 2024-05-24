@@ -72,11 +72,11 @@ With these modifications, the standard OCuLink cable replicates the functionalit
 
 ## Links
 
-* Supermicro Cable - https://store.supermicro.com/supermicro-55cm-oculink-to-u-2-pcie-with-power-cable-cbl-sast-0956.html
-* Standard OCuLink Cable - https://amzn.eu/d/3sMGvP2
-* OCuLink to PCIe x16 (x4) - https://amzn.eu/d/8iHGcK0
-* U.2 to M.2 Adapter Board - https://amzn.eu/d/emLWG5c
-* M.2 to OCuLink Adapter Board - https://amzn.eu/d/7eNcmkc
+* Supermicro Cable - [https://store.supermicro.com/supermicro-55cm-oculink-to-u-2-pcie-with-power-cable-cbl-sast-0956.html](https://store.supermicro.com/supermicro-55cm-oculink-to-u-2-pcie-with-power-cable-cbl-sast-0956.html)
+* Standard OCuLink Cable - [https://amzn.eu/d/3sMGvP2](https://amzn.eu/d/3sMGvP2)
+* OCuLink to PCIe x16 (x4) - [https://amzn.eu/d/8iHGcK0](https://amzn.eu/d/8iHGcK0)
+* U.2 to M.2 Adapter Board - [https://amzn.eu/d/emLWG5c](https://amzn.eu/d/emLWG5c)
+* M.2 to OCuLink Adapter Board - [https://amzn.eu/d/7eNcmkc](https://amzn.eu/d/7eNcmkc)
 
 ## References
 
