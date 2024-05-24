@@ -80,4 +80,4 @@ With these modifications, the standard OCuLink cable replicates the functionalit
 
 ## References
 
-![Fig. 1](/assets/images/wiki/ocuGuide/ocuFig1.png)
+![Fig. 1](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig1.png)
