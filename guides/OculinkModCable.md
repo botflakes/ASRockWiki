@@ -81,14 +81,20 @@ With these modifications, the standard OCuLink cable replicates the functionalit
 ## References
 
 ![Figure 1 - Standard OCuLink Cable and Modified OCuLink Cable pinout](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig1.png)
+> Figure 1 - Standard OCuLink Cable and Modified OCuLink Cable pinout  
 
 ![alt](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig2.png)  
-![Figure 2 - Examine Supermicro OCuLink to U.2 Cable (missing connections) - B Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig3.png)
+![Figure 2 - Examine Supermicro OCuLink to U.2 Cable (missing connections) - B Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig3.png)  
+> Figure 2 - Examine Supermicro OCuLink to U.2 Cable (missing connections) - B Side
 
-![Figure 3 - Examine Supermicro OCuLink to U.2 Cable (missing connections) - A Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig4.png)
+![Figure 3 - Examine Supermicro OCuLink to U.2 Cable (missing connections) - A Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig4.png)  
+> Figure 3 - Examine Supermicro OCuLink to U.2 Cable (missing connections) - A Side
 
-![Figure 4 - Modifications to Standard OCuLink Cable - B Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig5.png)
+![Figure 4 - Modifications to Standard OCuLink Cable - B Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig5.png)  
+> Figure 4 - Modifications to Standard OCuLink Cable - B Side
 
-![Figure 5 - Modifications to Standard OCuLink Cable - A Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig6.png)
+![Figure 5 - Modifications to Standard OCuLink Cable - A Side](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig6.png)  
+> Figure 5 - Modifications to Standard OCuLink Cable - A Side
 
-![Figure 6 - Final Assembly with modified OCuLink cable](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig7.png)
+![Figure 6 - Final Assembly with modified OCuLink cable](/asrockwiki/assets/images/wiki/ocuGuide/ocuFig7.png)  
+> Figure 6 - Final Assembly with modified OCuLink cable
