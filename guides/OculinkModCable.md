@@ -4,11 +4,12 @@ title: Modified OCuLink Cable for PCIe Devices
 #parent: Guides
 ---
 
-{: .notice }
+{: .important }
 > This Guide was written by our Community Member u/Calpulz. 
 
 {: .warning }
-> We're not responsible for any damage that may happen to your board! Only follow this guide if you understand the risks and are confident in doing it!
+> We're not responsible for any damage that may happen to your board!
+> Only follow this guide if you understand the risks and are confident in doing it!
 
 ## Intro
 
@@ -20,8 +21,8 @@ However after trying various different cables and adapters, nothing worked throu
 
 So I purchased one along with some adapters to find out whats different about this cable from Supermicro. I then modified a standard OCuLink cable so that it works with the motherboard and PCIe x16 adapter board.
 
-> Motherboard: Asrock Rack X570D4I-2T  
-> CPU: Ryzen 9 5900x
+* Motherboard: Asrock Rack X570D4I-2T  
+* CPU: Ryzen 9 5900x
 
 ## Problem Overview
 
