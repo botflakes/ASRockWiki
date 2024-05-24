@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Modified OCuLink Cable for PCIe Devices
+title: Modified OCuLink Cable
 parent: Guides
 ---
 
-# Modifed OCuLink Cable for PCIe devices to work with OCuLink Ports - X570D4I-2T (Possibly Other Asrock Motherboards)
-
-{: .important }
-> This Guide was written by our Community Member u/Calpulz. 
+# Modifed OCuLink Cable for PCIe devices to work with OCuLink Ports - X570D4I-2T (Possibly Other ASRock Motherboards)
 
 {: .warning }
 > We're not responsible for any damage that may happen to your board!
 > Only follow this guide if you understand the risks and are confident in doing it!
 
+{: .important }
+> This Guide was written by our Community Member u/Calpulz. 
+
 ## Intro
 
-For the past few weeks, I have been trying to get PCIe devices such as GPU, HBA, WiFi Cards, etc to work through my Asrock Rack X570D4I-2T OCuLink port.
+For the past few weeks, I have been trying to get PCIe devices such as GPU, HBA, WiFi Cards, etc to work through my ASRock Rack X570D4I-2T OCuLink port.
 
 I am building a custom ITX server and require more SATA drives then the 8 this motherboard supports. So I want to run a HBA through the OCuLink port using a OCuLink to PCIe x16 adapter board (x4 bandwidth).
 
@@ -23,8 +23,8 @@ However after trying various different cables and adapters, nothing worked throu
 
 So I purchased one along with some adapters to find out whats different about this cable from Supermicro. I then modified a standard OCuLink cable so that it works with the motherboard and PCIe x16 adapter board.
 
-* Motherboard: Asrock Rack X570D4I-2T  
-* CPU: Ryzen 9 5900x
+* Motherboard: ASRock Rack X570D4I-2T  
+* CPU: AMD Ryzen 9 5900X
 
 ## Problem Overview
 
