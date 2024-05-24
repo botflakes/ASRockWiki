@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modified OCuLink Cable for PCIe Devices
-#parent: Guides
+parent: Guides
 ---
 
 # Modifed OCuLink Cable for PCIe devices to work with OCuLink Ports - X570D4I-2T (Possibly Other Asrock Motherboards)
@@ -80,4 +80,4 @@ With these modifications, the standard OCuLink cable replicates the functionalit
 
 ## References
 
-![Alt](assets/images/wiki/ocuGuide/ocuFig1.webp)
+![Fig. 1](assets/images/wiki/ocuGuide/ocuFig1.webp)
