@@ -9,6 +9,11 @@ nav_order: 7
 >
 > All notable changes to the Wiki will be documented in this file from now on.
 
+## [05/29/2024]
+
+Added latest Intel 600 Series Motherboard Beta BIOSes
+Added TSD Docs
+
 ## [05/24/2024]
 
 Added lastest Intel 600 and 700 Series Motherboard Beta BIOSes

@@ -487,6 +487,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SHdwVvfTwxRGGebPNJTQiudwV4btDF9-/view?usp=sharing)
 17.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19N6uk6-wVUmSbV-3YwUAwtK-jPop1QGh/view?usp=sharing)
 14.06|07/03/2023|ASRock|[Download](https://drive.google.com/file/d/132yw1IqFd_LKredj_1_nRrQVm0FCZAZ-/view?usp=sharing)
 7.01|03/22/2022|ASRock|[Download](https://drive.google.com/file/d/1N7wry3wbJo-xZKbzzu44oc40K36czgIQ/view?usp=sharing)
@@ -496,6 +497,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.02|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SIi99Sbu8oDSjaimF47eZHvmk0zRMAym/view?usp=sharing)
 16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19OAwls3sIgmBjlabEhCgmxWIMY8muNiO/view?usp=sharing)
 5.01|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1ROMa2scBKQa1kmawHM8Y4UqeVqHS_NIY/view?usp=sharing)
 
@@ -503,6 +505,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+20.05|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SQBnF5JU-pWdiaYB-FDGTfixRNmhjEql/view?usp=sharing)
 20.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19ephMCQ2D7p0KIyl1EYyRgrepNMT4Ab3/view?usp=sharing)
 15.01|12/14/2022|ASRock|[Download](https://drive.google.com/file/d/12P6syDRxKqUf3yxaPWpLjqNkmhhGNtE4/view?usp=sharing)
 8.02|03/22/2022|ASRock|[Download](https://drive.google.com/file/d/19qEfphVYByPwT7zaxUSQufny5yfs9Kco/view?usp=sharing)
@@ -512,6 +515,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+20.05|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SiHuDjx25UkY_7Ig7YfwES06q2nd43vU/view?usp=sharing)
 20.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AfWmnrAcNDgQ8sTQs56ZRJbqLejvrzi_/view?usp=sharing)
 9.02|03/22/2022|ASRock|[Download](https://drive.google.com/file/d/1RTv6R4XtD6tVJUJVczM-ByrQ6qcML1lc/view?usp=sharing)
 8.02|02/22/2022|ASRock|[Download](https://drive.google.com/file/d/1V-Aq7y3MyuXhE3qJHj9p5FdLBU5_0lH6/view?usp=sharing)
@@ -527,6 +531,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SQQmo66wDY8HvFc6fxBEwFW8F8VhqyZ7/view?usp=sharing)
 18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AYBckFgHkUWG6sUa2gVZUo-HHlit0PxP/view?usp=sharing)
 15.02|07/11/2023|ASRock|[Download](https://drive.google.com/file/d/13voV9PNOBYurHuSmw_LARk5Vf75zqJ65/view?usp=sharing)
 
@@ -546,12 +551,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1Samxviwo-6uYRFDftoUfmIH-481G72vz/view?usp=sharing)
 18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1Aa2-9BNWU-n71gwJgXwpjmAkVBqG8vjM/view?usp=sharing)
 
 ### **Z690 PG Riptide**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SOX7jWofUG1kWrLxmdTW0iXJ4dLYWqLg/view?usp=sharing)
 18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19c9R8_LjiJw_GYc5o8KASo2tMM5jNdys/view?usp=sharing)
 
 ### **Z690 Phantom Gaming 4**
@@ -572,6 +579,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.04|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SJg3AwSwwDRnEoanAnhGQm_QQczJtX0U/view?usp=sharing)
 18.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/19XbyIiN0LFFfbGySCWTzzk2lXITWNQhq/view?usp=sharing)
 
 ### **Z690 Extreme WiFi 6E**
@@ -598,6 +606,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+16.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SjE4CKkSq2BIEvntDmWtJ4FaaHVOVS6S/view?usp=sharing)
 16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1AmDFkLRinGo99eoEM9b6RUfOSZ2Kivg7/view?usp=sharing)
 
 ### **Z690M Phantom Gaming 4**
@@ -607,10 +616,11 @@ Revision|Release|Source|Mirror 1
 17.02|05/24/2024|ASRock|[Download](https://drive.google.com/file/d/1RToPpAyB690o6AuLxl0PLBg1nNr34Omc/view?usp=sharing)
 17.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1BEWgiRyArHt9Jl2eng19_GlA0HK0QrNd/view?usp=sharing)
 
-### **Z690M-ITXax**
+### **Z690M-ITX/ax**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+18.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SjQweNkfzTBB5X0G-4kL8jxCq68FyF6q/view?usp=sharing)
 18.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/1BHccNAp2emkGD21BioZWqlZs2ZusqQp_/view?usp=sharing)
 
 ## **Socket 1700 Intel B660**
@@ -655,6 +665,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+13.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1StHL0fYz_pRnhoMpGd-YJKlD--urItGR/view?usp=sharing)
 12.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15Ojf_bZJB5Rp9iwcBjl-auRtzJNytDWj/view?usp=sharing)
 12.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13Rkuhr73215alC6Aku8CR1EUA05U8pPp/view?usp=sharing)
 
@@ -662,6 +673,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+13.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SqRxFFuAoC-KCvP2T4NXsy6JEaj6s1Ld/view?usp=sharing)
 12.02|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15Lr_6my2HlWxHl1y1Yak4vCb-tF5jvmx/view?usp=sharing)
 12.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13YV3lRyJ4eCaPZWKmVkEpK2dwG9GswKE/view?usp=sharing)
 
@@ -704,12 +716,14 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1SwkKjFuO63R8gKedBX0jw6iV__bNF674/view?usp=sharing)
 11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15UKQhKX_M7M4LhFEy8QZqw5CsxxoeTPd/view?usp=sharing)
 
 ### **B660M-ITX/eDP**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1T-aVUmxaD7Krh0bfzs9rHRWEKtQuE66e/view?usp=sharing)
 11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/15eX3LX3A7-ChnB4AAejZu4EDE8oUrgcV/view?usp=sharing)
 
 ## **Socket 1700 Intel H670**
@@ -718,39 +732,110 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+16.02|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1T7t7vBnQFVSTmvfz2C_J0s_wp1aKGB4g/view?usp=sharing)
 16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/196QtHf61FbwKDtPKVrtfTZGzt7BVzb62/view?usp=sharing)
 
 ### **H670 Steel Legend**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+16.02|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1TC5rIUypVTJo7keHdHifWU6erGZW7Hmh/view?usp=sharing)
 16.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18mLct_PMoyqK6J8hl_a9hgCWM4FEa5vd/view?usp=sharing)
 
 ### **H670M Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+15.02|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1TCNhcdo-S4o7wR0Mb08-dheeCKqA9DjX/view?usp=sharing)
 15.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18ltoQbdszKApUCwWNnHd2kZQzvpEVbv7/view?usp=sharing)
 
 ### **H670M-ITX/ax**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+17.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1TMkQbwK0y1iGy5iNgpIPf30s2vY8U6HW/view?usp=sharing)
 17.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/18shfmB-CUFtoRbqbYmlaPvjM4WwRQ2yr/view?usp=sharing)
 
 ## **Socket 1700 Intel H610**
 
-### **H610M-HDVP/D5 R2.0**
+### **H610M/ac**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-13.01|03/22/2024|ASRock|[Download](https://drive.google.com/file/d/13goxIRvvHMtteda9hObiJuo_6z3a7QeK/view?usp=sharing)
+18.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1Tvlh7kOqCQUe4_7w0qgFDIHZ3K9RNBUT/view?usp=sharing)
+
+### **H610M-H2/M.2**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1U052CVar3HzlBsVoW9XuOtpRLAMHVglL/view?usp=sharing)
+
+### **H610M-H2/M.2 D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.05|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1TwrUazX05BLk14Hvpje81XBpiG4LOb7M/view?usp=sharing)
 
 ### **H610M-HDV**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-5.02|05/27/2022|ASRock|[Download](https://drive.google.com/file/d/11J2SnPq88OzsxJ40LDHraIPprEJxx8-f/view?usp=sharing)
+15.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1U4aRbFShWrcAR-efDlp6w1MMxGmFwbcm/view?usp=sharing)
+5.02|05/28/2022|ASRock|[Download](https://drive.google.com/file/d/11J2SnPq88OzsxJ40LDHraIPprEJxx8-f/view?usp=sharing)
+
+### **H610M-HDV/M.2+ D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.05|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1U0crHGHhJiwmfoDMRwa8O46q6blkh-De/view?usp=sharing)
+
+### **H610M-HDVP D5**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+14.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1UD1E0uUO5fe_AH0cjyeUZPki2_WqceYv/view?usp=sharing)
+
+### **H610M-HDVP D5 R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+13.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/13goxIRvvHMtteda9hObiJuo_6z3a7QeK/view?usp=sharing)
+
+### **H610M-HVS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+15.03|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1UCYsVUe0YoLdC5LapC5PfoBOd-09f2yv/view?usp=sharing)
+
+### **H610M-HVS/M.2 R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.05|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1Us6cDxHbsHx4-EkLSxF7d43BTg7p2MHn/view?usp=sharing)
+
+### **H610M-ITX/ac**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+11.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1UQeJEpVjnAw6wO4IUh_l6HGn8Hw2bvRm/view?usp=sharing)
+
+### **H610M-ITX/eDP**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+10.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1UJCsSvXFtCmecoUyxIJQCyLr_HmPFDXb/view?usp=sharing)
+
+### **H610M-HDV/M.2**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+18.01|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1UhYnGeeji4MQRkjAX-v60UFMy2-mVdu5/view?usp=sharing)
+
+### **H610M-HDV/M.2 R2.0**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.05|05/29/2024|ASRock|[Download](https://drive.google.com/file/d/1UYkKT8XdpEY0_Fp0LYmYxNKlLER5y-ZN/view?usp=sharing)
 
 ## **Socket 1200 Intel Z590**
 
