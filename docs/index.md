@@ -10,5 +10,6 @@ Technical Notes & other important Stuff
 
 File|Release|Mirror
 :--|:--|:--  
-Limited Support SSD List.pdf|February 23, 2023|[View](Limited%20Support%20SSD%20List.pdf)
-Technical Notes - Storage Device Compatibility.pdf|December 28, 2022|[View](Technical%20NNotes%20-%20Storage%20Device%20Compatibility.pdf)
+Technical Notes - Storage Device Compatibility.pdf|Jan. 09, 2024|[view](tsd_notes_storage_device_jan_09_2024.pdf)
+Technical Notes - Storage Device Compatibility.pdf|Feb. 23, 2023|[View](tsd_notes_storage_device_feb_23_2023.pdf)
+Technical Notes - Storage Device Compatibility.pdf|Dec. 28, 2022|[View](tsd_notes_storage_device_dec_28_2022.pdf)
