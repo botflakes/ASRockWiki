@@ -82,6 +82,13 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.11|04/28/2021|ASRock|[Download](https://drive.google.com/file/d/1jer3VGzPD8UuR6Pig-WnnbfKFCIJqE1B/view?usp=sharing)
 
+### **DeskMini 110 - H110M-STX**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+7.60K|06/13/2018|ASRock|[Download](https://drive.google.com/file/d/1thzAITIc_zz6Qao7WMeQavcOh3DiH7qh/view?usp=sharing)
+1.41|09/14/2016|ASRock|[Download](https://drive.google.com/file/d/1-rjS5wyYdRPp5Qk8zSuxVTHBxHbalscC/view?usp=sharing)
+
 ## **Jupiter - AMD Based**
 
 ### Jupiter X300
