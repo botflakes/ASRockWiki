@@ -27,6 +27,8 @@ nav_order: 3
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.80.RC02.SS01|00/00/0000|ASRock|[Download](https://drive.google.com/file/d/1_zDMsQNQTXyc7FCwgD6DSBHucQWzk8uB/view?usp=sharing)
+1.80.RC02.SL01|00/00/0000|ASRock|[Download](https://drive.google.com/file/d/1_oOS40jtfYKHwAqFbsW3hRWH-BU9Do8J/view?usp=sharing)
 1.80.RC02|04/22/2024|ASRock|[Download](https://drive.google.com/file/d/1By9LJUDCgygz0mQQvA0zcuvy94iGA0ur/view?usp=sharing)
 1.80.RC01|01/05/2024|ASRock|[Download](https://drive.google.com/file/d/1T6UN-z2EX71LDEj9X8UoG_DhHrfQhkZm/view?usp=sharing)
 1.80F|05/11/2023|ASRock|[Download](https://drive.google.com/file/d/17gf7PHv691PRixbciD3Mf1KNBJiwkm8O/view?usp=sharing)
@@ -39,6 +41,8 @@ Revision|Release|Source|Mirror 1
 1.76|04/06/2022|ASRock|[Download](https://drive.google.com/file/d/1Cf0LB12KapzSmKn9-k5fI86w1knZmJ54/view?usp=sharing)
 1.72|10/08/2021|ASRock|[Download](https://drive.google.com/file/d/1M5ZrIHDw1o4m_X2FGJoah1rIVmWqC05r/view?usp=sharing)
 1.70B|08/30/2021|ASRock|[Download](https://drive.google.com/file/d/1TcClu7PVu9SUe2_ZXvrx7r7iBSqlyRu3/view?usp=sharing)
+1.61|00/00/0000|ASRock|[Download](https://drive.google.com/file/d/1_huNnUmOuemzAMiR2cJ-G9MmR4--iKt7/view?usp=sharing)
+1.60W|00/00/0000|ASRock|[Download](https://drive.google.com/file/d/1_jcPqhJyJ0Cx69VKPl8XfBOwF2xMAupz/view?usp=sharing)
 1.58|03/26/2021|ASRock|[Download](https://drive.google.com/file/d/1mIfZlW7Tm808C1UxX0vz543LUpMscQfB/view?usp=sharing)
 1.46G|01/12/2021|ASRock|[Download](https://drive.google.com/file/d/1eFmQtv1DoazaYMk1GRR0SYBEU3EW10HQ/view?usp=sharing)
 1.46E|01/05/2021|ASRock|[Download](https://drive.google.com/file/d/1nXuh4wK1JTVosSFiJG8xZq9H-st02RcA/view?usp=sharing)
@@ -55,6 +59,7 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.71A|07/07/2022|ASRock|[Download](https://drive.google.com/file/d/11XfQ7ZpIimZ65yXhmRtXCiu58f6JARt_/view?usp=sharing)
+3.70E|00/00/0000|ASRock|
 3.70B|03/29/2021|ASRock|[Download](https://drive.google.com/file/d/1-KZaOi7p-HRQrJXmEC0r4oGGG0kRAtsz/view?usp=sharing)
 3.63**|08/24/2020|ASRock|[Download](https://drive.google.com/file/d/1u-o0iPc1isO7L7Na-0qjAad7O0oxvNN_/view?usp=sharing)
 3.60U*|09/02/2020|ASRock|[Download](https://drive.google.com/file/d/1gXsieXivS5ZcD1jXWA9OzBF73mpZtp4W/view?usp=sharing)
