@@ -79,7 +79,7 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 ### **Software**
 
 * [**OpenRGB**](https://openrgb.org) - Alternative RGB Software
-* [**DBGLED**](https://cdn.botflakes.de/subreddit/asrock/tools/DBGLED.zip) - Tool to disable the Debug Display on ASRock AM5 boards when booted
+* [**DBGLED**](https://drive.google.com/file/d/1-2fj0eNLkWMBz5Mm_hj0T1_PFx5cBpCg/view?usp=sharing) - Tool to disable the Debug Display on ASRock AM5 boards when booted
 
 ### **ASRock Dynamic Lightning Firmware**
 
