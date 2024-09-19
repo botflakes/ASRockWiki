@@ -39,16 +39,13 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 
-
 ### **X870 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 
-
 ### **X870 PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
-
 
 ### **X870 Pro RS WiFi**
 
