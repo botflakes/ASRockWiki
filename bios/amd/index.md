@@ -30,32 +30,30 @@ nav_order: 1
 ### **X870E Taichi**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
 
 ### **X870E Taichi Lite**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
 
 ### **X870E Nova WiFi**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
+
 
 ### **X870 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
+
 
 ### **X870 PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
+
 
 ### **X870 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
+
 
 ## **Socket AM5 AMD X670**
 
