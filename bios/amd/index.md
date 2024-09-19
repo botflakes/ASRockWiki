@@ -23,7 +23,39 @@ nav_order: 1
 
 ## Quick Nav
 
-[X670](#socket-am5-amd-x670) - [B650](#socket-am5-amd-b650) - [A620](#socket-am5-amd-a620)- [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
+[X870](#socket-am5-amd-x870) - [X670](#socket-am5-amd-x670) - [B650](#socket-am5-amd-b650) - [A620](#socket-am5-amd-a620) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
+
+## **Socket AM5 AMD X870**
+
+### **X870E Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **X870E Taichi Lite**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **X870E Nova WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **X870 Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **X870 PG Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **X870 Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
 
 ## **Socket AM5 AMD X670**
 
