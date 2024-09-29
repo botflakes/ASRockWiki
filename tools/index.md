@@ -30,19 +30,18 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 
 ### **Benchmarking**
 
-* [**3DMark**](https://store.steampowered.com/app/223850/3DMark/) - CPU+GPU Benchmark. Demo is available. Full suite costs
+* [**3DMark**](https://store.steampowered.com/app/223850/3DMark/) - CPU + GPU Benchmark. Demo is available. Full suite costs
 * [**BenchMate**](https://benchmate.org/) - Combines pretty much every major benchmark program
-* [**Cinebench R20**](http://http.maxon.net/pub/cinebench/CinebenchR20.zip) - CPU Benchmark
-* [**Cinebench R23**](https://installer.maxon.net/installer/23.110_RB330286/Cinema4D-23.110_Win_Fullinstaller.exe) - CPU Benchmark
+* [**Cinebench R24**](https://www.maxon.net/de/downloads/cinebench-2024-downloads) - CPU + GPU Benchmark
 * [**Unigine Heaven**](https://benchmark.unigine.com/heaven) - GPU Benchmark
-* [**CrystalDiskMark**](https://crystalmark.info/en/download/) - Benchmark for Hard Disk- and Solid State Drives
+* [**CrystalDiskMark**](https://crystalmark.info/en/download/) - Benchmark for Hard Disk-,Solid State Drives and NVMe's
 * [**Blender Benchmark**](https://opendata.blender.org/) - CPU Benchmark
-* [**y-cruncher Benchmark**](http://www.numberworld.org/y-cruncher/) - GPU Benchmark
+* [**y-cruncher Benchmark**](http://www.numberworld.org/y-cruncher/) - CPU Benchmark
 * [**Unigine Superposition**](https://benchmark.unigine.com/superposition) - GPU Benchmark
 
 ### **Stress Testing**
 
-* [**OCCT**](https://www.ocbase.com/) - Stresses CPU, GPU and PSU
+* [**OCCT**](https://www.ocbase.com/) - Stresses CPU & GPU
 * [**AIDA64**](https://www.aida64.com/) - AIDA64 is a system information, diagnostics, and auditing application
 * [**Prime95**](https://www.mersenne.org/download/) - CPU stress testing. WARNING! Prime95 can cause high temps. Keep an eye on it!
 * [**MemTest**](https://www.hcidesign.com/) - RAM testing tool. Runs under OS
@@ -63,7 +62,6 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 
 ### **Helpful Links**
 
-* [**Techbench by WZT**](https://tb.rg-adguard.net/public.php) - Hasslefree download of Windows OS directly from Microsoft servers
 * [**ASRock BIOS Updates**](https://www.asrock.com/support/index.asp?cat=BIOS) - Latest BIOS & Beta BIOS. Sorted by time.
 * [**ASRock Driver Updates**](https://www.asrock.com/support/index.asp?cat=Drivers) - Latest Drivers updates. Sorted by time.
 * [**ASRock Utilities Updates**](https://www.asrock.com/support/index.asp?cat=Utilities) - Latest Utilities updates. Sorted by time.

@@ -51,7 +51,6 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 
-
 ## **Socket AM5 AMD X670**
 
 ### **X670E Taichi**
