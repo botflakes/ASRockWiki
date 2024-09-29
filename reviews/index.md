@@ -1,6 +1,5 @@
 ---
 layout: default
 title: Reviews & Showcases
-parent: Docs
-nav_order: 1
+nav_order: 8
 ---

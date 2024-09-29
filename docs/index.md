@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Docs
-nav_order: 8
+nav_order: 7
 ---
 
 Technical Notes & other important Stuff
