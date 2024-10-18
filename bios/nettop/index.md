@@ -27,6 +27,8 @@ nav_order: 3
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.90-ACS|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/117SLbvcfMVrl1SqhaG4ZgQ7tB7wdm370/view?usp=sharing)
+1.90.SL01|10/14/2024|ASRock|[Download](https://drive.google.com/file/d/117PNNy4y2W1fTugnqDURqgwJ84wuIWuU/view?usp=sharing)
 1.80.RC02.SS01|00/00/0000|ASRock|[Download](https://drive.google.com/file/d/1_zDMsQNQTXyc7FCwgD6DSBHucQWzk8uB/view?usp=sharing)
 1.80.RC02.SL01|00/00/0000|ASRock|[Download](https://drive.google.com/file/d/1_oOS40jtfYKHwAqFbsW3hRWH-BU9Do8J/view?usp=sharing)
 1.80.RC02|04/22/2024|ASRock|[Download](https://drive.google.com/file/d/1By9LJUDCgygz0mQQvA0zcuvy94iGA0ur/view?usp=sharing)

@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: BIOS Collection - Intel
@@ -12,7 +13,8 @@ nav_order: 2
 > Note
 >
 > You have a BIOS which isn't listed here? Let us know in a [modmail](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)  
-> Please report any dead links here [here](https://forms.gle/ApqAN72vS6sxzFnm7) 
+> Please report any dead links
+ here [here](https://forms.gle/ApqAN72vS6sxzFnm7) 
 
 ***
 
@@ -20,6 +22,103 @@ nav_order: 2
 > We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!
 
 ***
+## **Socket 1851 Intel Z890**
+
+### **Z890 Taichi AQUA**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.05.ME01|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/1-CDdY_S_pxe56PSmTDafaGLE2bq4UqLH/view?usp=sharing)
+
+### **Z890 Taichi OCF**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.09|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/1-LS2Mjojt6PnHXCs60054D2fpZfiefs2/view?usp=sharing)
+
+### **Z890 Taichi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.02.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-QzFmmL90503VO36oei2uXM0EliIzE5i/view?usp=sharing)
+
+### **Z890 Taichi Lite**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.02.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-VIfdkyzWYfIBiF5J58lV1Sf7rVlJj0X/view?usp=sharing)
+
+### **Z890 Nova WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.02.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-lgia6R_kxiGYzVCCWQqlB7VkV6W8JRn/view?usp=sharing)
+
+### **Z890 Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.03.ME02|10/17/2024|ASRock|[Download](https://drive.google.com/file/d/1-xNri_tjD93p_B7DYbSNiXWSt7pSPxCc/view?usp=sharing)
+
+### **Z890 Lightning WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/102rzfSb3PcpFZ6jAJziDu5ISqhb_F53y/view?usp=sharing)
+
+### **Z890M Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.03.ME02|10/17/2024|ASRock|[Download](https://drive.google.com/file/d/10H5Tszs5HSDmkqPjqgBagLbxds6M-VMc/view?usp=sharing)
+
+### **Z890I Nova WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.09.ME01|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10Z_ExfnPvk0xSoEuYbh4xAXauHdLC5q6/view?usp=sharing)
+
+### **Z890 Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10cfMQyX6eaWq-lNBrPKWJWwNiVcvJ-gc/view?usp=sharing)
+
+### **Z890 LiveMixer WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.03.ME02|10/17/2024|ASRock|[Download](https://drive.google.com/file/d/10kE_qHpMWp2f043eO1T6w3rpPv-MKsRU/view?usp=sharing)
+
+### **Z890 Pro RS WiFi White**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10quchZfYPpExOav9-FJ5X8m0XjPnKWCi/view?usp=sharing)
+
+### **Z890 Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10uG65TtSl3rq8Q5VAkCVeQlN5gbrAJ9y/view?usp=sharing)
+
+### **Z890 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+
+### **Z890 Pro-A WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/113P07xUsYymXfgl-_Fn_L_10A9h6fVCW/view?usp=sharing)
+
+### **Z890 Pro-A**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/1168NJZuorp0yOCxNctbV0IFgQ7caNYWd/view?usp=sharing)
+
 ## **Socket 1700 Intel Z790**
 
 ### **Z790 Taichi**
