@@ -22,6 +22,7 @@ nav_order: 2
 > We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!
 
 ***
+
 ## **Socket 1851 Intel Z890**
 
 ### **Z890 Taichi AQUA**
