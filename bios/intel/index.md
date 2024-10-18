@@ -106,6 +106,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+No|Data|Available|Yet
 
 ### **Z890 Pro-A WiFi**
 
