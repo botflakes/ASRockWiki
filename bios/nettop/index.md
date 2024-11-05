@@ -1,10 +1,10 @@
 ---
 layout: default
-title: BIOS Collection - Mini PCs
+title: BIOS Collection - Mini PCs + Misc
 parent: BIOS Collection - Desktop
 nav_order: 3
 ---
-## BIOS Collection - Mini PCs
+## BIOS Collection - Mini PCs + Misc
 
 ***
 
@@ -98,7 +98,7 @@ Revision|Release|Source|Mirror 1
 
 ## **Jupiter - AMD Based**
 
-### Jupiter X300
+### **Jupiter X300**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -111,3 +111,17 @@ Revision|Release|Source|Mirror 1
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 1.30K|03/30/2021|ASRock|[Download](https://drive.google.com/file/d/1MkWamEdbhKZMB-LAygC4I6WazMnlDmqS/view?usp=sharing)
+
+## **Misc - Intel**
+
+### **N100DC-ITX**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.01|10/21/2024|ASRock|[Download](https://drive.google.com/file/d/13nZFws7NirOJXWH1FMCYSZpwj7QpdASP/view?usp=sharing)
+
+### **N100M**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.01|10/21/2024|ASRock|[Download](https://drive.google.com/file/d/13iOkinxECpmOb6XTH41blahbzuBHEPWm/view?usp=sharing)

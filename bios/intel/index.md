@@ -28,97 +28,127 @@ nav_order: 2
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.05.ME01|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/1-CDdY_S_pxe56PSmTDafaGLE2bq4UqLH/view?usp=sharing)
+2.13.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/12li_x7fHO0k0SjdmWOMsrmyY74x01KAA/view?usp=sharing)
+2.09.ME01|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/11EVLx-a0yhExvl-qxN5vqI8ADBv4koaC/view?usp=sharing)
+2.05.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-CDdY_S_pxe56PSmTDafaGLE2bq4UqLH/view?usp=sharing)
 
 ### **Z890 Taichi OCF**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.09|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/1-LS2Mjojt6PnHXCs60054D2fpZfiefs2/view?usp=sharing)
+2.18.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11EzPO7-RzH595XqqkIvXW1BQ86jpV-Y_/view?usp=sharing)
+2.13|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12h8amE_O10dgj2yDSZmG9DIgxTFXLcXU/view?usp=sharing)
+2.09|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-LS2Mjojt6PnHXCs60054D2fpZfiefs2/view?usp=sharing)
 
 ### **Z890 Taichi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.09.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11MBS79btSj7dv5_-1mmHs96w1mLvPUQj/view?usp=sharing)
+2.02.ME02|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12sHfF3XsGdJebbtXkMwrxdzUyonf7qEu/view?usp=sharing)
 2.02.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-QzFmmL90503VO36oei2uXM0EliIzE5i/view?usp=sharing)
 
 ### **Z890 Taichi Lite**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.09.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11WBlvsh0wvOwQMto2AVmcfzC40ErSIjt/view?usp=sharing)
+2.02.ME02|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12wvhX6jKsjM7rlokaVJtL7Fu-mxDiuYl/view?usp=sharing)
 2.02.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-VIfdkyzWYfIBiF5J58lV1Sf7rVlJj0X/view?usp=sharing)
 
 ### **Z890 Nova WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.09.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11aET1OyIQvexb3KGpivKDVjy8UL1X978/view?usp=sharing)
+2.02.ME02|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12y_5kdj0qdrAOe2ja-jO2QsLGYKwI7c2/view?usp=sharing)
 2.02.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-lgia6R_kxiGYzVCCWQqlB7VkV6W8JRn/view?usp=sharing)
 
 ### **Z890 Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.03.ME02|10/17/2024|ASRock|[Download](https://drive.google.com/file/d/1-xNri_tjD93p_B7DYbSNiXWSt7pSPxCc/view?usp=sharing)
+2.08.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11b9s9p_WIQzNgzZfyJ5GkFcm8qkEnWuT/view?usp=sharing)
+2.03.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12z_cvmZfrM8URleB-_44mh-OeISmh25a/view?usp=sharing)
+2.03.ME02|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-xNri_tjD93p_B7DYbSNiXWSt7pSPxCc/view?usp=sharing)
 
 ### **Z890 Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/102rzfSb3PcpFZ6jAJziDu5ISqhb_F53y/view?usp=sharing)
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11daajj9fiSOTb_QnuA5BjybVEQfAXTv5/view?usp=sharing)
+2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13-Jy1lA2874Op3qZxdvp3ODEbbKmtA_g/view?usp=sharing)
+2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/102rzfSb3PcpFZ6jAJziDu5ISqhb_F53y/view?usp=sharing)
 
 ### **Z890M Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.03.ME02|10/17/2024|ASRock|[Download](https://drive.google.com/file/d/10H5Tszs5HSDmkqPjqgBagLbxds6M-VMc/view?usp=sharing)
+2.08.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11tvJi6ru4slKwo1rzZ_cxvAIC0navAVx/view?usp=sharing)
+2.03.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/130nZ_4EBK33y_CXVrVS2ismgIGIUgq_w/view?usp=sharing)
+2.03.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10H5Tszs5HSDmkqPjqgBagLbxds6M-VMc/view?usp=sharing)
 
 ### **Z890I Nova WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.09.ME01|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10Z_ExfnPvk0xSoEuYbh4xAXauHdLC5q6/view?usp=sharing)
+2.14.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11vFRM7ejB1Hl3Gpo6KKMu3aByb_XGNFe/view?usp=sharing)
+2.09.ME02|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/132dIVNvo6nJjYlQdmRChiaAX0hw6xCOa/view?usp=sharing)
+2.09.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10Z_ExfnPvk0xSoEuYbh4xAXauHdLC5q6/view?usp=sharing)
 
 ### **Z890 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10cfMQyX6eaWq-lNBrPKWJWwNiVcvJ-gc/view?usp=sharing)
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/127Q_RBdaxQiMPEeuCdS_NhDZURRwjmsf/view?usp=sharing)
+2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/133JSFQ0qRMM0kXlEG22FZexkY4qEc8iN/view?usp=sharing)
+2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10cfMQyX6eaWq-lNBrPKWJWwNiVcvJ-gc/view?usp=sharing)
 
 ### **Z890 LiveMixer WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.03.ME02|10/17/2024|ASRock|[Download](https://drive.google.com/file/d/10kE_qHpMWp2f043eO1T6w3rpPv-MKsRU/view?usp=sharing)
+2.08.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/129fMPfS1IV_89NpopIe6Lo_7aEjT6KIr/view?usp=sharing)
+2.03.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13CIDSWzcqdIrm5cVpUh0vx3eMn6d5tPE/view?usp=sharing)
+2.03.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10kE_qHpMWp2f043eO1T6w3rpPv-MKsRU/view?usp=sharing)
 
 ### **Z890 Pro RS WiFi White**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10quchZfYPpExOav9-FJ5X8m0XjPnKWCi/view?usp=sharing)
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/12JwpjInf87RvM9adGAXN1NG6dAqx3TfK/view?usp=sharing)
+2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13HHeiOJN9In3MgvwN9AZly1TgLCwTio3/view?usp=sharing)
+2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10quchZfYPpExOav9-FJ5X8m0XjPnKWCi/view?usp=sharing)
 
 ### **Z890 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/10uG65TtSl3rq8Q5VAkCVeQlN5gbrAJ9y/view?usp=sharing)
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/12LZbBfPn7AtaqBgP6uHYtawtZD-klgVd/view?usp=sharing)
+2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13Ji_Cva1v4e1uy5mjONTRCQlwC2e6O_U/view?usp=sharing)
+2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10uG65TtSl3rq8Q5VAkCVeQlN5gbrAJ9y/view?usp=sharing)
 
 ### **Z890 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Available|Yet
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/12OqtgaNt5n9iop8epN8ar_EiMyIugvZM/view?usp=sharing)
 
 ### **Z890 Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/113P07xUsYymXfgl-_Fn_L_10A9h6fVCW/view?usp=sharing)
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/12TzH4-VKJThLoPRvphg0ajZR4hJqAcS9/view?usp=sharing)
+2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13OMysF16v0zPxxKkbPqTJttbcflyjIDe/view?usp=sharing)
+2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/113P07xUsYymXfgl-_Fn_L_10A9h6fVCW/view?usp=sharing)
 
 ### **Z890 Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.04.ME02|10/16/2024|ASRock|[Download](https://drive.google.com/file/d/1168NJZuorp0yOCxNctbV0IFgQ7caNYWd/view?usp=sharing)
+2.11.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/12bQMS5WR3VfnMTML2s7D8udZGUQKJsqj/view?usp=sharing)
+2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13QdCSWi3VmqPAqeXYmF9HXFJjmiFYnB_/view?usp=sharing)
+2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1168NJZuorp0yOCxNctbV0IFgQ7caNYWd/view?usp=sharing)
 
 ## **Socket 1700 Intel Z790**
 
