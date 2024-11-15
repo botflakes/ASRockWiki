@@ -36,9 +36,16 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.18.OC29|11/08/2024|ASRock|[Download](https://drive.google.com/file/d/13o039yDXq7ftQs8K9nnyPl6MQKd5JT2U/view?usp=sharing)
 2.18.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11EzPO7-RzH595XqqkIvXW1BQ86jpV-Y_/view?usp=sharing)
 2.13|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12h8amE_O10dgj2yDSZmG9DIgxTFXLcXU/view?usp=sharing)
 2.09|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-LS2Mjojt6PnHXCs60054D2fpZfiefs2/view?usp=sharing)
+
+### ***Z890 Taichi OCF - Firmwares**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.0.1.20241108|11/08/2024|ASRock|[Download](https://drive.google.com/file/d/13tL8fB1tYHW3_-nl5sUcJFlg3W7BAx2q/view?usp=sharing)
 
 ### **Z890 Taichi**
 
@@ -1621,6 +1628,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+4.34I|11/07/2024|ASRock|[Download](https://drive.google.com/file/d/14-CmvYpfIgh3-RgwywYcFlq651ecB_Pz/view?usp=sharing)
 4.34D|11/09/2023|ASRock|[Download](https://drive.google.com/file/d/1Cqe0YBafMCoLjvg6s0-cZuBBtP8-gOQi/view?usp=sharing)
 4.34|04/08/2021|ASRock|[Download](https://drive.google.com/file/d/1o2tGxEiEx9_1fd_00PeUBUX7HWecikA1/view?usp=sharing)
 4.30I|04/01/2021|ASRock|[Download](https://drive.google.com/file/d/1vpw_9kNa82zT5-AFygWKgfNcEhKQja7y/view?usp=sharing)
