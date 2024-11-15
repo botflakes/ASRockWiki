@@ -41,7 +41,7 @@ Revision|Release|Source|Mirror 1
 2.13|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/12h8amE_O10dgj2yDSZmG9DIgxTFXLcXU/view?usp=sharing)
 2.09|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1-LS2Mjojt6PnHXCs60054D2fpZfiefs2/view?usp=sharing)
 
-### ***Z890 Taichi OCF - Firmwares**
+### **Z890 Taichi OCF - Firmwares**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
