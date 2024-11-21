@@ -29,8 +29,7 @@ parent: BIOS Collection - Server
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.32|09/12/2019|ASRock|[Download](https://drive.google.com/file/d/1DcYBoYEfMktQFqzEZLS1RCwVftu_318J/view?usp=sharing)
-
+1.32|09/12/2019|ASRock|[Download](https://drive.google.com/file/d/10FWSZCid9lSeRwS1HO8klaYaXicfRSrp/view?usp=sharing)
 ### **Socket AM4 : AMD X570**
 
 **X570D4U**
