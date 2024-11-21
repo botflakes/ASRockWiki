@@ -12,7 +12,7 @@ nav_order: 1
 > Note
 >
 > You have a BIOS which isn't listed here? Let us know in a [modmail](https://www.reddit.com/message/compose?to=%2Fr%2FASRock)  
-> Please report any dead links here [here](https://forms.gle/ApqAN72vS6sxzFnm7) 
+> Please report any dead links here [here](https://forms.gle/cUPxXsnu82Xv54zf6)
 
 ***
 
