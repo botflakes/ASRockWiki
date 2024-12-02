@@ -99,6 +99,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.14.OC01|11/16/2024|ASRock|[Download](https://drive.google.com/file/d/17ORiJ35_uiBaBkJ18-ZAhO8DHmWA9gJx/view?usp=sharing)
 2.14.AS01|11/05/2024|ASRock|[Download](https://drive.google.com/file/d/11vFRM7ejB1Hl3Gpo6KKMu3aByb_XGNFe/view?usp=sharing)
 2.09.ME02|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/132dIVNvo6nJjYlQdmRChiaAX0hw6xCOa/view?usp=sharing)
 2.09.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/10Z_ExfnPvk0xSoEuYbh4xAXauHdLC5q6/view?usp=sharing)
