@@ -31,6 +31,7 @@ nav_order: 1
 
 Revision|Release|Source|Mirror 1 
 :--|:--|:--:|:-- 
+3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/file/d/17OYb_z37H4kd8r6Okh47Rqh_mw98DIlD/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14n10x9ltuJRrpcJMcWb6E0ryWeQ2YQaw/view?usp=sharing)
 
 ### **X870E Taichi Lite**
@@ -43,6 +44,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/file/d/17S07URHJk1HVGvrh--mNApvF7rLoofOG/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14onjXRo_RNUKUUvgYjsd7Q18vQKN_l8-/view?usp=sharing)
 
 ### **X870 Steel Legend WiFi**
