@@ -38,6 +38,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1 
 :--|:--|:--:|:-- 
+3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1Bi_CiMKVbfAYdvHCfKvKtJp9EruvO5r2/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14ntBY9JVxGN8fsMuTPbwKV8q435jQBIv/view?usp=sharing)
 
 ### **X870E Nova WiFi**
