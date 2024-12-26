@@ -51,6 +51,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1BfvBfd8BcNqbLoEu8uZXsBHW9cVgUNvS/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14w8XSKIvrwNNpA6fgovEvq06HVG_NGTE/view?usp=sharing)
 
 ### **X870 PG Riptide WiFi**
@@ -120,6 +121,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1BW_5KukHx7XMgBuJL5nsjZ_3bNQ8kNsJ/view?usp=sharing)
 3.12.AS02|11/20/2024|ASRock|[Download](https://drive.google.com/file/d/17ICLpuOrS1uujZS56DXI8t22eA_siwlt/view?usp=sharing)
 3.06.PB02|09/03/2024|ASRock|[Download](https://drive.google.com/file/d/1-KGb7GLajK5x61V5eB6EgpylPB0bOSnn/view?usp=sharing)
 3.01.AS01|04/25/2024|ASRock|[Download](https://drive.google.com/file/d/1Cblt7QvzAz-6D2UU-FBE7IWaZ5e30SNw/view?usp=sharing)
