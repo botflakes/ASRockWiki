@@ -73,6 +73,104 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/150MTYk6ENE0QoqNLx23btOAgmv_j960L/view?usp=sharing)
 
+## **Socket AM5 AMD B850**
+
+## **B850 LiveMixer WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850 Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850 Pro-A**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850 Pro-A WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850 Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850 Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850I Lightning WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M Pro-A**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M Pro-A WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M Riptide WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M-X**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+## **B850M-X WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
 ## **Socket AM5 AMD X670**
 
 ### **X670E Taichi**
