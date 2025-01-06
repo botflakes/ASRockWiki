@@ -221,6 +221,122 @@ Revision|Release|Source|Mirror 1
 2.04.ME03|10/18/2024|ASRock|[Download](https://drive.google.com/file/d/13QdCSWi3VmqPAqeXYmF9HXFJjmiFYnB_/view?usp=sharing)
 2.04.ME01|10/15/2024|ASRock|[Download](https://drive.google.com/file/d/1168NJZuorp0yOCxNctbV0IFgQ7caNYWd/view?usp=sharing)
 
+## **Socket 1851 Intel B860**
+
+### **B860 Lightning WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860 LiveMixer WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860 Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860 Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860 Pro-A**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860 Pro-A WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860 Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860I Lightning WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860I WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M Lightning WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M LiveMixer WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M Pro RS**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M Pro RS WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M Pro-A**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M Pro-A WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M Steel Legend WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M-H2**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M-X**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
+### **B860M-X WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+No|Data|Yet|Available
+
 ## **Socket 1700 Intel Z790**
 
 ### **Z790 Taichi**

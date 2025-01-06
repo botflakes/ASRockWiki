@@ -23,7 +23,7 @@ nav_order: 1
 
 ## Quick Nav
 
-[X870](#socket-am5-amd-x870) - [X670](#socket-am5-amd-x670) - [B650](#socket-am5-amd-b650) - [A620](#socket-am5-amd-a620) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
+[X870](#socket-am5-amd-x870) - [B850](#socket-am5-amd-b850) - [X670](#socket-am5-amd-x670) - [B650](#socket-am5-amd-b650) - [A620](#socket-am5-amd-a620) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
 
 ## **Socket AM5 AMD X870**
 
@@ -75,97 +75,97 @@ Revision|Release|Source|Mirror 1
 
 ## **Socket AM5 AMD B850**
 
-## **B850 LiveMixer WiFi**
+### **B850 LiveMixer WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850 Pro RS**
+### **B850 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850 Pro RS WiFi**
+### **B850 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850 Pro-A**
+### **B850 Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850 Pro-A WiFi**
+### **B850 Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850 Riptide WiFi**
+### **B850 Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850 Steel Legend WiFi**
+### **B850 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850I Lightning WiFi**
+### **B850I Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M Pro RS**
+### **B850M Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M Pro RS WiFi**
+### **B850M Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M Pro-A**
+### **B850M Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M Pro-A WiFi**
+### **B850M Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M Riptide WiFi**
+### **B850M Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M Steel Legend WiFi**
+### **B850M Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M-X**
+### **B850M-X**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 No|Data|Yet|Available
 
-## **B850M-X WiFi**
+### **B850M-X WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
