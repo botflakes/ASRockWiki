@@ -181,6 +181,7 @@ No|Data|Yet|Available
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.17.AS02|12/30/2024|ASRock|[Download](https://drive.google.com/file/d/1C9ZHy-TLf0ulPjMEfxSWcVpGFmWnwOoi/view?usp=sharing)
 3.12.AS02|11/20/2024|ASRock|[Download](https://drive.google.com/file/d/17BkEvXoSYYmsLqjwEjSe9_SHoGxD1hsL/view?usp=sharing)
 3.06.PB02|09/03/2024|ASRock|[Download](https://drive.google.com/file/d/1-KYM1e630RVM97YiMzsRxvXduJ50wkYP/view?usp=sharing)
 3.04.AS01|07/01/2024|ASRock|[Download](https://drive.google.com/file/d/1Wq8CJkGCNMUXNMlundyUdXJg0hsB9BNL/view?usp=sharing)
