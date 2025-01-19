@@ -2407,7 +2407,8 @@ Revision|Release|Source|Mirror 1
 ### **TRX40 Creator**
 
 Revision|Release|Source|Mirror 1
-:--|:--|:--:|:--
+:--|:--|:--:|:-
+1.88C|01/13/2025|ASRock|[Download](https://drive.google.com/file/d/1CFNZySq_BUsAIUp-7TiK72wQ-WBZngi7/view?usp=sharing)
 1.85|06/28/2023|ASRock|[Download](https://drive.google.com/file/d/123pcIb8vfbMT2mYw_UbwnOPr3RsOUNug/view?usp=sharing)
 1.83|05/30/2022|ASRock|[Download](https://drive.google.com/file/d/1H2_m5JkJf1tioQyKlIuBdxp5N-OXoDaC/view?usp=sharing)
 1.73|01/14/2021|ASRock|[Download](https://drive.google.com/file/d/1r_wbLneyymZFxe_QGM3Xysmt0PaR_FfS/view?usp=sharing)
