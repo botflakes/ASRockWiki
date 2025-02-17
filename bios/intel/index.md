@@ -21,7 +21,6 @@ nav_order: 2
 > We're not responsible for any damage that may happen to your board! Flashing a new BIOS does always have its risks!
 
 ***
-
 ## **Socket 1851 Intel Z890**
 
 ### **Z890 Taichi AQUA**
@@ -1063,6 +1062,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+11.06.EU01|02/06/2025|ASRock|[Download](https://drive.google.com/file/d/1I4J9a9TDI8wPztbtVyDyRZ0v8eHQQP_D/view?usp=sharing)
 11.04|07/04/2024|ASRock|[Download](https://drive.google.com/file/d/1_9JDMYQrxmWsqtrVZ8Ag3zOA827Sss5W/view?usp=sharing)
 11.03|05/24/2024|ASRock|[Download](https://drive.google.com/file/d/1Rqx-t7220_eBB_n-LTePxq7gRrtEd3hG/view?usp=sharing)
 11.01|04/03/2024|ASRock|[Download](https://drive.google.com/file/d/14fNGMJpg_MXKNd8FZ6wBqZD3vt8mos3y/view?usp=sharing)

@@ -31,6 +31,8 @@ nav_order: 1
 
 Revision|Release|Source|Mirror 1 
 :--|:--|:--:|:-- 
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HEPQ0XsTKmbH0AVmN8Uabvgtn_aAHpmC/view?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1H4kQSnmOeZK3XDFlXIyTNATPepWf6a5B/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CMdM8dOtbupcNQn3MKpDEOpxTX0KTsHF/view?usp=sharing)
 3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/file/d/17OYb_z37H4kd8r6Okh47Rqh_mw98DIlD/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14n10x9ltuJRrpcJMcWb6E0ryWeQ2YQaw/view?usp=sharing)
@@ -39,6 +41,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1 
 :--|:--|:--:|:-- 
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HLxF8iFmkdAu-xRyr6FjKewHSmFweVjg/view?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1H96vBqZmXRv1iOzss8Lt-QvViCWFcaB4/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CNc1SHWc0rr7wGyBgwkIr6BRYsmTfN06/view?usp=sharing)
 3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1Bi_CiMKVbfAYdvHCfKvKtJp9EruvO5r2/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14ntBY9JVxGN8fsMuTPbwKV8q435jQBIv/view?usp=sharing)
@@ -47,6 +51,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HVPNjYdaStBPhp4BQRFuGC0-JNGsAmBE/view?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1HBYiQKHUA9wwRuyK2gkPqi3kfHBl5PKy/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CZhtsq4jhnIRs8wG_vb65pGfuAuosxkn/view?usp=sharing)
 3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/file/d/17S07URHJk1HVGvrh--mNApvF7rLoofOG/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14onjXRo_RNUKUUvgYjsd7Q18vQKN_l8-/view?usp=sharing)
@@ -55,6 +61,8 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HZWnWPItrSLTL4xrlV056T23TKAlooyw/view?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1HAJ_El-1418PVceHRiZ_Me976OWcRL3h/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CbVu5kkfNxewYAGeatW15sOo0kKmqyU9/view?usp=sharing)
 3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1BfvBfd8BcNqbLoEu8uZXsBHW9cVgUNvS/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14w8XSKIvrwNNpA6fgovEvq06HVG_NGTE/view?usp=sharing)
@@ -63,6 +71,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HrUBJTzjpxjhxKEs06wFDhk7U_W1uWsW/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1Ce4UFFkH-satYX-a64XN0vTkIhVEKTxn/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14xlugcy_msqtmIQauEwvwjXzweNGK2sK/view?usp=sharing)
 
@@ -70,6 +79,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Hy_Usuxzd6BXfsxT8tHgfik5u1pVJ1Ly/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CeT-WCW_8_agQkGwIfKO56iYTnleS6zl/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14z7rIqYUf-eOW_oi14gBBHHP2R7GhHld/view?usp=sharing)
 
@@ -77,6 +87,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Huu8VB-hw2JK1njz4-WQGQWjggTJqahc/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CeNHS6o2jdyo-6TCrM31FeZZs2a3tEib/view?usp=sharing)
 3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/150MTYk6ENE0QoqNLx23btOAgmv_j960L/view?usp=sharing)
 
@@ -86,96 +97,112 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1I4hUElqoytw0G-iZzW7fQCU4vjEYibib/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1D-ZeAh9Mn6r1OiiUfMPy8yqeJrzqV4Q2/view?usp=sharing)
 
 ### **B850 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1I5ktVhY6nhLfBjHsB8OzEWvPxR1TZ4VZ/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1DuiGJg4u1nD5AnpXanpK4v1QXGpk3qsA/view?usp=sharing)
 
 ### **B850 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1I7rMmfcfUmjJHE-qI_gfpiV07KIIwdtg/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1E3PpwZxiaZi8hvF0dG5VoneTmi5jN6Sm/view?usp=sharing)
 
 ### **B850 Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1IGeqf88mYklIBVmiG8jhC_aJaEL_io_3/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1E3UbUHweRyhkQnCPP1Cdawm0Irl7G_Lb/view?usp=sharing)
 
 ### **B850 Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1IHyRcT7ECTYyTbfYYFhHQym1yDuGi7Pf/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1E5C4aZOk_Olb0Xw5PSrOrxaKe83AcO6g/view?usp=sharing)
 
 ### **B850 Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1II6w0yVA_1HVDGj88zCZbbqZI-qXt_8V/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EjaBgTURXKbGjWRlX8_R6oJxE3gHQ7Mf/view?usp=sharing)
 
 ### **B850 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1IXgYnxFPmIJ3ksR6lqk60jSmsflDWgBi/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1Ek4WE4wvP93OqUGEGnGV6lbaQDki-8VK/view?usp=sharing)
 
 ### **B850I Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Ic7puY9EfNG3EbfJMbUkE1e05DusdeEQ/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EZ6AYN1IVEarNuFGxlVvmOBcc2JCqs9Z/view?usp=sharing)
 
 ### **B850M Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1IeFG2H5GCgqxAKsNPl9Kwppsx1AGICAv/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EZdg0LaTX2R5prKbUfjvFvyc24dCKsL1/view?usp=sharing)
 
 ### **B850M Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Iibdi4kxE-igsLfUMGiM_Acef1lDNT5q/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1E_56Ttvh-fuxHi9mLxGObHLFMIjNHnTi/view?usp=sharing)
 
 ### **B850M Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1IlAbBJ_cmPYA6ocxL04L07vdnsCnvqWo/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EaT-zIUkEhry1fFww2j9RDpl9ho0I80J/view?usp=sharing)
 
 ### **B850M Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Ik26U04FqWxtelGperxBamEP5y0qIjll/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EbfupJtp-Eaem3Px7RfAeDrwsoAunxhA/view?usp=sharing)
 
 ### **B850M Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1J2BJPIbd6cF9_P6aHRyT_jZavO1qKqvP/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EczQjNEx5JDpXhhR2YgforMqUoZtOxtN/view?usp=sharing)
 
 ### **B850M Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1JHr2mRL07cE8UdGIx9NwJ60obhrDNcaF/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EjLD2J2HUlUDobOmPb1HeA62hSGnYyix/view?usp=sharing)
 
 ### **B850M-X**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1JOeEXwKjV3RkUIRTRw3ao9X3PfwCBz9L/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1EKt8_vL176zRkzh7yfbc4wkxz6nIVWxa/view?usp=sharing)
 
 ### **B850M-X WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1JLionRqkfAgDmEcI9kZzm9EtLeZCb_2s/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1ELl9rsYITUxFUSFRIPCECDu2MyEsfwT2/view?usp=sharing)
 
 ## **Socket AM5 AMD X670**
