@@ -27,6 +27,7 @@ nav_order: 2
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.26.AS06|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KEYcfH2HppB88kbeDu0lIif0YwU8fjuu/view?usp=sharing)
 2.26.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/18TyOI8fyRNiWHekukRfSoFMiwLVU7TPw/view?usp=sharing)
 2.26.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/18WMtHOQRAnC07JzIeHwkcmIbmtnxYeBS/view?usp=sharing)
 2.26.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/18XI0J6y8MQENVcd066uNWgqnyGnM6NGU/view?usp=sharing)
@@ -39,6 +40,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.26.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KNge9_hioSxNekcs7SwAWgDXTyYeuQTG/view?usp=sharing)
 2.26.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/18CKPkVVr-_Y85YKjbdmUVXaatk7AS7ZQ/view?usp=sharing)
 2.26.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/18H8C3dliVjb9PzePdnGxfBQeHLV_u5xo/view?usp=sharing)
 2.26.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/18Amm1KuVUXGL1xeCNj-KHZBkInLtFsjA/view?usp=sharing)
@@ -57,6 +59,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.20.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KUlBCCoBEQqxewYy5C9w30hL-mrwO36P/view?usp=sharing)
 2.20.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/17u5Vvfq88DjSnRsCyO7_7abFGWSXDQ09/view?usp=sharing)
 2.20.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/17wKo4z7EuqFyzkQe7Ikjzwt-zTg-DbYs/view?usp=sharing)
 2.20.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/180CiZtf38r7E6teamR6xSzGxoyPdSJWO/view?usp=sharing)
@@ -69,6 +72,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.20.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KS68mZo-E5FCDIoL9sZkRBdg-GC2Jbto/view?usp=sharing)
 2.20.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/18MlkJl6AZ0dj9Xu2Yz0kVShh8P3vEcc2/view?usp=sharing)
 2.20.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/18NeHm_4-iLlMJOuZ_zWqNetec6qLViph/view?usp=sharing)
 2.20.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/18OisitXO25YAvyZw2XCeP-41M_4eIEwL/view?usp=sharing)
@@ -81,6 +85,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.20.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1Jho_KSlFY8GR8Cd4fb9mF8D3XwVcSj1r/view?usp=sharing)
 2.20.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1AXAOv5n6mVoCkrjA_A8hn9yGNqs4mq5g/view?usp=sharing)
 2.20.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/1AYGARsAxCsIE5EV_YLo3aO-iXcm0Oqij/view?usp=sharing)
 2.20.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/1AlGLDLcd-zkXbLYUZy5AAUFWgUOj-XVy/view?usp=sharing)
@@ -93,6 +98,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.21.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1K9LVffOUwx9GJU9f-RgSKmp9kISSgAKH/view?usp=sharing)
 2.21.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/18deb-3T1vWiuIf3mPQwG5p_It2_AScqZ/view?usp=sharing)
 2.21.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/18hiIyddsHyR47HU3cA8HPq8DG-dqzW26/view?usp=sharing)
 2.21.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/18kZnod4DnqOG4AnjJEnmreEpBoCTWGQ7/view?usp=sharing)
@@ -105,6 +111,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1JWDqx-eUQkiWQS-Be_ksuZ0w0H9FMmYk/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1BH9UROscb7XYRdPzxgKPqzgY7wrTGMuL/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/1BI-Y5k3aWB1nihGq5_WIDZ8i2L49XWaF/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/1BLGhFC0gXWakrNS95xRi133st5srWW_y/view?usp=sharing)
@@ -117,6 +124,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.21.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KY803eYVhFnpapLjN4dGZC4Rt4gShVPv/view?usp=sharing)
 2.21.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/17TeDUKdET_LO6HLJ4JkbPeqONesDkbul/view?usp=sharing)
 2.21.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/17VJocHK9yQ0WeZm-VxaP_ST9dk-DfLPh/view?usp=sharing)
 2.21.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/17WaUOflyIRE8Y1L3bqyVLOHWyqvfQbvx/view?usp=sharing)
@@ -129,6 +137,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.23.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KZn_xQ1FE75eOQ6UmTpE1j5FvYLoTpCr/view?usp=sharing)
 2.23.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/17cFklftLKmql33GY3T9l8F5b7D2SLcLA/view?usp=sharing)
 2.23.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/17kDpg_2KgCMBQcV45OCa4qxnZWIrg90n/view?usp=sharing)
 2.23.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/17mfvCKkK-wSM2VTuMPCR_4-j8nJ4j0E-/view?usp=sharing)
@@ -142,6 +151,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1KAHEtMdPd_jlIje6N7EuPwyF0RrqA7P2/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/18a19SGq3VLdBLzm-n_pw1RKT5XaogAkd/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/18aiwhftct4OkINnHsouDw4cuhdYeu8vV/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/18b0fdPFYdmFgZ11-Z1Bm_kGrl4wQVCRb/view?usp=sharing)
@@ -154,6 +164,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.21.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1Jg1V5HhNmt9_ZXpf8aJ08DZdOcpxmc3W/view?usp=sharing)
 2.21.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1AsxVDDRmArURgfUTq7SGlJaJusJ9BhaK/view?usp=sharing)
 2.21.AS02|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/1B0OS8KPTiZDnzU278WrMjVRmtHEU6JKx/view?usp=sharing)
 2.21.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/1BAhUBNT2LeRbII989hlJTUtlkCqtluPo/view?usp=sharing)
@@ -166,6 +177,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1JrSqEY2F2aTNmsrtMD9-AyNE1Ov7OABk/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/19qJXpx1noK4dJpdsIJwebvkDr4SrUKQj/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/19yjMoqpAALD9U6H8hEj7y_3ih5BL72dp/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/1AFc-e8CwR0rYsqqztB9mwSUQIaXry1qu/view?usp=sharing)
@@ -178,6 +190,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1Jsb9Nk1TiZ-kfkFaOMcDuQuffg3OK-yI/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/19aTkPbF_oE5KhhK2-gRsWzyqrWTVs39Y/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/19cSy4EOC-7qaKw5z3TPT2J5Rqy15ZGpf/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/19lGpBn7mRr8rTxdB_nbQ-A5ZvTKMsaqm/view?usp=sharing)
@@ -190,6 +203,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1JvufTJggAnP-17xQbLc6q37hvryERaPm/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/19DSjA6T3NAnfQnF1e-HUpVoxphWKLoaa/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/19IydfilCZ6-14_WOMnVJT6IKEd_0gNic/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/19RpCDUTB2ZmmgRy5ajt_C6CKZosYQHfs/view?usp=sharing)
@@ -200,6 +214,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1K1hpEIhM5c6nmG5vbYE3LJiDIHNcm5dT/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/192QCsAEUFVG70Wg_zqmnsNmihA7kGXA5/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/192foHl2g74dl_4bCAnbyDqDBfGt4Rcfd/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/197kdkPqVYGhHoHFKfW8GaLcyABfE8SP7/view?usp=sharing)
@@ -212,6 +227,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.22.AS07|02/19/2025|ASRock|[Download](https://drive.google.com/file/d/1K8lvrqWsatrP__3EGFFZegMbuHyy9DrL/view?usp=sharing)
 2.22.AS05|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/18uIsH7hTNVI1_R6oP18sc1blVT7IvBUc/view?usp=sharing)
 2.22.AS04|12/19/2024|ASRock|[Download](https://drive.google.com/file/d/18w_0T6p0FWLu5i83FoqSBf9NT4jny2zw/view?usp=sharing)
 2.22.AS01|12/17/2024|ASRock|[Download](https://drive.google.com/file/d/18waXroZj9cAT92D54MDiS6NTbOQlUTXc/view?usp=sharing)
