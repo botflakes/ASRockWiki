@@ -242,97 +242,97 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.21.AS04|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1NegCw7bSOGvtUK6Ro5FDcNKAfh_-b13E/view?usp=sharing)
 
 ### **B860 LiveMixer WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.24.AS04|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1NfMr_dAnBaUzM9qNLJqfa3Fh7rvZT_ym/view?usp=sharing)
 
 ### **B860 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.13.AS02|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1NrjyPDjvXHjQFSAtSRowAgozVauVXBHp/view?usp=sharing)
 
 ### **B860 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.13.AS02|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1Nlv6hFNcaV_tBtM5hrcfVtfz6E-iHH4_/view?usp=sharing)
 
 ### **B860 Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.13.AS02|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1NzkaXaF4XET6UIgU_fU5T2QSWIcHTAzQ/view?usp=sharing)
 
 ### **B860 Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.13.AS02|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1NszRz41laDBO7SV0STTJCcEknzVzExSO/view?usp=sharing)
 
 ### **B860 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.21.AS04|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1O2KGZBpEykmHh2xc1Pe-PfJ4WyR5oLjs/view?usp=sharing)
 
 ### **B860I Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.13.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1O50KLC8hgsvhb8VoAz81czqdY5Bd0MGs/view?usp=sharing)
 
 ### **B860I WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.20.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OEHUq9rnWr_Zq25RgoNFajN0EOAkjUm-/view?usp=sharing)
 
 ### **B860M Lightning WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.18.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OH9qAOxA9w0SrjpMhmKy7vJZnVdFcHCd/view?usp=sharing)
 
 ### **B860M LiveMixer WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.09.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OI8kGY7zM6K6js6VC6O3A5_MGDoGPYzY/view?usp=sharing)
 
 ### **B860M Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.15.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OPqITt44uKHwmEyu3TBzYYcSxQRxjDpr/view?usp=sharing)
 
 ### **B860M Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.15.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OPVChJPevx8nRiCiszxC1uwcT47dMqny/view?usp=sharing)
 
 ### **B860M Pro-A**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.15.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OPxgNfIz62tMi2lTqfnjpbK5bEy-3LB8/view?usp=sharing)
 
 ### **B860M Pro-A WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.15.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OPuCAAxBsOkp49f3eDrdDTcmDNyTs68T/view?usp=sharing)
 
 ### **B860M Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-No|Data|Yet|Available
+1.18.AS01|02/21/2025|ASRock|[Download](https://drive.google.com/file/d/1OejvYY3pHMvH6lW8XdGYYRPWwvgx_IRz/view?usp=sharing)
 
 ### **B860M-H2**
 
