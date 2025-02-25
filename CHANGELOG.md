@@ -3,42 +3,43 @@ All notable changes to the Wiki will be documented in this file from now on.
 
 ## [02/25/2025]
 
-Added latest AMD BIOSes
-Removed some stuff
-Due to link limitations from Google Drive, we will slowly replacing diret download links with folder links of each motherboard model
+- ➕ Added latest AMD BIOSes  
+- ➕ Added TSD Doc
+- 🗑️ Removed some stuff  
+- ⚠️ Due to link limitations from Google Drive, we will slowly replacing diret download links with folder links of each motherboard model
 
 ## [07/08/2024]
 
-Added latest Intel 600 as well as DeskMini A300/X300 BIOSes
+- ➕ Added latest Intel 600 as well as DeskMini A300/X300 BIOSes
 
 ## [07/02/2024]
 
-Added latest Intel 600 & 700 Motherboard Beta BIOSes
+- ➕ Added latest Intel 600 & 700 Motherboard Beta BIOSes
 
 ## [07/01/2024]
 
-Added latest Intel 700 and AMD 600 Motherboard Beta BIOSes
+- ➕ Added latest Intel 700 and AMD 600 Motherboard Beta BIOSes
 
 ## [05/29/2024]
 
-Added latest Intel 600 Series Motherboard Beta BIOSes
-Added TSD Docs
+- ➕ Added latest Intel 600 Series Motherboard Beta BIOSes
+- ➕ Added TSD Docs
 
 ## [05/24/2024]
 
-Added lastest Intel 600 and 700 Series Motherboard Beta BIOSes
+- ➕ Added lastest Intel 600 and 700 Series Motherboard Beta BIOSes
 
 ## [05/07/2024]
 
-Added latest AMD 500 and Intel 700 Series Motherboard Beta BIOSes
+- ➕ Added latest AMD 500 and Intel 700 Series Motherboard Beta BIOSes
 
 ## [04/25/2024]
 
-Added latest AMD 600 Series Motherboard Beta BIOSes
+- ➕ Added latest AMD 600 Series Motherboard Beta BIOSes
 
 ## [02/26/2024]
 
-First update of the year. Finally had time to add all recently released Beta BIOSes
+- ➕ First update of the year. Finally had time to add all recently released Beta BIOSes
 
 ## [11/26/2023]
 
