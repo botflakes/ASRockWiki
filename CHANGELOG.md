@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the Wiki will be documented in this file from now on.
 
+## [02/25/2025]
+
+Added latest AMD BIOSes
+Removed some stuff
+Due to link limitations from Google Drive, we will slowly replacing diret download links with folder links of each motherboard model
+
 ## [07/08/2024]
 
 Added latest Intel 600 as well as DeskMini A300/X300 BIOSes
