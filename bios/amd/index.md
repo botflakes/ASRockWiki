@@ -25,6 +25,8 @@ nav_order: 1
 
 [X870](#socket-am5-amd-x870) - [B850](#socket-am5-amd-b850) - [X670](#socket-am5-amd-x670) - [B650](#socket-am5-amd-b650) - [A620](#socket-am5-amd-a620) - [X570](#socket-am4-amd-x570) - [B550](#socket-am4-amd-b550) - [X470](#socket-am4-amd-x470) - [B450](#socket-am4-amd-b450) - [X370](#socket-am4-amd-x370) - [B350](#socket-am4-amd-b350) - [A320](#socket-am4-amd-a320)
 
+---
+
 ## **Socket AM5 AMD X870**
 
 ### **X870E Taichi**
@@ -225,6 +227,8 @@ Revision|Release|Source|Mirror 1
 3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1JLionRqkfAgDmEcI9kZzm9EtLeZCb_2s/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1ELl9rsYITUxFUSFRIPCECDu2MyEsfwT2/view?usp=sharing)
 
+---
+
 ## **Socket AM5 AMD X670**
 
 ### **X670E Taichi**
@@ -402,6 +406,8 @@ Revision|Release|Source|Mirror 1
 1.08.AS04|10/11/2022|ASRock|[Download](https://drive.google.com/file/d/10RLfWT-Ww3pu9CeQmjISjxwPz65GxhYq/view?usp=sharing)
 1.08.AS02|09/28/2022|ASRock|[Download](https://drive.google.com/file/d/10MF4LhWswc8k2ebGy48a3dRn-iB3SBBY/view?usp=sharing)
 1.08.AS01|09/27/2022|ASRock|[Download](https://drive.google.com/file/d/1-w2XBv9DHccVkW9EK9Psmy9E8oWC1Kov/view?usp=sharing)
+
+---
 
 ## **Socket AM5 AMD B650**
 
@@ -893,6 +899,8 @@ Revision|Release|Source|Mirror 1
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1LT_4KbaQf3iA1BKqfLgkzxKQzJHwttVL/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1GdZAGsySJy7q_FS39d71vQhmbGV6Z6AB/view?usp=sharing)
 3.12.AS02|11/20/2024|ASRock|[Download](https://drive.google.com/file/d/1GhHWxesHzVB5DawKoaBfpRX1wiaklnGq/view?usp=sharing)
+
+---
 
 ## **Socket AM5 AMD A620**
 
