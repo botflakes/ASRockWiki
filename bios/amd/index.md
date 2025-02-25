@@ -441,10 +441,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650E Taichi Lite**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1KrnzTLokikPXwIrER6XTtZSgqVSXmCbx/view?usp=sharing)
@@ -543,10 +539,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650 Steel Legend WiFi**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1Kzoto7jfYkWJ79nDQ9hMQ0mcOQcI15ZF/view?usp=sharing)
@@ -617,9 +609,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650 Pro RS WiFi**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -661,10 +650,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650 PG Lightning WiFi**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1L4_fwBWWGp-3L5S-PUv9sds57iP1lhxA/view?usp=sharing)
@@ -675,10 +660,6 @@ Revision|Release|Source|Mirror 1
 2.06.AS03|01/23/2023|ASRock|[Download](https://drive.google.com/file/d/12iFZx4zNxdeeWG3LtopTYEwidOxJS4E8/view?usp=sharing)
 
 ### **B650M PG Lightning WiFi**
-
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -692,10 +673,6 @@ Revision|Release|Source|Mirror 1
 1.29.AS01|09/14/2023|ASRock|[Download](https://drive.google.com/file/d/16SUC5GUU02D3tXN3CzkxRzSdFm70zBsb/view?usp=sharing)
 
 ### **B650M PG Lightning**
-
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -758,10 +735,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650M PG Riptide WiFi White**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1LIJqYsL-phhqnvPXFrfjexQnBHfPDm5r/view?usp=sharing)
@@ -800,10 +773,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650M Pro RS**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1LL9drnNUWE1KLHO1gsHMqyXWcKpoeX9B/view?usp=sharing)
@@ -820,10 +789,6 @@ Revision|Release|Source|Mirror 1
 1.24.AS02|05/04/2023|ASRock|[Download](https://drive.google.com/file/d/16rRR90VU-cbb7lfLxjk1E2FKcdMTarzE/view?usp=sharing)
 
 ### **B650M Pro RS WiFi**
-
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
@@ -872,10 +837,6 @@ Revision|Release|Source|Mirror 1
 
 ### **B650M-H/M.2+**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1LR523mtoqzedE2zo-TMCWEC20fJeE7fV/view?usp=sharing)
@@ -890,15 +851,23 @@ Revision|Release|Source|Mirror 1
 
 ### **B650M-H/M.2+ WiFi**
 
-{: .warning }
-> BIOSes prior to **1.20** do **NOT** contain the Voltage cap introduced for Ryzen 7000X3D CPUs!  
-> We're not responsible for any damage that may happen to any of your components!
-
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 3.18.AS02|02/17/2025|ASRock|[Download](https://drive.google.com/file/d/1LT_4KbaQf3iA1BKqfLgkzxKQzJHwttVL/view?usp=sharing)
 3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1GdZAGsySJy7q_FS39d71vQhmbGV6Z6AB/view?usp=sharing)
 3.12.AS02|11/20/2024|ASRock|[Download](https://drive.google.com/file/d/1GhHWxesHzVB5DawKoaBfpRX1wiaklnGq/view?usp=sharing)
+
+### **B650M Pro X3D**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.20|02/05/2025|ASRock|[Download](https://drive.google.com/drive/folders/1QNYUia3tvldShGsD6feKxCcj234951Wq?usp=sharing)
+
+### **B650M Pro X3D WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+3.20|02/05/2025|ASRock|[Download](https://drive.google.com/drive/folders/1QPcjzLyCJlezXEW9sumiT_UQlcKMa3O0?usp=sharing)
 
 ---
 
