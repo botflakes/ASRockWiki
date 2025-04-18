@@ -1679,6 +1679,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.61|04/18/2024|ASRock|[Download](https://drive.google.com/drive/folders/1JlDLdU_k4Bqkq0zoXPH26XU9wLvdLBIF?usp=sharing)
 3.41|03/05/2024|ASRock|[Download](https://drive.google.com/drive/folders/1JlDLdU_k4Bqkq0zoXPH26XU9wLvdLBIF?usp=sharing)
 1.82|07/11/2022|ASRock|[Download](https://drive.google.com/drive/folders/1JlDLdU_k4Bqkq0zoXPH26XU9wLvdLBIF?usp=sharing)
 1.62|08/05/2021|ASRock|[Download](https://drive.google.com/drive/folders/1JlDLdU_k4Bqkq0zoXPH26XU9wLvdLBIF?usp=sharing)
@@ -1688,6 +1689,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.61|04/18/2024|ASRock|[Download](https://drive.google.com/drive/folders/1-0huEZ-2M8V6NByqsypXC-tKX4FDIBhC?usp=sharing)
 3.41|03/05/2024|ASRock|[Download](https://drive.google.com/drive/folders/1-0huEZ-2M8V6NByqsypXC-tKX4FDIBhC?usp=sharing)
 
 ### **A520M-HVS**
