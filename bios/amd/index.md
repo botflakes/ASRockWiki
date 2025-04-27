@@ -2439,6 +2439,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+10.41|04/25/2025|ASRock|[Download](https://drive.google.com/drive/folders/19txXs8KTA8DlNZGuNzje3P-1anlMUTjn?usp=sharing)
 10.08|02/02/2024|ASRock|[Download](https://drive.google.com/drive/folders/19txXs8KTA8DlNZGuNzje3P-1anlMUTjn?usp=sharing)
 7.00(Bridge)|01/19/2022|ASRock|[Download](https://drive.google.com/drive/folders/19txXs8KTA8DlNZGuNzje3P-1anlMUTjn?usp=sharing)
 
