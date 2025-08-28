@@ -384,6 +384,26 @@ Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
 2.03|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1N_nCz9qFBwFSBqR1iXV4y-MmvFGRyvxn?usp=sharing)
 
+## **Socket 1851 Intel H810**
+
+### **H810M-H**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.01|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1V2OM9_kHOTzppVOmhFOFXb8fmQnqdaNy?usp=sharing)
+
+### **H810M-X**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.03|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1w6P1gFcVLcj6E7zj29szgKRHyovsXM5k?usp=sharing)
+
+### **H810M-X WiFi**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+2.03|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1x6i67aJ63ZD2G54xi5BEnw0OEY2S3ELj?usp=sharing)
+
 ## **Socket 1700 Intel Z790**
 
 ### **Z790 Taichi**
