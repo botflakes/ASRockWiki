@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the Wiki will be documented in this file from now on.
 
+## [08/29/2025]
+
+- ➕ Added latest Intel BIOSes 
+- ➕ Added latest AMD BIOSes 
+- ⚠️ Due to link limitations from Google Drive, we will slowly replacing diret download links with folder links of each motherboard model
+
 ## [02/25/2025]
 
 - ➕ Added latest AMD BIOSes  
