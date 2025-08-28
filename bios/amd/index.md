@@ -33,66 +33,66 @@ nav_order: 1
 
 Revision|Release|Source|Mirror 1 
 :--|:--|:--:|:-- 
-3.33.AS01|07/11/2025|ASRock|[Download]
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HEPQ0XsTKmbH0AVmN8Uabvgtn_aAHpmC/view?usp=sharing)
-3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1H4kQSnmOeZK3XDFlXIyTNATPepWf6a5B/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CMdM8dOtbupcNQn3MKpDEOpxTX0KTsHF/view?usp=sharing)
-3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/file/d/17OYb_z37H4kd8r6Okh47Rqh_mw98DIlD/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14n10x9ltuJRrpcJMcWb6E0ryWeQ2YQaw/view?usp=sharing)
+3.33.AS01|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/146QolfV0UxJQntYD7Roc4H9Xlj0wY9b6?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/146QolfV0UxJQntYD7Roc4H9Xlj0wY9b6?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/drive/folders/146QolfV0UxJQntYD7Roc4H9Xlj0wY9b6?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/146QolfV0UxJQntYD7Roc4H9Xlj0wY9b6?usp=sharing)
+3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/146QolfV0UxJQntYD7Roc4H9Xlj0wY9b6?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/146QolfV0UxJQntYD7Roc4H9Xlj0wY9b6?usp=sharing)
 
 ### **X870E Taichi Lite**
 
 Revision|Release|Source|Mirror 1 
 :--|:--|:--:|:-- 
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HLxF8iFmkdAu-xRyr6FjKewHSmFweVjg/view?usp=sharing)
-3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1H96vBqZmXRv1iOzss8Lt-QvViCWFcaB4/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CNc1SHWc0rr7wGyBgwkIr6BRYsmTfN06/view?usp=sharing)
-3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1Bi_CiMKVbfAYdvHCfKvKtJp9EruvO5r2/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14ntBY9JVxGN8fsMuTPbwKV8q435jQBIv/view?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/14B8XyNg3WZvmntKKQGZ99PYdkEv2v1fC?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/drive/folders/14B8XyNg3WZvmntKKQGZ99PYdkEv2v1fC?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/14B8XyNg3WZvmntKKQGZ99PYdkEv2v1fC?usp=sharing)
+3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/drive/folders/14B8XyNg3WZvmntKKQGZ99PYdkEv2v1fC?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14B8XyNg3WZvmntKKQGZ99PYdkEv2v1fC?usp=sharing)
 
 ### **X870E Nova WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HVPNjYdaStBPhp4BQRFuGC0-JNGsAmBE/view?usp=sharing)
-3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1HBYiQKHUA9wwRuyK2gkPqi3kfHBl5PKy/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CZhtsq4jhnIRs8wG_vb65pGfuAuosxkn/view?usp=sharing)
-3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/file/d/17S07URHJk1HVGvrh--mNApvF7rLoofOG/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14onjXRo_RNUKUUvgYjsd7Q18vQKN_l8-/view?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/14BFJrrsUSqRNmn5OzUyTqlgjP_2pGrXH?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/drive/folders/14BFJrrsUSqRNmn5OzUyTqlgjP_2pGrXH?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/14BFJrrsUSqRNmn5OzUyTqlgjP_2pGrXH?usp=sharing)
+3.17.AS02|12/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14BFJrrsUSqRNmn5OzUyTqlgjP_2pGrXH?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14BFJrrsUSqRNmn5OzUyTqlgjP_2pGrXH?usp=sharing)
 
 ### **X870 Steel Legend WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HZWnWPItrSLTL4xrlV056T23TKAlooyw/view?usp=sharing)
-3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/file/d/1HAJ_El-1418PVceHRiZ_Me976OWcRL3h/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CbVu5kkfNxewYAGeatW15sOo0kKmqyU9/view?usp=sharing)
-3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/file/d/1BfvBfd8BcNqbLoEu8uZXsBHW9cVgUNvS/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14w8XSKIvrwNNpA6fgovEvq06HVG_NGTE/view?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/14iLafGPAzcRin4I46oMWJwlu0ZOdBNCI?usp=sharing)
+3.18.MEM03|02/13/2025|ASRock|[Download](https://drive.google.com/drive/folders/14iLafGPAzcRin4I46oMWJwlu0ZOdBNCI?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/14iLafGPAzcRin4I46oMWJwlu0ZOdBNCI?usp=sharing)
+3.17.AS02|12/26/2024|ASRock|[Download](https://drive.google.com/drive/folders/14iLafGPAzcRin4I46oMWJwlu0ZOdBNCI?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14iLafGPAzcRin4I46oMWJwlu0ZOdBNCI?usp=sharing)
 
 ### **X870 PG Riptide WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1HrUBJTzjpxjhxKEs06wFDhk7U_W1uWsW/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1Ce4UFFkH-satYX-a64XN0vTkIhVEKTxn/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14xlugcy_msqtmIQauEwvwjXzweNGK2sK/view?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/14l-UbG8L5HNOGUFHssdMIowa5xL1MINF?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/14l-UbG8L5HNOGUFHssdMIowa5xL1MINF?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14l-UbG8L5HNOGUFHssdMIowa5xL1MINF?usp=sharing)
 
 ### **X870 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Hy_Usuxzd6BXfsxT8tHgfik5u1pVJ1Ly/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CeT-WCW_8_agQkGwIfKO56iYTnleS6zl/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/14z7rIqYUf-eOW_oi14gBBHHP2R7GhHld/view?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/14lrCOuBP_4qzhSKO5Cu22f2Z6d3UnH5h?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/14lrCOuBP_4qzhSKO5Cu22f2Z6d3UnH5h?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14lrCOuBP_4qzhSKO5Cu22f2Z6d3UnH5h?usp=sharing)
 
 ### **X870 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/file/d/1Huu8VB-hw2JK1njz4-WQGQWjggTJqahc/view?usp=sharing)
-3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/file/d/1CeNHS6o2jdyo-6TCrM31FeZZs2a3tEib/view?usp=sharing)
-3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/file/d/150MTYk6ENE0QoqNLx23btOAgmv_j960L/view?usp=sharing)
+3.18.AS02|02/15/2025|ASRock|[Download](https://drive.google.com/drive/folders/14mH9ZNq6RzeXB-w0ztofUmKbO9LSxJdJ?usp=sharing)
+3.18.AS01|01/23/2025|ASRock|[Download](https://drive.google.com/drive/folders/14mH9ZNq6RzeXB-w0ztofUmKbO9LSxJdJ?usp=sharing)
+3.12.AS02|11/24/2024|ASRock|[Download](https://drive.google.com/drive/folders/14mH9ZNq6RzeXB-w0ztofUmKbO9LSxJdJ?usp=sharing)
 
 ---
 
