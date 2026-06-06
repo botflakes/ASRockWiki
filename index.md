@@ -8,6 +8,11 @@ permalink: /
 ## Welcome to the Wiki of the [r/ASRock](https://reddit.com/r/ASRock) Subreddit
 ***
 
+{: .warning }
+> IMPORTANT NOTICE
+>
+> This wiki will move to a new domain soon! We will add a redirect until the current domain runs out in 2027!
+
 {: .note-title }
 > Information
 >
