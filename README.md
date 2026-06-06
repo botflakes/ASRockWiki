@@ -27,8 +27,8 @@ hit us up on:
 Soical Network | Username
 :--|:--|
 Discord|[@CornFlakes#0001 / .cornflakes](https://discord.gg/rFrMpxV)  
-Twitter|[@CornFlakesPC](https://twitter.com/CornFlakesPC) 
-Twitter|[@redditASRock](https://twitter.com/redditASRock)  
-Reddit |[@CornFlakes1991](https://new.reddit.com/user/CornFlakes1991)
+X/Twitter|[@CornFlakesPC](https://x.com/CornFlakesPC) 
+X/Twitter|[@ASRockSubreddit](https://x.com/ASRockSubreddit)  
+Reddit |[@CornFlakes1991](https://reddit.com/user/CornFlakes1991)
 
 or send us a [ModMail](https://www.reddit.com/message/compose?to=%2Fr%2FASRock) on Reddit
