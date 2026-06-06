@@ -15,7 +15,7 @@ hit us up on:
 
 Soical Network | Username
 :--|:--|
-Discord|[@CornFlakes#0001 / .cornflakes](https://discord.gg/rFrMpxV)  
+Discord|[.cornflakes](https://discord.gg/rFrMpxV)  
 X/Twitter|[@CornFlakesPC](https://x.com/CornFlakesPC) 
 X/Twitter|[@ASRockSubreddit](https://x.com/ASRockSubreddit)  
 Reddit |[@CornFlakes1991](https://reddit.com/user/CornFlakes1991)

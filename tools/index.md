@@ -55,8 +55,6 @@ Welcome to the r/ASRock tools repository. We gathered some tools which maybe hel
 * [**MC Extractor**](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA & Freescale etc. Microcode Extraction Tool
 * [**nVidia Inspector**](https://www.guru3d.com/files-details/nvidia-inspector-download.html) - Shows GPU info, supports OC and has an build in Multi Display Power Saver
 * [**Thaiphoon Burner**](http://www.softnology.biz/files.html) - Helps identify your system memory
-* [**Ryzen SMU Checker [AM4]**](https://cdn.botflakes.de/subreddit/asrock/tools/Ryzen SMU Checker 1.2.2.0.zip) - Checks BIOS files and gives you some helpful information
-* [**Ryzen SMU Checker [AM5]**](https://cdn.botflakes.de/subreddit/asrock/tools/AM5 SMU Checker v0.6.zip) - Checks BIOS files and gives you some helpful information
 * [**Driver Store Explorer**](https://github.com/lostindark/DriverStoreExplorer/releases) - Can help to delete old unused drivers on windows
 * [**DRAM Calculator for Ryzen**](https://www.techpowerup.com/download/ryzen-dram-calculator/) - Helps you with overclocking your system memory
 

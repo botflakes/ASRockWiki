@@ -27,6 +27,7 @@ nav_order: 2
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.13|11/27/2025|ASRock|[Download](https://drive.google.com/drive/folders/1-7-obgOpdjjgzsz0KtyqGIh7K-ssKxWx?usp=sharing)
 3.08|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1-7-obgOpdjjgzsz0KtyqGIh7K-ssKxWx?usp=sharing)
 2.26.AS06|02/19/2025|ASRock|[Download](https://drive.google.com/drive/folders/1-7-obgOpdjjgzsz0KtyqGIh7K-ssKxWx?usp=sharing)
 2.26.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/drive/folders/1-7-obgOpdjjgzsz0KtyqGIh7K-ssKxWx?usp=sharing)
@@ -61,6 +62,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+3.13|11/27/2025|ASRock|[Download](https://drive.google.com/drive/folders/1-QUYdm-ervnEhBi1YA1t1QPBttmEk94f?usp=sharing)
 3.07|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1-QUYdm-ervnEhBi1YA1t1QPBttmEk94f?usp=sharing)
 2.20.AS05|02/19/2025|ASRock|[Download](https://drive.google.com/drive/folders/1-QUYdm-ervnEhBi1YA1t1QPBttmEk94f?usp=sharing)
 2.20.AS03|12/26/2024|ASRock|[Download](https://drive.google.com/drive/folders/1-QUYdm-ervnEhBi1YA1t1QPBttmEk94f?usp=sharing)
@@ -258,6 +260,7 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+2.10|12/03/2025|ASRock|[Download](https://drive.google.com/drive/folders/1LqhfOFCKPSMToC4_zbeqSI9M-i126GmW?usp=sharing)
 2.03|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1LqhfOFCKPSMToC4_zbeqSI9M-i126GmW?usp=sharing)
 1.21.AS04|02/21/2025|ASRock|[Download](https://drive.google.com/drive/folders/1LqhfOFCKPSMToC4_zbeqSI9M-i126GmW?usp=sharing)
 
@@ -265,20 +268,21 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.03|07/11/2025|ASRock|
+2.03|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MAlni_GHSEGrjNV_wujGiOKBINH8liFI?usp=sharing)
 1.24.AS04|02/21/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MAlni_GHSEGrjNV_wujGiOKBINH8liFI?usp=sharing)
 
 ### **B860 Pro RS**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-1.19|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MAlni_GHSEGrjNV_wujGiOKBINH8liFI?usp=sharing)
+1.19|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MF0zbMOwbGH6WJIwfgLZwep2WS8r06Go?usp=sharing)
 1.13.AS02|02/21/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MF0zbMOwbGH6WJIwfgLZwep2WS8r06Go?usp=sharing)
 
 ### **B860 Pro RS WiFi**
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
+1.26|12/03/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MSIosAd7UvKNzAbB91fmu8Yrt-mna5r3?usp=sharing)
 1.19|07/11/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MSIosAd7UvKNzAbB91fmu8Yrt-mna5r3?usp=sharing)
 1.13.AS02|02/21/2025|ASRock|[Download](https://drive.google.com/drive/folders/1MSIosAd7UvKNzAbB91fmu8Yrt-mna5r3?usp=sharing)
 
@@ -1219,6 +1223,12 @@ Revision|Release|Source|Mirror 1
 
 ## **Socket 1700 Intel H610**
 
+### **H610M COMBO II**
+
+Revision|Release|Source|Mirror 1
+:--|:--|:--:|:--
+1.08.TS06|04/16/2026|ASRock|[Download](https://drive.google.com/drive/folders/1v0htMmqHZqs6gfIIb9311aTx663BYobN?usp=sharing)
+
 ### **H610M/ac**
 
 Revision|Release|Source|Mirror 1
@@ -1372,8 +1382,9 @@ Revision|Release|Source|Mirror 1
 
 Revision|Release|Source|Mirror 1
 :--|:--|:--:|:--
-2.33|01/19/2024|ASRock|[Download](https://drive.google.com/file/d/11VO0WlxWelHhioYG06lDRW65xBOPtpch/view?usp=sharing)
-1.62|04/21/2021|ASRock|[Download](https://drive.google.com/file/d/1mT_o-w4uX-NVDgtBwn8ilqvlpHoGSzSV/view?usp=sharing)
+2.33A|10/07/2025|ASRock|[Download](https://drive.google.com/drive/folders/1iP4xlE9wp_VQVTy6jxxPWluorBmKm43L?usp=sharing)
+2.33|01/19/2024|ASRock|[Download](https://drive.google.com/drive/folders/1iP4xlE9wp_VQVTy6jxxPWluorBmKm43L?usp=sharing)
+1.62|04/21/2021|ASRock|[Download](https://drive.google.com/drive/folders/1iP4xlE9wp_VQVTy6jxxPWluorBmKm43L?usp=sharing)
 
 ### **Z590M Phantom Gaming 4**
 
