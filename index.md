@@ -22,6 +22,6 @@ permalink: /
 
 ## Social Media & more!
 
-You can follow us on Twitter | [@redditASRock](https://twitter.com/redditASRock)
-You can join our Steam Group | [r/ASRock](https://steamcommunity.com/groups/redditASRock)
+You can follow us on X | [@ASRockSubreddit](https://x.com/ASRockSubreddit)
+You can follow us on Instagram | [@ASRockSubreddit](https://instagram.com/ASRockSubreddit)
 You can join our Discord     | [r/ASRock Discord](https://discord.gg/rFrMpxV)
