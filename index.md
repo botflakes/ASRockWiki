@@ -11,7 +11,7 @@ permalink: /
 {: .warning }
 > IMPORTANT NOTICE
 >
-> This wiki will move to a new domain soon! We will add a redirect until the current domain runs out in 2027!
+> The ASRock Wiki will move to a new domain soon-ish! We will add a redirect until the current domain runs out in 2027! - As soon this move is done, we will also restructure it a bit including a new website design. So do not save any URLs they will most likely broke.
 
 {: .note-title }
 > Information
